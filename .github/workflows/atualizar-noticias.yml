@@ -1,1 +1,53 @@
 
+
+name: 24 Noticias - Atualizacao Automatica
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "*/30 * * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: atualizar-noticias
+  cancel-in-progress: false
+
+jobs:
+  atualizar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Obter ficheiros
+        uses: actions/checkout@v4
+
+      - name: Preparar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Instalar dependencias
+        run: |
+          if [ -f requirements.txt ]; then
+            pip install -r requirements.txt
+          fi
+
+      - name: Atualizar noticias
+        run: |
+          if [ -f update.py ]; then
+            python update.py
+          else
+            echo "Motor update.py ainda nao instalado"
+          fi
+
+      - name: Guardar atualizacoes
+        run: |
+          git config user.name "24 Noticias Bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A feed.json docs/feed.json 2>/dev/null || true
+          if ! git diff --cached --quiet; then
+            git commit -m "Atualizacao automatica de noticias"
+            git push
+          fi
