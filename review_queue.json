@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T18:43:35.270931+00:00",
+  "generated_at": "2026-11-01T19:38:36.346384+00:00",
   "articles": [
     {
       "id": "57bb37abd3bb2125b77e",
@@ -8,8 +8,73 @@
       "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
       "source": "RTP Notícias",
       "category": "Portugal",
-      "published_at": "2026-11-01T18:33:34+00:00",
+      "published_at": "2026-11-01T19:34:51+00:00",
       "article_url": "https://www.rtp.pt/noticias/pais/presidente-da-camara-do-porto-convida-manifestantes-para-reuniao-na-proxima-terca-feira_e1775987",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "3a939360e73f846a909c",
+      "title": "19h Autarca do Porto convida manifestantes a reunir na Câmara",
+      "original_title": "19h Autarca do Porto convida manifestantes a reunir na Câmara",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-01T19:30:02+00:00",
+      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/19h-autarca-do-porto-convida-manifestantes-a-reunir-na-camara_a1_1776146",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "9f08fb0487350ae07a15",
+      "title": "Democrat endorses Republican candidate in key Michigan Senate race as party spat escalates",
+      "original_title": "Democrat endorses Republican candidate in key Michigan Senate race as party spat escalates",
+      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC News",
+      "category": "Mundo",
+      "published_at": "2026-11-01T19:17:34+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "2fc50e6931f667785ade",
+      "title": "Jean Hugo vence Portugal Legends Championship em golfe",
+      "original_title": "Jean Hugo vence Portugal Legends Championship em golfe",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-01T18:55:39+00:00",
+      "article_url": "https://www.rtp.pt/noticias/outras-modalidades/jean-hugo-vence-portugal-legends-championship-em-golfe_d1776138",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "20a058f4e2c55201b559",
+      "title": "Arsenal confirma liderança isolada e faz história em Anfield",
+      "original_title": "Arsenal confirma liderança isolada e faz história em Anfield",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-01T18:52:35+00:00",
+      "article_url": "https://www.rtp.pt/noticias/futebol-internacional/arsenal-confirma-lideranca-isolada-e-faz-historia-em-anfield_d1776137",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "05e5aded96d11886e59a",
+      "title": "Peaceful protests in Germany spiral into violence and looting",
+      "original_title": "Peaceful protests in Germany spiral into violence and looting",
+      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC News",
+      "category": "Mundo",
+      "published_at": "2026-11-01T18:51:56+00:00",
+      "article_url": "https://www.bbc.co.uk/news/videos/cqgm0der7zkmo?at_medium=RSS&at_campaign=rss",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
@@ -23,19 +88,6 @@
       "category": "Portugal",
       "published_at": "2026-11-01T18:29:02+00:00",
       "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/18h-comecam-a-juntar-se-manifestantes-no-porto-e-lisboa_a1_1776133",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "9f08fb0487350ae07a15",
-      "title": "Democrat endorses Republican candidate in key Michigan Senate race as party spat escalates",
-      "original_title": "Democrat endorses Republican candidate in key Michigan Senate race as party spat escalates",
-      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC News",
-      "category": "Mundo",
-      "published_at": "2026-11-01T18:24:08+00:00",
-      "article_url": "https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
@@ -366,45 +418,6 @@
       "editorial_status": "titulo_normalizado"
     },
     {
-      "id": "30c39bc0c5b997dba7da",
-      "title": "Nuno Borges falha quadro principal do Masters 1.000 de Paris em ténis",
-      "original_title": "Nuno Borges falha quadro principal do Masters 1.000 de Paris em ténis",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-01T16:00:30+00:00",
-      "article_url": "https://www.rtp.pt/noticias/outras-modalidades/nuno-borges-falha-quadro-principal-do-masters-1000-de-paris-em-tenis_d1776095",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "557d4a1d9ac17ad7cc33",
-      "title": "Organização palestiana exige que o Exército pare deslocação forçada de populações em Hebron",
-      "original_title": "Organização palestiana exige que o Exército pare deslocação forçada de populações em Hebron",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-01T15:59:46+00:00",
-      "article_url": "https://www.rtp.pt/noticias/mundo/organizacao-palestiana-exige-que-o-exercito-pare-deslocacao-forcada-de-populacoes-em-hebron_n1776083",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "ce131d56a3c0428f7a3e",
-      "title": "Presidente de Israel vai iniciar consultas com os partidos para evitar novas eleições",
-      "original_title": "Presidente de Israel vai iniciar consultas com os partidos para evitar novas eleições",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-01T15:58:41+00:00",
-      "article_url": "https://www.rtp.pt/noticias/mundo/presidente-de-israel-vai-iniciar-consultas-com-os-partidos-para-evitar-novas-eleicoes_n1776072",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
       "id": "65f5a8107d65dc69584b",
       "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
       "original_title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
@@ -569,19 +582,6 @@
       "category": "Mundo",
       "published_at": "2026-10-31T17:53:35+00:00",
       "article_url": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "b55909555bbdcd6cab94",
-      "title": "Emotional reunions with loved ones for Oleshky evacuees",
-      "original_title": "Emotional reunions with loved ones for Oleshky evacuees",
-      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC News",
-      "category": "Mundo",
-      "published_at": "2026-10-31T16:55:47+00:00",
-      "article_url": "https://www.bbc.co.uk/news/videos/cmy83w0jwznpo?at_medium=RSS&at_campaign=rss",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
