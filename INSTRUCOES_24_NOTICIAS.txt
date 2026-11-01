@@ -1,0 +1,22 @@
+24 NOTÍCIAS™ — INSTALAÇÃO DO PAINEL EDITORIAL
+
+1. Abrir https://github.com/ideavaulthq-del/24-noticias-world-tv
+2. Em Code, clicar Add file > Upload files.
+3. Enviar o ficheiro editorial.html para a RAIZ do repositório (ao lado de index.html).
+4. Confirmar Commit changes na branch main.
+5. Esperar o GitHub Pages atualizar.
+6. Abrir https://ideavaulthq-del.github.io/24-noticias-world-tv/editorial.html
+7. Clicar Atualizar do GitHub. O painel lê review_queue.json.
+8. Rever cada notícia na fonte original, redigir título e resumo originais, verificar direitos de imagem e aprovar só após confirmação.
+9. Clicar Exportar aprovações JSON. Guardar o ficheiro exportado como editorial_overrides.json.
+10. No GitHub, abrir editorial_overrides.json e substituir o conteúdo pelo JSON exportado, ou usar Upload files para substituir o ficheiro existente; confirmar Commit changes.
+11. Executar Actions > 24 Noticias - Atualizacao Automatica > Run workflow.
+12. Confirmar feed.json e verificar a emissão no OBS.
+
+ATENÇÃO
+- Não substituir index.html pelo painel editorial.
+- O painel não envia alterações diretamente para o GitHub.
+- O sucesso da execução não significa que existam notícias aprovadas; verificar feed.json.
+- O repositório é público: as aprovações, resumos e quaisquer dados guardados no JSON serão públicos.
+- O motor atual pode exigir campos específicos: usar o ficheiro exportado e confirmar compatibilidade com editorial.py/update_feed.py antes de contar com publicação.
+- O painel editorial é público neste endereço e não tem autenticação. Não usar como painel privado.
