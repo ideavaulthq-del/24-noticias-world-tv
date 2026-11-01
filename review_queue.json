@@ -1,6 +1,19 @@
 {
-  "generated_at": "2026-11-01T14:17:29.862108+00:00",
+  "generated_at": "2026-11-01T14:37:20.765703+00:00",
   "articles": [
+    {
+      "id": "0fc384dd766e69ac0167",
+      "title": "14h MAI defende novamente intervenção policial",
+      "original_title": "14h MAI defende novamente intervenção policial",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-01T14:36:02+00:00",
+      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/14h-mai-defende-novamente-intervencao-policial_a1_1776066",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
     {
       "id": "9f2751a5eb237333e545",
       "title": "Luís Neves diz que pequena franja de manifestantes põe em causa cumprimento da lei. Seguro falou com Montenegro",
@@ -133,8 +146,8 @@
     },
     {
       "id": "6c5b6eb5e839c368060b",
-      "title": "Shops looted as German cost of living protests turn violent",
-      "original_title": "Shops looted as German cost of living protests turn violent",
+      "title": "Shops looted as German cost-of-living protests turn violent",
+      "original_title": "Shops looted as German cost-of-living protests turn violent",
       "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
       "source": "BBC News",
       "category": "Mundo",
@@ -335,19 +348,6 @@
       "category": "Portugal",
       "published_at": "2026-11-01T09:03:21+00:00",
       "article_url": "https://www.rtp.pt/noticias/economia/a-bomba-da-gasolina-e-fatal-para-os-governos-assume-ministro-da-economia_v1775724",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "7fdc0c97235f2a39f978",
-      "title": "7h Ficaram feridos 13 polícias depois de confrontos nas acampadas",
-      "original_title": "7h Ficaram feridos 13 polícias depois de confrontos nas acampadas",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-01T07:18:02+00:00",
-      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/7h-ficaram-feridos-13-policias-depois-de-confrontos-nas-acampadas_a1_1775986",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
