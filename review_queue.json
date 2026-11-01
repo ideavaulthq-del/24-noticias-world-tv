@@ -1,6 +1,19 @@
 {
-  "generated_at": "2026-11-01T22:09:09.632372+00:00",
+  "generated_at": "2026-11-01T23:08:26.137073+00:00",
   "articles": [
+    {
+      "id": "6f303865706c7d97464f",
+      "title": "FC Porto vence Óquei de Barcelos e conquista Elite Cup",
+      "original_title": "FC Porto vence Óquei de Barcelos e conquista Elite Cup",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-01T22:44:44+00:00",
+      "article_url": "https://www.rtp.pt/noticias/fc-porto/fc-porto-vence-oquei-de-barcelos-e-conquista-elite-cup_d1776198",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
     {
       "id": "c7bf87bc80f72ed7f610",
       "title": "Presidente da República falou com autarcas de Lisboa e do Porto e com representantes das acampadas",
@@ -8,8 +21,34 @@
       "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
       "source": "RTP Notícias",
       "category": "Portugal",
-      "published_at": "2026-11-01T22:06:30+00:00",
+      "published_at": "2026-11-01T22:40:04+00:00",
       "article_url": "https://www.rtp.pt/noticias/pais/presidente-da-republica-falou-com-autarcas-de-lisboa-e-do-porto-e-com-representantes-das-acampadas_e1775987",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "8541d33580a91c126016",
+      "title": "Kimi Antonelli sagra-se campeão mundial de Fórmula 1",
+      "original_title": "Kimi Antonelli sagra-se campeão mundial de Fórmula 1",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-01T22:36:59+00:00",
+      "article_url": "https://www.rtp.pt/noticias/motores/kimi-antonelli-sagra-se-campeao-mundial-de-formula-1_d1776196",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "3dae8adefdc64b847286",
+      "title": "22h A Presidência da República contactou os organizadores das acampadas",
+      "original_title": "22h A Presidência da República contactou os organizadores das acampadas",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-01T22:26:02+00:00",
+      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/22h-a-presidencia-da-republica-contactou-os-organizadores-das-acampadas_a1_1776193",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
@@ -322,45 +361,6 @@
       "category": "Mundo",
       "published_at": "2026-11-01T18:51:56+00:00",
       "article_url": "https://www.bbc.co.uk/news/videos/cqgm0der7zkmo?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "edc52b99a0c814f476f4",
-      "title": "18h Começam a juntar-se manifestantes no Porto e Lisboa",
-      "original_title": "18h Começam a juntar-se manifestantes no Porto e Lisboa",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-01T18:29:02+00:00",
-      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/18h-comecam-a-juntar-se-manifestantes-no-porto-e-lisboa_a1_1776133",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "fccc213fb7c3f64e609b",
-      "title": "Ararat-Armenia vence antes de visitar Torreense",
-      "original_title": "Ararat-Armenia vence antes de visitar Torreense",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-01T18:13:10+00:00",
-      "article_url": "https://www.rtp.pt/noticias/futebol-internacional/ararat-armenia-vence-antes-de-visitar-torreense_d1776131",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "38df444e8a452473fa0d",
-      "title": "Real Madrid de Mourinho volta a vencer em Espanha",
-      "original_title": "Real Madrid de Mourinho volta a vencer em Espanha",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-01T18:12:30+00:00",
-      "article_url": "https://www.rtp.pt/noticias/futebol-internacional/real-madrid-de-mourinho-volta-a-vencer-em-espanha_d1776130",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
