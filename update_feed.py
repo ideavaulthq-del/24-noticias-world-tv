@@ -78,13 +78,8 @@ def main():
     articles=enrich(raw_articles,ROOT/'editorial_overrides.json'); meteo=weather()
     audits=[audit(a) for a in articles]
     (ROOT/'audit_report.json').write_text(json.dumps({'generated_at':datetime.now(timezone.utc).isoformat(),'audits':audits},ensure_ascii=False,indent=2),encoding='utf-8')
-    # Manter dados anteriores apenas se ainda recentes; nunca converter falhas em falsas notícias.
-    if not articles:
-        now=datetime.now(timezone.utc)
-        for item in previous.get('news',[]):
-            try:
-                if timedelta(0)<=now-datetime.fromisoformat(item['published_at'])<=timedelta(hours=48):articles.append(item)
-            except Exception:pass
+    # Não recuperar notícias do feed anterior: a aprovação pode ter sido revogada
+    # ou o artigo removido da fila. Falhas de RSS nunca reativam notícias antigas.
     if meteo is None:
         old=previous.get('weather')
         if old:
