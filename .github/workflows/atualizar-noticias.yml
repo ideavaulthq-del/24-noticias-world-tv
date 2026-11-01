@@ -1,4 +1,56 @@
 
+name: 24 Noticias - Atualizacao Automatica
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "7,37 * * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: atualizar-noticias
+  cancel-in-progress: false
+
+jobs:
+  atualizar:
+    name: Atualizar noticias e meteorologia
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: Obter ficheiros
+        uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Instalar dependencias
+        run: |
+          python -m pip install --upgrade pip
+          if [ -f requirements.txt ]; then
+            python -m pip install -r requirements.txt
+          fi
+
+      - name: Verificar motor
+        run: |
+          python -m py_compile update_feed.py
+
+      - name: Executar testes editoriais
+        run: |
+          python -m unittest discover -p "test_*.py" -v
+
+      - name: Atualizar noticias
+        run: |
+          python update_feed.py
+
+      - name: Validar feed
+        run: |
+          python -m json.tool feed.json > /dev/null
+
       - name: Guardar atualizacoes
         shell: bash
         run: |
@@ -15,23 +67,23 @@
           git commit -m "Atualizacao automatica do feed"
 
           for tentativa in 1 2 3; do
-            echo "Tentativa $tentativa de sincronizacao"
+            echo "Tentativa $tentativa"
 
             git fetch origin main
 
             if git rebase origin/main; then
               if git push origin HEAD:main; then
-                echo "Feed atualizado com sucesso"
+                echo "Feed publicado com sucesso"
                 exit 0
               fi
             else
               git rebase --abort || true
-              echo "::error::Conflito de ficheiros. Revisao necessaria."
+              echo "::error::Conflito de ficheiros"
               exit 1
             fi
 
             sleep 5
           done
 
-          echo "::error::Nao foi possivel publicar o feed"
+          echo "::error::Falha ao publicar o feed"
           exit 1
