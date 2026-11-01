@@ -16,12 +16,14 @@ concurrency:
 jobs:
   atualizar:
     name: Atualizar noticias e meteorologia
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     timeout-minutes: 15
 
     steps:
-      - name: Obter ficheiros
+      - name: Obter ficheiros do repositorio
         uses: actions/checkout@v4
+        with:
+          persist-credentials: true
 
       - name: Configurar Python
         uses: actions/setup-python@v5
@@ -29,27 +31,77 @@ jobs:
           python-version: "3.12"
 
       - name: Instalar dependencias
+        shell: bash
         run: |
           python -m pip install --upgrade pip
+
           if [ -f requirements.txt ]; then
             python -m pip install -r requirements.txt
           fi
 
-      - name: Verificar motor
+      - name: Verificar motor de noticias
+        shell: bash
         run: |
+          if [ ! -f update_feed.py ]; then
+            echo "::error::Motor update_feed.py nao encontrado"
+            exit 1
+          fi
+
           python -m py_compile update_feed.py
 
       - name: Executar testes editoriais
+        shell: bash
         run: |
-          python -m unittest discover -p "test_*.py" -v
+          python -m unittest discover \
+            -p "test_*.py" \
+            -v
 
-      - name: Atualizar noticias
+      - name: Atualizar noticias e meteorologia
+        shell: bash
         run: |
           python update_feed.py
 
-      - name: Validar feed
+      - name: Validar ficheiros JSON
+        shell: bash
         run: |
-          python -m json.tool feed.json > /dev/null
+          python - <<'PY'
+          import json
+          from pathlib import Path
+
+          files = [
+              "feed.json",
+              "review_queue.json",
+              "audit_report.json"
+          ]
+
+          for filename in files:
+              path = Path(filename)
+
+              if not path.is_file():
+                  raise SystemExit(
+                      f"ERRO: ficheiro nao encontrado: {filename}"
+                  )
+
+              with path.open(encoding="utf-8") as f:
+                  data = json.load(f)
+
+              if not isinstance(data, dict):
+                  raise SystemExit(
+                      f"ERRO: estrutura invalida em {filename}"
+                  )
+
+              print(f"VALIDADO: {filename}")
+
+          feed = json.loads(
+              Path("feed.json").read_text(encoding="utf-8")
+          )
+
+          news = feed.get("news", [])
+          pending = feed.get("pending_review", 0)
+
+          print(f"Noticias aprovadas: {len(news)}")
+          print(f"Noticias pendentes: {pending}")
+          PY
 
       - name: Guardar atualizacoes
         shell: bash
@@ -57,33 +109,36 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add feed.json
+          git add -f \
+            feed.json \
+            review_queue.json \
+            audit_report.json
 
           if git diff --cached --quiet; then
             echo "Sem alteracoes para publicar"
             exit 0
           fi
 
-          git commit -m "Atualizacao automatica do feed"
+          git commit -m "Atualizacao automatica do canal"
 
           for tentativa in 1 2 3; do
-            echo "Tentativa $tentativa"
+            echo "Tentativa $tentativa de publicacao"
 
             git fetch origin main
 
             if git rebase origin/main; then
               if git push origin HEAD:main; then
-                echo "Feed publicado com sucesso"
+                echo "Atualizacao publicada com sucesso"
                 exit 0
               fi
             else
               git rebase --abort || true
-              echo "::error::Conflito de ficheiros"
+              echo "::error::Conflito de sincronizacao"
               exit 1
             fi
 
             sleep 5
           done
 
-          echo "::error::Falha ao publicar o feed"
+          echo "::error::Falha ao publicar os ficheiros"
           exit 1
