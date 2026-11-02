@@ -1,6 +1,19 @@
 {
-  "generated_at": "2026-11-02T03:54:38.847144+00:00",
+  "generated_at": "2026-11-02T04:58:39.902476+00:00",
   "articles": [
+    {
+      "id": "9435ed34146bc41910d6",
+      "title": "4h Habitação. Desmobilização de manifestantes ao longo da noite",
+      "original_title": "4h Habitação. Desmobilização de manifestantes ao longo da noite",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-02T04:31:02+00:00",
+      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/4h-habitacao-desmobilizacao-de-manifestantes-ao-longo-da-noite_a1_1776222",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
     {
       "id": "e5add6a17fba40ef4169",
       "title": "Binance users withdraw $3.6bn after record crypto hack",
@@ -400,19 +413,6 @@
       "category": "Portugal",
       "published_at": "2026-11-01T19:47:55+00:00",
       "article_url": "https://www.rtp.pt/noticias/futebol-internacional/aarhus-volta-as-derrotas-antes-de-receber-sporting-de-braga-na-liga-conferencia_d1776155",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "8efc8027290a86493470",
-      "title": "Técnico de andebol do Sporting acusa segurança de agressão após jogo com FC Porto",
-      "original_title": "Técnico de andebol do Sporting acusa segurança de agressão após jogo com FC Porto",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-01T19:47:20+00:00",
-      "article_url": "https://www.rtp.pt/noticias/sporting/tecnico-de-andebol-do-sporting-acusa-seguranca-de-agressao-apos-jogo-com-fc-porto_d1776154",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
