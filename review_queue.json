@@ -1,6 +1,97 @@
 {
-  "generated_at": "2026-11-02T22:18:05.461485+00:00",
+  "generated_at": "2026-11-02T23:15:05.521398+00:00",
   "articles": [
+    {
+      "id": "b7b580d6ebc6b12e624f",
+      "title": "\"Animais de Lisboa\". A presença dos animais não é uma nota de rodapé na história da cidade",
+      "original_title": "\"Animais de Lisboa\". A presença dos animais não é uma nota de rodapé na história da cidade",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-02T22:50:04+00:00",
+      "article_url": "https://www.rtp.pt/noticias/pais/animais-de-lisboa-a-presenca-dos-animais-nao-e-uma-nota-de-rodape-na-historia-da-cidade_n1776466",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "41fe1331d2fda5f745ae",
+      "title": "Manifestantes reclamam vitória judicial. \"Protesto tem direito de acontecer nos moldes em que tem acontecido\"",
+      "original_title": "Manifestantes reclamam vitória judicial. \"Protesto tem direito de acontecer nos moldes em que tem acontecido\"",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-02T22:48:31+00:00",
+      "article_url": "https://www.rtp.pt/noticias/pais/manifestantes-reclamam-vitoria-judicial-protesto-tem-direito-de-acontecer-nos-moldes-em-que-tem-acontecido_e1776238",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "e341f5154cfa26a951a0",
+      "title": "Manifestantes de Lisboa aceitam convite para reunião com Presidente da República",
+      "original_title": "Manifestantes de Lisboa aceitam convite para reunião com Presidente da República",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-02T22:45:31+00:00",
+      "article_url": "https://www.rtp.pt/noticias/economia/manifestantes-de-lisboa-aceitam-convite-para-reuniao-com-presidente-da-republica_n1776464",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "984ba113809292210c92",
+      "title": "Frango de Hornicek dá triunfo ao Everton em casa do Newcastle",
+      "original_title": "Frango de Hornicek dá triunfo ao Everton em casa do Newcastle",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-02T22:42:43+00:00",
+      "article_url": "https://www.rtp.pt/noticias/futebol-internacional/frango-de-hornicek-da-triunfo-ao-everton-em-casa-do-newcastle_d1776465",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "13384060d54b6fa9c878",
+      "title": "PR \"valorizou contributos\" dos conselheiros de Estado sobre coesão social",
+      "original_title": "PR \"valorizou contributos\" dos conselheiros de Estado sobre coesão social",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-02T22:23:45+00:00",
+      "article_url": "https://www.rtp.pt/noticias/politica/pr-valorizou-contributos-dos-conselheiros-de-estado-sobre-coesao-social_n1776436",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "0d7ce2b2eb0e94333090",
+      "title": "Miguel Pinto Luz disponível para negociar com o Chega",
+      "original_title": "Miguel Pinto Luz disponível para negociar com o Chega",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-02T22:17:47+00:00",
+      "article_url": "https://www.rtp.pt/noticias/politica/miguel-pinto-luz-disponivel-para-negociar-com-o-chega_v1776462",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "31b7e5f016352eacd7f9",
+      "title": "PS vê derrota do Governo na decisão do Tribunal Administrativo",
+      "original_title": "PS vê derrota do Governo na decisão do Tribunal Administrativo",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-02T22:15:47+00:00",
+      "article_url": "https://www.rtp.pt/noticias/pais/ps-ve-derrota-do-governo-na-decisao-do-tribunal-administrativo_v1776460",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
     {
       "id": "ca2a95756a0010e7c3de",
       "title": "Presidente diz que violência não faz parte da cultura democrática do país",
@@ -197,19 +288,6 @@
       "editorial_status": "titulo_normalizado"
     },
     {
-      "id": "41fe1331d2fda5f745ae",
-      "title": "Manifestantes reclamam vitória judicial. \"Protesto tem direito de acontecer nos moldes em que tem acontecido\"",
-      "original_title": "Manifestantes reclamam vitória judicial. \"Protesto tem direito de acontecer nos moldes em que tem acontecido\"",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-02T21:17:47+00:00",
-      "article_url": "https://www.rtp.pt/noticias/pais/manifestantes-reclamam-vitoria-judicial-protesto-tem-direito-de-acontecer-nos-moldes-em-que-tem-acontecido_e1776238",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
       "id": "0ee706de56fde27ea983",
       "title": "Russian bombing kills 26 people at Ukraine aid centre, Kyiv says",
       "original_title": "Russian bombing kills 26 people at Ukraine aid centre, Kyiv says",
@@ -288,19 +366,6 @@
       "editorial_status": "titulo_normalizado"
     },
     {
-      "id": "e2af4876a04f268901e0",
-      "title": "Ataque russo contra escola ucraniana faz 24 mortos",
-      "original_title": "Ataque russo contra escola ucraniana faz 24 mortos",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-02T19:34:03+00:00",
-      "article_url": "https://www.rtp.pt/noticias/mundo/ataque-russo-contra-escola-ucraniana-faz-24-mortos_n1776420",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
       "id": "4bb6d71ee25e66ca7b2c",
       "title": "Trump to remove Rwanda and South Africa from US trade deal",
       "original_title": "Trump to remove Rwanda and South Africa from US trade deal",
@@ -314,19 +379,6 @@
       "editorial_status": "titulo_normalizado"
     },
     {
-      "id": "08e5b60b1a3b3c97afd7",
-      "title": "19h Habitação: manifestantes festejam decisão judicial no Rossio",
-      "original_title": "19h Habitação: manifestantes festejam decisão judicial no Rossio",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-02T19:23:02+00:00",
-      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/19h-habitacao-manifestantes-festejam-decisao-judicial-no-rossio_a1_1776419",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
       "id": "8e84958c439b669414f4",
       "title": "Legal challenge to Australia's social media ban to start in High Court",
       "original_title": "Legal challenge to Australia's social media ban to start in High Court",
@@ -335,58 +387,6 @@
       "category": "Mundo",
       "published_at": "2026-11-02T19:12:59+00:00",
       "article_url": "https://www.bbc.co.uk/news/articles/ck79py02p1jlo?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "512a9aa9e048c4a1b576",
-      "title": "Treinador do Shakhtar Donetsk respeita Tiago Fernandes e Sporting",
-      "original_title": "Treinador do Shakhtar Donetsk respeita Tiago Fernandes e Sporting",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-02T19:07:34+00:00",
-      "article_url": "https://www.rtp.pt/noticias/futebol-internacional/treinador-do-shakhtar-donetsk-respeita-tiago-fernandes-e-sporting_d1776417",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "9c1d389ba34b9462d5df",
-      "title": "Sete em Portugal. Bruxelas preocupada com ataques dirigidos a refrigeração de supermercados",
-      "original_title": "Sete em Portugal. Bruxelas preocupada com ataques dirigidos a refrigeração de supermercados",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-02T19:02:05+00:00",
-      "article_url": "https://www.rtp.pt/noticias/economia/sete-em-portugal-bruxelas-preocupada-com-ataques-dirigidos-a-refrigeracao-de-supermercados_n1776405",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "c6b4d937017a7344d85e",
-      "title": "I Liga. FC Porto visita Santa Clara em 05 de dezembro",
-      "original_title": "I Liga. FC Porto visita Santa Clara em 05 de dezembro",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-02T18:48:52+00:00",
-      "article_url": "https://www.rtp.pt/noticias/futebol-nacional/i-liga-fc-porto-visita-santa-clara-em-05-de-dezembro_d1776413",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "0987da4f589d5ff80dd8",
-      "title": "18h Habitção: PSP garante cumprimento da decisão judicial",
-      "original_title": "18h Habitção: PSP garante cumprimento da decisão judicial",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-02T18:46:02+00:00",
-      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/18h-habitcao-psp-garante-cumprimento-da-decisao-judicial_a1_1776411",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
