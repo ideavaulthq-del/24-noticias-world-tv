@@ -1,31 +1,14 @@
 {
   "audit_report": "audit_report.json",
-  "pending_review": 44,
+  "pending_review": 45,
   "editorial_notice": "Correspondência entre fontes é apenas temática e NÃO confirma factos. Títulos RSS não são redação original; apenas textos revistos manualmente têm aprovação editorial.",
-  "generated_at": "2026-11-02T20:18:51.381369+00:00",
-  "news": [
-    {
-      "id": "dd34265787f5647dd43a",
-      "title": "Ataques israelitas em Gaza provocam oito mortos, incluindo uma criança, segundo hospitais",
-      "original_title": "Israeli strikes in Gaza kill eight including child, hospitals say",
-      "summary": "Pelo menos oito pessoas morreram em dois ataques israelitas na Faixa de Gaza, segundo responsáveis hospitalares palestinianos. Três vítimas, incluindo uma criança, foram registadas na Cidade de Gaza e cinco em Khan Younis. O Exército israelita afirmou ter visado operacionais armados.",
-      "source": "BBC News",
-      "category": "Mundo",
-      "published_at": "2026-11-01T17:06:32+00:00",
-      "article_url": "https://www.bbc.co.uk/news/articles/cmqln14rrzxvo?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "revisto_por_editor",
-      "editorial_status": "revisto_manualmente",
-      "related_sources": [],
-      "image_credit": "",
-      "image_license": ""
-    }
-  ],
+  "generated_at": "2026-11-02T21:19:01.004953+00:00",
+  "news": [],
   "weather": {
     "location": "Lisboa",
-    "temperature_c": 16.8,
+    "temperature_c": 15.2,
     "description": "Céu limpo",
-    "updated_at": "2026-11-02T20:18:51.380459+00:00",
+    "updated_at": "2026-11-02T21:19:01.003833+00:00",
     "source": "Open-Meteo"
   }
 }

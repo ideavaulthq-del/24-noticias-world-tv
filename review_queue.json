@@ -1,6 +1,84 @@
 {
-  "generated_at": "2026-11-02T20:18:50.873153+00:00",
+  "generated_at": "2026-11-02T21:19:00.675391+00:00",
   "articles": [
+    {
+      "id": "0ee706de56fde27ea983",
+      "title": "Russian bombing kills 26 people at Ukraine aid centre, Kyiv says",
+      "original_title": "Russian bombing kills 26 people at Ukraine aid centre, Kyiv says",
+      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC News",
+      "category": "Mundo",
+      "published_at": "2026-11-02T21:10:04+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "41fe1331d2fda5f745ae",
+      "title": "Manifestantes reclamam vitória judicial. \"Protesto tem direito de acontecer nos moldes em que tem acontecido\"",
+      "original_title": "Manifestantes reclamam vitória judicial. \"Protesto tem direito de acontecer nos moldes em que tem acontecido\"",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-02T21:06:58+00:00",
+      "article_url": "https://www.rtp.pt/noticias/pais/manifestantes-reclamam-vitoria-judicial-protesto-tem-direito-de-acontecer-nos-moldes-em-que-tem-acontecido_e1776238",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "fd03c84f204004933c2c",
+      "title": "Mundial2030. FIFA visita estádios portugueses que vão receber jogos",
+      "original_title": "Mundial2030. FIFA visita estádios portugueses que vão receber jogos",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-02T20:40:45+00:00",
+      "article_url": "https://www.rtp.pt/noticias/futebol-internacional/mundial2030-fifa-visita-estadios-portugueses-que-vao-receber-jogos_d1776440",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "3d42f69e737222479171",
+      "title": "II Liga. Penafiel vence lanterna vermelha Feirense e sobe ao segundo lugar",
+      "original_title": "II Liga. Penafiel vence lanterna vermelha Feirense e sobe ao segundo lugar",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-02T20:22:08+00:00",
+      "article_url": "https://www.rtp.pt/noticias/futebol-nacional/ii-liga-penafiel-vence-lanterna-vermelha-feirense-e-sobe-ao-segundo-lugar_d1776434",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "70b2e418c19045007787",
+      "title": "Man guilty of stealing cash from farm owned by South African president",
+      "original_title": "Man guilty of stealing cash from farm owned by South African president",
+      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC News",
+      "category": "Mundo",
+      "published_at": "2026-11-02T20:08:51+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/c9vgrvpk4l6eo?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "19cb43b4628e566fe7b8",
+      "title": "Copilot in deadly Florida jet crash identified in reports as 20-year-old",
+      "original_title": "Copilot in deadly Florida jet crash identified in reports as 20-year-old",
+      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC News",
+      "category": "Mundo",
+      "published_at": "2026-11-02T19:58:34+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
     {
       "id": "6647ad34bb2f83cfd635",
       "title": "Consumo de eletricidade sobe 3% até outubro e renováveis abastecem 62%",
@@ -15,19 +93,6 @@
       "editorial_status": "titulo_normalizado"
     },
     {
-      "id": "fbbd34823e92af3a2d64",
-      "title": "Russian bombing kills 24 people at Ukraine aid centre, Kyiv says",
-      "original_title": "Russian bombing kills 24 people at Ukraine aid centre, Kyiv says",
-      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC News",
-      "category": "Mundo",
-      "published_at": "2026-11-02T19:37:10+00:00",
-      "article_url": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
       "id": "e2af4876a04f268901e0",
       "title": "Ataque russo contra escola ucraniana faz 24 mortos",
       "original_title": "Ataque russo contra escola ucraniana faz 24 mortos",
@@ -35,7 +100,20 @@
       "source": "RTP Notícias",
       "category": "Portugal",
       "published_at": "2026-11-02T19:34:03+00:00",
-      "article_url": "https://www.rtp.pt/noticias/mundo/ataque-russo-contra-escola-ucraniana-faz-24-mortos_n1776420",
+      "article_url": "https://www.rtp.pt/noticias/guerra-na-ucrania/ataque-russo-contra-escola-ucraniana-faz-24-mortos_n1776420",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "4bb6d71ee25e66ca7b2c",
+      "title": "Trump to remove Rwanda and South Africa from US trade deal",
+      "original_title": "Trump to remove Rwanda and South Africa from US trade deal",
+      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC News",
+      "category": "Mundo",
+      "published_at": "2026-11-02T19:33:10+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/c9j346xg0mkvo?at_medium=RSS&at_campaign=rss",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
@@ -54,6 +132,19 @@
       "editorial_status": "titulo_normalizado"
     },
     {
+      "id": "8e84958c439b669414f4",
+      "title": "Legal challenge to Australia's social media ban to start in High Court",
+      "original_title": "Legal challenge to Australia's social media ban to start in High Court",
+      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC News",
+      "category": "Mundo",
+      "published_at": "2026-11-02T19:12:59+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/ck79py02p1jlo?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
       "id": "512a9aa9e048c4a1b576",
       "title": "Treinador do Shakhtar Donetsk respeita Tiago Fernandes e Sporting",
       "original_title": "Treinador do Shakhtar Donetsk respeita Tiago Fernandes e Sporting",
@@ -62,19 +153,6 @@
       "category": "Portugal",
       "published_at": "2026-11-02T19:07:34+00:00",
       "article_url": "https://www.rtp.pt/noticias/futebol-internacional/treinador-do-shakhtar-donetsk-respeita-tiago-fernandes-e-sporting_d1776417",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "41fe1331d2fda5f745ae",
-      "title": "Manifestantes reclamam vitória judicial. \"Protesto tem direito de acontecer nos moldes em que tem acontecido\"",
-      "original_title": "Manifestantes reclamam vitória judicial. \"Protesto tem direito de acontecer nos moldes em que tem acontecido\"",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-02T19:05:49+00:00",
-      "article_url": "https://www.rtp.pt/noticias/pais/manifestantes-reclamam-vitoria-judicial-protesto-tem-direito-de-acontecer-nos-moldes-em-que-tem-acontecido_e1776238",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
@@ -217,7 +295,7 @@
       "source": "RTP Notícias",
       "category": "Portugal",
       "published_at": "2026-11-02T18:08:39+00:00",
-      "article_url": "https://www.rtp.pt/noticias/mundo/forcas-sauditas-afirmam-ter-intercetado-dois-drones-na-regiao-de-riade_n1776398",
+      "article_url": "https://www.rtp.pt/noticias/guerra-no-medio-oriente/forcas-sauditas-afirmam-ter-intercetado-dois-drones-na-regiao-de-riade_n1776398",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
@@ -301,19 +379,6 @@
       "editorial_status": "titulo_normalizado"
     },
     {
-      "id": "d2dd2f4330ac74b6cd09",
-      "title": "'All this food is now useless': Piles of rubbish after shop freezers hit by cyber-attack",
-      "original_title": "'All this food is now useless': Piles of rubbish after shop freezers hit by cyber-attack",
-      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC News",
-      "category": "Mundo",
-      "published_at": "2026-11-02T17:34:58+00:00",
-      "article_url": "https://www.bbc.co.uk/news/videos/cmwyvrgk9p0ro?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
       "id": "de5d1588db385e270b20",
       "title": "Preço eficiente da gasolina desce para 2,058 euros e do gasóleo sobe para 2,289 euros",
       "original_title": "Preço eficiente da gasolina desce para 2,058 euros e do gasóleo sobe para 2,289 euros",
@@ -392,32 +457,6 @@
       "editorial_status": "titulo_normalizado"
     },
     {
-      "id": "ae490fee5f8003a139d6",
-      "title": "PEC denuncia assassinato de 250 jornalistas palestinianos pelo exército israelita",
-      "original_title": "PEC denuncia assassinato de 250 jornalistas palestinianos pelo exército israelita",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-02T17:23:36+00:00",
-      "article_url": "https://www.rtp.pt/noticias/mundo/pec-denuncia-assassinato-de-250-jornalistas-palestinianos-pelo-exercito-israelita_n1776389",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "f8b42523f83715d86046",
-      "title": "\"Luís Neves não tem condições para continuar ministro da Administração Interna\"",
-      "original_title": "\"Luís Neves não tem condições para continuar ministro da Administração Interna\"",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-02T17:18:20+00:00",
-      "article_url": "https://www.rtp.pt/noticias/politica/luis-neves-nao-tem-condicoes-para-continuar-ministro-da-administracao-interna_v1776381",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
       "id": "ce167299ca945133e18f",
       "title": "Wizz Air flight from Luton in emergency landing after bomb threat",
       "original_title": "Wizz Air flight from Luton in emergency landing after bomb threat",
@@ -426,19 +465,6 @@
       "category": "Mundo",
       "published_at": "2026-11-02T14:35:38+00:00",
       "article_url": "https://www.bbc.co.uk/news/articles/c6rryvwre0p5o?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "bf2fa8a43f5ca3a5e914",
-      "title": "What we know about the alert app hack in Ukraine and Russia",
-      "original_title": "What we know about the alert app hack in Ukraine and Russia",
-      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC News",
-      "category": "Mundo",
-      "published_at": "2026-11-02T14:24:25+00:00",
-      "article_url": "https://www.bbc.co.uk/news/videos/crq5n6204g20o?at_medium=RSS&at_campaign=rss",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
@@ -556,32 +582,6 @@
       "category": "Economia",
       "published_at": "2026-11-01T23:34:49+00:00",
       "article_url": "https://www.bbc.co.uk/news/articles/crpdgp4y017go?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "0b334f1e19d3e3203913",
-      "title": "Armed police start patrols in Sydney after Bondi Beach attack",
-      "original_title": "Armed police start patrols in Sydney after Bondi Beach attack",
-      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC News",
-      "category": "Mundo",
-      "published_at": "2026-11-01T17:56:47+00:00",
-      "article_url": "https://www.bbc.co.uk/news/articles/c9kgj7k7ry0ro?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "dd34265787f5647dd43a",
-      "title": "Israeli strikes in Gaza kill eight including child, hospitals say",
-      "original_title": "Israeli strikes in Gaza kill eight including child, hospitals say",
-      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC News",
-      "category": "Mundo",
-      "published_at": "2026-11-01T17:06:32+00:00",
-      "article_url": "https://www.bbc.co.uk/news/articles/cmqln14rrzxvo?at_medium=RSS&at_campaign=rss",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
