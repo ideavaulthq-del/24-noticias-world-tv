@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-11-02T02:50:59.698888+00:00",
+  "generated_at": "2026-11-02T03:54:38.847144+00:00",
   "articles": [
+    {
+      "id": "e5add6a17fba40ef4169",
+      "title": "Binance users withdraw $3.6bn after record crypto hack",
+      "original_title": "Binance users withdraw $3.6bn after record crypto hack",
+      "summary": "Informação divulgada por BBC Business. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC Business",
+      "category": "Economia",
+      "published_at": "2026-11-02T03:32:14+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "d9411d5b0d0c4c69369e",
+      "title": "3h Dia de greve na Administração Pública pode afetar setores como educação e saúde",
+      "original_title": "3h Dia de greve na Administração Pública pode afetar setores como educação e saúde",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-02T03:18:02+00:00",
+      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/3h-dia-de-greve-na-administracao-publica-pode-afetar-setores-como-educacao-e-saude_a1_1776218",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
     {
       "id": "81599dc3790c7c437c79",
       "title": "2h Habitação. PSP identifica homem perseguido após rebentamento de petardo em Lisboa",
@@ -62,19 +88,6 @@
       "category": "Mundo",
       "published_at": "2026-11-02T01:18:27+00:00",
       "article_url": "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "e5add6a17fba40ef4169",
-      "title": "Binance users withdraw $3.6bn after record crypto hack",
-      "original_title": "Binance users withdraw $3.6bn after record crypto hack",
-      "summary": "Informação divulgada por BBC Business. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC Business",
-      "category": "Economia",
-      "published_at": "2026-11-02T01:15:25+00:00",
-      "article_url": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
@@ -400,19 +413,6 @@
       "category": "Portugal",
       "published_at": "2026-11-01T19:47:20+00:00",
       "article_url": "https://www.rtp.pt/noticias/sporting/tecnico-de-andebol-do-sporting-acusa-seguranca-de-agressao-apos-jogo-com-fc-porto_d1776154",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "e63102f60e4c624d4265",
-      "title": "Dakar2026. Nadadora Carolina Taveira foi destaque nacional ao ser sexta nos 200 costas",
-      "original_title": "Dakar2026. Nadadora Carolina Taveira foi destaque nacional ao ser sexta nos 200 costas",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-01T19:46:43+00:00",
-      "article_url": "https://www.rtp.pt/noticias/outras-modalidades/dakar2026-nadadora-carolina-taveira-foi-destaque-nacional-ao-ser-sexta-nos-200-costas_d1776153",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
