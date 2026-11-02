@@ -1,6 +1,14 @@
 {
-  "generated_at": "2026-11-02T02:02:09.673433+00:00",
+  "generated_at": "2026-11-02T02:51:00.018930+00:00",
   "audits": [
+    {
+      "article_id": "81599dc3790c7c437c79",
+      "sources_detected": 1,
+      "issues": [
+        "sem_segunda_fonte_independente"
+      ],
+      "status": "revisao_humana_obrigatoria"
+    },
     {
       "article_id": "b793f2e24322c8241a1f",
       "sources_detected": 1,
@@ -241,14 +249,6 @@
     },
     {
       "article_id": "e63102f60e4c624d4265",
-      "sources_detected": 1,
-      "issues": [
-        "sem_segunda_fonte_independente"
-      ],
-      "status": "revisao_humana_obrigatoria"
-    },
-    {
-      "article_id": "970a8e3b578f59c64a36",
       "sources_detected": 1,
       "issues": [
         "sem_segunda_fonte_independente"

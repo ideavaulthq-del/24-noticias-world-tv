@@ -1,6 +1,19 @@
 {
-  "generated_at": "2026-11-02T02:02:09.427202+00:00",
+  "generated_at": "2026-11-02T02:50:59.698888+00:00",
   "articles": [
+    {
+      "id": "81599dc3790c7c437c79",
+      "title": "2h Habitação. PSP identifica homem perseguido após rebentamento de petardo em Lisboa",
+      "original_title": "2h Habitação. PSP identifica homem perseguido após rebentamento de petardo em Lisboa",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-02T02:33:02+00:00",
+      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/2h-habitacao-psp-identifica-homem-perseguido-apos-rebentamento-de-petardo-em-lisboa_a1_1776214",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
     {
       "id": "b793f2e24322c8241a1f",
       "title": "01h Manifestantes pela habitação começam a desmobilizar em Lisboa e no Porto",
@@ -400,19 +413,6 @@
       "category": "Portugal",
       "published_at": "2026-11-01T19:46:43+00:00",
       "article_url": "https://www.rtp.pt/noticias/outras-modalidades/dakar2026-nadadora-carolina-taveira-foi-destaque-nacional-ao-ser-sexta-nos-200-costas_d1776153",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "970a8e3b578f59c64a36",
-      "title": "Paulo Fonseca sucede a Rui Borges no Sporting",
-      "original_title": "Paulo Fonseca sucede a Rui Borges no Sporting",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-01T19:42:26+00:00",
-      "article_url": "https://www.rtp.pt/noticias/sporting/paulo-fonseca-sucede-a-rui-borges-no-sporting_d1776152",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
