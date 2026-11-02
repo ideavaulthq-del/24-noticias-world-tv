@@ -1,6 +1,19 @@
 {
-  "generated_at": "2026-11-02T04:58:39.902476+00:00",
+  "generated_at": "2026-11-02T05:59:51.844223+00:00",
   "articles": [
+    {
+      "id": "81350d7b26d70d0b3536",
+      "title": "5h Sporting e Rui Borges começaram negociações para rescisão",
+      "original_title": "5h Sporting e Rui Borges começaram negociações para rescisão",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-02T05:34:02+00:00",
+      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/5h-sporting-e-rui-borges-comecaram-negociacoes-para-rescisao_a1_1776226",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
     {
       "id": "9435ed34146bc41910d6",
       "title": "4h Habitação. Desmobilização de manifestantes ao longo da noite",
@@ -400,19 +413,6 @@
       "category": "Portugal",
       "published_at": "2026-11-01T19:59:15+00:00",
       "article_url": "https://www.rtp.pt/noticias/motores/yamaha-falha-gp-do-qatar-devido-a-restricoes-de-viagens-para-o-medio-oriente_d1776156",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "6126b841da08efbe6b7a",
-      "title": "Aarhus volta às derrotas antes de receber Sporting de Braga na Liga Conferência",
-      "original_title": "Aarhus volta às derrotas antes de receber Sporting de Braga na Liga Conferência",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-01T19:47:55+00:00",
-      "article_url": "https://www.rtp.pt/noticias/futebol-internacional/aarhus-volta-as-derrotas-antes-de-receber-sporting-de-braga-na-liga-conferencia_d1776155",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
