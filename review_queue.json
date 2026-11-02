@@ -1,6 +1,58 @@
 {
-  "generated_at": "2026-11-01T23:08:26.137073+00:00",
+  "generated_at": "2026-11-02T00:04:31.993688+00:00",
   "articles": [
+    {
+      "id": "fda268eec5ba0efdc699",
+      "title": "Democrat endorses Republican candidate in key Michigan Senate race as party spat erupts",
+      "original_title": "Democrat endorses Republican candidate in key Michigan Senate race as party spat erupts",
+      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC News",
+      "category": "Mundo",
+      "published_at": "2026-11-02T00:02:15+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "c7bf87bc80f72ed7f610",
+      "title": "Presidente da República falou com autarcas de Lisboa e do Porto e com representantes das acampadas",
+      "original_title": "Presidente da República falou com autarcas de Lisboa e do Porto e com representantes das acampadas",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-01T23:47:04+00:00",
+      "article_url": "https://www.rtp.pt/noticias/pais/presidente-da-republica-falou-com-autarcas-de-lisboa-e-do-porto-e-com-representantes-das-acampadas_e1775987",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "c33feecdd7e72c958213",
+      "title": "Don't get caught out by new Buy Now Pay Later rules",
+      "original_title": "Don't get caught out by new Buy Now Pay Later rules",
+      "summary": "Informação divulgada por BBC Business. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC Business",
+      "category": "Economia",
+      "published_at": "2026-11-01T23:34:49+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/crpdgp4y017go?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "94c05aeab06c074f102c",
+      "title": "23h Rebentamento de petardo no Rossio causou confusão, em Lisboa",
+      "original_title": "23h Rebentamento de petardo no Rossio causou confusão, em Lisboa",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-01T23:31:02+00:00",
+      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/23h-rebentamento-de-petardo-no-rossio-causou-confusao-em-lisboa_a1_1776203",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
     {
       "id": "6f303865706c7d97464f",
       "title": "FC Porto vence Óquei de Barcelos e conquista Elite Cup",
@@ -15,14 +67,14 @@
       "editorial_status": "titulo_normalizado"
     },
     {
-      "id": "c7bf87bc80f72ed7f610",
-      "title": "Presidente da República falou com autarcas de Lisboa e do Porto e com representantes das acampadas",
-      "original_title": "Presidente da República falou com autarcas de Lisboa e do Porto e com representantes das acampadas",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-01T22:40:04+00:00",
-      "article_url": "https://www.rtp.pt/noticias/pais/presidente-da-republica-falou-com-autarcas-de-lisboa-e-do-porto-e-com-representantes-das-acampadas_e1775987",
+      "id": "59974924355f43ee0314",
+      "title": "Ukraine air raid app apparently hacked as users receive false radiation threat, Air Force says",
+      "original_title": "Ukraine air raid app apparently hacked as users receive false radiation threat, Air Force says",
+      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC News",
+      "category": "Mundo",
+      "published_at": "2026-11-01T22:38:24+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&at_campaign=rss",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
@@ -114,19 +166,6 @@
       "category": "Portugal",
       "published_at": "2026-11-01T21:18:01+00:00",
       "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/20h-paulo-fonseca-a-caminho-de-alvalade-o-sporting-acertou-a-rescisao-de-contrato-com-rui-borges_a1_1776184",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "fda268eec5ba0efdc699",
-      "title": "Democrat endorses Republican candidate in key Michigan Senate race as party spat erupts",
-      "original_title": "Democrat endorses Republican candidate in key Michigan Senate race as party spat erupts",
-      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC News",
-      "category": "Mundo",
-      "published_at": "2026-11-01T21:16:45+00:00",
-      "article_url": "https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
@@ -340,19 +379,6 @@
       "editorial_status": "titulo_normalizado"
     },
     {
-      "id": "20a058f4e2c55201b559",
-      "title": "Arsenal confirma liderança isolada e faz história em Anfield",
-      "original_title": "Arsenal confirma liderança isolada e faz história em Anfield",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-01T18:52:35+00:00",
-      "article_url": "https://www.rtp.pt/noticias/futebol-internacional/arsenal-confirma-lideranca-isolada-e-faz-historia-em-anfield_d1776137",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
       "id": "05e5aded96d11886e59a",
       "title": "Peaceful protests in Germany spiral into violence and looting",
       "original_title": "Peaceful protests in Germany spiral into violence and looting",
@@ -556,32 +582,6 @@
       "category": "Economia",
       "published_at": "2026-11-01T00:17:05+00:00",
       "article_url": "https://www.bbc.co.uk/news/articles/ckjwez8g5dyeo?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "8beecd943e16f41229db",
-      "title": "Thousands demonstrate in Paris as protests spread across Europe",
-      "original_title": "Thousands demonstrate in Paris as protests spread across Europe",
-      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC News",
-      "category": "Mundo",
-      "published_at": "2026-10-31T21:29:01+00:00",
-      "article_url": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "f9c20d0498a8f4301fd0",
-      "title": "Ukrainian evacuees reunite with family after years trapped in Russia-occupied city",
-      "original_title": "Ukrainian evacuees reunite with family after years trapped in Russia-occupied city",
-      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC News",
-      "category": "Mundo",
-      "published_at": "2026-10-31T17:53:35+00:00",
-      "article_url": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
