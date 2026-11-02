@@ -1,6 +1,58 @@
 {
-  "generated_at": "2026-11-02T01:02:05.335174+00:00",
+  "generated_at": "2026-11-02T02:02:09.427202+00:00",
   "articles": [
+    {
+      "id": "b793f2e24322c8241a1f",
+      "title": "01h Manifestantes pela habitação começam a desmobilizar em Lisboa e no Porto",
+      "original_title": "01h Manifestantes pela habitação começam a desmobilizar em Lisboa e no Porto",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-02T01:46:02+00:00",
+      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/01h-manifestantes-pela-habitacao-comecam-a-desmobilizar-em-lisboa-e-no-porto_a1_1776211",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "fda268eec5ba0efdc699",
+      "title": "Democrat endorses Republican candidate in key Michigan Senate race as party spat erupts",
+      "original_title": "Democrat endorses Republican candidate in key Michigan Senate race as party spat erupts",
+      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC News",
+      "category": "Mundo",
+      "published_at": "2026-11-02T01:45:42+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "c7bf87bc80f72ed7f610",
+      "title": "Presidente da República falou com autarcas de Lisboa e do Porto e com representantes das acampadas",
+      "original_title": "Presidente da República falou com autarcas de Lisboa e do Porto e com representantes das acampadas",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-02T01:37:28+00:00",
+      "article_url": "https://www.rtp.pt/noticias/pais/presidente-da-republica-falou-com-autarcas-de-lisboa-e-do-porto-e-com-representantes-das-acampadas_e1775987",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "59974924355f43ee0314",
+      "title": "Ukraine air raid app apparently hacked as users receive false radiation threat, Air Force says",
+      "original_title": "Ukraine air raid app apparently hacked as users receive false radiation threat, Air Force says",
+      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC News",
+      "category": "Mundo",
+      "published_at": "2026-11-02T01:18:27+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
     {
       "id": "e5add6a17fba40ef4169",
       "title": "Binance users withdraw $3.6bn after record crypto hack",
@@ -8,7 +60,7 @@
       "summary": "Informação divulgada por BBC Business. Consulte a publicação original para conhecer os detalhes e o contexto.",
       "source": "BBC Business",
       "category": "Economia",
-      "published_at": "2026-11-02T00:43:35+00:00",
+      "published_at": "2026-11-02T01:15:25+00:00",
       "article_url": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss",
       "image_url": "",
       "verification_status": "fonte_unica",
@@ -54,32 +106,6 @@
       "editorial_status": "titulo_normalizado"
     },
     {
-      "id": "fda268eec5ba0efdc699",
-      "title": "Democrat endorses Republican candidate in key Michigan Senate race as party spat erupts",
-      "original_title": "Democrat endorses Republican candidate in key Michigan Senate race as party spat erupts",
-      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC News",
-      "category": "Mundo",
-      "published_at": "2026-11-02T00:02:15+00:00",
-      "article_url": "https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "c7bf87bc80f72ed7f610",
-      "title": "Presidente da República falou com autarcas de Lisboa e do Porto e com representantes das acampadas",
-      "original_title": "Presidente da República falou com autarcas de Lisboa e do Porto e com representantes das acampadas",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-01T23:47:04+00:00",
-      "article_url": "https://www.rtp.pt/noticias/pais/presidente-da-republica-falou-com-autarcas-de-lisboa-e-do-porto-e-com-representantes-das-acampadas_e1775987",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
       "id": "c33feecdd7e72c958213",
       "title": "Don't get caught out by new Buy Now Pay Later rules",
       "original_title": "Don't get caught out by new Buy Now Pay Later rules",
@@ -114,19 +140,6 @@
       "category": "Portugal",
       "published_at": "2026-11-01T22:44:44+00:00",
       "article_url": "https://www.rtp.pt/noticias/fc-porto/fc-porto-vence-oquei-de-barcelos-e-conquista-elite-cup_d1776198",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "59974924355f43ee0314",
-      "title": "Ukraine air raid app apparently hacked as users receive false radiation threat, Air Force says",
-      "original_title": "Ukraine air raid app apparently hacked as users receive false radiation threat, Air Force says",
-      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC News",
-      "category": "Mundo",
-      "published_at": "2026-11-01T22:38:24+00:00",
-      "article_url": "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&at_campaign=rss",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
@@ -400,19 +413,6 @@
       "category": "Portugal",
       "published_at": "2026-11-01T19:42:26+00:00",
       "article_url": "https://www.rtp.pt/noticias/sporting/paulo-fonseca-sucede-a-rui-borges-no-sporting_d1776152",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "3a939360e73f846a909c",
-      "title": "19h Autarca do Porto convida manifestantes a reunir na Câmara",
-      "original_title": "19h Autarca do Porto convida manifestantes a reunir na Câmara",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-01T19:30:02+00:00",
-      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/19h-autarca-do-porto-convida-manifestantes-a-reunir-na-camara_a1_1776146",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
