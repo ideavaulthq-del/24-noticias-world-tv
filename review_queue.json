@@ -1,6 +1,97 @@
 {
-  "generated_at": "2026-11-02T16:34:38.906137+00:00",
+  "generated_at": "2026-11-02T17:29:11.468555+00:00",
   "articles": [
+    {
+      "id": "5a6642abe57410429d9c",
+      "title": "Quatro internacionais portugueses nomeados para melhor `onze` do ano da FIFPro",
+      "original_title": "Quatro internacionais portugueses nomeados para melhor `onze` do ano da FIFPro",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-02T17:25:09+00:00",
+      "article_url": "https://www.rtp.pt/noticias/lusa/quatro-internacionais-portugueses-nomeados-para-melhor-onze-do-ano-da-fifpro_d1776380",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "c06abf4128bfeba15f54",
+      "title": "Lucro da Corticeira Amorim cai 22,4% para 35,4 ME até setembro",
+      "original_title": "Lucro da Corticeira Amorim cai 22,4% para 35,4 ME até setembro",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-02T17:24:12+00:00",
+      "article_url": "https://www.rtp.pt/noticias/economia/lucro-da-corticeira-amorim-cai-224-para-354-me-ate-setembro_n1776388",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "ae490fee5f8003a139d6",
+      "title": "PEC denuncia assassinato de 250 jornalistas palestinianos pelo exército israelita",
+      "original_title": "PEC denuncia assassinato de 250 jornalistas palestinianos pelo exército israelita",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-02T17:23:36+00:00",
+      "article_url": "https://www.rtp.pt/noticias/mundo/pec-denuncia-assassinato-de-250-jornalistas-palestinianos-pelo-exercito-israelita_n1776389",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "f8b42523f83715d86046",
+      "title": "\"Luís Neves não tem condições para continuar ministro da Administração Interna\"",
+      "original_title": "\"Luís Neves não tem condições para continuar ministro da Administração Interna\"",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-02T17:18:20+00:00",
+      "article_url": "https://www.rtp.pt/noticias/politica-com-assinatura/luis-neves-nao-tem-condicoes-para-continuar-ministro-da-administracao-interna_v1776381",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "dca1631728f8b1fb9d9c",
+      "title": "Manifestantes reivindicam vitória judicial. \"Protesto tem direito de acontecer nos moldes em que tem acontecido\"",
+      "original_title": "Manifestantes reivindicam vitória judicial. \"Protesto tem direito de acontecer nos moldes em que tem acontecido\"",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-02T17:11:54+00:00",
+      "article_url": "https://www.rtp.pt/noticias/pais/manifestantes-reivindicam-vitoria-judicial-protesto-tem-direito-de-acontecer-nos-moldes-em-que-tem-acontecido_e1776238",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "0828a6059f1f1bca0f7e",
+      "title": "Regresso ou não de Ronaldo à seleção conhecido na sexta-feira",
+      "original_title": "Regresso ou não de Ronaldo à seleção conhecido na sexta-feira",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-02T16:54:44+00:00",
+      "article_url": "https://www.rtp.pt/noticias/ligadasnacoes/regresso-ou-nao-de-ronaldo-a-selecao-conhecido-na-sexta-feira_d1776385",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "95e8cd42442e81a57104",
+      "title": "Judoca Sofia Gaspar conquista primeira medalha ao ser prata nos -52 kg",
+      "original_title": "Judoca Sofia Gaspar conquista primeira medalha ao ser prata nos -52 kg",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-02T16:32:49+00:00",
+      "article_url": "https://www.rtp.pt/noticias/judo/judoca-sofia-gaspar-conquista-primeira-medalha-ao-ser-prata-nos-52-kg_d1776378",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
     {
       "id": "ba393928817cd31c9146",
       "title": "Governo avança ainda este ano com regulamentação sobre centros de dados",
@@ -54,19 +145,6 @@
       "editorial_status": "titulo_normalizado"
     },
     {
-      "id": "dca1631728f8b1fb9d9c",
-      "title": "Manifestantes reivindicam vitória judicial. \"Protesto tem direito de acontecer nos moldes em que tem acontecido\"",
-      "original_title": "Manifestantes reivindicam vitória judicial. \"Protesto tem direito de acontecer nos moldes em que tem acontecido\"",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-02T16:11:18+00:00",
-      "article_url": "https://www.rtp.pt/noticias/pais/manifestantes-reivindicam-vitoria-judicial-protesto-tem-direito-de-acontecer-nos-moldes-em-que-tem-acontecido_e1776238",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
       "id": "ac7be06f32d0c910aafe",
       "title": "Injeções de capital não travam dívida dos hospitais dizem administradores",
       "original_title": "Injeções de capital não travam dívida dos hospitais dizem administradores",
@@ -100,7 +178,7 @@
       "source": "RTP Notícias",
       "category": "Portugal",
       "published_at": "2026-11-02T16:01:06+00:00",
-      "article_url": "https://www.rtp.pt/noticias/politica/ministro-da-defesa-alvo-de-ataque-informatico-que-permitiu-enviar-mensagens-em-seu-nome_n1776360",
+      "article_url": "https://www.rtp.pt/noticias/mundo/ministro-da-defesa-alvo-de-ataque-informatico-que-permitiu-enviar-mensagens-em-seu-nome_n1776360",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
@@ -262,45 +340,6 @@
       "editorial_status": "titulo_normalizado"
     },
     {
-      "id": "56c6ef21e343d8931a0f",
-      "title": "\"Contado por Mulheres\" é novo telefilme da RTP",
-      "original_title": "\"Contado por Mulheres\" é novo telefilme da RTP",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-02T14:42:47+00:00",
-      "article_url": "https://www.rtp.pt/noticias/cultura/contado-por-mulheres-e-novo-telefilme-da-rtp_v1776358",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "5e7e221385ba416eb07a",
-      "title": "Pinto Luz disponível para negociar com Chega",
-      "original_title": "Pinto Luz disponível para negociar com Chega",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-02T14:38:48+00:00",
-      "article_url": "https://www.rtp.pt/noticias/pais/pinto-luz-disponivel-para-negociar-com-chega_v1776355",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "9af7b6f94fbe05a88436",
-      "title": "Parentalidade só depois da estabilidade",
-      "original_title": "Parentalidade só depois da estabilidade",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-02T14:35:47+00:00",
-      "article_url": "https://www.rtp.pt/noticias/pais/parentalidade-so-depois-da-estabilidade_v1776353",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
       "id": "ce167299ca945133e18f",
       "title": "Wizz Air flight from Luton in emergency landing after bomb threat",
       "original_title": "Wizz Air flight from Luton in emergency landing after bomb threat",
@@ -327,32 +366,6 @@
       "editorial_status": "titulo_normalizado"
     },
     {
-      "id": "2e07004b525c0ea12bc0",
-      "title": "\"Movimento Cidade Alerta\" cria plataforma para denunciar problemas no espaço público",
-      "original_title": "\"Movimento Cidade Alerta\" cria plataforma para denunciar problemas no espaço público",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-02T14:34:16+00:00",
-      "article_url": "https://www.rtp.pt/noticias/pais/movimento-cidade-alerta-cria-plataforma-para-denunciar-problemas-no-espaco-publico_a1776333",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "a5f4d74d710eef791cff",
-      "title": "Livraria Lello reúne-se com comunidade muçulmana",
-      "original_title": "Livraria Lello reúne-se com comunidade muçulmana",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-02T14:28:47+00:00",
-      "article_url": "https://www.rtp.pt/noticias/pais/livraria-lello-reune-se-com-comunidade-muculmana_v1776352",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
       "id": "bf2fa8a43f5ca3a5e914",
       "title": "What we know about the alert app hack in Ukraine and Russia",
       "original_title": "What we know about the alert app hack in Ukraine and Russia",
@@ -361,19 +374,6 @@
       "category": "Mundo",
       "published_at": "2026-11-02T14:24:25+00:00",
       "article_url": "https://www.bbc.co.uk/news/videos/crq5n6204g20o?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "066613194b6712b8a7fa",
-      "title": "Acompanhamento de grávidas. Ordem e médicos de família exigem revisão",
-      "original_title": "Acompanhamento de grávidas. Ordem e médicos de família exigem revisão",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-02T14:23:49+00:00",
-      "article_url": "https://www.rtp.pt/noticias/pais/acompanhamento-de-gravidas-ordem-e-medicos-de-familia-exigem-revisao_v1776350",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
