@@ -1,6 +1,58 @@
 {
-  "generated_at": "2026-11-03T01:41:06.072284+00:00",
+  "generated_at": "2026-11-03T02:50:35.469118+00:00",
   "articles": [
+    {
+      "id": "92a71d063363608ed6a0",
+      "title": "01h Acampada de Lisboa vai propor uma acampada conjunta com o movimento do Porto",
+      "original_title": "01h Acampada de Lisboa vai propor uma acampada conjunta com o movimento do Porto",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-03T02:36:02+00:00",
+      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/01h-acampada-de-lisboa-vai-propor-uma-acampada-conjunta-com-o-movimento-do-porto_a1_1776479",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "da7d90d6cb81a28f09f3",
+      "title": "UK and EU agree draft deal to scrap Brexit red tape over food exports",
+      "original_title": "UK and EU agree draft deal to scrap Brexit red tape over food exports",
+      "summary": "Informação divulgada por BBC Business. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC Business",
+      "category": "Economia",
+      "published_at": "2026-11-03T02:11:13+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/cmp3grwre9xdo?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "b41a83bdc83aea476d14",
+      "title": "Man and boy arrested after allegedly attacking One Nation volunteer with baseball bat in Australia",
+      "original_title": "Man and boy arrested after allegedly attacking One Nation volunteer with baseball bat in Australia",
+      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC News",
+      "category": "Mundo",
+      "published_at": "2026-11-03T01:57:46+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/cwly3jd27m9xo?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "0ee706de56fde27ea983",
+      "title": "Russian bombing kills 26 people at Ukraine aid centre, Kyiv says",
+      "original_title": "Russian bombing kills 26 people at Ukraine aid centre, Kyiv says",
+      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC News",
+      "category": "Mundo",
+      "published_at": "2026-11-03T01:56:27+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
     {
       "id": "f6c36f058049ddcb1780",
       "title": "North Korea denies being behind record $6.3bn Binance hack",
@@ -392,32 +444,6 @@
       "editorial_status": "titulo_normalizado"
     },
     {
-      "id": "b09b670c33fd5370fd12",
-      "title": "21h Acampada do Porto decide montar tendas, Lisboa vai votar",
-      "original_title": "21h Acampada do Porto decide montar tendas, Lisboa vai votar",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-02T21:26:02+00:00",
-      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/21h-acampada-do-porto-decide-montar-tendas-lisboa-vai-votar_a1_1776447",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "0ee706de56fde27ea983",
-      "title": "Russian bombing kills 26 people at Ukraine aid centre, Kyiv says",
-      "original_title": "Russian bombing kills 26 people at Ukraine aid centre, Kyiv says",
-      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC News",
-      "category": "Mundo",
-      "published_at": "2026-11-02T21:10:04+00:00",
-      "article_url": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
       "id": "70b2e418c19045007787",
       "title": "Man guilty of stealing cash from farm owned by South African president",
       "original_title": "Man guilty of stealing cash from farm owned by South African president",
@@ -556,32 +582,6 @@
       "category": "Mundo",
       "published_at": "2026-11-02T12:05:34+00:00",
       "article_url": "https://www.bbc.co.uk/news/articles/c8zxlqxwed4do?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "d23146e52e0dd7187f57",
-      "title": "Five arrested after South African farmer shot and tortured",
-      "original_title": "Five arrested after South African farmer shot and tortured",
-      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC News",
-      "category": "Mundo",
-      "published_at": "2026-11-02T10:48:47+00:00",
-      "article_url": "https://www.bbc.co.uk/news/articles/cv4g13z0px8yo?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "e1a0f1b1d3a4b900830d",
-      "title": "Popular Australian children's author jailed over child exploitation offences",
-      "original_title": "Popular Australian children's author jailed over child exploitation offences",
-      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC News",
-      "category": "Mundo",
-      "published_at": "2026-11-02T08:03:39+00:00",
-      "article_url": "https://www.bbc.co.uk/news/articles/cmjwe9nggp60o?at_medium=RSS&at_campaign=rss",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
