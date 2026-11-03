@@ -1,6 +1,19 @@
 {
-  "generated_at": "2026-11-03T03:51:03.619226+00:00",
+  "generated_at": "2026-11-03T04:53:31.143245+00:00",
   "articles": [
+    {
+      "id": "115c9331823f811e2683",
+      "title": "4h Habitação. Pedro Nuno Santos Santos acusa Governo de querer dar uma viragem política",
+      "original_title": "4h Habitação. Pedro Nuno Santos Santos acusa Governo de querer dar uma viragem política",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-03T04:15:02+00:00",
+      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/4h-habitacao-pedro-nuno-santos-santos-acusa-governo-de-querer-dar-uma-viragem-politica_a1_1776488",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
     {
       "id": "7b925edcb82c23d7db48",
       "title": "US strikes Iran ahead of midterm elections",
@@ -465,19 +478,6 @@
       "category": "Portugal",
       "published_at": "2026-11-02T21:48:47+00:00",
       "article_url": "https://www.rtp.pt/noticias/mundo/democratas-bem-colocados-para-intercalares-americanas_v1776453",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "00699fb73c3865ce300d",
-      "title": "Bloqueios, greves e manifestações de volta à rua francesa",
-      "original_title": "Bloqueios, greves e manifestações de volta à rua francesa",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-02T21:47:47+00:00",
-      "article_url": "https://www.rtp.pt/noticias/mundo/bloqueios-greves-e-manifestacoes-de-volta-a-rua-francesa_v1776452",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
