@@ -1,6 +1,84 @@
 {
-  "generated_at": "2026-11-03T18:50:12.782470+00:00",
+  "generated_at": "2026-11-03T19:52:08.342308+00:00",
   "articles": [
+    {
+      "id": "69f24dab1bffcde6be9e",
+      "title": "Allegri antevê jogo de \"muito sofrimento\" do Nápoles frente ao FC Porto",
+      "original_title": "Allegri antevê jogo de \"muito sofrimento\" do Nápoles frente ao FC Porto",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-03T19:35:20+00:00",
+      "article_url": "https://www.rtp.pt/noticias/futebol-internacional/allegri-anteve-jogo-de-muito-sofrimento-do-napoles-frente-ao-fc-porto_d1776644",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "c889e71431f8c2741de5",
+      "title": "EUA suspendem apoio de milhões a Israel e Eisenkot exige explicações a Netanyahu",
+      "original_title": "EUA suspendem apoio de milhões a Israel e Eisenkot exige explicações a Netanyahu",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Mundo",
+      "published_at": "2026-11-03T19:10:31+00:00",
+      "article_url": "https://www.rtp.pt/noticias/mundo/eua-suspendem-apoio-de-milhoes-a-israel-e-eisenkot-exige-explicacoes-a-netanyahu_n1776639",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "988e15431d0a572f56a0",
+      "title": "Prémio Cervantes 2026 para escritora e jornalista espanhola Cristina Fernández Cubas",
+      "original_title": "Prémio Cervantes 2026 para escritora e jornalista espanhola Cristina Fernández Cubas",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-03T19:00:07+00:00",
+      "article_url": "https://www.rtp.pt/noticias/lusa/premio-cervantes-2026-para-escritora-e-jornalista-espanhola-cristina-fernandez-cubas_n1776640",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "02518fb0b9ebec1de733",
+      "title": "BPCE Assurances assina memorando de entendimento para comprar seguradora GamaLife",
+      "original_title": "BPCE Assurances assina memorando de entendimento para comprar seguradora GamaLife",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Economia",
+      "published_at": "2026-11-03T18:51:56+00:00",
+      "article_url": "https://www.rtp.pt/noticias/economia/bpce-assurances-assina-memorando-de-entendimento-para-comprar-seguradora-gamalife_n1776634",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "fa5544847f7020aefe38",
+      "title": "Resultados sólidos da NOS dão condições para continuar a investir em Portugal diz CEO",
+      "original_title": "Resultados sólidos da NOS dão condições para continuar a investir em Portugal diz CEO",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Economia",
+      "published_at": "2026-11-03T18:50:44+00:00",
+      "article_url": "https://www.rtp.pt/noticias/economia/resultados-solidos-da-nos-dao-condicoes-para-continuar-a-investir-em-portugal-diz-ceo_n1776623",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "dd25c8f30228be036ed3",
+      "title": "CES pede cautela nas rendas de idosos e vulneráveis em risco de perda da habitação",
+      "original_title": "CES pede cautela nas rendas de idosos e vulneráveis em risco de perda da habitação",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Economia",
+      "published_at": "2026-11-03T18:48:14+00:00",
+      "article_url": "https://www.rtp.pt/noticias/economia/ces-pede-cautela-nas-rendas-de-idosos-e-vulneraveis-em-risco-de-perda-da-habitacao_n1776618",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
     {
       "id": "55238e10a230b073be46",
       "title": "Lucro da NOS sobe 21,7% até setembro para 216 milhões de euros",
@@ -81,8 +159,8 @@
     },
     {
       "id": "8db28475f594c9a95024",
-      "title": "Primeiro-ministro fala ao país às 20h00 sobre crise da Habitação",
-      "original_title": "Primeiro-ministro fala ao país às 20h00 sobre crise da Habitação",
+      "title": "Primeiro-ministro fala ao país às 20h00 sobre crise da habitação",
+      "original_title": "Primeiro-ministro fala ao país às 20h00 sobre crise da habitação",
       "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
       "source": "RTP Notícias",
       "category": "Portugal",
@@ -223,14 +301,14 @@
       "editorial_status": "titulo_normalizado"
     },
     {
-      "id": "3100b8dd07e0db1a67fd",
-      "title": "Shakhtar Donetsk - Sporting CP",
-      "original_title": "Shakhtar Donetsk - Sporting CP",
+      "id": "f1682832e26bf12a99af",
+      "title": "Sporting vence Shakhtar com golo de Doumbia",
+      "original_title": "Sporting vence Shakhtar com golo de Doumbia",
       "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
       "source": "RTP Notícias",
       "category": "Portugal",
       "published_at": "2026-11-03T16:19:07+00:00",
-      "article_url": "https://www.rtp.pt/noticias/desporto/shakhtar-donetsk-sporting-cp_e1776605",
+      "article_url": "https://www.rtp.pt/noticias/desporto/sporting-vence-shakhtar-com-golo-de-doumbia_e1776605",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
@@ -256,7 +334,7 @@
       "source": "RTP Notícias",
       "category": "Portugal",
       "published_at": "2026-11-03T16:05:07+00:00",
-      "article_url": "https://www.rtp.pt/noticias/fc-porto/andre-silva-alerta-que-erros-na-champions-se-pagam-mais-caro_d1776599",
+      "article_url": "https://www.rtp.pt/noticias/liga-dos-campeoes/andre-silva-alerta-que-erros-na-champions-se-pagam-mais-caro_d1776599",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
@@ -301,58 +379,6 @@
       "editorial_status": "titulo_normalizado"
     },
     {
-      "id": "cb57bce16b0641d6b743",
-      "title": "Protestos estudantis regressam a França",
-      "original_title": "Protestos estudantis regressam a França",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Mundo",
-      "published_at": "2026-11-03T15:54:00+00:00",
-      "article_url": "https://www.rtp.pt/noticias/mundo/protestos-estudantis-regressam-a-franca_n1776602",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "72de60ad69e460451e3d",
-      "title": "Impasse no Saara Ocidental. EUA e Rússia bloqueiam Missão da ONU",
-      "original_title": "Impasse no Saara Ocidental. EUA e Rússia bloqueiam Missão da ONU",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Mundo",
-      "published_at": "2026-11-03T15:32:47+00:00",
-      "article_url": "https://www.rtp.pt/noticias/mundo/impasse-no-saara-ocidental-eua-e-russia-bloqueiam-missao-da-onu_v1776597",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "fc0641ed1ddbbb268f68",
-      "title": "15h Combate favorável ao incêndio de Fornos de Algodres",
-      "original_title": "15h Combate favorável ao incêndio de Fornos de Algodres",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-03T15:22:03+00:00",
-      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/15h-combate-favoravel-ao-incendio-de-fornos-de-algodres_a1_1776594",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "b2f7d918bcd7e7e545ff",
-      "title": "JO da Juventude. Judoca Sofia Gaspar conquista medalha de prata",
-      "original_title": "JO da Juventude. Judoca Sofia Gaspar conquista medalha de prata",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-03T15:18:47+00:00",
-      "article_url": "https://www.rtp.pt/noticias/desporto/jo-da-juventude-judoca-sofia-gaspar-conquista-medalha-de-prata_v1776592",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
       "id": "01036c05f5612254ef33",
       "title": "Asda hires ex-Morrisons boss in bid to grow firm",
       "original_title": "Asda hires ex-Morrisons boss in bid to grow firm",
@@ -366,19 +392,6 @@
       "editorial_status": "titulo_normalizado"
     },
     {
-      "id": "98d8f1e95d09dd55e5bd",
-      "title": "PGR recorre de decisão judicial que autorizava a instalar tenda em manifestação na madrugada",
-      "original_title": "PGR recorre de decisão judicial que autorizava a instalar tenda em manifestação na madrugada",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-03T15:06:00+00:00",
-      "article_url": "https://www.rtp.pt/noticias/pais/pgr-recorre-de-decisao-judicial-que-autorizava-a-instalar-tenda-em-manifestacao-na-madrugada_n1776545",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
       "id": "e29ed375b9e850b8765c",
       "title": "Mining giant joins fight to stop killer toad march across Australia",
       "original_title": "Mining giant joins fight to stop killer toad march across Australia",
@@ -387,19 +400,6 @@
       "category": "Mundo",
       "published_at": "2026-11-03T15:05:01+00:00",
       "article_url": "https://www.bbc.co.uk/news/articles/c3dxw8p99ervo?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "a62c4cfc135fad49fc6f",
-      "title": "Marcelo Rebelo de Sousa diz que jovens de hoje são mais desinibidos e conhecedores",
-      "original_title": "Marcelo Rebelo de Sousa diz que jovens de hoje são mais desinibidos e conhecedores",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-03T15:01:29+00:00",
-      "article_url": "https://www.rtp.pt/noticias/pais/marcelo-rebelo-de-sousa-diz-que-jovens-de-hoje-sao-mais-desinibidos-e-conhecedores_n1776589",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
