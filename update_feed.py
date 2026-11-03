@@ -10,6 +10,7 @@ ROOT = Path(__file__).resolve().parent
 SOURCES = [
     ('RTP Notícias', 'Portugal', 'https://www.rtp.pt/noticias/rss/'),
     ('BBC News', 'Mundo', 'https://feeds.bbci.co.uk/news/world/rss.xml'),
+    ('BBC Europe', 'Europa', 'https://feeds.bbci.co.uk/news/world/europe/rss.xml'),
     ('BBC Business', 'Economia', 'https://feeds.bbci.co.uk/news/business/rss.xml'),
     ('BBC Technology', 'Tecnologia', 'https://feeds.bbci.co.uk/news/technology/rss.xml'),
 ]
