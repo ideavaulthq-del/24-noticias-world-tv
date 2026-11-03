@@ -36,6 +36,21 @@ def editorial_title(title):
     title=title.rstrip(' .')
     return title[:180]
 
+def classify(source, default_category, link):
+    """Classificação temática por caminho do URL, não é verificação factual."""
+    if source != 'RTP Notícias':
+        return default_category
+    path=urllib.parse.urlparse(link).path.casefold()
+    if '/noticias/mundo/' in path or '/noticias/europa/' in path:
+        return 'Mundo' if '/noticias/mundo/' in path else 'Europa'
+    if '/noticias/economia/' in path or '/noticias/economias/' in path:
+        return 'Economia'
+    if '/noticias/cultura/' in path:
+        return 'Cultura'
+    if '/noticias/tecnologia/' in path or '/noticias/ciencia/' in path:
+        return 'Tecnologia'
+    return default_category
+
 def news():
     found=[]; seen=set(); now=datetime.now(timezone.utc)
     for source,category,url in SOURCES:
@@ -52,7 +67,7 @@ def news():
                 if key in seen:continue
                 seen.add(key)
                 # Sem imagens externas não licenciadas, nem reprodução de descrições RSS.
-                found.append({'id':key,'title':editorial_title(title),'original_title':title,'summary':'Informação divulgada por '+source+'. Consulte a publicação original para conhecer os detalhes e o contexto.','source':source,'category':category,'published_at':pub,'article_url':link,'image_url':'','verification_status':'fonte_unica','editorial_status':'titulo_normalizado'})
+                found.append({'id':key,'title':editorial_title(title),'original_title':title,'summary':'Informação divulgada por '+source+'. Consulte a publicação original para conhecer os detalhes e o contexto.','source':source,'category':classify(source,category,link),'published_at':pub,'article_url':link,'image_url':'','verification_status':'fonte_unica','editorial_status':'titulo_normalizado'})
             print(f'{source}: recolha concluída')
         except Exception as e:
             print(f'{source}: indisponível ({type(e).__name__})')
