@@ -1,6 +1,45 @@
 {
-  "generated_at": "2026-11-04T04:56:03.772998+00:00",
+  "generated_at": "2026-11-04T05:57:20.801476+00:00",
   "articles": [
+    {
+      "id": "3e31f5d94f8510d5ce20",
+      "title": "Estados Unidos mudaram de cor e vão acordar azuis",
+      "original_title": "Estados Unidos mudaram de cor e vão acordar azuis",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Mundo",
+      "published_at": "2026-11-04T05:52:24+00:00",
+      "article_url": "https://www.rtp.pt/noticias/mundo/estados-unidos-mudaram-de-cor-e-vao-acordar-azuis_e1776677",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "41bc52c4b477c6bebb2b",
+      "title": "5h Eleições EUA. Imprensa projeta vitória democrata nas duas câmaras do Congresso",
+      "original_title": "5h Eleições EUA. Imprensa projeta vitória democrata nas duas câmaras do Congresso",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-04T05:48:02+00:00",
+      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/5h-eleicoes-eua-imprensa-projeta-vitoria-democrata-nas-duas-camaras-do-congresso_a1_1776754",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "e2a93479e30a175d18f2",
+      "title": "Dominado fogo de Fornos de Algodres",
+      "original_title": "Dominado fogo de Fornos de Algodres",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-04T05:36:27+00:00",
+      "article_url": "https://www.rtp.pt/noticias/pais/dominado-fogo-de-fornos-de-algodres_n1776724",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
     {
       "id": "ec24ebf2815f42d3758a",
       "title": "4h Eleições EUA. Democratas recuperam Câmara dos Representantes, projeta imprensa",
@@ -36,19 +75,6 @@
       "category": "Portugal",
       "published_at": "2026-11-04T04:40:02+00:00",
       "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/2h-ps-e-chega-aceitam-reunir-com-montenegro-sobre-habitacao_a1_1776740",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "3e31f5d94f8510d5ce20",
-      "title": "Estados Unidos mudaram de cor e vão acordar azuis",
-      "original_title": "Estados Unidos mudaram de cor e vão acordar azuis",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Mundo",
-      "published_at": "2026-11-04T04:15:11+00:00",
-      "article_url": "https://www.rtp.pt/noticias/mundo/estados-unidos-mudaram-de-cor-e-vao-acordar-azuis_e1776677",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
@@ -413,32 +439,6 @@
       "category": "Mundo",
       "published_at": "2026-11-03T22:45:59+00:00",
       "article_url": "https://www.bbc.co.uk/news/articles/c6wydqd4yxdyo?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "e61309c46101f457fd21",
-      "title": "Em bairro rico de Brooklyn, democracia pesa mais do que economia no voto",
-      "original_title": "Em bairro rico de Brooklyn, democracia pesa mais do que economia no voto",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Economia",
-      "published_at": "2026-11-03T22:43:17+00:00",
-      "article_url": "https://www.rtp.pt/noticias/economia/em-bairro-rico-de-brooklyn-democracia-pesa-mais-do-que-economia-no-voto_n1776638",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "5e3ca845e6e6dad12675",
-      "title": "`Michiganders` afluem às urnas em eleição que poderá mandar primeiro muçulmano para o Senado",
-      "original_title": "`Michiganders` afluem às urnas em eleição que poderá mandar primeiro muçulmano para o Senado",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Mundo",
-      "published_at": "2026-11-03T22:36:49+00:00",
-      "article_url": "https://www.rtp.pt/noticias/mundo/michiganders-afluem-as-urnas-em-eleicao-que-podera-mandar-primeiro-muculmano-para-o-senado_n1776622",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
