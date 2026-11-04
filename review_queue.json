@@ -1,6 +1,45 @@
 {
-  "generated_at": "2026-11-04T00:58:26.143357+00:00",
+  "generated_at": "2026-11-04T01:58:06.329537+00:00",
   "articles": [
+    {
+      "id": "70d0d9b9a8e0d5507126",
+      "title": "Eleições intercalares chamam 200 milhões às urnas nos Estados Unidos",
+      "original_title": "Eleições intercalares chamam 200 milhões às urnas nos Estados Unidos",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Mundo",
+      "published_at": "2026-11-04T01:38:07+00:00",
+      "article_url": "https://www.rtp.pt/noticias/mundo/eleicoes-intercalares-chamam-200-milhoes-as-urnas-nos-estados-unidos_e1776677",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "5a11c99fe2c54863e2c4",
+      "title": "No more rice grains in Kellogg's Rice Krispies due to changing weather",
+      "original_title": "No more rice grains in Kellogg's Rice Krispies due to changing weather",
+      "summary": "Informação divulgada por BBC Business. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC Business",
+      "category": "Economia",
+      "published_at": "2026-11-04T01:36:06+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/cqvg0y44ym7vo?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "263abbfb607f71a0fd86",
+      "title": "1h Acampadas continuam sem presença de polícia",
+      "original_title": "1h Acampadas continuam sem presença de polícia",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-04T01:30:02+00:00",
+      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/1h-acampadas-continuam-sem-presenca-de-policia_a1_1776704",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
     {
       "id": "2ca54931eaaec4ceb649",
       "title": "Serviços internos de Israel pedem autorização para interrogar políticos árabes",
@@ -36,19 +75,6 @@
       "category": "Mundo",
       "published_at": "2026-11-04T00:53:16+00:00",
       "article_url": "https://www.rtp.pt/noticias/mundo/eleitores-profundamente-descontentes-com-trump_n1776693",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "70d0d9b9a8e0d5507126",
-      "title": "Eleições intercalares chamam 200 milhões às urnas nos Estados Unidos",
-      "original_title": "Eleições intercalares chamam 200 milhões às urnas nos Estados Unidos",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Mundo",
-      "published_at": "2026-11-04T00:43:39+00:00",
-      "article_url": "https://www.rtp.pt/noticias/mundo/eleicoes-intercalares-chamam-200-milhoes-as-urnas-nos-estados-unidos_e1776677",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
@@ -379,19 +405,6 @@
       "editorial_status": "titulo_normalizado"
     },
     {
-      "id": "415bc508bbe8389180e8",
-      "title": "FC Porto perde com Joventut e volta às derrotas na Liga dos Campeões de basquetebol",
-      "original_title": "FC Porto perde com Joventut e volta às derrotas na Liga dos Campeões de basquetebol",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-03T21:59:40+00:00",
-      "article_url": "https://www.rtp.pt/noticias/fc-porto/fc-porto-perde-com-joventut-e-volta-as-derrotas-na-liga-dos-campeoes-de-basquetebol_d1776672",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
       "id": "ee40e5836436d6658d69",
       "title": "NTSB says crucial plane parts found three miles from Florida crash site",
       "original_title": "NTSB says crucial plane parts found three miles from Florida crash site",
@@ -569,19 +582,6 @@
       "category": "Mundo",
       "published_at": "2026-11-03T13:26:19+00:00",
       "article_url": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "6c5c05c20976055536ff",
-      "title": "UK meat industry hit by cyber-attack which targeted European supermarket freezers",
-      "original_title": "UK meat industry hit by cyber-attack which targeted European supermarket freezers",
-      "summary": "Informação divulgada por BBC Europe. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC Europe",
-      "category": "Europa",
-      "published_at": "2026-11-03T13:07:00+00:00",
-      "article_url": "https://www.bbc.co.uk/news/articles/ckq6ndq8l6v0o?at_medium=RSS&at_campaign=rss",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
