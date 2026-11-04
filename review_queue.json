@@ -1,6 +1,110 @@
 {
-  "generated_at": "2026-11-04T08:34:08.819512+00:00",
+  "generated_at": "2026-11-04T09:29:52.125471+00:00",
   "articles": [
+    {
+      "id": "958dc35bd4c8045ef266",
+      "title": "Poundland supplier 'will lose millions' if retailer collapses",
+      "original_title": "Poundland supplier 'will lose millions' if retailer collapses",
+      "summary": "Informação divulgada por BBC Business. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC Business",
+      "category": "Economia",
+      "published_at": "2026-11-04T09:28:54+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/ck240mm3e42do?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "249d943fc87dd41eee22",
+      "title": "09h Eleitores mostram cartão vermelho a Trump",
+      "original_title": "09h Eleitores mostram cartão vermelho a Trump",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-04T09:21:02+00:00",
+      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/09h-eleitores-mostram-cartao-vermelho-a-trump_a1_1776802",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "f879986be1f0c5d7e91e",
+      "title": "EUA mudam de vermelho para azul. Democratas vencem intercalares com domínio do Congresso",
+      "original_title": "EUA mudam de vermelho para azul. Democratas vencem intercalares com domínio do Congresso",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Mundo",
+      "published_at": "2026-11-04T09:16:31+00:00",
+      "article_url": "https://www.rtp.pt/noticias/mundo/eua-mudam-de-vermelho-para-azul-democratas-vencem-intercalares-com-dominio-do-congresso_e1776677",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "e85e9ce4930a3a827d2d",
+      "title": "Democratas conquistam Congresso e impõem derrota a Trump",
+      "original_title": "Democratas conquistam Congresso e impõem derrota a Trump",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Mundo",
+      "published_at": "2026-11-04T09:13:24+00:00",
+      "article_url": "https://www.rtp.pt/noticias/mundo/democratas-conquistam-congresso-e-impoem-derrota-a-trump_n1776797",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "dd141dc0777745e3158d",
+      "title": "Key moments from a night of midterm election firsts",
+      "original_title": "Key moments from a night of midterm election firsts",
+      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC News",
+      "category": "Mundo",
+      "published_at": "2026-11-04T09:01:40+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/cmr4y92rgd9po?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "39285e7f9893062cab66",
+      "title": "Álvaro Pires. Afastado diretor Financeiro da Polícia Judiciária",
+      "original_title": "Álvaro Pires. Afastado diretor Financeiro da Polícia Judiciária",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-04T09:01:04+00:00",
+      "article_url": "https://www.rtp.pt/noticias/pais/alvaro-pires-afastado-diretor-financeiro-da-policia-judiciaria_n1776798",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "cfeb6b185f9327a53452",
+      "title": "Escola de Coimbra do Instituto Superior Miguel Torga abre delegação no Brasil",
+      "original_title": "Escola de Coimbra do Instituto Superior Miguel Torga abre delegação no Brasil",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Economia",
+      "published_at": "2026-11-04T08:48:12+00:00",
+      "article_url": "https://www.rtp.pt/noticias/economia/escola-de-coimbra-do-instituto-superior-miguel-torga-abre-delegacao-no-brasil_n1776794",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "26fc3cc98b77034565a1",
+      "title": "Bolsas europeias em alta depois de vitória dos democratas nas eleições dos EUA",
+      "original_title": "Bolsas europeias em alta depois de vitória dos democratas nas eleições dos EUA",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Economia",
+      "published_at": "2026-11-04T08:48:06+00:00",
+      "article_url": "https://www.rtp.pt/noticias/economia/bolsas-europeias-em-alta-depois-de-vitoria-dos-democratas-nas-eleicoes-dos-eua_n1776796",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
     {
       "id": "723d4283348b7bf51bfd",
       "title": "MNE \"otimista\" com possibilidade de Cimeira Ibero-Americana em Portugal em 2030",
@@ -54,19 +158,6 @@
       "editorial_status": "titulo_normalizado"
     },
     {
-      "id": "f879986be1f0c5d7e91e",
-      "title": "EUA mudam de vermelho para azul. Democratas vencem intercalares com domínio do Congresso",
-      "original_title": "EUA mudam de vermelho para azul. Democratas vencem intercalares com domínio do Congresso",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Mundo",
-      "published_at": "2026-11-04T08:15:42+00:00",
-      "article_url": "https://www.rtp.pt/noticias/mundo/eua-mudam-de-vermelho-para-azul-democratas-vencem-intercalares-com-dominio-do-congresso_e1776677",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
       "id": "012a89af275069830a15",
       "title": "Novo treinador do Sporting já chegou a Lisboa",
       "original_title": "Novo treinador do Sporting já chegou a Lisboa",
@@ -88,19 +179,6 @@
       "category": "Portugal",
       "published_at": "2026-11-04T08:10:47+00:00",
       "article_url": "https://www.rtp.pt/noticias/desporto/liga-dos-campeoes-sporting-cumpre-e-vence-shakhtar-por-1-0_v1776785",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "958dc35bd4c8045ef266",
-      "title": "Poundland supplier 'will lose millions' if retailer collapses",
-      "original_title": "Poundland supplier 'will lose millions' if retailer collapses",
-      "summary": "Informação divulgada por BBC Business. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC Business",
-      "category": "Economia",
-      "published_at": "2026-11-04T08:05:32+00:00",
-      "article_url": "https://www.bbc.co.uk/news/articles/ck240mm3e42do?at_medium=RSS&at_campaign=rss",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
@@ -132,27 +210,14 @@
       "editorial_status": "titulo_normalizado"
     },
     {
-      "id": "2ce9551ae4d051a66e6b",
-      "title": "Não há provas de violação da integridade eleitoral diz Comissão Eleitoral",
-      "original_title": "Não há provas de violação da integridade eleitoral diz Comissão Eleitoral",
+      "id": "e6358a335044bf896b14",
+      "title": "Comissão Eleitoral de Israel conclui que não há provas de violação da integridade",
+      "original_title": "Comissão Eleitoral de Israel conclui que não há provas de violação da integridade",
       "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
       "source": "RTP Notícias",
-      "category": "Mundo",
+      "category": "Portugal",
       "published_at": "2026-11-04T08:02:24+00:00",
-      "article_url": "https://www.rtp.pt/noticias/mundo/nao-ha-provas-de-violacao-da-integridade-eleitoral-diz-comissao-eleitoral_n1776774",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "dd141dc0777745e3158d",
-      "title": "Key moments from a night of midterm election firsts",
-      "original_title": "Key moments from a night of midterm election firsts",
-      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC News",
-      "category": "Mundo",
-      "published_at": "2026-11-04T07:40:12+00:00",
-      "article_url": "https://www.bbc.co.uk/news/articles/cmr4y92rgd9po?at_medium=RSS&at_campaign=rss",
+      "article_url": "https://www.rtp.pt/noticias/guerra-no-medio-oriente/comissao-eleitoral-de-israel-conclui-que-nao-ha-provas-de-violacao-da-integridade_n1776774",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
@@ -301,9 +366,9 @@
       "editorial_status": "titulo_normalizado"
     },
     {
-      "id": "48a5cc9dcd132a43a0d3",
-      "title": "Anthony Zurcher: Democrats tear up Trump's political map on historic night",
-      "original_title": "Anthony Zurcher: Democrats tear up Trump's political map on historic night",
+      "id": "0dc346787a56751fa107",
+      "title": "Anthony Zurcher: Democrats push deep into Trump heartland on historic night",
+      "original_title": "Anthony Zurcher: Democrats push deep into Trump heartland on historic night",
       "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
       "source": "BBC News",
       "category": "Mundo",
@@ -314,14 +379,14 @@
       "editorial_status": "titulo_normalizado"
     },
     {
-      "id": "70cbde8d181b00586afc",
-      "title": "Manifestantes voltam a montar tendas no Rossio",
-      "original_title": "Manifestantes voltam a montar tendas no Rossio",
+      "id": "9f678dbd469571407bbd",
+      "title": "Mais de meia centena de tendas amanhecem no Rossio",
+      "original_title": "Mais de meia centena de tendas amanhecem no Rossio",
       "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
       "source": "RTP Notícias",
       "category": "Portugal",
       "published_at": "2026-11-04T06:48:52+00:00",
-      "article_url": "https://www.rtp.pt/noticias/pais/manifestantes-voltam-a-montar-tendas-no-rossio_n1776719",
+      "article_url": "https://www.rtp.pt/noticias/pais/mais-de-meia-centena-de-tendas-amanhecem-no-rossio_n1776719",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
@@ -366,19 +431,6 @@
       "editorial_status": "titulo_normalizado"
     },
     {
-      "id": "daeaf63baae51053ee4d",
-      "title": "NASA prevê que telescópio Swift caia na Terra sem controlo",
-      "original_title": "NASA prevê que telescópio Swift caia na Terra sem controlo",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Mundo",
-      "published_at": "2026-11-04T06:25:51+00:00",
-      "article_url": "https://www.rtp.pt/noticias/mundo/nasa-preve-que-telescopio-swift-caia-na-terra-sem-controlo_n1776699",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
       "id": "59c00145496df03e377e",
       "title": "US contractor gave Ethiopia secrets to help kill Tigray fighters",
       "original_title": "US contractor gave Ethiopia secrets to help kill Tigray fighters",
@@ -392,32 +444,6 @@
       "editorial_status": "titulo_normalizado"
     },
     {
-      "id": "01fec61e5d0672afe47d",
-      "title": "Trump atribui derrota \"em parte\" a guerra no Irão",
-      "original_title": "Trump atribui derrota \"em parte\" a guerra no Irão",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Mundo",
-      "published_at": "2026-11-04T05:57:56+00:00",
-      "article_url": "https://www.rtp.pt/noticias/mundo/trump-atribui-derrota-em-parte-a-guerra-no-irao_n1776752",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "41bc52c4b477c6bebb2b",
-      "title": "5h Eleições EUA. Imprensa projeta vitória democrata nas duas câmaras do Congresso",
-      "original_title": "5h Eleições EUA. Imprensa projeta vitória democrata nas duas câmaras do Congresso",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-04T05:48:02+00:00",
-      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/5h-eleicoes-eua-imprensa-projeta-vitoria-democrata-nas-duas-camaras-do-congresso_a1_1776754",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
       "id": "2d0c4df8531cb699d95a",
       "title": "James Talarico becomes first Democrat to win Texas Senate seat since 1988",
       "original_title": "James Talarico becomes first Democrat to win Texas Senate seat since 1988",
@@ -426,32 +452,6 @@
       "category": "Mundo",
       "published_at": "2026-11-04T05:39:36+00:00",
       "article_url": "https://www.bbc.co.uk/news/articles/c6n8dnn09jg7o?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "e2a93479e30a175d18f2",
-      "title": "Dominado fogo de Fornos de Algodres",
-      "original_title": "Dominado fogo de Fornos de Algodres",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-04T05:36:27+00:00",
-      "article_url": "https://www.rtp.pt/noticias/pais/dominado-fogo-de-fornos-de-algodres_n1776724",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "ec24ebf2815f42d3758a",
-      "title": "4h Eleições EUA. Democratas recuperam Câmara dos Representantes, projeta imprensa",
-      "original_title": "4h Eleições EUA. Democratas recuperam Câmara dos Representantes, projeta imprensa",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-04T04:40:02+00:00",
-      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/4h-eleicoes-eua-democratas-recuperam-camara-dos-representantes-projeta-imprensa_a1_1776742",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
