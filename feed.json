@@ -2,13 +2,13 @@
   "audit_report": "audit_report.json",
   "pending_review": 45,
   "editorial_notice": "Correspondência entre fontes é apenas temática e NÃO confirma factos. Títulos RSS não são redação original; apenas textos revistos manualmente têm aprovação editorial.",
-  "generated_at": "2026-11-04T21:24:19.562729+00:00",
+  "generated_at": "2026-11-04T22:21:56.227624+00:00",
   "news": [],
   "weather": {
     "location": "Lisboa",
-    "temperature_c": 13.3,
+    "temperature_c": 12.1,
     "description": "Céu limpo",
-    "updated_at": "2026-11-04T21:24:19.561736+00:00",
+    "updated_at": "2026-11-04T22:21:56.226418+00:00",
     "source": "Open-Meteo"
   }
 }
