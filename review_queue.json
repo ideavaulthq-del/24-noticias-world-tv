@@ -1,6 +1,71 @@
 {
-  "generated_at": "2026-11-04T22:21:55.930274+00:00",
+  "generated_at": "2026-11-04T23:18:42.018303+00:00",
   "articles": [
+    {
+      "id": "f1db4d31e36e901a8136",
+      "title": "Pound rises to its highest level since the Brexit referendum",
+      "original_title": "Pound rises to its highest level since the Brexit referendum",
+      "summary": "Informação divulgada por BBC Business. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC Business",
+      "category": "Economia",
+      "published_at": "2026-11-04T23:02:24+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/c6lykq2qjn2vo?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "927e1936ea67359c6b6d",
+      "title": "Ukraine says bodycam video shows deadly Russian double-tap bombing",
+      "original_title": "Ukraine says bodycam video shows deadly Russian double-tap bombing",
+      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC News",
+      "category": "Mundo",
+      "published_at": "2026-11-04T22:48:43+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/c98rz6penv86o?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "34b937ad14891cf148ed",
+      "title": "Advogados oficiosos com casos longos passam a receber pagamentos intercalares",
+      "original_title": "Advogados oficiosos com casos longos passam a receber pagamentos intercalares",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-04T22:33:18+00:00",
+      "article_url": "https://www.rtp.pt/noticias/pais/advogados-oficiosos-com-casos-longos-passam-a-receber-pagamentos-intercalares_n1776950",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "4dc1288c26f17a81581c",
+      "title": "El-Sayed considera que Michigan rejeitou \"campanha odiosa e rancorosa\"",
+      "original_title": "El-Sayed considera que Michigan rejeitou \"campanha odiosa e rancorosa\"",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Mundo",
+      "published_at": "2026-11-04T22:32:53+00:00",
+      "article_url": "https://www.rtp.pt/noticias/mundo/el-sayed-considera-que-michigan-rejeitou-campanha-odiosa-e-rancorosa_n1776948",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "a9b7d8eb21246f701eba",
+      "title": "Obra do compositor português Jorge Ramos entre finalistas do Prémio Russolo 2026",
+      "original_title": "Obra do compositor português Jorge Ramos entre finalistas do Prémio Russolo 2026",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Cultura",
+      "published_at": "2026-11-04T22:31:08+00:00",
+      "article_url": "https://www.rtp.pt/noticias/cultura/obra-do-compositor-portugues-jorge-ramos-entre-finalistas-do-premio-russolo-2026_n1776961",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
     {
       "id": "38ff85ddfbfcca5d08ca",
       "title": "Franclim Carvalho quer Sporting de Braga a resolver jogo \"o mais cedo possível\"",
@@ -36,19 +101,6 @@
       "category": "Economia",
       "published_at": "2026-11-04T21:41:15+00:00",
       "article_url": "https://www.bbc.co.uk/news/articles/cv8ez3p3ge5ko?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "f1db4d31e36e901a8136",
-      "title": "Pound rises to its highest level since the Brexit referendum",
-      "original_title": "Pound rises to its highest level since the Brexit referendum",
-      "summary": "Informação divulgada por BBC Business. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC Business",
-      "category": "Economia",
-      "published_at": "2026-11-04T21:35:50+00:00",
-      "article_url": "https://www.bbc.co.uk/news/articles/c6lykq2qjn2vo?at_medium=RSS&at_campaign=rss",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
@@ -249,19 +301,6 @@
       "editorial_status": "titulo_normalizado"
     },
     {
-      "id": "927e1936ea67359c6b6d",
-      "title": "Ukraine says bodycam video shows deadly Russian double-tap bombing",
-      "original_title": "Ukraine says bodycam video shows deadly Russian double-tap bombing",
-      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC News",
-      "category": "Mundo",
-      "published_at": "2026-11-04T20:22:40+00:00",
-      "article_url": "https://www.bbc.co.uk/news/articles/c98rz6penv86o?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
       "id": "fea6af0ca824a07edc31",
       "title": "Golo de Valverde nos descontos dá quarta vitória ao Real Madrid",
       "original_title": "Golo de Valverde nos descontos dá quarta vitória ao Real Madrid",
@@ -348,45 +387,6 @@
       "category": "Economia",
       "published_at": "2026-11-04T19:38:53+00:00",
       "article_url": "https://www.bbc.co.uk/news/articles/cqvg0y44ym7vo?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "e974454d3a8fba326f50",
-      "title": "19h EUA: Guerra com o Irão explica derrota nas intercalares, diz Trump",
-      "original_title": "19h EUA: Guerra com o Irão explica derrota nas intercalares, diz Trump",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-04T19:36:02+00:00",
-      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/19h-eua-guerra-com-o-irao-explica-derrota-nas-intercalares-diz-trump_a1_1776937",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "d80f5780874c1e39ef43",
-      "title": "18h30 FC Porto e Paulo Fonseca em noite de Liga dos Campeões",
-      "original_title": "18h30 FC Porto e Paulo Fonseca em noite de Liga dos Campeões",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-04T19:29:03+00:00",
-      "article_url": "https://www.rtp.pt/noticias/noticiario-desporto/18h30-fc-porto-e-paulo-fonseca-em-noite-de-liga-dos-campeoes_a1_1776935",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "5c2e9a93d3724b147001",
-      "title": "Dois carros a arder cortaram A1 no sentido sul/norte em Vila Nova de Gaia",
-      "original_title": "Dois carros a arder cortaram A1 no sentido sul/norte em Vila Nova de Gaia",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-04T19:26:12+00:00",
-      "article_url": "https://www.rtp.pt/noticias/pais/dois-carros-a-arder-cortaram-a1-no-sentido-sulnorte-em-vila-nova-de-gaia_n1776931",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
