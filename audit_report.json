@@ -1,6 +1,38 @@
 {
-  "generated_at": "2026-11-05T18:53:28.709851+00:00",
+  "generated_at": "2026-11-05T19:52:44.488905+00:00",
   "audits": [
+    {
+      "article_id": "050f1c51196df9232253",
+      "sources_detected": 1,
+      "issues": [
+        "sem_segunda_fonte_independente"
+      ],
+      "status": "revisao_humana_obrigatoria"
+    },
+    {
+      "article_id": "015847e71a0f839160c7",
+      "sources_detected": 1,
+      "issues": [
+        "sem_segunda_fonte_independente"
+      ],
+      "status": "revisao_humana_obrigatoria"
+    },
+    {
+      "article_id": "4cc6947135a52e60c982",
+      "sources_detected": 1,
+      "issues": [
+        "sem_segunda_fonte_independente"
+      ],
+      "status": "revisao_humana_obrigatoria"
+    },
+    {
+      "article_id": "58532147cfe901886aa3",
+      "sources_detected": 1,
+      "issues": [
+        "sem_segunda_fonte_independente"
+      ],
+      "status": "revisao_humana_obrigatoria"
+    },
     {
       "article_id": "11803ffe9bdcfef36f6d",
       "sources_detected": 1,
@@ -43,14 +75,6 @@
     },
     {
       "article_id": "42347cdac84560320e7e",
-      "sources_detected": 1,
-      "issues": [
-        "sem_segunda_fonte_independente"
-      ],
-      "status": "revisao_humana_obrigatoria"
-    },
-    {
-      "article_id": "4cc6947135a52e60c982",
       "sources_detected": 1,
       "issues": [
         "sem_segunda_fonte_independente"
@@ -186,7 +210,7 @@
       "status": "revisao_humana_obrigatoria"
     },
     {
-      "article_id": "6b2935bbea530525a57f",
+      "article_id": "e3eb62e2756188a05d60",
       "sources_detected": 1,
       "issues": [
         "sem_segunda_fonte_independente"
@@ -243,14 +267,6 @@
     },
     {
       "article_id": "67cbc420fad76ddbe48d",
-      "sources_detected": 1,
-      "issues": [
-        "sem_segunda_fonte_independente"
-      ],
-      "status": "revisao_humana_obrigatoria"
-    },
-    {
-      "article_id": "98d2bb0e39208f3069e2",
       "sources_detected": 1,
       "issues": [
         "sem_segunda_fonte_independente"
@@ -339,22 +355,6 @@
     },
     {
       "article_id": "65f8b5abede5abda41a3",
-      "sources_detected": 1,
-      "issues": [
-        "sem_segunda_fonte_independente"
-      ],
-      "status": "revisao_humana_obrigatoria"
-    },
-    {
-      "article_id": "487fb4a6f4748ceff6cf",
-      "sources_detected": 1,
-      "issues": [
-        "sem_segunda_fonte_independente"
-      ],
-      "status": "revisao_humana_obrigatoria"
-    },
-    {
-      "article_id": "4dbc12f14fb95766b758",
       "sources_detected": 1,
       "issues": [
         "sem_segunda_fonte_independente"
