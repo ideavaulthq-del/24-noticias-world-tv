@@ -1,6 +1,19 @@
 {
-  "generated_at": "2026-11-05T04:57:46.993688+00:00",
+  "generated_at": "2026-11-05T05:58:55.438987+00:00",
   "articles": [
+    {
+      "id": "f66879afaac9e43f4c26",
+      "title": "5h Eleições EUA. Votações para o Senado renhidas no Mississipi e no Alasca",
+      "original_title": "5h Eleições EUA. Votações para o Senado renhidas no Mississipi e no Alasca",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-05T05:17:02+00:00",
+      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/5h-eleicoes-eua-votacoes-para-o-senado-renhidas-no-mississipi-e-no-alasca_a1_1776996",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
     {
       "id": "b50c15d8136c99c60923",
       "title": "4h Julgamento do caso do homicídio de Rosalina Ribeiro começa esta quinta-feira",
@@ -426,19 +439,6 @@
       "category": "Cultura",
       "published_at": "2026-11-04T22:31:08+00:00",
       "article_url": "https://www.rtp.pt/noticias/cultura/obra-do-compositor-portugues-jorge-ramos-entre-finalistas-do-premio-russolo-2026_n1776961",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "38ff85ddfbfcca5d08ca",
-      "title": "Franclim Carvalho quer Sporting de Braga a resolver jogo \"o mais cedo possível\"",
-      "original_title": "Franclim Carvalho quer Sporting de Braga a resolver jogo \"o mais cedo possível\"",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-04T22:06:59+00:00",
-      "article_url": "https://www.rtp.pt/noticias/futebol-internacional/franclim-carvalho-quer-sporting-de-braga-a-resolver-jogo-o-mais-cedo-possivel_d1776964",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
