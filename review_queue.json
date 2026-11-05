@@ -1,6 +1,19 @@
 {
-  "generated_at": "2026-11-05T01:46:59.840718+00:00",
+  "generated_at": "2026-11-05T02:54:32.286556+00:00",
   "articles": [
+    {
+      "id": "4e050866b92d222a0b53",
+      "title": "1h O governo quer a Matemática obrigatória do décimo ao décimo segundo ano",
+      "original_title": "1h O governo quer a Matemática obrigatória do décimo ao décimo segundo ano",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-05T02:08:02+00:00",
+      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/1h-o-governo-quer-a-matematica-obrigatoria-do-decimo-ao-decimo-segundo-ano_a1_1776985",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
     {
       "id": "ba14b3f9b05075e53d32",
       "title": "0h A acampada do Porto vai reunir-se com o Presidente da República",
@@ -28,9 +41,9 @@
       "editorial_status": "titulo_normalizado"
     },
     {
-      "id": "82d90025986d446a2cd2",
-      "title": "Australia's oldest department store David Jones collapses after 188 years",
-      "original_title": "Australia's oldest department store David Jones collapses after 188 years",
+      "id": "08ae122bb071776374ec",
+      "title": "Australia's oldest department store David Jones folds after 188 years",
+      "original_title": "Australia's oldest department store David Jones folds after 188 years",
       "summary": "Informação divulgada por BBC Business. Consulte a publicação original para conhecer os detalhes e o contexto.",
       "source": "BBC Business",
       "category": "Economia",
@@ -215,9 +228,9 @@
       "original_title": "Grande Entrevista. Pedro Abrunhosa acusa Governo de instrumentalizar a polícia",
       "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
       "source": "RTP Notícias",
-      "category": "Cultura",
+      "category": "Portugal",
       "published_at": "2026-11-05T00:02:05+00:00",
-      "article_url": "https://www.rtp.pt/noticias/cultura/grande-entrevista-pedro-abrunhosa-acusa-governo-de-instrumentalizar-a-policia_n1776974",
+      "article_url": "https://www.rtp.pt/noticias/pais/grande-entrevista-pedro-abrunhosa-acusa-governo-de-instrumentalizar-a-policia_n1776974",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
@@ -374,19 +387,6 @@
       "category": "Portugal",
       "published_at": "2026-11-04T21:23:57+00:00",
       "article_url": "https://www.rtp.pt/noticias/pais/governo-quer-matematica-obrigatoria-ate-ao-12o-ano-em-todos-os-cursos_n1776960",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "93f892d0f010f39a0533",
-      "title": "Zelensky soma-se a 30.ª Cimeira Ibero-Americana de Madrid",
-      "original_title": "Zelensky soma-se a 30.ª Cimeira Ibero-Americana de Madrid",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-04T21:20:25+00:00",
-      "article_url": "https://www.rtp.pt/noticias/guerra-na-ucrania/zelensky-soma-se-a-30a-cimeira-ibero-americana-de-madrid_n1776895",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
