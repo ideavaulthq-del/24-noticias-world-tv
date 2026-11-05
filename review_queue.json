@@ -1,6 +1,45 @@
 {
-  "generated_at": "2026-11-04T23:18:42.018303+00:00",
+  "generated_at": "2026-11-05T00:14:13.698942+00:00",
   "articles": [
+    {
+      "id": "fbe71e4ea9722c5f380d",
+      "title": "Grande Entrevista. Pedro Abrunhosa acusa Governo de instrumentalizar a polícia",
+      "original_title": "Grande Entrevista. Pedro Abrunhosa acusa Governo de instrumentalizar a polícia",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Cultura",
+      "published_at": "2026-11-05T00:02:05+00:00",
+      "article_url": "https://www.rtp.pt/noticias/cultura/grande-entrevista-pedro-abrunhosa-acusa-governo-de-instrumentalizar-a-policia_n1776974",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "2e68f2453fd83ab7bee3",
+      "title": "Interest rates expected to rise for first time in over three years",
+      "original_title": "Interest rates expected to rise for first time in over three years",
+      "summary": "Informação divulgada por BBC Business. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC Business",
+      "category": "Economia",
+      "published_at": "2026-11-05T00:00:09+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "a3e596ac057eaa25178e",
+      "title": "23h Número de alunos sem aulas vai ser conhecido em dezembro, diz ministro da Educação",
+      "original_title": "23h Número de alunos sem aulas vai ser conhecido em dezembro, diz ministro da Educação",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-04T23:45:02+00:00",
+      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/23h-numero-de-alunos-sem-aulas-vai-ser-conhecido-em-dezembro-diz-ministro-da-educacao_a1_1776972",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
     {
       "id": "f1db4d31e36e901a8136",
       "title": "Pound rises to its highest level since the Brexit referendum",
@@ -8,7 +47,7 @@
       "summary": "Informação divulgada por BBC Business. Consulte a publicação original para conhecer os detalhes e o contexto.",
       "source": "BBC Business",
       "category": "Economia",
-      "published_at": "2026-11-04T23:02:24+00:00",
+      "published_at": "2026-11-04T23:30:28+00:00",
       "article_url": "https://www.bbc.co.uk/news/articles/c6lykq2qjn2vo?at_medium=RSS&at_campaign=rss",
       "image_url": "",
       "verification_status": "fonte_unica",
@@ -340,32 +379,6 @@
       "editorial_status": "titulo_normalizado"
     },
     {
-      "id": "7c67930b7677670fe265",
-      "title": "A1 parcialmente reaberta no sentido sul/norte em Gaia após corte por fogo em viaturas",
-      "original_title": "A1 parcialmente reaberta no sentido sul/norte em Gaia após corte por fogo em viaturas",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-04T19:53:33+00:00",
-      "article_url": "https://www.rtp.pt/noticias/pais/a1-parcialmente-reaberta-no-sentido-sulnorte-em-gaia-apos-corte-por-fogo-em-viaturas_n1776938",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "312c1c17476a6b5f18b7",
-      "title": "Conselho de Redação da Lusa dá parecer negativo à nomeação de Diana Ramos para diretora",
-      "original_title": "Conselho de Redação da Lusa dá parecer negativo à nomeação de Diana Ramos para diretora",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-04T19:50:24+00:00",
-      "article_url": "https://www.rtp.pt/noticias/pais/conselho-de-redacao-da-lusa-da-parecer-negativo-a-nomeacao-de-diana-ramos-para-diretora_n1776940",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
       "id": "fd03f1bafd886a466b6c",
       "title": "Poundland owner in crunch talks as retailer's collapse looms",
       "original_title": "Poundland owner in crunch talks as retailer's collapse looms",
@@ -569,19 +582,6 @@
       "category": "Mundo",
       "published_at": "2026-11-04T12:34:33+00:00",
       "article_url": "https://www.bbc.co.uk/news/articles/cvglw7x239pwo?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "cf18a7699f1254969beb",
-      "title": "ANC under pressure to reverse South Africa decline",
-      "original_title": "ANC under pressure to reverse South Africa decline",
-      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC News",
-      "category": "Mundo",
-      "published_at": "2026-11-04T11:47:44+00:00",
-      "article_url": "https://www.bbc.co.uk/news/articles/cr4g1x6l77xyo?at_medium=RSS&at_campaign=rss",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
