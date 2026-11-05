@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-11-05T02:54:32.286556+00:00",
+  "generated_at": "2026-11-05T03:54:23.720259+00:00",
   "articles": [
+    {
+      "id": "b6be6924cd1697cbf170",
+      "title": "3h Ministro da Educação diz que aumento de propinas não vai afetar alunos carenciados",
+      "original_title": "3h Ministro da Educação diz que aumento de propinas não vai afetar alunos carenciados",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-05T03:18:01+00:00",
+      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/3h-ministro-da-educacao-diz-que-aumento-de-propinas-nao-vai-afetar-alunos-carenciados_a1_1776988",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "61d3175c0b33aa84fd7f",
+      "title": "2h Habitação. Acampada do Porto vai reunir-se com o Presidente da República",
+      "original_title": "2h Habitação. Acampada do Porto vai reunir-se com o Presidente da República",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-05T03:18:01+00:00",
+      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/2h-habitacao-acampada-do-porto-vai-reunir-se-com-o-presidente-da-republica_a1_1776987",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
     {
       "id": "4e050866b92d222a0b53",
       "title": "1h O governo quer a Matemática obrigatória do décimo ao décimo segundo ano",
@@ -361,32 +387,6 @@
       "category": "Economia",
       "published_at": "2026-11-04T21:41:15+00:00",
       "article_url": "https://www.bbc.co.uk/news/articles/cv8ez3p3ge5ko?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "df4c716a83922004a7c5",
-      "title": "Metro chegará a Espinho, São João da Madeira, Oliveira de Azeméis e Feira diz Ministro das Infraestruturas",
-      "original_title": "Metro chegará a Espinho, São João da Madeira, Oliveira de Azeméis e Feira diz Ministro das Infraestruturas",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Economia",
-      "published_at": "2026-11-04T21:25:50+00:00",
-      "article_url": "https://www.rtp.pt/noticias/economia/metro-chegara-a-espinho-sao-joao-da-madeira-oliveira-de-azemeis-e-feira-diz-ministro-das-infraestruturas_n1776893",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "6bdbf60754a93ca3a59d",
-      "title": "Governo quer Matemática obrigatória até ao 12.º ano em todos os cursos",
-      "original_title": "Governo quer Matemática obrigatória até ao 12.º ano em todos os cursos",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-04T21:23:57+00:00",
-      "article_url": "https://www.rtp.pt/noticias/pais/governo-quer-matematica-obrigatoria-ate-ao-12o-ano-em-todos-os-cursos_n1776960",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
