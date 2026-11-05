@@ -1,15 +1,93 @@
 {
-  "generated_at": "2026-11-05T21:46:42.688724+00:00",
+  "generated_at": "2026-11-05T22:47:39.765462+00:00",
   "articles": [
     {
-      "id": "f04c9424f024a65f9d1c",
-      "title": "Major tech and AI stocks plummet as Nasdaq loses $2.5tn in value",
-      "original_title": "Major tech and AI stocks plummet as Nasdaq loses $2.5tn in value",
+      "id": "88729fb2cb980613e1f2",
+      "title": "Firms told to publish salaries in job adverts ahead of new law",
+      "original_title": "Firms told to publish salaries in job adverts ahead of new law",
+      "summary": "Informação divulgada por BBC Business. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC Business",
+      "category": "Economia",
+      "published_at": "2026-11-05T22:32:02+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/cmd9343z3zw2o?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "0177756be33e83ebceee",
+      "title": "California governor commutes sentences for state's 548 death row inmates",
+      "original_title": "California governor commutes sentences for state's 548 death row inmates",
       "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
       "source": "BBC News",
       "category": "Mundo",
-      "published_at": "2026-11-05T21:43:39+00:00",
+      "published_at": "2026-11-05T22:31:40+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "8fc5d148efaf1b29242a",
+      "title": "Acampada no Porto recusa sair da Praça D. João I para dar lugar a mercado de Natal",
+      "original_title": "Acampada no Porto recusa sair da Praça D. João I para dar lugar a mercado de Natal",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Mundo",
+      "published_at": "2026-11-05T22:30:10+00:00",
+      "article_url": "https://www.rtp.pt/noticias/mundo/acampada-no-porto-recusa-sair-da-praca-d-joao-i-para-dar-lugar-a-mercado-de-natal_n1777246",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "3f30c29c726866ecbb85",
+      "title": "Lei das rendas. Carneiro \"lamenta intransigência\" do Governo e AD acusa PS de negar realidade",
+      "original_title": "Lei das rendas. Carneiro \"lamenta intransigência\" do Governo e AD acusa PS de negar realidade",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-05T22:20:26+00:00",
+      "article_url": "https://www.rtp.pt/noticias/politica/lei-das-rendas-carneiro-lamenta-intransigencia-do-governo-e-ad-acusa-ps-de-negar-realidade_n1777212",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "fe4dc5789277593c0956",
+      "title": "Major tech stocks plunge as US midterms add to fears of AI slowdown",
+      "original_title": "Major tech stocks plunge as US midterms add to fears of AI slowdown",
+      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC News",
+      "category": "Mundo",
+      "published_at": "2026-11-05T22:13:38+00:00",
       "article_url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "8d76ef25b5171dcc070a",
+      "title": "Ministro diz que agricultura terá \"maior orçamento de sempre\"",
+      "original_title": "Ministro diz que agricultura terá \"maior orçamento de sempre\"",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Economia",
+      "published_at": "2026-11-05T21:54:49+00:00",
+      "article_url": "https://www.rtp.pt/noticias/economia/ministro-diz-que-agricultura-tera-maior-orcamento-de-sempre_n1777240",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "5cd9330f8fd9c79ef178",
+      "title": "Portugal continental com chuva, vento e agitação marítima até à próxima semana devido à depressão Bruna",
+      "original_title": "Portugal continental com chuva, vento e agitação marítima até à próxima semana devido à depressão Bruna",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-05T21:46:35+00:00",
+      "article_url": "https://www.rtp.pt/noticias/pais/portugal-continental-com-chuva-vento-e-agitacao-maritima-ate-a-proxima-semana-devido-a-depressao-bruna_n1777215",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
@@ -132,19 +210,6 @@
       "editorial_status": "titulo_normalizado"
     },
     {
-      "id": "0177756be33e83ebceee",
-      "title": "California governor commutes sentences for state's 548 death row inmates",
-      "original_title": "California governor commutes sentences for state's 548 death row inmates",
-      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC News",
-      "category": "Mundo",
-      "published_at": "2026-11-05T21:25:48+00:00",
-      "article_url": "https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
       "id": "a6b11d1c4a68d2d2781d",
       "title": "Kaja Kallas defende que UE não deve falar a várias vozes sobre Ucrânia",
       "original_title": "Kaja Kallas defende que UE não deve falar a várias vozes sobre Ucrânia",
@@ -243,7 +308,7 @@
       "source": "RTP Notícias",
       "category": "Portugal",
       "published_at": "2026-11-05T20:51:15+00:00",
-      "article_url": "https://www.rtp.pt/noticias/futebol-nacional/cristiano-um-gigante-que-pendura-as-botas-na-selecao_d1777208",
+      "article_url": "https://www.rtp.pt/noticias/selecao-nacional/cristiano-um-gigante-que-pendura-as-botas-na-selecao_d1777208",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
@@ -301,19 +366,6 @@
       "editorial_status": "titulo_normalizado"
     },
     {
-      "id": "77a7a608f73e3dc8774f",
-      "title": "AC Milan, de Ruben Amorim, volta a perder",
-      "original_title": "AC Milan, de Ruben Amorim, volta a perder",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-05T20:23:09+00:00",
-      "article_url": "https://www.rtp.pt/noticias/futebol-internacional/ac-milan-de-ruben-amorim-volta-a-perder_d1777219",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
       "id": "2f005974d25c2e817f0c",
       "title": "Who could be behind hoax bomb threats to European air travel?",
       "original_title": "Who could be behind hoax bomb threats to European air travel?",
@@ -322,32 +374,6 @@
       "category": "Mundo",
       "published_at": "2026-11-05T19:58:40+00:00",
       "article_url": "https://www.bbc.co.uk/news/articles/cx8dzzjg3g9zo?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "62c58540b095d131bfb9",
-      "title": "Regresso de comboios a Alcântara-Terra nos fins de semana traz um por hora em cada sentido",
-      "original_title": "Regresso de comboios a Alcântara-Terra nos fins de semana traz um por hora em cada sentido",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Economia",
-      "published_at": "2026-11-05T19:58:16+00:00",
-      "article_url": "https://www.rtp.pt/noticias/economia/regresso-de-comboios-a-alcantara-terra-nos-fins-de-semana-traz-um-por-hora-em-cada-sentido_n1777218",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "050f1c51196df9232253",
-      "title": "Netanyahu cada vez mais enfraquecido à medida que rival consegue apoio dos partidos árabes",
-      "original_title": "Netanyahu cada vez mais enfraquecido à medida que rival consegue apoio dos partidos árabes",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Mundo",
-      "published_at": "2026-11-05T19:34:58+00:00",
-      "article_url": "https://www.rtp.pt/noticias/mundo/netanyahu-cada-vez-mais-enfraquecido-a-medida-que-rival-consegue-apoio-dos-partidos-arabes_n1777205",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
@@ -374,19 +400,6 @@
       "category": "Mundo",
       "published_at": "2026-11-05T19:08:08+00:00",
       "article_url": "https://www.bbc.co.uk/news/articles/c9p8g085mz07o?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "11803ffe9bdcfef36f6d",
-      "title": "Polícia Marítima já aprendeu mais combustível este ano do que em todo o ano de 2025",
-      "original_title": "Polícia Marítima já aprendeu mais combustível este ano do que em todo o ano de 2025",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-05T18:38:38+00:00",
-      "article_url": "https://www.rtp.pt/noticias/pais/policia-maritima-ja-aprendeu-mais-combustivel-este-ano-do-que-em-todo-o-ano-de-2025_n1777191",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
@@ -535,9 +548,9 @@
       "editorial_status": "titulo_normalizado"
     },
     {
-      "id": "3c40214ba311d123f2c5",
-      "title": "Ronaldo retires from Portugal duty",
-      "original_title": "Ronaldo retires from Portugal duty",
+      "id": "6f01642da069e7cf58e7",
+      "title": "Portugal great Ronaldo retires from international duty",
+      "original_title": "Portugal great Ronaldo retires from international duty",
       "summary": "Informação divulgada por BBC Europe. Consulte a publicação original para conhecer os detalhes e o contexto.",
       "source": "BBC Europe",
       "category": "Europa",
@@ -569,19 +582,6 @@
       "category": "Mundo",
       "published_at": "2026-11-05T11:21:35+00:00",
       "article_url": "https://www.bbc.co.uk/news/articles/cq4g1r42jx00o?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "09f080663e6acf7dbd6a",
-      "title": "Welsh aviation firm AerFin bought in £475m deal",
-      "original_title": "Welsh aviation firm AerFin bought in £475m deal",
-      "summary": "Informação divulgada por BBC Business. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC Business",
-      "category": "Economia",
-      "published_at": "2026-11-05T11:01:06+00:00",
-      "article_url": "https://www.bbc.co.uk/news/articles/cq203vjxnln7o?at_medium=RSS&at_campaign=rss",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
