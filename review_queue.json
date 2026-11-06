@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-11-06T19:29:20.053458+00:00",
+  "generated_at": "2026-11-06T20:20:07.981889+00:00",
   "articles": [
+    {
+      "id": "c1cdc213519354adb61c",
+      "title": "AI stocks climb after trillions wiped from market values",
+      "original_title": "AI stocks climb after trillions wiped from market values",
+      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC News",
+      "category": "Mundo",
+      "published_at": "2026-11-06T19:37:10+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "9021819475caa65d6952",
+      "title": "Acampada do Porto monta lona e quatro grandes tendas para se proteger da chuva",
+      "original_title": "Acampada do Porto monta lona e quatro grandes tendas para se proteger da chuva",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Economia",
+      "published_at": "2026-11-06T19:36:35+00:00",
+      "article_url": "https://www.rtp.pt/noticias/economia/acampada-do-porto-monta-lona-e-quatro-grandes-tendas-para-se-proteger-da-chuva_n1777493",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
     {
       "id": "d3b6eb5856aa12a75c44",
       "title": "19h PS e Chega acusados de condicionar ação do Governo",
@@ -35,7 +61,7 @@
       "source": "RTP Notícias",
       "category": "Portugal",
       "published_at": "2026-11-06T19:14:28+00:00",
-      "article_url": "https://www.rtp.pt/noticias/pais/nicolau-santos-volta-a-ser-escolhido-para-presidente-do-conselho-de-administracao-da-rtp_n1777496",
+      "article_url": "https://www.rtp.pt/noticias/pais/cgi-reconduz-nicolau-santos-como-presidente-do-conselho-de-administracao-da-rtp_n1777496",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
@@ -275,19 +301,6 @@
       "editorial_status": "titulo_normalizado"
     },
     {
-      "id": "c1cdc213519354adb61c",
-      "title": "AI stocks climb after trillions wiped from market values",
-      "original_title": "AI stocks climb after trillions wiped from market values",
-      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC News",
-      "category": "Mundo",
-      "published_at": "2026-11-06T17:03:02+00:00",
-      "article_url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
       "id": "bc826a2454f407c121c6",
       "title": "Dozens of Democrats eyeing 2028 presidential run, says former Obama aide",
       "original_title": "Dozens of Democrats eyeing 2028 presidential run, says former Obama aide",
@@ -400,19 +413,6 @@
       "category": "Portugal",
       "published_at": "2026-11-06T15:47:01+00:00",
       "article_url": "https://www.rtp.pt/noticias/pais/caso-spinumviva-tribunal-constitucional-volta-a-rejeitar-recursos-de-montenegro_n1777422",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "894c12e40fb103bd40d7",
-      "title": "Benfica vai acabar com equipa de sub-23 no final desta época",
-      "original_title": "Benfica vai acabar com equipa de sub-23 no final desta época",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-06T15:38:41+00:00",
-      "article_url": "https://www.rtp.pt/noticias/benfica/benfica-vai-acabar-com-equipa-de-sub-23-no-final-desta-epoca_d1777420",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
