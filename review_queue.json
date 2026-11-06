@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T03:23:11.845782+00:00",
+  "generated_at": "2026-11-06T04:30:18.317991+00:00",
   "articles": [
     {
       "id": "7ba32b273cf2db8682f0",
@@ -8,8 +8,47 @@
       "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
       "source": "BBC News",
       "category": "Mundo",
-      "published_at": "2026-11-06T03:17:39+00:00",
+      "published_at": "2026-11-06T04:29:25+00:00",
       "article_url": "https://www.bbc.co.uk/news/articles/cmy0eeg101djo?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "e1b160b5a84bbb0c9e2c",
+      "title": "4h Acampadas de Lisboa e do Porto recusam sair para instalação de mercados de Natal",
+      "original_title": "4h Acampadas de Lisboa e do Porto recusam sair para instalação de mercados de Natal",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-06T04:16:03+00:00",
+      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/4h-acampadas-de-lisboa-e-do-porto-recusam-sair-para-instalacao-de-mercados-de-natal_a1_1777277",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "ad330e2aa05b91cf3f92",
+      "title": "2h Benfica e Torreense vencem na Liga Europa. Sporting de Braga empata na Liga Conferência",
+      "original_title": "2h Benfica e Torreense vencem na Liga Europa. Sporting de Braga empata na Liga Conferência",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-06T04:16:03+00:00",
+      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/2h-benfica-e-torreense-vencem-na-liga-europa-sporting-de-braga-empata-na-liga-conferencia_a1_1777276",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "6db06865e1d72f53a8f2",
+      "title": "3h Habitação. Encontros entre Luís Montenegro, e os líderes de PS e Chega terminam sem acordo",
+      "original_title": "3h Habitação. Encontros entre Luís Montenegro, e os líderes de PS e Chega terminam sem acordo",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-06T04:16:02+00:00",
+      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/3h-habitacao-encontros-entre-luis-montenegro-e-os-lideres-de-ps-e-chega-terminam-sem-acordo_a1_1777275",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
@@ -413,45 +452,6 @@
       "category": "Portugal",
       "published_at": "2026-11-05T21:33:38+00:00",
       "article_url": "https://www.rtp.pt/noticias/guerra-na-ucrania/kaja-kallas-diz-que-russia-nao-esta-interessada-na-paz_n1777220",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "b4163abf01abcec2c848",
-      "title": "Acampada do Porto acusa Governo de querer negociar apenas de \"fachada\"",
-      "original_title": "Acampada do Porto acusa Governo de querer negociar apenas de \"fachada\"",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-05T21:31:52+00:00",
-      "article_url": "https://www.rtp.pt/noticias/pais/acampada-do-porto-acusa-governo-de-querer-negociar-apenas-de-fachada_n1777221",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "57aeb17b2bb718720473",
-      "title": "Governo quer novo submarino e vai incluí-lo na Lei de Programação Militar",
-      "original_title": "Governo quer novo submarino e vai incluí-lo na Lei de Programação Militar",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Economia",
-      "published_at": "2026-11-05T21:30:54+00:00",
-      "article_url": "https://www.rtp.pt/noticias/economia/governo-quer-novo-submarino-e-vai-inclui-lo-na-lei-de-programacao-militar_n1777222",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "dfe7c855ec55e704e495",
-      "title": "Central nuclear espanhola de Almaraz reporta paragem de reator",
-      "original_title": "Central nuclear espanhola de Almaraz reporta paragem de reator",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Mundo",
-      "published_at": "2026-11-05T21:30:17+00:00",
-      "article_url": "https://www.rtp.pt/noticias/mundo/central-nuclear-espanhola-de-almaraz-reporta-paragem-de-reator_n1777229",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
