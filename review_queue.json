@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T01:00:37.896983+00:00",
+  "generated_at": "2026-11-06T02:10:49.442780+00:00",
   "articles": [
     {
       "id": "fe4dc5789277593c0956",
@@ -8,8 +8,34 @@
       "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
       "source": "BBC News",
       "category": "Mundo",
-      "published_at": "2026-11-06T00:41:15+00:00",
+      "published_at": "2026-11-06T01:44:03+00:00",
       "article_url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "261a287c8a77ef92d6e6",
+      "title": "Democratic socialist defeats incumbent Karen Bass in Los Angeles mayor's race",
+      "original_title": "Democratic socialist defeats incumbent Karen Bass in Los Angeles mayor's race",
+      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC News",
+      "category": "Mundo",
+      "published_at": "2026-11-06T01:28:03+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/c6e3xxwk3k11o?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "eef15a35c939ee8ecb1c",
+      "title": "01h Ministro: apoios aos agricultores é subsídio a cada português",
+      "original_title": "01h Ministro: apoios aos agricultores é subsídio a cada português",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-06T01:14:01+00:00",
+      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/01h-ministro-apoios-aos-agricultores-e-subsidio-a-cada-portugues_a1_1777261",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
@@ -127,19 +153,6 @@
       "category": "Economia",
       "published_at": "2026-11-06T00:02:52+00:00",
       "article_url": "https://www.bbc.co.uk/news/articles/c3j4751pqnj8o?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "261a287c8a77ef92d6e6",
-      "title": "Democratic socialist defeats incumbent Karen Bass in Los Angeles mayor's race",
-      "original_title": "Democratic socialist defeats incumbent Karen Bass in Los Angeles mayor's race",
-      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC News",
-      "category": "Mundo",
-      "published_at": "2026-11-05T23:31:35+00:00",
-      "article_url": "https://www.bbc.co.uk/news/articles/c6e3xxwk3k11o?at_medium=RSS&at_campaign=rss",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
@@ -413,19 +426,6 @@
       "category": "Mundo",
       "published_at": "2026-11-05T21:30:17+00:00",
       "article_url": "https://www.rtp.pt/noticias/mundo/central-nuclear-espanhola-de-almaraz-reporta-paragem-de-reator_n1777229",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "bd1c2a16c84929a04512",
-      "title": "Kallas acredita em compromisso sobre orçamento da UE ainda este ano",
-      "original_title": "Kallas acredita em compromisso sobre orçamento da UE ainda este ano",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Economia",
-      "published_at": "2026-11-05T21:29:33+00:00",
-      "article_url": "https://www.rtp.pt/noticias/economia/kallas-acredita-em-compromisso-sobre-orcamento-da-ue-ainda-este-ano_n1777236",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
