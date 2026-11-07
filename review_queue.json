@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-11-07T02:24:18.879829+00:00",
+  "generated_at": "2026-11-07T03:23:04.845303+00:00",
   "articles": [
+    {
+      "id": "d22931515dbf0b1636c8",
+      "title": "3h Habitação domina último dia de propostas de alteração ao OE",
+      "original_title": "3h Habitação domina último dia de propostas de alteração ao OE",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-07T03:19:01+00:00",
+      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/3h-habitacao-domina-ultimo-dia-de-propostas-de-alteracao-ao-oe_a1_1777553",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "0bf4d2720212794b4225",
+      "title": "2h Moedas determina saída do Rossio da Acampada pela Habitação",
+      "original_title": "2h Moedas determina saída do Rossio da Acampada pela Habitação",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-07T02:25:02+00:00",
+      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/2h-moedas-determina-saida-do-rossio-da-acampada-pela-habitacao_a1_1777552",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
     {
       "id": "2134839be8f967e841f7",
       "title": "01h OE: Número recorde de propostas de alteração",
@@ -309,32 +335,6 @@
       "category": "Mundo",
       "published_at": "2026-11-06T21:15:48+00:00",
       "article_url": "https://www.rtp.pt/noticias/mundo/honoris-causa-em-salamanca-guterres-avisa-que-imparcialidade-nao-e-neutralidade_v1777524",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "da8087fd56c478e88f80",
-      "title": "Gadi Eisenkot deverá ser o próximo primeiro-ministro de Israel",
-      "original_title": "Gadi Eisenkot deverá ser o próximo primeiro-ministro de Israel",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Mundo",
-      "published_at": "2026-11-06T21:12:48+00:00",
-      "article_url": "https://www.rtp.pt/noticias/mundo/gadi-eisenkot-devera-ser-o-proximo-primeiro-ministro-de-israel_v1777523",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "938864a434a48826dd7c",
-      "title": "II Liga. AVS recupera de desvantagem de dois golos e empata com o Vizela",
-      "original_title": "II Liga. AVS recupera de desvantagem de dois golos e empata com o Vizela",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-06T21:10:13+00:00",
-      "article_url": "https://www.rtp.pt/noticias/futebol-nacional/ii-liga-avs-recupera-de-desvantagem-de-dois-golos-e-empata-com-o-vizela_d1777522",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
