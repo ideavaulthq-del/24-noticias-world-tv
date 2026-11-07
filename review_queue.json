@@ -1,6 +1,19 @@
 {
-  "generated_at": "2026-11-07T10:41:46.173545+00:00",
+  "generated_at": "2026-11-07T11:37:47.707234+00:00",
   "articles": [
+    {
+      "id": "1703513d6526646f46a8",
+      "title": "Mais de 1.500 habitantes de Gaza pediram socorro após forte tempestade",
+      "original_title": "Mais de 1.500 habitantes de Gaza pediram socorro após forte tempestade",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Mundo",
+      "published_at": "2026-11-07T11:29:54+00:00",
+      "article_url": "https://www.rtp.pt/noticias/mundo/mais-de-1-500-habitantes-de-gaza-pediram-socorro-apos-forte-tempestade_n1777575",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
     {
       "id": "e1cfd56eb029d9b6580e",
       "title": "Vasco Peso sagra-se campeão do mundo de tumbling na China",
@@ -9,7 +22,7 @@
       "source": "RTP Notícias",
       "category": "Portugal",
       "published_at": "2026-11-07T10:37:50+00:00",
-      "article_url": "https://www.rtp.pt/noticias/modalidades/vasco-peso-sagra-se-campeao-do-mundo-de-tumbling-na-china_d1777572",
+      "article_url": "https://www.rtp.pt/noticias/outras-modalidades/vasco-peso-sagra-se-campeao-do-mundo-de-tumbling-na-china_d1777572",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
@@ -54,14 +67,14 @@
       "editorial_status": "titulo_normalizado"
     },
     {
-      "id": "4ca6ab7c6c9daaad0fb9",
-      "title": "Movimento Acampada de Lisboa. Moedas quer ver tendas mudadas para Largo de São Domingos, Martim Moniz ou Restauradores",
-      "original_title": "Movimento Acampada de Lisboa. Moedas quer ver tendas mudadas para Largo de São Domingos, Martim Moniz ou Restauradores",
+      "id": "c2f81c73b94801f6be3f",
+      "title": "Moedas quer tendas fora do Rossio. Manifestantes planeiam estender protestos à Web Summit",
+      "original_title": "Moedas quer tendas fora do Rossio. Manifestantes planeiam estender protestos à Web Summit",
       "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
       "source": "RTP Notícias",
       "category": "Portugal",
       "published_at": "2026-11-07T09:45:48+00:00",
-      "article_url": "https://www.rtp.pt/noticias/pais/movimento-acampada-de-lisboa-moedas-quer-ver-tendas-mudadas-para-largo-de-sao-domingos-martim-moniz-ou-restauradores_e1777561",
+      "article_url": "https://www.rtp.pt/noticias/pais/moedas-quer-tendas-fora-do-rossio-manifestantes-planeiam-estender-protestos-a-web-summit_e1777561",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
@@ -145,14 +158,14 @@
       "editorial_status": "titulo_normalizado"
     },
     {
-      "id": "bb12b59988afc0c3547f",
-      "title": "Forças do Irão afirmam estar \"mais poderosas\" do que no início da guerra",
-      "original_title": "Forças do Irão afirmam estar \"mais poderosas\" do que no início da guerra",
+      "id": "a97a47e07b3a41b5a070",
+      "title": "Forças Armadas do Irão declaram-se \"mais poderosas\" do que \"no início da guerra\"",
+      "original_title": "Forças Armadas do Irão declaram-se \"mais poderosas\" do que \"no início da guerra\"",
       "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
       "source": "RTP Notícias",
-      "category": "Portugal",
+      "category": "Mundo",
       "published_at": "2026-11-07T08:07:54+00:00",
-      "article_url": "https://www.rtp.pt/noticias/guerra-no-medio-oriente/forcas-do-irao-afirmam-estar-mais-poderosas-do-que-no-inicio-da-guerra_n1777555",
+      "article_url": "https://www.rtp.pt/noticias/mundo/forcas-armadas-do-irao-declaram-se-mais-poderosas-do-que-no-inicio-da-guerra_n1777555",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
@@ -361,19 +374,6 @@
       "category": "Portugal",
       "published_at": "2026-11-07T00:39:50+00:00",
       "article_url": "https://www.rtp.pt/noticias/outras-modalidades/portugal-perde-com-a-espanha-nos-penaltis-e-falha-final-da-finalissima-de-futsal_d1777541",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "c9a41eb614562c1fbd0c",
-      "title": "Novo presidente do Paraguai Pedro Alliana promete compensar vítimas do \"caos financeiro\"",
-      "original_title": "Novo presidente do Paraguai Pedro Alliana promete compensar vítimas do \"caos financeiro\"",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Mundo",
-      "published_at": "2026-11-07T00:27:40+00:00",
-      "article_url": "https://www.rtp.pt/noticias/mundo/novo-presidente-do-paraguai-pedro-alliana-promete-compensar-vitimas-do-caos-financeiro_n1777546",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
