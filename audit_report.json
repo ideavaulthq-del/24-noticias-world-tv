@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-07T15:37:11.501413+00:00",
+  "generated_at": "2026-11-07T16:39:11.947490+00:00",
   "audits": [
     {
-      "article_id": "62a6590dc0ef2b4158ac",
+      "article_id": "cd545fb73bc37dcb0898",
       "sources_detected": 1,
       "issues": [
         "sem_segunda_fonte_independente"
@@ -10,7 +10,31 @@
       "status": "revisao_humana_obrigatoria"
     },
     {
-      "article_id": "cd545fb73bc37dcb0898",
+      "article_id": "9ffe85e9b90b0855f3f8",
+      "sources_detected": 1,
+      "issues": [
+        "sem_segunda_fonte_independente"
+      ],
+      "status": "revisao_humana_obrigatoria"
+    },
+    {
+      "article_id": "60a60a2121ab33ec5e99",
+      "sources_detected": 1,
+      "issues": [
+        "sem_segunda_fonte_independente"
+      ],
+      "status": "revisao_humana_obrigatoria"
+    },
+    {
+      "article_id": "df786aeacc61d048eeb6",
+      "sources_detected": 1,
+      "issues": [
+        "sem_segunda_fonte_independente"
+      ],
+      "status": "revisao_humana_obrigatoria"
+    },
+    {
+      "article_id": "9e985f299d9314aceb60",
       "sources_detected": 1,
       "issues": [
         "sem_segunda_fonte_independente"
@@ -186,14 +210,6 @@
       "status": "revisao_humana_obrigatoria"
     },
     {
-      "article_id": "5f9acad8f955f658ba91",
-      "sources_detected": 1,
-      "issues": [
-        "sem_segunda_fonte_independente"
-      ],
-      "status": "revisao_humana_obrigatoria"
-    },
-    {
       "article_id": "74ef97aae043ba45af9b",
       "sources_detected": 1,
       "issues": [
@@ -203,22 +219,6 @@
     },
     {
       "article_id": "137aac93454fa6ba0ab2",
-      "sources_detected": 1,
-      "issues": [
-        "sem_segunda_fonte_independente"
-      ],
-      "status": "revisao_humana_obrigatoria"
-    },
-    {
-      "article_id": "7ca98e730654f24d4d2d",
-      "sources_detected": 1,
-      "issues": [
-        "sem_segunda_fonte_independente"
-      ],
-      "status": "revisao_humana_obrigatoria"
-    },
-    {
-      "article_id": "092a346d459427fbac39",
       "sources_detected": 1,
       "issues": [
         "sem_segunda_fonte_independente"

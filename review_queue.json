@@ -1,19 +1,6 @@
 {
-  "generated_at": "2026-11-07T15:37:11.367652+00:00",
+  "generated_at": "2026-11-07T16:39:11.862988+00:00",
   "articles": [
-    {
-      "id": "62a6590dc0ef2b4158ac",
-      "title": "CD Nacional - Académico de Viseu (jogo atrasado devido ao nevoeiro)",
-      "original_title": "CD Nacional - Académico de Viseu (jogo atrasado devido ao nevoeiro)",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-07T15:16:56+00:00",
-      "article_url": "https://www.rtp.pt/noticias/desporto/cd-nacional-academico-de-viseu_e1777609",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
     {
       "id": "cd545fb73bc37dcb0898",
       "title": "No clear winner after tight New Zealand general election",
@@ -21,8 +8,60 @@
       "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
       "source": "BBC News",
       "category": "Mundo",
-      "published_at": "2026-11-07T15:00:10+00:00",
+      "published_at": "2026-11-07T15:56:28+00:00",
       "article_url": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "9ffe85e9b90b0855f3f8",
+      "title": "\"Sporting de Braga é favorito porque é melhor do que o Rio Ave\"",
+      "original_title": "\"Sporting de Braga é favorito porque é melhor do que o Rio Ave\"",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-07T15:39:23+00:00",
+      "article_url": "https://www.rtp.pt/noticias/futebol-nacional/sporting-de-braga-e-favorito-porque-e-melhor-do-que-o-rio-ave_d1777613",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "60a60a2121ab33ec5e99",
+      "title": "Tiroteio em Cracóvia provoca pelo menos cinco mortos",
+      "original_title": "Tiroteio em Cracóvia provoca pelo menos cinco mortos",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-07T15:39:08+00:00",
+      "article_url": "https://www.rtp.pt/noticias/pais/tiroteio-em-cracovia-provoca-pelo-menos-cinco-mortos_n1777614",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "df786aeacc61d048eeb6",
+      "title": "Dakar2026: Portugal avança para as `meias` do torneio masculino de futsal",
+      "original_title": "Dakar2026: Portugal avança para as `meias` do torneio masculino de futsal",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-07T15:36:46+00:00",
+      "article_url": "https://www.rtp.pt/noticias/outras-modalidades/dakar2026-portugal-avanca-para-as-meias-do-torneio-masculino-de-futsal_d1777611",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "9e985f299d9314aceb60",
+      "title": "CD Nacional - Académico de Viseu (jogo adiado para domingo devido ao nevoeiro)",
+      "original_title": "CD Nacional - Académico de Viseu (jogo adiado para domingo devido ao nevoeiro)",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-07T15:16:56+00:00",
+      "article_url": "https://www.rtp.pt/noticias/desporto/cd-nacional-academico-de-viseu-jogo-adiado-devido-ao-nevoeiro_e1777609",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
@@ -152,7 +191,7 @@
       "source": "RTP Notícias",
       "category": "Portugal",
       "published_at": "2026-11-07T13:57:47+00:00",
-      "article_url": "https://www.rtp.pt/noticias/desporto/pietuszewski-esta-convocado-por-farioli-e-pode-ser-titular-em-guimaraes_v1777595",
+      "article_url": "https://www.rtp.pt/noticias/1a-liga/pietuszewski-esta-convocado-por-farioli-e-pode-ser-titular-em-guimaraes_v1777595",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
@@ -301,19 +340,6 @@
       "editorial_status": "titulo_normalizado"
     },
     {
-      "id": "5f9acad8f955f658ba91",
-      "title": "\"Mercado de Natal pode ser montado em diversos sítios da cidade\"",
-      "original_title": "\"Mercado de Natal pode ser montado em diversos sítios da cidade\"",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-07T13:16:47+00:00",
-      "article_url": "https://www.rtp.pt/noticias/pais/mercado-de-natal-pode-ser-montado-em-diversos-sitios-da-cidade_v1777581",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
       "id": "74ef97aae043ba45af9b",
       "title": "Russian strikes wound nine and damage Ukraine's power network ahead of talks",
       "original_title": "Russian strikes wound nine and damage Ukraine's power network ahead of talks",
@@ -335,32 +361,6 @@
       "category": "Mundo",
       "published_at": "2026-11-07T12:23:28+00:00",
       "article_url": "https://www.bbc.co.uk/news/articles/cq1m41n3v7mmo?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "7ca98e730654f24d4d2d",
-      "title": "12h Mães no Rossio hoje em vigília",
-      "original_title": "12h Mães no Rossio hoje em vigília",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-07T12:21:02+00:00",
-      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/12h-maes-no-rossio-hoje-em-vigilia_a1_1777577",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "092a346d459427fbac39",
-      "title": "11h Habitação: Francisco Louça critica Montenegro",
-      "original_title": "11h Habitação: Francisco Louça critica Montenegro",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-07T11:51:02+00:00",
-      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/11h-habitacao-francisco-louca-critica-montenegro_a1_1777576",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
