@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-11-06T23:14:36.388090+00:00",
+  "generated_at": "2026-11-07T00:08:44.530809+00:00",
   "articles": [
+    {
+      "id": "b6da0a5fe0c5f8c9282e",
+      "title": "23h PSP e comerciantes: acampada e mercado não podem coexistir",
+      "original_title": "23h PSP e comerciantes: acampada e mercado não podem coexistir",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-06T23:26:01+00:00",
+      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/23h-psp-e-comerciantes-acampada-e-mercado-nao-podem-coexistir_a1_1777539",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "059d5e67db45c0e1da53",
+      "title": "\"Antissionismo\". Benjamin Moser aponta semelhanças entre nazis e sionistas",
+      "original_title": "\"Antissionismo\". Benjamin Moser aponta semelhanças entre nazis e sionistas",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Mundo",
+      "published_at": "2026-11-06T23:12:47+00:00",
+      "article_url": "https://www.rtp.pt/noticias/mundo/antissionismo-benjamin-moser-aponta-semelhancas-entre-nazis-e-sionistas_v1777538",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
     {
       "id": "f2669a189502a110b7c3",
       "title": "Trump afirma que Israel e Médio Oriente \"não existiriam\" se Irão tivesse arma nuclear",
@@ -20,9 +46,9 @@
       "original_title": "Zelensky diz que Rússia prepara ataque ao setor energético e pontes",
       "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
       "source": "RTP Notícias",
-      "category": "Mundo",
+      "category": "Portugal",
       "published_at": "2026-11-06T22:45:07+00:00",
-      "article_url": "https://www.rtp.pt/noticias/mundo/zelensky-diz-que-russia-prepara-ataque-ao-setor-energetico-e-pontes_n1777530",
+      "article_url": "https://www.rtp.pt/noticias/guerra-na-ucrania/zelensky-diz-que-russia-prepara-ataque-ao-setor-energetico-e-pontes_n1777530",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
@@ -67,14 +93,14 @@
       "editorial_status": "titulo_normalizado"
     },
     {
-      "id": "e778c41ea2c65bbbb006",
-      "title": "Câmara de Lisboa exige retirada de tenda de Renata Cambra do Rossio",
-      "original_title": "Câmara de Lisboa exige retirada de tenda de Renata Cambra do Rossio",
+      "id": "aea60327eadd1ace875e",
+      "title": "Presidente da Câmara de Lisboa exige retirada da \"acampada\" do Rossio",
+      "original_title": "Presidente da Câmara de Lisboa exige retirada da \"acampada\" do Rossio",
       "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
       "source": "RTP Notícias",
       "category": "Portugal",
       "published_at": "2026-11-06T22:17:30+00:00",
-      "article_url": "https://www.rtp.pt/noticias/pais/camara-de-lisboa-exige-retirada-de-tenda-de-renata-cambra-do-rossio_n1777532",
+      "article_url": "https://www.rtp.pt/noticias/pais/presidente-da-camara-de-lisboa-exige-retirada-da-acampada-do-rossio_n1777532",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
@@ -322,32 +348,6 @@
       "category": "Economia",
       "published_at": "2026-11-06T20:50:47+00:00",
       "article_url": "https://www.rtp.pt/noticias/economia/comerciantes-querem-manter-mercado-de-natal-no-rossio-e-queixam-se-de-prejuizos_v1777509",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "a9034c9238b8bcc588b5",
-      "title": "Ameaças de bomba em voos. Analistas dizem que objetivo é criar insegurança",
-      "original_title": "Ameaças de bomba em voos. Analistas dizem que objetivo é criar insegurança",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Mundo",
-      "published_at": "2026-11-06T20:46:48+00:00",
-      "article_url": "https://www.rtp.pt/noticias/mundo/ameacas-de-bomba-em-voos-analistas-dizem-que-objetivo-e-criar-inseguranca_v1777507",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "00df539a37b618a481ef",
-      "title": "Mourinho espera que futuro proporcione uma despedida diferente a Cristiano",
-      "original_title": "Mourinho espera que futuro proporcione uma despedida diferente a Cristiano",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-06T20:45:48+00:00",
-      "article_url": "https://www.rtp.pt/noticias/desporto/mourinho-espera-que-futuro-proporcione-uma-despedida-diferente-a-cristiano_v1777506",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
