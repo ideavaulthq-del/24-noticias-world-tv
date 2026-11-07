@@ -1,6 +1,45 @@
 {
-  "generated_at": "2026-11-07T19:20:07.939254+00:00",
+  "generated_at": "2026-11-07T20:10:03.268299+00:00",
   "articles": [
+    {
+      "id": "5d4711b5927fe0f7d92f",
+      "title": "What we know so far after Polish gunman opens fire in Krakow main square",
+      "original_title": "What we know so far after Polish gunman opens fire in Krakow main square",
+      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC News",
+      "category": "Mundo",
+      "published_at": "2026-11-07T20:08:31+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "61e4f5d15ccaa2e6b809",
+      "title": "Benfica vence Stuart HC e soma 13.ª Supertaça feminina de hóquei em patins",
+      "original_title": "Benfica vence Stuart HC e soma 13.ª Supertaça feminina de hóquei em patins",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-07T20:02:19+00:00",
+      "article_url": "https://www.rtp.pt/noticias/outras-modalidades/benfica-vence-stuart-hc-e-soma-13a-supertaca-feminina-de-hoquei-em-patins_d1777642",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "30572ee4437763f278f9",
+      "title": "19h Começam as vigílias de mães no Porto e em Lisboa",
+      "original_title": "19h Começam as vigílias de mães no Porto e em Lisboa",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-07T19:21:02+00:00",
+      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/19h-comecam-as-vigilias-de-maes-no-porto-e-em-lisboa_a1_1777641",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
     {
       "id": "82dec50dd21d810f87a7",
       "title": "Paraguay's former president charged after bank collapse",
@@ -62,19 +101,6 @@
       "category": "Portugal",
       "published_at": "2026-11-07T18:27:02+00:00",
       "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/18h-autarcas-algarvios-dispostos-a-arranjar-casas-para-medicos_a1_1777635",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "211aa76779c3e106c0a0",
-      "title": "What we know about Krakow mass shooting so far",
-      "original_title": "What we know about Krakow mass shooting so far",
-      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC News",
-      "category": "Mundo",
-      "published_at": "2026-11-07T18:22:11+00:00",
-      "article_url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
@@ -158,9 +184,9 @@
       "editorial_status": "titulo_normalizado"
     },
     {
-      "id": "136e24c275346d7d5188",
-      "title": "Alverca - Casa Pia",
-      "original_title": "Alverca - Casa Pia",
+      "id": "82df5c6ecfe5f2c8c097",
+      "title": "Alverca volta a pontuar com empate 1-1 na recção ao Casa Pia",
+      "original_title": "Alverca volta a pontuar com empate 1-1 na recção ao Casa Pia",
       "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
       "source": "RTP Notícias",
       "category": "Portugal",
@@ -400,32 +426,6 @@
       "category": "Portugal",
       "published_at": "2026-11-07T14:12:47+00:00",
       "article_url": "https://www.rtp.pt/noticias/pais/seguro-avisa-que-distribuicao-de-medicamentos-nao-pode-falhar_v1777601",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "6aa34bfa83cee4d11971",
-      "title": "Estrela vai tentar \"ser equipa muito compacta\"",
-      "original_title": "Estrela vai tentar \"ser equipa muito compacta\"",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-07T14:05:47+00:00",
-      "article_url": "https://www.rtp.pt/noticias/desporto/estrela-vai-tentar-ser-equipa-muito-compacta_v1777599",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "f06ab999b4208deb5314",
-      "title": "\"Vamos renovar com Prestianni\". Marco Silva procura descansar adeptos",
-      "original_title": "\"Vamos renovar com Prestianni\". Marco Silva procura descansar adeptos",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-07T14:03:47+00:00",
-      "article_url": "https://www.rtp.pt/noticias/1a-liga/vamos-renovar-com-prestianni-marco-silva-procura-descansar-adeptos_v1777597",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
