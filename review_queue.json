@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-11-07T08:50:37.351029+00:00",
+  "generated_at": "2026-11-07T09:45:28.003048+00:00",
   "articles": [
+    {
+      "id": "4ca6ab7c6c9daaad0fb9",
+      "title": "Movimento Acampada de Lisboa. Moedas quer ver tendas mudadas para Largo de São Domingos, Martim Moniz ou Restauradores",
+      "original_title": "Movimento Acampada de Lisboa. Moedas quer ver tendas mudadas para Largo de São Domingos, Martim Moniz ou Restauradores",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-07T09:40:07+00:00",
+      "article_url": "https://www.rtp.pt/noticias/pais/movimento-acampada-de-lisboa-moedas-quer-ver-tendas-mudadas-para-largo-de-sao-domingos-martim-moniz-ou-restauradores_e1777561",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "41051c68bbf565693c61",
+      "title": "WazePT Location pode colmatar falhas do SIRESP. Voluntários criam plataforma de localização para operacionais",
+      "original_title": "WazePT Location pode colmatar falhas do SIRESP. Voluntários criam plataforma de localização para operacionais",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-07T09:23:51+00:00",
+      "article_url": "https://www.rtp.pt/noticias/pais/wazept-location-pode-colmatar-falhas-do-siresp-voluntarios-criam-plataforma-de-localizacao-para-operacionais_n1777099",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
     {
       "id": "6b6768a670414501bcbe",
       "title": "8h PSP e CML querem fim da acampada",
@@ -41,14 +67,14 @@
       "editorial_status": "titulo_normalizado"
     },
     {
-      "id": "0292043ad95a509847d6",
-      "title": "Ataques russos danificam ponte e infraestruturas energéticas em Kiev",
-      "original_title": "Ataques russos danificam ponte e infraestruturas energéticas em Kiev",
+      "id": "ec5798c7da61d4a1ec8f",
+      "title": "Kiev com abastecimentos comprometidos. Ataques russos atingem ponte e infraestruturas energéticas",
+      "original_title": "Kiev com abastecimentos comprometidos. Ataques russos atingem ponte e infraestruturas energéticas",
       "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
       "source": "RTP Notícias",
       "category": "Mundo",
       "published_at": "2026-11-07T08:11:57+00:00",
-      "article_url": "https://www.rtp.pt/noticias/mundo/ataques-russos-danificam-ponte-e-infraestruturas-energeticas-em-kiev_n1777559",
+      "article_url": "https://www.rtp.pt/noticias/mundo/kiev-com-abastecimentos-comprometidos-ataques-russos-atingem-ponte-e-infraestruturas-energeticas_n1777559",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
@@ -114,19 +140,6 @@
       "category": "Portugal",
       "published_at": "2026-11-07T08:02:12+00:00",
       "article_url": "https://www.rtp.pt/noticias/pais/vitimas-de-legionella-em-vila-franca-de-xira-continuam-a-espera-de-justica-12-anos-depois_n1777565",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "4ca6ab7c6c9daaad0fb9",
-      "title": "Movimento Acampada de Lisboa. Moedas quer ver tendas mudadas para Largo de São Domingos, Martim Moniz ou Restauradores",
-      "original_title": "Movimento Acampada de Lisboa. Moedas quer ver tendas mudadas para Largo de São Domingos, Martim Moniz ou Restauradores",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-07T07:46:56+00:00",
-      "article_url": "https://www.rtp.pt/noticias/pais/movimento-acampada-de-lisboa-moedas-quer-ver-tendas-mudadas-para-largo-de-sao-domingos-martim-moniz-ou-restauradores_e1777561",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
@@ -361,19 +374,6 @@
       "category": "Mundo",
       "published_at": "2026-11-06T23:46:08+00:00",
       "article_url": "https://www.bbc.co.uk/news/articles/c933xxl8yv0go?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "b6da0a5fe0c5f8c9282e",
-      "title": "23h PSP e comerciantes: acampada e mercado não podem coexistir",
-      "original_title": "23h PSP e comerciantes: acampada e mercado não podem coexistir",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-06T23:26:01+00:00",
-      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/23h-psp-e-comerciantes-acampada-e-mercado-nao-podem-coexistir_a1_1777539",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
