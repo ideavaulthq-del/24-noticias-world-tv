@@ -1,6 +1,22 @@
 {
-  "generated_at": "2026-11-07T14:40:32.952513+00:00",
+  "generated_at": "2026-11-07T15:37:11.501413+00:00",
   "audits": [
+    {
+      "article_id": "62a6590dc0ef2b4158ac",
+      "sources_detected": 1,
+      "issues": [
+        "sem_segunda_fonte_independente"
+      ],
+      "status": "revisao_humana_obrigatoria"
+    },
+    {
+      "article_id": "cd545fb73bc37dcb0898",
+      "sources_detected": 1,
+      "issues": [
+        "sem_segunda_fonte_independente"
+      ],
+      "status": "revisao_humana_obrigatoria"
+    },
     {
       "article_id": "1647c8de81dc42d8b852",
       "sources_detected": 1,
@@ -210,7 +226,15 @@
       "status": "revisao_humana_obrigatoria"
     },
     {
-      "article_id": "1703513d6526646f46a8",
+      "article_id": "fbdf0c1833e6152c081f",
+      "sources_detected": 1,
+      "issues": [
+        "sem_segunda_fonte_independente"
+      ],
+      "status": "revisao_humana_obrigatoria"
+    },
+    {
+      "article_id": "1f6615c7bb02f1ae3b4c",
       "sources_detected": 1,
       "issues": [
         "sem_segunda_fonte_independente"
@@ -314,14 +338,6 @@
       "status": "revisao_humana_obrigatoria"
     },
     {
-      "article_id": "bc826a2454f407c121c6",
-      "sources_detected": 1,
-      "issues": [
-        "sem_segunda_fonte_independente"
-      ],
-      "status": "revisao_humana_obrigatoria"
-    },
-    {
       "article_id": "515e0704a259a96ed810",
       "sources_detected": 1,
       "issues": [
@@ -339,22 +355,6 @@
     },
     {
       "article_id": "b08397183ecc8b5e1331",
-      "sources_detected": 1,
-      "issues": [
-        "sem_segunda_fonte_independente"
-      ],
-      "status": "revisao_humana_obrigatoria"
-    },
-    {
-      "article_id": "ff0d50bf0d50c22373a9",
-      "sources_detected": 1,
-      "issues": [
-        "sem_segunda_fonte_independente"
-      ],
-      "status": "revisao_humana_obrigatoria"
-    },
-    {
-      "article_id": "3f60068653a5ac670ed7",
       "sources_detected": 1,
       "issues": [
         "sem_segunda_fonte_independente"
