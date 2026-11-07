@@ -1,6 +1,58 @@
 {
-  "generated_at": "2026-11-07T06:22:08.639596+00:00",
+  "generated_at": "2026-11-07T07:37:45.869481+00:00",
   "articles": [
+    {
+      "id": "cd4fee69938f64ba4110",
+      "title": "6h Moedas determina saída do Rossio da Acampada de Lisboa",
+      "original_title": "6h Moedas determina saída do Rossio da Acampada de Lisboa",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-07T07:33:01+00:00",
+      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/6h-moedas-determina-saida-do-rossio-da-acampada-de-lisboa_a1_1777563",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "b7a146f276032e510d71",
+      "title": "Paraguay's president impeached and under house arrest after bank collapse",
+      "original_title": "Paraguay's president impeached and under house arrest after bank collapse",
+      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC News",
+      "category": "Mundo",
+      "published_at": "2026-11-07T07:20:00+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "184eebe20dfebede2559",
+      "title": "Pope in 'pretty good health' as he starts Latin America tour",
+      "original_title": "Pope in 'pretty good health' as he starts Latin America tour",
+      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC News",
+      "category": "Mundo",
+      "published_at": "2026-11-07T06:59:48+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/c60e0001ve9wo?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "3e4d65cfe82795e73f80",
+      "title": "5h Moedas determina saída do Rossio da Acampada pela Habitação",
+      "original_title": "5h Moedas determina saída do Rossio da Acampada pela Habitação",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-07T06:22:02+00:00",
+      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/5h-moedas-determina-saida-do-rossio-da-acampada-pela-habitacao_a1_1777558",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
     {
       "id": "8237d307b600a9b76427",
       "title": "4h Novo máximo na apresentação de propostas de alteração ao OE",
@@ -10,19 +62,6 @@
       "category": "Portugal",
       "published_at": "2026-11-07T04:37:02+00:00",
       "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/4h-novo-maximo-na-apresentacao-de-propostas-de-alteracao-ao-oe_a1_1777556",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "63358b0907eed4785a53",
-      "title": "Paraguay's President Santiago Peña impeached and arrested",
-      "original_title": "Paraguay's President Santiago Peña impeached and arrested",
-      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC News",
-      "category": "Mundo",
-      "published_at": "2026-11-07T03:25:00+00:00",
-      "article_url": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
@@ -49,19 +88,6 @@
       "category": "Portugal",
       "published_at": "2026-11-07T02:25:02+00:00",
       "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/2h-moedas-determina-saida-do-rossio-da-acampada-pela-habitacao_a1_1777552",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "4f0482129c06ca44d90b",
-      "title": "This man refused life-saving treatment because of his religion - days later the rules changed",
-      "original_title": "This man refused life-saving treatment because of his religion - days later the rules changed",
-      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC News",
-      "category": "Mundo",
-      "published_at": "2026-11-07T01:27:47+00:00",
-      "article_url": "https://www.bbc.co.uk/news/articles/cx5ynly549njo?at_medium=RSS&at_campaign=rss",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
@@ -361,32 +387,6 @@
       "category": "Portugal",
       "published_at": "2026-11-06T21:31:02+00:00",
       "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/21h-miranda-sarmento-juntam-se-ps-e-chega-e-querem-governar_a1_1777528",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "69441ebcd5ffaf58585a",
-      "title": "Depressão Bruna. Chuva, vento e agitação marítima durante uma semana",
-      "original_title": "Depressão Bruna. Chuva, vento e agitação marítima durante uma semana",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-06T21:21:54+00:00",
-      "article_url": "https://www.rtp.pt/noticias/pais/depressao-bruna-chuva-vento-e-agitacao-maritima-durante-uma-semana_v1777526",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "ee6d6f5fa9ebf1d6b607",
-      "title": "Sporting e o título. \"Se não acreditasse não estava aqui\", diz Paulo Fonseca",
-      "original_title": "Sporting e o título. \"Se não acreditasse não estava aqui\", diz Paulo Fonseca",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-06T21:21:48+00:00",
-      "article_url": "https://www.rtp.pt/noticias/desporto/sporting-e-o-titulo-se-nao-acreditasse-nao-estava-aqui-diz-paulo-fonseca_v1777525",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
