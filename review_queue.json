@@ -1,6 +1,58 @@
 {
-  "generated_at": "2026-11-07T21:12:00.674244+00:00",
+  "generated_at": "2026-11-07T22:11:34.352177+00:00",
   "articles": [
+    {
+      "id": "f84260fea6be62796193",
+      "title": "Roma ultrapassa Inter e pressiona Lazio após triunfo folgado sobre o Sassuolo",
+      "original_title": "Roma ultrapassa Inter e pressiona Lazio após triunfo folgado sobre o Sassuolo",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-07T21:58:45+00:00",
+      "article_url": "https://www.rtp.pt/noticias/futebol-internacional/roma-ultrapassa-inter-e-pressiona-lazio-apos-triunfo-folgado-sobre-o-sassuolo_d1777655",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "2081911e0a3da7c52b94",
+      "title": "Três mortos encontrados na casa do atirador de Cracóvia",
+      "original_title": "Três mortos encontrados na casa do atirador de Cracóvia",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Mundo",
+      "published_at": "2026-11-07T21:15:46+00:00",
+      "article_url": "https://www.rtp.pt/noticias/mundo/tres-mortos-encontrados-na-casa-do-atirador-de-cracovia_n1777653",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "60d8d34c1df277cfa8e1",
+      "title": "Norris conquista pole no Brasil após qualificação interrompida pela chuva",
+      "original_title": "Norris conquista pole no Brasil após qualificação interrompida pela chuva",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-07T21:15:24+00:00",
+      "article_url": "https://www.rtp.pt/noticias/motores/norris-conquista-pole-no-brasil-apos-qualificacao-interrompida-pela-chuva_d1777652",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "ab7bde7744ab2a838f24",
+      "title": "What we know so far after Krakow gun attack",
+      "original_title": "What we know so far after Krakow gun attack",
+      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC News",
+      "category": "Mundo",
+      "published_at": "2026-11-07T21:13:24+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
     {
       "id": "5e9808dfc88f814c3071",
       "title": "Lisboa e Porto acolhem vigílias silenciosas das \"mães pela acampada\". Acompanhe em direto",
@@ -62,19 +114,6 @@
       "category": "Portugal",
       "published_at": "2026-11-07T20:32:02+00:00",
       "article_url": "https://www.rtp.pt/noticias/futebol-internacional/liga-nacoes-rafael-leao-lesiona-se-e-pode-falhar-estagio-de-portugal_d1777649",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "5d4711b5927fe0f7d92f",
-      "title": "What we know so far after Polish gunman opens fire in Krakow main square",
-      "original_title": "What we know so far after Polish gunman opens fire in Krakow main square",
-      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC News",
-      "category": "Mundo",
-      "published_at": "2026-11-07T20:23:17+00:00",
-      "article_url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
@@ -379,32 +418,6 @@
       "editorial_status": "titulo_normalizado"
     },
     {
-      "id": "f7d376803a8721d0951c",
-      "title": "Seis mortos e 15 feridos após tiroteio em Cracóvia. Há uma portuguesa entre os feridos",
-      "original_title": "Seis mortos e 15 feridos após tiroteio em Cracóvia. Há uma portuguesa entre os feridos",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-07T15:39:08+00:00",
-      "article_url": "https://www.rtp.pt/noticias/pais/seis-mortos-e-15-feridos-apos-tiroteio-em-cracovia-ha-uma-portuguesa-entre-os-feridos_n1777614",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "df786aeacc61d048eeb6",
-      "title": "Dakar2026: Portugal avança para as `meias` do torneio masculino de futsal",
-      "original_title": "Dakar2026: Portugal avança para as `meias` do torneio masculino de futsal",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-07T15:36:46+00:00",
-      "article_url": "https://www.rtp.pt/noticias/outras-modalidades/dakar2026-portugal-avanca-para-as-meias-do-torneio-masculino-de-futsal_d1777611",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
       "id": "057837faea43f4516204",
       "title": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
       "original_title": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
@@ -413,19 +426,6 @@
       "category": "Mundo",
       "published_at": "2026-11-07T15:19:35+00:00",
       "article_url": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "7e64cf160c740f548ea6",
-      "title": "CD Nacional - Académico de Viseu (Nevoeiro adia jogo para domingo)",
-      "original_title": "CD Nacional - Académico de Viseu (Nevoeiro adia jogo para domingo)",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-07T15:16:56+00:00",
-      "article_url": "https://www.rtp.pt/noticias/desporto/cd-nacional-academico-de-viseu-nevoeiro-adia-jogo-para-domingo_e1777609",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
