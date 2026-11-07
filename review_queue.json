@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-11-07T04:25:49.315997+00:00",
+  "generated_at": "2026-11-07T05:23:05.975769+00:00",
   "articles": [
+    {
+      "id": "8237d307b600a9b76427",
+      "title": "4h Novo máximo na apresentação de propostas de alteração ao OE",
+      "original_title": "4h Novo máximo na apresentação de propostas de alteração ao OE",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-07T04:37:02+00:00",
+      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/4h-novo-maximo-na-apresentacao-de-propostas-de-alteracao-ao-oe_a1_1777556",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "63358b0907eed4785a53",
+      "title": "Paraguay's President Santiago Peña impeached and arrested",
+      "original_title": "Paraguay's President Santiago Peña impeached and arrested",
+      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC News",
+      "category": "Mundo",
+      "published_at": "2026-11-07T03:25:00+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
     {
       "id": "d22931515dbf0b1636c8",
       "title": "3h Habitação domina último dia de propostas de alteração ao OE",
@@ -23,6 +49,32 @@
       "category": "Portugal",
       "published_at": "2026-11-07T02:25:02+00:00",
       "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/2h-moedas-determina-saida-do-rossio-da-acampada-pela-habitacao_a1_1777552",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "4f0482129c06ca44d90b",
+      "title": "This man refused life-saving treatment because of his religion - days later the rules changed",
+      "original_title": "This man refused life-saving treatment because of his religion - days later the rules changed",
+      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC News",
+      "category": "Mundo",
+      "published_at": "2026-11-07T01:27:47+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/cx5ynly549njo?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "919f9dcd008754988fd4",
+      "title": "The young Somali woman changing how the world sees Mogadishu",
+      "original_title": "The young Somali woman changing how the world sees Mogadishu",
+      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC News",
+      "category": "Mundo",
+      "published_at": "2026-11-07T01:19:49+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/cq0k0lg48705o?at_medium=RSS&at_campaign=rss",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
@@ -127,6 +179,19 @@
       "category": "Portugal",
       "published_at": "2026-11-07T00:16:47+00:00",
       "article_url": "https://www.rtp.pt/noticias/pais/renata-cambra-pede-anulacao-do-despacho-da-camara-de-lisboa_v1777544",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "ae540ffe98db9ff80f69",
+      "title": "Cornell faculty pass no-confidence vote over leadership's handling of Jane Doe allegations",
+      "original_title": "Cornell faculty pass no-confidence vote over leadership's handling of Jane Doe allegations",
+      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC News",
+      "category": "Mundo",
+      "published_at": "2026-11-06T23:46:08+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/c933xxl8yv0go?at_medium=RSS&at_campaign=rss",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
@@ -327,19 +392,6 @@
       "editorial_status": "titulo_normalizado"
     },
     {
-      "id": "4152bdf27267074ec305",
-      "title": "Honoris causa em Salamanca. Guterres avisa que imparcialidade não é neutralidade",
-      "original_title": "Honoris causa em Salamanca. Guterres avisa que imparcialidade não é neutralidade",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Mundo",
-      "published_at": "2026-11-06T21:15:48+00:00",
-      "article_url": "https://www.rtp.pt/noticias/mundo/honoris-causa-em-salamanca-guterres-avisa-que-imparcialidade-nao-e-neutralidade_v1777524",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
       "id": "c1cdc213519354adb61c",
       "title": "AI stocks climb after trillions wiped from market values",
       "original_title": "AI stocks climb after trillions wiped from market values",
@@ -530,58 +582,6 @@
       "category": "Mundo",
       "published_at": "2026-11-06T14:57:08+00:00",
       "article_url": "https://www.bbc.co.uk/news/articles/ckp8g4pm0y4lo?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "5af927b5250ebb02ecdb",
-      "title": "Kenyan doomsday cult leader given life sentence for murdering 191 people",
-      "original_title": "Kenyan doomsday cult leader given life sentence for murdering 191 people",
-      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC News",
-      "category": "Mundo",
-      "published_at": "2026-11-06T14:46:03+00:00",
-      "article_url": "https://www.bbc.co.uk/news/articles/cm5yne5984l0o?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "fdc4be8d8b4594a89577",
-      "title": "Global stocks plunge as fears over US AI slowdown spread to Asia and Europe",
-      "original_title": "Global stocks plunge as fears over US AI slowdown spread to Asia and Europe",
-      "summary": "Informação divulgada por BBC Technology. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC Technology",
-      "category": "Tecnologia",
-      "published_at": "2026-11-06T13:25:50+00:00",
-      "article_url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "e5b4a81e9487dbf8a541",
-      "title": "US midterm results spark fears in Israel over future of two countries' ties",
-      "original_title": "US midterm results spark fears in Israel over future of two countries' ties",
-      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC News",
-      "category": "Mundo",
-      "published_at": "2026-11-06T13:23:44+00:00",
-      "article_url": "https://www.bbc.co.uk/news/articles/cx30ee8018lvo?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "2e0e8773f4f74192b8c2",
-      "title": "Russian extremist group denies sending hoax bomb threats",
-      "original_title": "Russian extremist group denies sending hoax bomb threats",
-      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC News",
-      "category": "Mundo",
-      "published_at": "2026-11-06T12:51:38+00:00",
-      "article_url": "https://www.bbc.co.uk/news/articles/cm2d66n0lx1yo?at_medium=RSS&at_campaign=rss",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
