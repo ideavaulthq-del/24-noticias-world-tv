@@ -1,6 +1,45 @@
 {
-  "generated_at": "2026-11-08T06:55:38.444559+00:00",
+  "generated_at": "2026-11-08T07:59:17.582528+00:00",
   "articles": [
+    {
+      "id": "ab7bde7744ab2a838f24",
+      "title": "What we know so far after Krakow gun attack",
+      "original_title": "What we know so far after Krakow gun attack",
+      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC News",
+      "category": "Mundo",
+      "published_at": "2026-11-08T07:52:33+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "aa8c417d4af20ac3c95c",
+      "title": "Efeitos da depressão Bruna. Mau tempo deixa cinco desalojados na Madeira",
+      "original_title": "Efeitos da depressão Bruna. Mau tempo deixa cinco desalojados na Madeira",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-08T07:46:33+00:00",
+      "article_url": "https://www.rtp.pt/noticias/pais/efeitos-da-depressao-bruna-mau-tempo-deixa-cinco-desalojados-na-madeira_n1777689",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "90063e85401f23ac997c",
+      "title": "7h Acampada de Lisboa pode abandonar Rossio este domingo, mas ainda ficou de noite",
+      "original_title": "7h Acampada de Lisboa pode abandonar Rossio este domingo, mas ainda ficou de noite",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-08T07:28:02+00:00",
+      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/7h-acampada-de-lisboa-pode-abandonar-rossio-este-domingo-mas-ainda-ficou-de-noite_a1_1777687",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
     {
       "id": "61663da74b33a48743d9",
       "title": "6h Governo: parte das reivindicações da Acampada do Porto já estão a ser concretizadas",
@@ -75,19 +114,6 @@
       "category": "Portugal",
       "published_at": "2026-11-08T02:33:02+00:00",
       "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/2h-habitacao-governo-garante-que-algumas-reivindicacoes-ja-estao-a-ser-concretizadas_a1_1777675",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "ab7bde7744ab2a838f24",
-      "title": "What we know so far after Krakow gun attack",
-      "original_title": "What we know so far after Krakow gun attack",
-      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC News",
-      "category": "Mundo",
-      "published_at": "2026-11-08T01:47:41+00:00",
-      "article_url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
@@ -374,32 +400,6 @@
       "category": "Portugal",
       "published_at": "2026-11-07T21:15:24+00:00",
       "article_url": "https://www.rtp.pt/noticias/motores/norris-conquista-pole-no-brasil-apos-qualificacao-interrompida-pela-chuva_d1777652",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "cc01c3bff61d4d6aba22",
-      "title": "Carta entregue pelos manifestantes da acampada do Porto ao ministro da Habitação está em análise, revela a secretária de Estado",
-      "original_title": "Carta entregue pelos manifestantes da acampada do Porto ao ministro da Habitação está em análise, revela a secretária de Estado",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Economia",
-      "published_at": "2026-11-07T21:06:32+00:00",
-      "article_url": "https://www.rtp.pt/noticias/economia/carta-entregue-pelos-manifestantes-da-acampada-do-porto-ao-ministro-da-habitacao-esta-em-analise-revela-a-secretaria-de-estado_v1777457",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "9f9a52d85665bf18c5cc",
-      "title": "20h Portuguesa entre os feridos de ataque em Cracóvia",
-      "original_title": "20h Portuguesa entre os feridos de ataque em Cracóvia",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-07T21:02:02+00:00",
-      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/20h-portuguesa-entre-os-feridos-de-ataque-em-cracovia_a1_1777651",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
