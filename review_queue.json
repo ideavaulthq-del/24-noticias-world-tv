@@ -1,6 +1,45 @@
 {
-  "generated_at": "2026-11-08T05:49:33.035657+00:00",
+  "generated_at": "2026-11-08T06:55:38.444559+00:00",
   "articles": [
+    {
+      "id": "61663da74b33a48743d9",
+      "title": "6h Governo: parte das reivindicações da Acampada do Porto já estão a ser concretizadas",
+      "original_title": "6h Governo: parte das reivindicações da Acampada do Porto já estão a ser concretizadas",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-08T06:25:03+00:00",
+      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/6h-governo-parte-das-reivindicacoes-da-acampada-do-porto-ja-estao-a-ser-concretizadas_a1_1777684",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "c4f27fb75b52d4c40afe",
+      "title": "5h Habitação. Governo garante que algumas reivindicações já estão a ser concretizadas",
+      "original_title": "5h Habitação. Governo garante que algumas reivindicações já estão a ser concretizadas",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-08T05:59:02+00:00",
+      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/5h-habitacao-governo-garante-que-algumas-reivindicacoes-ja-estao-a-ser-concretizadas_a1_1777683",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "f1398f045059d7cff7db",
+      "title": "4h Acampada de Lisboa pernoita no Rossio",
+      "original_title": "4h Acampada de Lisboa pernoita no Rossio",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-08T05:58:02+00:00",
+      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/4h-acampada-de-lisboa-pernoita-no-rossio_a1_1777682",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
     {
       "id": "b08e8ff41d9e74541238",
       "title": "Houthis say at least 33 killed in Saudi air strike",
@@ -301,6 +340,19 @@
       "editorial_status": "titulo_normalizado"
     },
     {
+      "id": "02c2e7fb93fd5f48bf22",
+      "title": "'Flat', 'tired', 'cynical': Unusually gloomy Kiwis deliver New Zealand's tightest election in years",
+      "original_title": "'Flat', 'tired', 'cynical': Unusually gloomy Kiwis deliver New Zealand's tightest election in years",
+      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC News",
+      "category": "Mundo",
+      "published_at": "2026-11-07T21:36:16+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/cxr5yyg2nj9eo?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
       "id": "2081911e0a3da7c52b94",
       "title": "Três mortos encontrados na casa do atirador de Cracóvia",
       "original_title": "Três mortos encontrados na casa do atirador de Cracóvia",
@@ -353,45 +405,6 @@
       "editorial_status": "titulo_normalizado"
     },
     {
-      "id": "32039d9e60fbbcf7198e",
-      "title": "Manchester City averba terceiro desaire seguido e vê Arsenal destacar-se no topo",
-      "original_title": "Manchester City averba terceiro desaire seguido e vê Arsenal destacar-se no topo",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-07T20:35:38+00:00",
-      "article_url": "https://www.rtp.pt/noticias/futebol-internacional/manchester-city-averba-terceiro-desaire-seguido-e-ve-arsenal-destacar-se-no-topo_d1777650",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "397889e1caa4588922a2",
-      "title": "Liga Nações. Rafael Leão lesiona-se e pode falhar estágio de Portugal",
-      "original_title": "Liga Nações. Rafael Leão lesiona-se e pode falhar estágio de Portugal",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-07T20:32:02+00:00",
-      "article_url": "https://www.rtp.pt/noticias/futebol-internacional/liga-nacoes-rafael-leao-lesiona-se-e-pode-falhar-estagio-de-portugal_d1777649",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "da9568005588ec5135dd",
-      "title": "Jogo entre Estoril Praia e Marítimo adiado devido ao mau tempo na Madeira",
-      "original_title": "Jogo entre Estoril Praia e Marítimo adiado devido ao mau tempo na Madeira",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-07T20:21:36+00:00",
-      "article_url": "https://www.rtp.pt/noticias/futebol-nacional/jogo-entre-estoril-praia-e-maritimo-adiado-devido-ao-mau-tempo-na-madeira_d1777647",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
       "id": "82dec50dd21d810f87a7",
       "title": "Paraguay's former president charged after bank collapse",
       "original_title": "Paraguay's former president charged after bank collapse",
@@ -439,19 +452,6 @@
       "category": "Mundo",
       "published_at": "2026-11-07T16:50:06+00:00",
       "article_url": "https://www.bbc.co.uk/news/articles/cr20wvge32j3o?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "cd545fb73bc37dcb0898",
-      "title": "No clear winner after tight New Zealand general election",
-      "original_title": "No clear winner after tight New Zealand general election",
-      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC News",
-      "category": "Mundo",
-      "published_at": "2026-11-07T15:56:28+00:00",
-      "article_url": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o?at_medium=RSS&at_campaign=rss",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
