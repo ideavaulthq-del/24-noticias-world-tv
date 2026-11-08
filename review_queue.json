@@ -1,6 +1,45 @@
 {
-  "generated_at": "2026-11-08T19:43:29.564915+00:00",
+  "generated_at": "2026-11-08T20:37:33.615876+00:00",
   "articles": [
+    {
+      "id": "1e1a539bc2ae13011c4a",
+      "title": "Manchester United assegura empate com Aston Villa com dois golos nos descontos",
+      "original_title": "Manchester United assegura empate com Aston Villa com dois golos nos descontos",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-08T20:25:14+00:00",
+      "article_url": "https://www.rtp.pt/noticias/futebol-internacional/manchester-united-assegura-empate-com-aston-villa-com-dois-golos-nos-descontos_d1777769",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "87075a1626af5980eaae",
+      "title": "Inter Milão bate Como e fica a um ponto da líder Lazio",
+      "original_title": "Inter Milão bate Como e fica a um ponto da líder Lazio",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-08T20:05:37+00:00",
+      "article_url": "https://www.rtp.pt/noticias/futebol-internacional/inter-milao-bate-como-e-fica-a-um-ponto-da-lider-lazio_d1777768",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "eacffd21919b6c0d267c",
+      "title": "Seven dead and more than 100 injured after trains collide in Egypt",
+      "original_title": "Seven dead and more than 100 injured after trains collide in Egypt",
+      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC News",
+      "category": "Mundo",
+      "published_at": "2026-11-08T19:58:02+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
     {
       "id": "b5813bb9a4f1a1e4e37e",
       "title": "Lando Norris vence GP do Brasil de Fórmula 1 e Mercedes campeã de construtores",
@@ -145,19 +184,6 @@
       "editorial_status": "titulo_normalizado"
     },
     {
-      "id": "eacffd21919b6c0d267c",
-      "title": "Seven dead and more than 100 injured after trains collide in Egypt",
-      "original_title": "Seven dead and more than 100 injured after trains collide in Egypt",
-      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC News",
-      "category": "Mundo",
-      "published_at": "2026-11-08T17:35:13+00:00",
-      "article_url": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
       "id": "1e696a6886db6f964271",
       "title": "17h PS quer min Saúde no parlamento para explicar casos de Portimão",
       "original_title": "17h PS quer min Saúde no parlamento para explicar casos de Portimão",
@@ -197,14 +223,14 @@
       "editorial_status": "titulo_normalizado"
     },
     {
-      "id": "482597e6cdc5998c4153",
-      "title": "Vitória de Guimarães - FC Porto",
-      "original_title": "Vitória de Guimarães - FC Porto",
+      "id": "852c2598612532f3dd39",
+      "title": "FC Porto vence em Guimarães e continua invicto na I Liga",
+      "original_title": "FC Porto vence em Guimarães e continua invicto na I Liga",
       "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
       "source": "RTP Notícias",
       "category": "Portugal",
       "published_at": "2026-11-08T16:26:23+00:00",
-      "article_url": "https://www.rtp.pt/noticias/desporto/vitoria-de-guimaraes-fc-porto_e1777739",
+      "article_url": "https://www.rtp.pt/noticias/desporto/fc-porto-vence-em-guimaraes-e-continua-invicto-na-i-liga_e1777739",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
@@ -374,32 +400,6 @@
       "category": "Portugal",
       "published_at": "2026-11-08T13:54:47+00:00",
       "article_url": "https://www.rtp.pt/noticias/desporto/paulo-fonseca-estreia-se-ao-leme-do-sporting-com-vitoria_v1777724",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "fbe1b2cbadf73060b43c",
-      "title": "Benfica chega à Amadora com série de sete vitórias",
-      "original_title": "Benfica chega à Amadora com série de sete vitórias",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-08T13:53:48+00:00",
-      "article_url": "https://www.rtp.pt/noticias/desporto/benfica-chega-a-amadora-com-serie-de-sete-vitorias_v1777723",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "f30a9a3d61cf39771673",
-      "title": "Guimarães no caminho dos dragões. Farioli elogia clube adversário",
-      "original_title": "Guimarães no caminho dos dragões. Farioli elogia clube adversário",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-08T13:52:48+00:00",
-      "article_url": "https://www.rtp.pt/noticias/desporto/guimaraes-no-caminho-dos-dragoes-farioli-elogia-clube-adversario_v1777722",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
