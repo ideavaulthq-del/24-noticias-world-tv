@@ -1,6 +1,38 @@
 {
-  "generated_at": "2026-11-08T16:14:09.491412+00:00",
+  "generated_at": "2026-11-08T17:12:24.806461+00:00",
   "audits": [
+    {
+      "article_id": "dbdd9a8f60823d9135df",
+      "sources_detected": 1,
+      "issues": [
+        "sem_segunda_fonte_independente"
+      ],
+      "status": "revisao_humana_obrigatoria"
+    },
+    {
+      "article_id": "66cebc1fda41e1926678",
+      "sources_detected": 1,
+      "issues": [
+        "sem_segunda_fonte_independente"
+      ],
+      "status": "revisao_humana_obrigatoria"
+    },
+    {
+      "article_id": "482597e6cdc5998c4153",
+      "sources_detected": 1,
+      "issues": [
+        "sem_segunda_fonte_independente"
+      ],
+      "status": "revisao_humana_obrigatoria"
+    },
+    {
+      "article_id": "6b98ec1cc40653d4b610",
+      "sources_detected": 1,
+      "issues": [
+        "sem_segunda_fonte_independente"
+      ],
+      "status": "revisao_humana_obrigatoria"
+    },
     {
       "article_id": "40f07ef293436807185c",
       "sources_detected": 1,
@@ -179,38 +211,6 @@
     },
     {
       "article_id": "ff6dda4980a6fefa365d",
-      "sources_detected": 1,
-      "issues": [
-        "sem_segunda_fonte_independente"
-      ],
-      "status": "revisao_humana_obrigatoria"
-    },
-    {
-      "article_id": "100525a29d99971ada1d",
-      "sources_detected": 1,
-      "issues": [
-        "sem_segunda_fonte_independente"
-      ],
-      "status": "revisao_humana_obrigatoria"
-    },
-    {
-      "article_id": "85bbdde8984753442ea5",
-      "sources_detected": 1,
-      "issues": [
-        "sem_segunda_fonte_independente"
-      ],
-      "status": "revisao_humana_obrigatoria"
-    },
-    {
-      "article_id": "a681f49ed810df8c1357",
-      "sources_detected": 1,
-      "issues": [
-        "sem_segunda_fonte_independente"
-      ],
-      "status": "revisao_humana_obrigatoria"
-    },
-    {
-      "article_id": "450faade3a183f923ec1",
       "sources_detected": 1,
       "issues": [
         "sem_segunda_fonte_independente"
