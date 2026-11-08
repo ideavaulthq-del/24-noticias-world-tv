@@ -1,19 +1,6 @@
 {
-  "generated_at": "2026-11-08T04:52:25.601252+00:00",
+  "generated_at": "2026-11-08T05:49:33.035657+00:00",
   "articles": [
-    {
-      "id": "f1398f045059d7cff7db",
-      "title": "4h Acampada de Lisboa pernoita no Rossio",
-      "original_title": "4h Acampada de Lisboa pernoita no Rossio",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-08T04:45:02+00:00",
-      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/4h-acampada-de-lisboa-pernoita-no-rossio_a1_1777679",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
     {
       "id": "b08e8ff41d9e74541238",
       "title": "Houthis say at least 33 killed in Saudi air strike",
@@ -387,6 +374,19 @@
       "category": "Portugal",
       "published_at": "2026-11-07T20:32:02+00:00",
       "article_url": "https://www.rtp.pt/noticias/futebol-internacional/liga-nacoes-rafael-leao-lesiona-se-e-pode-falhar-estagio-de-portugal_d1777649",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "da9568005588ec5135dd",
+      "title": "Jogo entre Estoril Praia e Marítimo adiado devido ao mau tempo na Madeira",
+      "original_title": "Jogo entre Estoril Praia e Marítimo adiado devido ao mau tempo na Madeira",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-07T20:21:36+00:00",
+      "article_url": "https://www.rtp.pt/noticias/futebol-nacional/jogo-entre-estoril-praia-e-maritimo-adiado-devido-ao-mau-tempo-na-madeira_d1777647",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
