@@ -1,6 +1,19 @@
 {
-  "generated_at": "2026-11-08T02:06:15.754928+00:00",
+  "generated_at": "2026-11-08T02:54:20.002552+00:00",
   "articles": [
+    {
+      "id": "e39b34f52f64027df904",
+      "title": "2h Habitação. Governo garante que algumas reivindicações já estão a ser concretizadas",
+      "original_title": "2h Habitação. Governo garante que algumas reivindicações já estão a ser concretizadas",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-08T02:33:02+00:00",
+      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/2h-habitacao-governo-garante-que-algumas-reivindicacoes-ja-estao-a-ser-concretizadas_a1_1777675",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
     {
       "id": "ab7bde7744ab2a838f24",
       "title": "What we know so far after Krakow gun attack",
@@ -361,19 +374,6 @@
       "category": "Mundo",
       "published_at": "2026-11-07T20:15:33+00:00",
       "article_url": "https://www.rtp.pt/noticias/mundo/presidente-israelita-vai-convidar-gadi-eisenkot-para-formar-governo_n1777646",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "61e4f5d15ccaa2e6b809",
-      "title": "Benfica vence Stuart HC e soma 13.ª Supertaça feminina de hóquei em patins",
-      "original_title": "Benfica vence Stuart HC e soma 13.ª Supertaça feminina de hóquei em patins",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-07T20:02:19+00:00",
-      "article_url": "https://www.rtp.pt/noticias/outras-modalidades/benfica-vence-stuart-hc-e-soma-13a-supertaca-feminina-de-hoquei-em-patins_d1777642",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
