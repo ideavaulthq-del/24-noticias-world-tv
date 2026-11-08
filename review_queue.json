@@ -1,6 +1,45 @@
 {
-  "generated_at": "2026-11-08T14:39:05.947196+00:00",
+  "generated_at": "2026-11-08T15:36:17.615879+00:00",
   "articles": [
+    {
+      "id": "6836a26af6b433aeb4c1",
+      "title": "15h Ministra Saúde chamada ao parlamento pelo PS",
+      "original_title": "15h Ministra Saúde chamada ao parlamento pelo PS",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-08T15:31:02+00:00",
+      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/15h-ministra-saude-chamada-ao-parlamento-pelo-ps_a1_1777738",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "65c0d03e5535d33fa09e",
+      "title": "Santa Clara - Gil Vicente",
+      "original_title": "Santa Clara - Gil Vicente",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-08T15:20:42+00:00",
+      "article_url": "https://www.rtp.pt/noticias/desporto/santa-clara-gil-vicente_e1777737",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "21ffe698737fd20799c4",
+      "title": "14h Portimão: PS chama com urgência min saúde ao parlamento",
+      "original_title": "14h Portimão: PS chama com urgência min saúde ao parlamento",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-08T14:40:02+00:00",
+      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/14h-portimao-ps-chama-com-urgencia-min-saude-ao-parlamento_a1_1777732",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
     {
       "id": "ab7bde7744ab2a838f24",
       "title": "What we know so far after Krakow gun attack",
@@ -15,14 +54,14 @@
       "editorial_status": "titulo_normalizado"
     },
     {
-      "id": "8cf0a57e028d435b3d34",
-      "title": "PS vai chamar ministra da Saúde ao Parlamento sobre mortes no Hospital de Portimão",
-      "original_title": "PS vai chamar ministra da Saúde ao Parlamento sobre mortes no Hospital de Portimão",
+      "id": "ed84398fbf51b86828c5",
+      "title": "Hospital de Portimão. Carneiro sinaliza provável terceira morte e quer ouvir ministra no Parlamento",
+      "original_title": "Hospital de Portimão. Carneiro sinaliza provável terceira morte e quer ouvir ministra no Parlamento",
       "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
       "source": "RTP Notícias",
       "category": "Portugal",
       "published_at": "2026-11-08T14:23:02+00:00",
-      "article_url": "https://www.rtp.pt/noticias/politica/ps-vai-chamar-ministra-da-saude-ao-parlamento-sobre-mortes-no-hospital-de-portimao_n1777730",
+      "article_url": "https://www.rtp.pt/noticias/politica/hospital-de-portimao-carneiro-sinaliza-provavel-terceira-morte-e-quer-ouvir-ministra-no-parlamento_n1777730",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
@@ -301,19 +340,6 @@
       "editorial_status": "titulo_normalizado"
     },
     {
-      "id": "e2b4d92a9a6d6c5ab73d",
-      "title": "Número de desalojados na Madeira aumenta. Prolongados avisos de vento e agitação marítima",
-      "original_title": "Número de desalojados na Madeira aumenta. Prolongados avisos de vento e agitação marítima",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-08T11:35:46+00:00",
-      "article_url": "https://www.rtp.pt/noticias/pais/numero-de-desalojados-na-madeira-aumenta-prolongados-avisos-de-vento-e-agitacao-maritima_n1777704",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
       "id": "6201b696b636c6baf272",
       "title": "Government 'looking seriously' at banning under-16s from Vinted and eBay",
       "original_title": "Government 'looking seriously' at banning under-16s from Vinted and eBay",
@@ -322,32 +348,6 @@
       "category": "Economia",
       "published_at": "2026-11-08T11:25:32+00:00",
       "article_url": "https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "b6514c19b0a40385dfd4",
-      "title": "10h Pedro Duarte: violência não está no ADN do Porto",
-      "original_title": "10h Pedro Duarte: violência não está no ADN do Porto",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-08T10:24:01+00:00",
-      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/10h-pedro-duarte-violencia-nao-esta-no-adn-do-porto_a1_1777701",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "6b9aae3befe130e03db7",
-      "title": "\"Ideologia de extrema-direita\". A pista seguida numa Polónia em choque após o ataque de Cracóvia",
-      "original_title": "\"Ideologia de extrema-direita\". A pista seguida numa Polónia em choque após o ataque de Cracóvia",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Mundo",
-      "published_at": "2026-11-08T10:16:26+00:00",
-      "article_url": "https://www.rtp.pt/noticias/mundo/ideologia-de-extrema-direita-a-pista-seguida-numa-polonia-em-choque-apos-o-ataque-de-cracovia_n1777698",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
@@ -431,9 +431,9 @@
       "editorial_status": "titulo_normalizado"
     },
     {
-      "id": "df6bf681a13eda0eb8ec",
-      "title": "Labubu hype seemed unstoppable, now the fluffy monster mania is dying",
-      "original_title": "Labubu hype seemed unstoppable, now the fluffy monster mania is dying",
+      "id": "1f04fc50da7adc86a6f6",
+      "title": "He spent $50,000 on Labubus but now the craze is dying",
+      "original_title": "He spent $50,000 on Labubus but now the craze is dying",
       "summary": "Informação divulgada por BBC Business. Consulte a publicação original para conhecer os detalhes e o contexto.",
       "source": "BBC Business",
       "category": "Economia",
