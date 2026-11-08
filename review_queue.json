@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-11-08T01:05:42.027758+00:00",
+  "generated_at": "2026-11-08T02:06:15.754928+00:00",
   "articles": [
+    {
+      "id": "ab7bde7744ab2a838f24",
+      "title": "What we know so far after Krakow gun attack",
+      "original_title": "What we know so far after Krakow gun attack",
+      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC News",
+      "category": "Mundo",
+      "published_at": "2026-11-08T01:47:41+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "0ff50ada0dc43237b242",
+      "title": "01h Sporting vence o Moreirense na estreia de Paulo Fonseca",
+      "original_title": "01h Sporting vence o Moreirense na estreia de Paulo Fonseca",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-08T01:18:02+00:00",
+      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/01h-sporting-vence-o-moreirense-na-estreia-de-paulo-fonseca_a1_1777674",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
     {
       "id": "78668ccf76d2ebb910e7",
       "title": "00h Presidente de Israel convida Eisenkot para formar governo",
@@ -49,19 +75,6 @@
       "category": "Economia",
       "published_at": "2026-11-07T23:02:35+00:00",
       "article_url": "https://www.bbc.co.uk/news/articles/cmvg652l927lo?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "ab7bde7744ab2a838f24",
-      "title": "What we know so far after Krakow gun attack",
-      "original_title": "What we know so far after Krakow gun attack",
-      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC News",
-      "category": "Mundo",
-      "published_at": "2026-11-07T22:58:49+00:00",
-      "article_url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
@@ -361,19 +374,6 @@
       "category": "Portugal",
       "published_at": "2026-11-07T20:02:19+00:00",
       "article_url": "https://www.rtp.pt/noticias/outras-modalidades/benfica-vence-stuart-hc-e-soma-13a-supertaca-feminina-de-hoquei-em-patins_d1777642",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "30572ee4437763f278f9",
-      "title": "19h Começam as vigílias de mães no Porto e em Lisboa",
-      "original_title": "19h Começam as vigílias de mães no Porto e em Lisboa",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-07T19:21:02+00:00",
-      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/19h-comecam-as-vigilias-de-maes-no-porto-e-em-lisboa_a1_1777641",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
