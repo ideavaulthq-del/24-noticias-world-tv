@@ -1,6 +1,19 @@
 {
-  "generated_at": "2026-11-07T23:09:54.042545+00:00",
+  "generated_at": "2026-11-08T00:07:07.207455+00:00",
   "articles": [
+    {
+      "id": "2066f0d2ded00565e4fd",
+      "title": "23h Habitação: ministério está a analisar carta dos manifestantes",
+      "original_title": "23h Habitação: ministério está a analisar carta dos manifestantes",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-07T23:23:03+00:00",
+      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/23h-habitacao-ministerio-esta-a-analisar-carta-dos-manifestantes_a1_1777672",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
     {
       "id": "ab7bde7744ab2a838f24",
       "title": "What we know so far after Krakow gun attack",
@@ -22,7 +35,7 @@
       "source": "RTP Notícias",
       "category": "Portugal",
       "published_at": "2026-11-07T22:52:17+00:00",
-      "article_url": "https://www.rtp.pt/noticias/pais/lisboa-e-porto-acolhem-vigilias-silenciosas-das-maes-pela-acampada-acompanhe-em-direto_e1777561",
+      "article_url": "https://www.rtp.pt/noticias/pais/lisboa-e-porto-acolheram-vigilias-silenciosas-das-maes-pela-acampada_e1777561",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
@@ -348,19 +361,6 @@
       "category": "Portugal",
       "published_at": "2026-11-07T18:43:17+00:00",
       "article_url": "https://www.rtp.pt/noticias/desporto/sporting-vence-com-golaco-de-suarez-na-estreia-de-paulo-fonseca_e1777634",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "2d6d99995ae159a97106",
-      "title": "Seleção de râguebi vence Chile com ponto de bónus na Nations Cup",
-      "original_title": "Seleção de râguebi vence Chile com ponto de bónus na Nations Cup",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-07T18:33:54+00:00",
-      "article_url": "https://www.rtp.pt/noticias/raguebi/selecao-de-raguebi-vence-chile-com-ponto-de-bonus-na-nations-cup_d1777636",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
