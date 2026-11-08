@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-11-08T22:13:47.794210+00:00",
+  "generated_at": "2026-11-08T23:10:47.033355+00:00",
   "articles": [
+    {
+      "id": "a40fed54777ff0776e18",
+      "title": "Portugal ineficaz termina Finalíssima de futsal no último lugar",
+      "original_title": "Portugal ineficaz termina Finalíssima de futsal no último lugar",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-08T22:47:46+00:00",
+      "article_url": "https://www.rtp.pt/noticias/selecao-nacional/portugal-ineficaz-termina-finalissima-de-futsal-no-ultimo-lugar_d1777784",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "a1d66aa1f493319e042b",
+      "title": "Bis de Fermín Lopez abate Atlético e FC Barcelona lidera isolado em Espanha",
+      "original_title": "Bis de Fermín Lopez abate Atlético e FC Barcelona lidera isolado em Espanha",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-08T22:28:51+00:00",
+      "article_url": "https://www.rtp.pt/noticias/futebol-internacional/bis-de-fermin-lopez-abate-atletico-e-fc-barcelona-lidera-isolado-em-espanha_d1777780",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
     {
       "id": "aaf5960069dc05883dea",
       "title": "Doctor who treated victims of Krakow shooting speaks to the BBC",
@@ -210,27 +236,27 @@
       "editorial_status": "titulo_normalizado"
     },
     {
-      "id": "17c8a221eeea9a179369",
-      "title": "Rio Ave - Sporting de Braga",
-      "original_title": "Rio Ave - Sporting de Braga",
+      "id": "e34ec36a49ff6a40fbe9",
+      "title": "Sporting de Braga vence na visita ao Rio Ave com penálti de Ricardo Horta",
+      "original_title": "Sporting de Braga vence na visita ao Rio Ave com penálti de Ricardo Horta",
       "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
       "source": "RTP Notícias",
       "category": "Portugal",
       "published_at": "2026-11-08T18:16:08+00:00",
-      "article_url": "https://www.rtp.pt/noticias/desporto/rio-ave-sporting-de-braga_e1777758",
+      "article_url": "https://www.rtp.pt/noticias/desporto/sporting-de-braga-vence-na-visita-ao-rio-ave-com-penalti-de-ricardo-horta_e1777758",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
     },
     {
-      "id": "b0ea7c908e54bad71844",
-      "title": "Estrela - Benfica",
-      "original_title": "Estrela - Benfica",
+      "id": "8bd1f3f364e298c78a9f",
+      "title": "Benfica vence na Amadora com golo de Pavlidis no último suspiro",
+      "original_title": "Benfica vence na Amadora com golo de Pavlidis no último suspiro",
       "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
       "source": "RTP Notícias",
       "category": "Portugal",
       "published_at": "2026-11-08T18:10:16+00:00",
-      "article_url": "https://www.rtp.pt/noticias/desporto/estrela-benfica_e1777757",
+      "article_url": "https://www.rtp.pt/noticias/desporto/benfica-vence-na-amadora-com-golo-de-pavlidis-no-ultimo-suspiro_e1777757",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
@@ -340,19 +366,6 @@
       "editorial_status": "titulo_normalizado"
     },
     {
-      "id": "af4e6be6d716e43aa1c2",
-      "title": "Egito. Pelo menos sete mortos e 112 feridos em colisão de comboios a sul do Cairo",
-      "original_title": "Egito. Pelo menos sete mortos e 112 feridos em colisão de comboios a sul do Cairo",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Mundo",
-      "published_at": "2026-11-08T16:19:41+00:00",
-      "article_url": "https://www.rtp.pt/noticias/mundo/egito-pelo-menos-sete-mortos-e-112-feridos-em-colisao-de-comboios-a-sul-do-cairo_n1777741",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
       "id": "38af068cdc5450569e92",
       "title": "Footage shows derailed carriages after fatal train crash in Egypt",
       "original_title": "Footage shows derailed carriages after fatal train crash in Egypt",
@@ -361,19 +374,6 @@
       "category": "Mundo",
       "published_at": "2026-11-08T16:05:57+00:00",
       "article_url": "https://www.bbc.co.uk/news/videos/cw78p2km7d94o?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "40f07ef293436807185c",
-      "title": "Eisenkot convidado a formar governo afirma que Netanyahu é bem-vindo a integrar futuro executivo",
-      "original_title": "Eisenkot convidado a formar governo afirma que Netanyahu é bem-vindo a integrar futuro executivo",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Mundo",
-      "published_at": "2026-11-08T16:03:59+00:00",
-      "article_url": "https://www.rtp.pt/noticias/mundo/eisenkot-convidado-a-formar-governo-afirma-que-netanyahu-e-bem-vindo-a-integrar-futuro-executivo_n1777740",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
