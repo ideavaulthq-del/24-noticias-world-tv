@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-11-08T00:07:07.207455+00:00",
+  "generated_at": "2026-11-08T01:05:42.027758+00:00",
   "articles": [
+    {
+      "id": "78668ccf76d2ebb910e7",
+      "title": "00h Presidente de Israel convida Eisenkot para formar governo",
+      "original_title": "00h Presidente de Israel convida Eisenkot para formar governo",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-08T00:43:02+00:00",
+      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/00h-presidente-de-israel-convida-eisenkot-para-formar-governo_a1_1777673",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "fdb3ebfe0f86b8bb2295",
+      "title": "Can the Zelda remake capture the magic of the original?",
+      "original_title": "Can the Zelda remake capture the magic of the original?",
+      "summary": "Informação divulgada por BBC Technology. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC Technology",
+      "category": "Tecnologia",
+      "published_at": "2026-11-08T00:37:45+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/cm8xznl0n1q4o?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
     {
       "id": "2066f0d2ded00565e4fd",
       "title": "23h Habitação: ministério está a analisar carta dos manifestantes",
@@ -10,6 +36,19 @@
       "category": "Portugal",
       "published_at": "2026-11-07T23:23:03+00:00",
       "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/23h-habitacao-ministerio-esta-a-analisar-carta-dos-manifestantes_a1_1777672",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "df6bf681a13eda0eb8ec",
+      "title": "Labubu hype seemed unstoppable, now the fluffy monster mania is dying",
+      "original_title": "Labubu hype seemed unstoppable, now the fluffy monster mania is dying",
+      "summary": "Informação divulgada por BBC Business. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC Business",
+      "category": "Economia",
+      "published_at": "2026-11-07T23:02:35+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/cmvg652l927lo?at_medium=RSS&at_campaign=rss",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
@@ -353,19 +392,6 @@
       "editorial_status": "titulo_normalizado"
     },
     {
-      "id": "1c29ae7ef4c67f63d500",
-      "title": "Sporting vence com golaço de Suárez na estreia de Paulo Fonseca",
-      "original_title": "Sporting vence com golaço de Suárez na estreia de Paulo Fonseca",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-07T18:43:17+00:00",
-      "article_url": "https://www.rtp.pt/noticias/desporto/sporting-vence-com-golaco-de-suarez-na-estreia-de-paulo-fonseca_e1777634",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
       "id": "ed9ceb310f19d9b3aeaa",
       "title": "US offers $20m reward for information about Iran's nuclear programme",
       "original_title": "US offers $20m reward for information about Iran's nuclear programme",
@@ -556,32 +582,6 @@
       "category": "Economia",
       "published_at": "2026-11-06T21:49:50+00:00",
       "article_url": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "c1cdc213519354adb61c",
-      "title": "AI stocks climb after trillions wiped from market values",
-      "original_title": "AI stocks climb after trillions wiped from market values",
-      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC News",
-      "category": "Mundo",
-      "published_at": "2026-11-06T21:06:25+00:00",
-      "article_url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "eb961ee4a250163cab46",
-      "title": "Why the US midterms sparked an AI stock selloff",
-      "original_title": "Why the US midterms sparked an AI stock selloff",
-      "summary": "Informação divulgada por BBC Business. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC Business",
-      "category": "Economia",
-      "published_at": "2026-11-06T18:32:16+00:00",
-      "article_url": "https://www.bbc.co.uk/news/articles/crlykkzwwpydo?at_medium=RSS&at_campaign=rss",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
