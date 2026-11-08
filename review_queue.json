@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-11-08T21:36:36.258980+00:00",
+  "generated_at": "2026-11-08T22:13:47.794210+00:00",
   "articles": [
+    {
+      "id": "aaf5960069dc05883dea",
+      "title": "Doctor who treated victims of Krakow shooting speaks to the BBC",
+      "original_title": "Doctor who treated victims of Krakow shooting speaks to the BBC",
+      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC News",
+      "category": "Mundo",
+      "published_at": "2026-11-08T22:05:12+00:00",
+      "article_url": "https://www.bbc.co.uk/news/videos/c63elgqqz5y0o?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "a5c6770e3736c5ae0686",
+      "title": "Acampada do Porto votou por permanecer na Praça de D. João I apesar do mau tempo",
+      "original_title": "Acampada do Porto votou por permanecer na Praça de D. João I apesar do mau tempo",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-08T22:02:19+00:00",
+      "article_url": "https://www.rtp.pt/noticias/pais/acampada-do-porto-votou-por-permanecer-na-praca-de-d-joao-i-apesar-do-mau-tempo_e1777690",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
     {
       "id": "860f0526b611f4f44426",
       "title": "\"Leonor, Marquesa de Alorna\". Estreia este domingo a nova série da RTP",
@@ -36,19 +62,6 @@
       "category": "Mundo",
       "published_at": "2026-11-08T21:17:47+00:00",
       "article_url": "https://www.rtp.pt/noticias/mundo/cimeira-do-clima-da-onu-arranca-esta-segunda-feira-na-turquia_v1777776",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "9ac2427be97966a889c2",
-      "title": "Desmobilização da Acampada de Lisboa no Rossio é cenário em aberto",
-      "original_title": "Desmobilização da Acampada de Lisboa no Rossio é cenário em aberto",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-08T21:09:53+00:00",
-      "article_url": "https://www.rtp.pt/noticias/pais/desmobilizacao-da-acampada-de-lisboa-no-rossio-e-cenario-em-aberto_e1777690",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
@@ -569,19 +582,6 @@
       "category": "Mundo",
       "published_at": "2026-11-07T18:14:38+00:00",
       "article_url": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "2adb2022a8c2d0e13341",
-      "title": "Gaza wedding festival sees 250 couples married at the same time",
-      "original_title": "Gaza wedding festival sees 250 couples married at the same time",
-      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC News",
-      "category": "Mundo",
-      "published_at": "2026-11-07T17:58:41+00:00",
-      "article_url": "https://www.bbc.co.uk/news/videos/ckr5ygm78j76o?at_medium=RSS&at_campaign=rss",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
