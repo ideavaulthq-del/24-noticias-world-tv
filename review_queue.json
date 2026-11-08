@@ -1,6 +1,45 @@
 {
-  "generated_at": "2026-11-08T10:42:24.184142+00:00",
+  "generated_at": "2026-11-08T11:38:20.816572+00:00",
   "articles": [
+    {
+      "id": "91a02b0cb16ec8e48f4a",
+      "title": "Depressão Bruna. Prolongados avisos de vento e agitação marítima na Madeira",
+      "original_title": "Depressão Bruna. Prolongados avisos de vento e agitação marítima na Madeira",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-08T11:35:46+00:00",
+      "article_url": "https://www.rtp.pt/noticias/pais/depressao-bruna-prolongados-avisos-de-vento-e-agitacao-maritima-na-madeira_n1777704",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "6201b696b636c6baf272",
+      "title": "Government 'looking seriously' at banning under-16s from Vinted and eBay",
+      "original_title": "Government 'looking seriously' at banning under-16s from Vinted and eBay",
+      "summary": "Informação divulgada por BBC Business. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC Business",
+      "category": "Economia",
+      "published_at": "2026-11-08T11:25:32+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "ab7bde7744ab2a838f24",
+      "title": "What we know so far after Krakow gun attack",
+      "original_title": "What we know so far after Krakow gun attack",
+      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC News",
+      "category": "Mundo",
+      "published_at": "2026-11-08T11:22:17+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
     {
       "id": "b6514c19b0a40385dfd4",
       "title": "10h Pedro Duarte: violência não está no ADN do Porto",
@@ -179,19 +218,6 @@
       "category": "Mundo",
       "published_at": "2026-11-08T08:23:30+00:00",
       "article_url": "https://www.rtp.pt/noticias/mundo/arabia-saudita-interceta-misseis-balisticos-lancados-por-houthis-contra-riade_n1777686",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "ab7bde7744ab2a838f24",
-      "title": "What we know so far after Krakow gun attack",
-      "original_title": "What we know so far after Krakow gun attack",
-      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC News",
-      "category": "Mundo",
-      "published_at": "2026-11-08T07:52:33+00:00",
-      "article_url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
@@ -418,19 +444,6 @@
       "editorial_status": "titulo_normalizado"
     },
     {
-      "id": "69d59ef7d2dd70585eb7",
-      "title": "Camané e Sara Correia levaram o fado ao Rio de Janeiro",
-      "original_title": "Camané e Sara Correia levaram o fado ao Rio de Janeiro",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Cultura",
-      "published_at": "2026-11-07T22:42:48+00:00",
-      "article_url": "https://www.rtp.pt/noticias/cultura/camane-e-sara-correia-levaram-o-fado-ao-rio-de-janeiro_v1777671",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
       "id": "3b3b6ed8fc056300f80a",
       "title": "Israel's president tasks opposition leader Eisenkot with forming government",
       "original_title": "Israel's president tasks opposition leader Eisenkot with forming government",
@@ -569,19 +582,6 @@
       "category": "Mundo",
       "published_at": "2026-11-07T12:49:36+00:00",
       "article_url": "https://www.bbc.co.uk/news/articles/cm4g1nq8158po?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "fbdf0c1833e6152c081f",
-      "title": "Texas mayor instructs police to limit co-operation with ICE",
-      "original_title": "Texas mayor instructs police to limit co-operation with ICE",
-      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC News",
-      "category": "Mundo",
-      "published_at": "2026-11-07T08:15:55+00:00",
-      "article_url": "https://www.bbc.co.uk/news/articles/c8dx33d22zkro?at_medium=RSS&at_campaign=rss",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
