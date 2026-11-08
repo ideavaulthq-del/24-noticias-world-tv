@@ -1,6 +1,45 @@
 {
-  "generated_at": "2026-11-08T18:47:39.471767+00:00",
+  "generated_at": "2026-11-08T19:43:29.564915+00:00",
   "articles": [
+    {
+      "id": "b5813bb9a4f1a1e4e37e",
+      "title": "Lando Norris vence GP do Brasil de Fórmula 1 e Mercedes campeã de construtores",
+      "original_title": "Lando Norris vence GP do Brasil de Fórmula 1 e Mercedes campeã de construtores",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-08T19:37:09+00:00",
+      "article_url": "https://www.rtp.pt/noticias/motores/lando-norris-vence-gp-do-brasil-de-formula-1-e-mercedes-campea-de-construtores_d1777765",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "09eebcd9540ab10b02c9",
+      "title": "19h Israel: Gadi Eisenkot chamado para formar governo",
+      "original_title": "19h Israel: Gadi Eisenkot chamado para formar governo",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-08T19:08:02+00:00",
+      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/19h-israel-gadi-eisenkot-chamado-para-formar-governo_a1_1777764",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "63c15c146114873df9c5",
+      "title": "Mau tempo. Nadador-salvador de 37 anos está desaparecido no Funchal",
+      "original_title": "Mau tempo. Nadador-salvador de 37 anos está desaparecido no Funchal",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-08T19:03:09+00:00",
+      "article_url": "https://www.rtp.pt/noticias/pais/mau-tempo-nadador-salvador-de-37-anos-esta-desaparecido-no-funchal_n1777763",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
     {
       "id": "9ac2427be97966a889c2",
       "title": "Desmobilização da Acampada de Lisboa no Rossio é cenário em aberto",
@@ -132,14 +171,14 @@
       "editorial_status": "titulo_normalizado"
     },
     {
-      "id": "dbdd9a8f60823d9135df",
-      "title": "Andebol. Espanha - Portugal",
-      "original_title": "Andebol. Espanha - Portugal",
+      "id": "9c279c9c276930900684",
+      "title": "Espanha e Portugal empatam 37-37",
+      "original_title": "Espanha e Portugal empatam 37-37",
       "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
       "source": "RTP Notícias",
       "category": "Portugal",
       "published_at": "2026-11-08T16:44:23+00:00",
-      "article_url": "https://www.rtp.pt/noticias/andebol/andebol-espanha-portugal_d1777745",
+      "article_url": "https://www.rtp.pt/noticias/outras-modalidades/espanha-e-portugal-empatam-37-37_d1777745",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
@@ -361,45 +400,6 @@
       "category": "Portugal",
       "published_at": "2026-11-08T13:52:48+00:00",
       "article_url": "https://www.rtp.pt/noticias/desporto/guimaraes-no-caminho-dos-dragoes-farioli-elogia-clube-adversario_v1777722",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "b62ec80c8b7ac468f780",
-      "title": "COP31. Guterres reitera que este é o momento de agir",
-      "original_title": "COP31. Guterres reitera que este é o momento de agir",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Mundo",
-      "published_at": "2026-11-08T13:50:47+00:00",
-      "article_url": "https://www.rtp.pt/noticias/mundo/cop31-guterres-reitera-que-este-e-o-momento-de-agir_v1777721",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "39213dfe2bed415c691f",
-      "title": "Entrevista a Yulia Navalnaya. \"Estamos com dificuldades mas existimos\"",
-      "original_title": "Entrevista a Yulia Navalnaya. \"Estamos com dificuldades mas existimos\"",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Mundo",
-      "published_at": "2026-11-08T13:46:47+00:00",
-      "article_url": "https://www.rtp.pt/noticias/mundo/entrevista-a-yulia-navalnaya-estamos-com-dificuldades-mas-existimos_v1777720",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "0770b698ccd4ca40b3bf",
-      "title": "Eisenkot chamado pelo presidente de Israel para substituir Netanyahu",
-      "original_title": "Eisenkot chamado pelo presidente de Israel para substituir Netanyahu",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Mundo",
-      "published_at": "2026-11-08T13:39:47+00:00",
-      "article_url": "https://www.rtp.pt/noticias/mundo/eisenkot-chamado-pelo-presidente-de-israel-para-substituir-netanyahu_v1777719",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
