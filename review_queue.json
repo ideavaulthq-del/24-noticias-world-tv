@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-11-08T15:36:17.615879+00:00",
+  "generated_at": "2026-11-08T16:14:08.837532+00:00",
   "articles": [
+    {
+      "id": "40f07ef293436807185c",
+      "title": "Eisenkot convidado a formar governo afirma que Netanyahu é bem-vindo a integrar futuro executivo",
+      "original_title": "Eisenkot convidado a formar governo afirma que Netanyahu é bem-vindo a integrar futuro executivo",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Mundo",
+      "published_at": "2026-11-08T16:03:59+00:00",
+      "article_url": "https://www.rtp.pt/noticias/mundo/um-dos-momentos-mais-criticos-da-democracia-israelita-eisenkot-convidado-a-formar-governo_n1777740",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "6201b696b636c6baf272",
+      "title": "Government 'looking seriously' at banning under-16s from Vinted and eBay",
+      "original_title": "Government 'looking seriously' at banning under-16s from Vinted and eBay",
+      "summary": "Informação divulgada por BBC Business. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC Business",
+      "category": "Economia",
+      "published_at": "2026-11-08T15:37:25+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
     {
       "id": "6836a26af6b433aeb4c1",
       "title": "15h Ministra Saúde chamada ao parlamento pelo PS",
@@ -322,32 +348,6 @@
       "category": "Portugal",
       "published_at": "2026-11-08T11:57:50+00:00",
       "article_url": "https://www.rtp.pt/noticias/outras-modalidades/portugal-fecha-mundial-de-trampolins-com-medalha-de-bronze-em-all-around_d1777707",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "8850904de4980b824d12",
-      "title": "11h Pedro Duarte: um ano mandato",
-      "original_title": "11h Pedro Duarte: um ano mandato",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-08T11:41:02+00:00",
-      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/11h-pedro-duarte-um-ano-mandato_a1_1777706",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "6201b696b636c6baf272",
-      "title": "Government 'looking seriously' at banning under-16s from Vinted and eBay",
-      "original_title": "Government 'looking seriously' at banning under-16s from Vinted and eBay",
-      "summary": "Informação divulgada por BBC Business. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC Business",
-      "category": "Economia",
-      "published_at": "2026-11-08T11:25:32+00:00",
-      "article_url": "https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro?at_medium=RSS&at_campaign=rss",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
