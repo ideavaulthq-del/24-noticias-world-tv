@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-11-08T18:06:59.146652+00:00",
+  "generated_at": "2026-11-08T18:47:39.471767+00:00",
   "articles": [
     {
-      "id": "e7c657b59ec3437389d0",
-      "title": "Elétrico da Carris descarrilou no centro de Lisboa",
-      "original_title": "Elétrico da Carris descarrilou no centro de Lisboa",
+      "id": "9ac2427be97966a889c2",
+      "title": "Desmobilização da Acampada de Lisboa no Rossio é cenário em aberto",
+      "original_title": "Desmobilização da Acampada de Lisboa no Rossio é cenário em aberto",
       "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
       "source": "RTP Notícias",
       "category": "Portugal",
-      "published_at": "2026-11-08T18:02:32+00:00",
-      "article_url": "https://www.rtp.pt/noticias/pais/eletrico-descarrilou-no-centro-de-lisboa_n1777746",
+      "published_at": "2026-11-08T18:30:32+00:00",
+      "article_url": "https://www.rtp.pt/noticias/pais/desmobilizacao-da-acampada-de-lisboa-no-rossio-e-cenario-em-aberto_e1777690",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
@@ -21,8 +21,47 @@
       "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
       "source": "BBC News",
       "category": "Mundo",
-      "published_at": "2026-11-08T17:59:03+00:00",
+      "published_at": "2026-11-08T18:22:53+00:00",
       "article_url": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "17c8a221eeea9a179369",
+      "title": "Rio Ave - Sporting de Braga",
+      "original_title": "Rio Ave - Sporting de Braga",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-08T18:16:08+00:00",
+      "article_url": "https://www.rtp.pt/noticias/desporto/rio-ave-sporting-de-braga_e1777758",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "b0ea7c908e54bad71844",
+      "title": "Estrela - Benfica",
+      "original_title": "Estrela - Benfica",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-08T18:10:16+00:00",
+      "article_url": "https://www.rtp.pt/noticias/desporto/estrela-benfica_e1777757",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "e7c657b59ec3437389d0",
+      "title": "Elétrico da Carris descarrilou no centro de Lisboa",
+      "original_title": "Elétrico da Carris descarrilou no centro de Lisboa",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-08T18:02:32+00:00",
+      "article_url": "https://www.rtp.pt/noticias/pais/eletrico-da-carris-descarrilou-no-centro-de-lisboa_n1777746",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
@@ -93,19 +132,6 @@
       "editorial_status": "titulo_normalizado"
     },
     {
-      "id": "9ac2427be97966a889c2",
-      "title": "Desmobilização da Acampada de Lisboa no Rossio é cenário em aberto",
-      "original_title": "Desmobilização da Acampada de Lisboa no Rossio é cenário em aberto",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-08T17:16:07+00:00",
-      "article_url": "https://www.rtp.pt/noticias/pais/desmobilizacao-da-acampada-de-lisboa-no-rossio-e-cenario-em-aberto_e1777690",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
       "id": "dbdd9a8f60823d9135df",
       "title": "Andebol. Espanha - Portugal",
       "original_title": "Andebol. Espanha - Portugal",
@@ -113,7 +139,7 @@
       "source": "RTP Notícias",
       "category": "Portugal",
       "published_at": "2026-11-08T16:44:23+00:00",
-      "article_url": "https://www.rtp.pt/noticias/outras-modalidades/andebol-espanha-portugal_d1777745",
+      "article_url": "https://www.rtp.pt/noticias/andebol/andebol-espanha-portugal_d1777745",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
@@ -379,19 +405,6 @@
       "editorial_status": "titulo_normalizado"
     },
     {
-      "id": "c345159761d12ff27240",
-      "title": "13h Pedro Duarte: Porto recusa violência",
-      "original_title": "13h Pedro Duarte: Porto recusa violência",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-08T13:38:03+00:00",
-      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/13h-pedro-duarte-porto-recusa-violencia_a1_1777718",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
       "id": "47745bd3fa71f78fd826",
       "title": "Iran executes three men for 'armed unrest' after January protests",
       "original_title": "Iran executes three men for 'armed unrest' after January protests",
@@ -400,19 +413,6 @@
       "category": "Mundo",
       "published_at": "2026-11-08T13:37:50+00:00",
       "article_url": "https://www.bbc.co.uk/news/articles/ckly0ex633ydo?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "d16220c638a5da636e25",
-      "title": "Despedidos da ECCO pedem dois salários por ano de trabalho",
-      "original_title": "Despedidos da ECCO pedem dois salários por ano de trabalho",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Economia",
-      "published_at": "2026-11-08T13:31:47+00:00",
-      "article_url": "https://www.rtp.pt/noticias/economia/despedidos-da-ecco-pedem-dois-salarios-por-ano-de-trabalho_v1777717",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
