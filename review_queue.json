@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-11-08T09:46:51.245302+00:00",
+  "generated_at": "2026-11-08T10:42:24.184142+00:00",
   "articles": [
+    {
+      "id": "b6514c19b0a40385dfd4",
+      "title": "10h Pedro Duarte: violência não está no ADN do Porto",
+      "original_title": "10h Pedro Duarte: violência não está no ADN do Porto",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-08T10:24:01+00:00",
+      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/10h-pedro-duarte-violencia-nao-esta-no-adn-do-porto_a1_1777701",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "6b9aae3befe130e03db7",
+      "title": "\"Ideologia de extrema-direita\". A pista seguida numa Polónia em choque após o ataque de Cracóvia",
+      "original_title": "\"Ideologia de extrema-direita\". A pista seguida numa Polónia em choque após o ataque de Cracóvia",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Mundo",
+      "published_at": "2026-11-08T10:16:26+00:00",
+      "article_url": "https://www.rtp.pt/noticias/mundo/ideologia-de-extrema-direita-a-pista-seguida-numa-polonia-em-choque-apos-o-ataque-de-cracovia_n1777698",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
     {
       "id": "770bc610b7ea299d53a8",
       "title": "How the deadly shooting in Krakow unfolded",
@@ -400,32 +426,6 @@
       "category": "Cultura",
       "published_at": "2026-11-07T22:42:48+00:00",
       "article_url": "https://www.rtp.pt/noticias/cultura/camane-e-sara-correia-levaram-o-fado-ao-rio-de-janeiro_v1777671",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "ef9fd2f9b4984b724965",
-      "title": "Stephen Miller é o novo Chefe de Gabinete do presidente Trump",
-      "original_title": "Stephen Miller é o novo Chefe de Gabinete do presidente Trump",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Mundo",
-      "published_at": "2026-11-07T22:41:48+00:00",
-      "article_url": "https://www.rtp.pt/noticias/mundo/stephen-miller-e-o-novo-chefe-de-gabinete-do-presidente-trump_v1777670",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "bf9c1021adf48a963fc6",
-      "title": "Papa apela à união dos povos em viagem pela América do Sul",
-      "original_title": "Papa apela à união dos povos em viagem pela América do Sul",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Mundo",
-      "published_at": "2026-11-07T22:40:47+00:00",
-      "article_url": "https://www.rtp.pt/noticias/mundo/papa-apela-a-uniao-dos-povos-em-viagem-pela-america-do-sul_v1777669",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
