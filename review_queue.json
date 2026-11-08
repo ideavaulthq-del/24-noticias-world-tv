@@ -1,6 +1,19 @@
 {
-  "generated_at": "2026-11-08T02:54:20.002552+00:00",
+  "generated_at": "2026-11-08T03:52:46.780177+00:00",
   "articles": [
+    {
+      "id": "2066126b56a593972b36",
+      "title": "3h Acampada de Lisboa vota ficar esta noite no Rossio",
+      "original_title": "3h Acampada de Lisboa vota ficar esta noite no Rossio",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-08T03:25:02+00:00",
+      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/3h-acampada-de-lisboa-vota-ficar-esta-noite-no-rossio_a1_1777677",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
     {
       "id": "e39b34f52f64027df904",
       "title": "2h Habitação. Governo garante que algumas reivindicações já estão a ser concretizadas",
@@ -361,19 +374,6 @@
       "category": "Portugal",
       "published_at": "2026-11-07T20:21:36+00:00",
       "article_url": "https://www.rtp.pt/noticias/futebol-nacional/jogo-entre-estoril-praia-e-maritimo-adiado-devido-ao-mau-tempo-na-madeira_d1777647",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "53c4ffdfadd7e393c2bb",
-      "title": "Presidente israelita vai convidar Gadi Eisenkot para formar governo",
-      "original_title": "Presidente israelita vai convidar Gadi Eisenkot para formar governo",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Mundo",
-      "published_at": "2026-11-07T20:15:33+00:00",
-      "article_url": "https://www.rtp.pt/noticias/mundo/presidente-israelita-vai-convidar-gadi-eisenkot-para-formar-governo_n1777646",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
