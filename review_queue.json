@@ -1,6 +1,19 @@
 {
-  "generated_at": "2026-11-09T01:46:33.537939+00:00",
+  "generated_at": "2026-11-09T02:52:36.727251+00:00",
   "articles": [
+    {
+      "id": "fd6a4b73a111fd74e60f",
+      "title": "2h Habitação. Acampada de Lisboa mantém tendas no Rossio após horas de debate",
+      "original_title": "2h Habitação. Acampada de Lisboa mantém tendas no Rossio após horas de debate",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-09T02:27:02+00:00",
+      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/2h-habitacao-acampada-de-lisboa-mantem-tendas-no-rossio-apos-horas-de-debate_a1_1777789",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
     {
       "id": "8e5fa45643464a979cd2",
       "title": "01h Benfica sofre mas ganha",
@@ -387,19 +400,6 @@
       "category": "Portugal",
       "published_at": "2026-11-08T17:50:56+00:00",
       "article_url": "https://www.rtp.pt/noticias/motores/marco-bezzecchi-vence-no-qatar-e-adia-titulo-de-motogp-para-portimao_d1777754",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "1e696a6886db6f964271",
-      "title": "17h PS quer min Saúde no parlamento para explicar casos de Portimão",
-      "original_title": "17h PS quer min Saúde no parlamento para explicar casos de Portimão",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-08T17:35:03+00:00",
-      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/17h-ps-quer-min-saude-no-parlamento-para-explicar-casos-de-portimao_a1_1777753",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
