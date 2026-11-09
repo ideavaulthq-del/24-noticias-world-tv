@@ -1,6 +1,38 @@
 {
-  "generated_at": "2026-11-09T18:55:20.925865+00:00",
+  "generated_at": "2026-11-09T19:55:40.515225+00:00",
   "audits": [
+    {
+      "article_id": "90d6abfec5c915336444",
+      "sources_detected": 1,
+      "issues": [
+        "sem_segunda_fonte_independente"
+      ],
+      "status": "revisao_humana_obrigatoria"
+    },
+    {
+      "article_id": "273c7f11c13b64752bf4",
+      "sources_detected": 1,
+      "issues": [
+        "sem_segunda_fonte_independente"
+      ],
+      "status": "revisao_humana_obrigatoria"
+    },
+    {
+      "article_id": "8cd3e1c6e214c6c4c56f",
+      "sources_detected": 1,
+      "issues": [
+        "sem_segunda_fonte_independente"
+      ],
+      "status": "revisao_humana_obrigatoria"
+    },
+    {
+      "article_id": "240294279fd074038498",
+      "sources_detected": 1,
+      "issues": [
+        "sem_segunda_fonte_independente"
+      ],
+      "status": "revisao_humana_obrigatoria"
+    },
     {
       "article_id": "fb6d25185ed8ec332855",
       "sources_detected": 1,
@@ -91,14 +123,6 @@
     },
     {
       "article_id": "57457b782bf810acbcbc",
-      "sources_detected": 1,
-      "issues": [
-        "sem_segunda_fonte_independente"
-      ],
-      "status": "revisao_humana_obrigatoria"
-    },
-    {
-      "article_id": "90d6abfec5c915336444",
       "sources_detected": 1,
       "issues": [
         "sem_segunda_fonte_independente"
@@ -250,22 +274,6 @@
       "status": "revisao_humana_obrigatoria"
     },
     {
-      "article_id": "cf55db453fc6bc6ee1c4",
-      "sources_detected": 1,
-      "issues": [
-        "sem_segunda_fonte_independente"
-      ],
-      "status": "revisao_humana_obrigatoria"
-    },
-    {
-      "article_id": "dc3ffd85a2c026d25b5a",
-      "sources_detected": 1,
-      "issues": [
-        "sem_segunda_fonte_independente"
-      ],
-      "status": "revisao_humana_obrigatoria"
-    },
-    {
       "article_id": "3d36ab7effb6e2094a23",
       "sources_detected": 1,
       "issues": [
@@ -275,14 +283,6 @@
     },
     {
       "article_id": "1e2e36008929c99fd6bc",
-      "sources_detected": 1,
-      "issues": [
-        "sem_segunda_fonte_independente"
-      ],
-      "status": "revisao_humana_obrigatoria"
-    },
-    {
-      "article_id": "cc61e9ad68b4ae183e11",
       "sources_detected": 1,
       "issues": [
         "sem_segunda_fonte_independente"

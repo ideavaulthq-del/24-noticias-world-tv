@@ -1,6 +1,58 @@
 {
-  "generated_at": "2026-11-09T18:55:20.696329+00:00",
+  "generated_at": "2026-11-09T19:55:40.373958+00:00",
   "articles": [
+    {
+      "id": "90d6abfec5c915336444",
+      "title": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
+      "original_title": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
+      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC News",
+      "category": "Mundo",
+      "published_at": "2026-11-09T19:39:33+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "273c7f11c13b64752bf4",
+      "title": "Biden diz que terá de reduzir promoção das suas memórias devido a cancro",
+      "original_title": "Biden diz que terá de reduzir promoção das suas memórias devido a cancro",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Mundo",
+      "published_at": "2026-11-09T19:26:20+00:00",
+      "article_url": "https://www.rtp.pt/noticias/mundo/biden-diz-que-tera-de-reduzir-promocao-das-suas-memorias-devido-a-cancro_n1777941",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "8cd3e1c6e214c6c4c56f",
+      "title": "19h Duas mortes levam IGAS às urgências do Hospital de Portimão",
+      "original_title": "19h Duas mortes levam IGAS às urgências do Hospital de Portimão",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-09T19:21:03+00:00",
+      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/19h-duas-mortes-levam-igas-as-urgencias-do-hospital-de-portimao_a1_1777946",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "240294279fd074038498",
+      "title": "Deslocadas pelos bombardeamentos israelitas. Quase 20 mil famílias palestinianas atingidas por tempestades em Gaza",
+      "original_title": "Deslocadas pelos bombardeamentos israelitas. Quase 20 mil famílias palestinianas atingidas por tempestades em Gaza",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Mundo",
+      "published_at": "2026-11-09T19:08:52+00:00",
+      "article_url": "https://www.rtp.pt/noticias/mundo/deslocadas-pelos-bombardeamentos-israelitas-quase-20-mil-familias-palestinianas-atingidas-por-tempestades-em-gaza_n1777944",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
     {
       "id": "fb6d25185ed8ec332855",
       "title": "18h Habitação: Aguiar-Branco pede aos partidos para resistirem à \"tentação\" da rua",
@@ -48,7 +100,7 @@
       "source": "RTP Notícias",
       "category": "Portugal",
       "published_at": "2026-11-09T18:42:18+00:00",
-      "article_url": "https://www.rtp.pt/noticias/benfica/tomas-araujo-e-banjaqui-com-problemas-musculares_d1777942",
+      "article_url": "https://www.rtp.pt/noticias/selecao-nacional/tomas-araujo-e-banjaqui-com-problemas-musculares_d1777942",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
@@ -153,19 +205,6 @@
       "category": "Portugal",
       "published_at": "2026-11-09T18:24:48+00:00",
       "article_url": "https://www.rtp.pt/noticias/politica/assembleias-populares-nunca-na-historia-resolveram-problemas_v1777937",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "90d6abfec5c915336444",
-      "title": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
-      "original_title": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
-      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC News",
-      "category": "Mundo",
-      "published_at": "2026-11-09T18:19:19+00:00",
-      "article_url": "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro?at_medium=RSS&at_campaign=rss",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
@@ -293,9 +332,9 @@
       "original_title": "França acusa Irão de ciberataque a 700 supermercados",
       "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
       "source": "RTP Notícias",
-      "category": "Portugal",
+      "category": "Mundo",
       "published_at": "2026-11-09T17:40:35+00:00",
-      "article_url": "https://www.rtp.pt/noticias/guerra-no-medio-oriente/franca-acusa-irao-de-ciberataque-a-700-supermercados_n1777926",
+      "article_url": "https://www.rtp.pt/noticias/mundo/franca-acusa-irao-de-ciberataque-a-700-supermercados_n1777926",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
@@ -405,32 +444,6 @@
       "editorial_status": "titulo_normalizado"
     },
     {
-      "id": "cf55db453fc6bc6ee1c4",
-      "title": "Erdogan rejeita novos ataques dos Estados Unidos e apela ao \"bom senso\"",
-      "original_title": "Erdogan rejeita novos ataques dos Estados Unidos e apela ao \"bom senso\"",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Mundo",
-      "published_at": "2026-11-09T16:57:39+00:00",
-      "article_url": "https://www.rtp.pt/noticias/mundo/erdogan-rejeita-novos-ataques-dos-estados-unidos-e-apela-ao-bom-senso_n1777918",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "dc3ffd85a2c026d25b5a",
-      "title": "Aguiar-Branco pede aos partidos para resistirem à \"tentação\" da rua",
-      "original_title": "Aguiar-Branco pede aos partidos para resistirem à \"tentação\" da rua",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-09T16:56:46+00:00",
-      "article_url": "https://www.rtp.pt/noticias/pais/aguiar-branco-pede-aos-partidos-para-resistirem-a-tentacao-da-rua_n1777912",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
       "id": "3d36ab7effb6e2094a23",
       "title": "France accuses Iran of supermarket fridge hacking",
       "original_title": "France accuses Iran of supermarket fridge hacking",
@@ -452,19 +465,6 @@
       "category": "Economia",
       "published_at": "2026-11-09T16:46:40+00:00",
       "article_url": "https://www.bbc.co.uk/news/articles/cw1l3lmem165o?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "cc61e9ad68b4ae183e11",
-      "title": "Mais 11 vítimas de abusos sexuais na Igreja Católica Portuguesa indemnizadas diz Conferência Episcopal",
-      "original_title": "Mais 11 vítimas de abusos sexuais na Igreja Católica Portuguesa indemnizadas diz Conferência Episcopal",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Economia",
-      "published_at": "2026-11-09T16:43:19+00:00",
-      "article_url": "https://www.rtp.pt/noticias/economia/mais-11-vitimas-de-abusos-sexuais-na-igreja-catolica-portuguesa-indemnizadas-diz-conferencia-episcopal_n1777917",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
