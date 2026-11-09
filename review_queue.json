@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-11-08T23:10:47.033355+00:00",
+  "generated_at": "2026-11-09T00:08:50.346100+00:00",
   "articles": [
+    {
+      "id": "7d95f5ac011abdda7ae0",
+      "title": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
+      "original_title": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
+      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC News",
+      "category": "Mundo",
+      "published_at": "2026-11-08T23:34:18+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "2e80caa9caab990e2289",
+      "title": "Ventura: PS ou Chega vão vencer as próximas eleições",
+      "original_title": "Ventura: PS ou Chega vão vencer as próximas eleições",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-08T23:18:03+00:00",
+      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/ventura-ps-ou-chega-vao-vencer-as-proximas-eleicoes_a1_1777785",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
     {
       "id": "a40fed54777ff0776e18",
       "title": "Portugal ineficaz termina Finalíssima de futsal no último lugar",
@@ -49,6 +75,19 @@
       "category": "Portugal",
       "published_at": "2026-11-08T22:02:19+00:00",
       "article_url": "https://www.rtp.pt/noticias/pais/acampada-do-porto-votou-por-permanecer-na-praca-de-d-joao-i-apesar-do-mau-tempo_e1777690",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "c81f1cdfce4240fd36e1",
+      "title": "Aramco Tower hit in heart of Saudi capital as Houthis launch fresh strikes",
+      "original_title": "Aramco Tower hit in heart of Saudi capital as Houthis launch fresh strikes",
+      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC News",
+      "category": "Mundo",
+      "published_at": "2026-11-08T21:37:36+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/c6ly3mjx958eo?at_medium=RSS&at_campaign=rss",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
@@ -223,19 +262,6 @@
       "editorial_status": "titulo_normalizado"
     },
     {
-      "id": "7d95f5ac011abdda7ae0",
-      "title": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
-      "original_title": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
-      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC News",
-      "category": "Mundo",
-      "published_at": "2026-11-08T18:22:53+00:00",
-      "article_url": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
       "id": "e34ec36a49ff6a40fbe9",
       "title": "Sporting de Braga vence na visita ao Rio Ave com penálti de Ricardo Horta",
       "original_title": "Sporting de Braga vence na visita ao Rio Ave com penálti de Ricardo Horta",
@@ -353,19 +379,6 @@
       "editorial_status": "titulo_normalizado"
     },
     {
-      "id": "852c2598612532f3dd39",
-      "title": "FC Porto vence em Guimarães e continua invicto na I Liga",
-      "original_title": "FC Porto vence em Guimarães e continua invicto na I Liga",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-08T16:26:23+00:00",
-      "article_url": "https://www.rtp.pt/noticias/desporto/fc-porto-vence-em-guimaraes-e-continua-invicto-na-i-liga_e1777739",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
       "id": "38af068cdc5450569e92",
       "title": "Footage shows derailed carriages after fatal train crash in Egypt",
       "original_title": "Footage shows derailed carriages after fatal train crash in Egypt",
@@ -439,19 +452,6 @@
       "category": "Mundo",
       "published_at": "2026-11-08T09:29:24+00:00",
       "article_url": "https://www.bbc.co.uk/news/videos/cq74p2zpwyjmo?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "b08e8ff41d9e74541238",
-      "title": "Houthis say at least 33 killed in Saudi air strike",
-      "original_title": "Houthis say at least 33 killed in Saudi air strike",
-      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC News",
-      "category": "Mundo",
-      "published_at": "2026-11-08T04:03:12+00:00",
-      "article_url": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
