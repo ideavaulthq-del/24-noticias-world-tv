@@ -1,6 +1,149 @@
 {
-  "generated_at": "2026-11-09T15:29:13.123545+00:00",
+  "generated_at": "2026-11-09T16:38:26.737341+00:00",
   "articles": [
+    {
+      "id": "8cd4e78a7defe9777cbc",
+      "title": "Explosão numa fábrica faz 16 mortos na Turquia",
+      "original_title": "Explosão numa fábrica faz 16 mortos na Turquia",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Mundo",
+      "published_at": "2026-11-09T16:33:57+00:00",
+      "article_url": "https://www.rtp.pt/noticias/mundo/explosao-numa-fabrica-faz-16-mortos-na-turquia_n1777913",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "11c44f3111c39e615e3a",
+      "title": "At least 39 die after Europe-bound migrant boat sinks off Senegal",
+      "original_title": "At least 39 die after Europe-bound migrant boat sinks off Senegal",
+      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC News",
+      "category": "Mundo",
+      "published_at": "2026-11-09T16:33:55+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/cv2d6dpge65go?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "70e6b765d11dea4e1590",
+      "title": "Habitação. Problema exige de todos atitude de diálogo e cooperação diz Igreja Católica",
+      "original_title": "Habitação. Problema exige de todos atitude de diálogo e cooperação diz Igreja Católica",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-09T16:33:52+00:00",
+      "article_url": "https://www.rtp.pt/noticias/pais/habitacao-problema-exige-de-todos-atitude-de-dialogo-e-cooperacao-diz-igreja-catolica_n1777915",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "2c2b5702aa1e56617686",
+      "title": "Sindicato dos oficiais da PSP quer revisão da lei orgânica para adequar polícia ao país",
+      "original_title": "Sindicato dos oficiais da PSP quer revisão da lei orgânica para adequar polícia ao país",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-09T16:30:14+00:00",
+      "article_url": "https://www.rtp.pt/noticias/pais/sindicato-dos-oficiais-da-psp-quer-revisao-da-lei-organica-para-adequar-policia-ao-pais_n1777903",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "46fb838b12be256099a1",
+      "title": "16h Portugal regista a segunda maior subida de emissões poluentes na UE",
+      "original_title": "16h Portugal regista a segunda maior subida de emissões poluentes na UE",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-09T16:26:02+00:00",
+      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/16h-portugal-regista-a-segunda-maior-subida-de-emissoes-poluentes-na-ue_a1_1777914",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "6930080025e23f13b2c3",
+      "title": "ONU alerta para guerra imprevisível com vítimas civis em níveis recorde",
+      "original_title": "ONU alerta para guerra imprevisível com vítimas civis em níveis recorde",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Mundo",
+      "published_at": "2026-11-09T16:20:35+00:00",
+      "article_url": "https://www.rtp.pt/noticias/mundo/onu-alerta-para-guerra-imprevisivel-com-vitimas-civis-em-niveis-recorde_n1777902",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "ab7bde7744ab2a838f24",
+      "title": "What we know so far after Krakow gun attack",
+      "original_title": "What we know so far after Krakow gun attack",
+      "summary": "Informação divulgada por BBC Europe. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC Europe",
+      "category": "Europa",
+      "published_at": "2026-11-09T16:13:00+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "b715f1de189becbc644d",
+      "title": "Civil servant who secretly held five jobs found guilty of fraud",
+      "original_title": "Civil servant who secretly held five jobs found guilty of fraud",
+      "summary": "Informação divulgada por BBC Business. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC Business",
+      "category": "Economia",
+      "published_at": "2026-11-09T16:10:08+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/cm70pgnx891do?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "154f852ce6f25808c1e3",
+      "title": "What we know so far about Jensen Huang's affair with suspected Chinese spy",
+      "original_title": "What we know so far about Jensen Huang's affair with suspected Chinese spy",
+      "summary": "Informação divulgada por BBC Business. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC Business",
+      "category": "Economia",
+      "published_at": "2026-11-09T15:46:20+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "fce46ca75ffbba70265c",
+      "title": "Nvidia launches investigation into CEO's affair with suspected Chinese spy",
+      "original_title": "Nvidia launches investigation into CEO's affair with suspected Chinese spy",
+      "summary": "Informação divulgada por BBC Business. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC Business",
+      "category": "Economia",
+      "published_at": "2026-11-09T15:42:30+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/c3dxw10rjn9no?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "b93f361d011bc43fac7b",
+      "title": "Trump questions midterm election integrity after previously accepting results",
+      "original_title": "Trump questions midterm election integrity after previously accepting results",
+      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC News",
+      "category": "Mundo",
+      "published_at": "2026-11-09T15:37:43+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/ck79p9350zp9o?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
     {
       "id": "064521abe7a555b550d1",
       "title": "15h \"Porta a Porta\" reage a dados da habitação e exige novas medidas",
@@ -15,19 +158,6 @@
       "editorial_status": "titulo_normalizado"
     },
     {
-      "id": "b9797f3d5a9b4646fa27",
-      "title": "Civil servant who juggled five jobs found guilty of fraud",
-      "original_title": "Civil servant who juggled five jobs found guilty of fraud",
-      "summary": "Informação divulgada por BBC Business. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC Business",
-      "category": "Economia",
-      "published_at": "2026-11-09T15:24:54+00:00",
-      "article_url": "https://www.bbc.co.uk/news/articles/cm70pgnx891do?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
       "id": "b0c86e0df5ab735361c3",
       "title": "Who is the suspected Chinese spy at centre of the Nvidia investigation?",
       "original_title": "Who is the suspected Chinese spy at centre of the Nvidia investigation?",
@@ -36,19 +166,6 @@
       "category": "Mundo",
       "published_at": "2026-11-09T14:50:35+00:00",
       "article_url": "https://www.bbc.co.uk/news/videos/c80404zyr53wo?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "11c44f3111c39e615e3a",
-      "title": "At least 39 die after Europe-bound migrant boat sinks off Senegal",
-      "original_title": "At least 39 die after Europe-bound migrant boat sinks off Senegal",
-      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC News",
-      "category": "Mundo",
-      "published_at": "2026-11-09T14:44:47+00:00",
-      "article_url": "https://www.bbc.co.uk/news/articles/cv2d6dpge65go?at_medium=RSS&at_campaign=rss",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
@@ -249,19 +366,6 @@
       "editorial_status": "titulo_normalizado"
     },
     {
-      "id": "154f852ce6f25808c1e3",
-      "title": "What we know so far about Jensen Huang's affair with suspected Chinese spy",
-      "original_title": "What we know so far about Jensen Huang's affair with suspected Chinese spy",
-      "summary": "Informação divulgada por BBC Business. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC Business",
-      "category": "Economia",
-      "published_at": "2026-11-09T13:10:32+00:00",
-      "article_url": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
       "id": "b1b6fdbc79f148e6aa51",
       "title": "12H30 Flávio Nazinho estreia-se nos convocados da seleção",
       "original_title": "12H30 Flávio Nazinho estreia-se nos convocados da seleção",
@@ -327,45 +431,6 @@
       "editorial_status": "titulo_normalizado"
     },
     {
-      "id": "217d9a17592a01ed470f",
-      "title": "Flávio Nazinho chamado à seleção portuguesa",
-      "original_title": "Flávio Nazinho chamado à seleção portuguesa",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-09T12:47:59+00:00",
-      "article_url": "https://www.rtp.pt/noticias/selecao-nacional/flavio-nazinho-chamado-a-selecao-portuguesa_d1777858",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "5126ac9b4c9e816635ff",
-      "title": "Igreja angolana quer pessoas no centro das políticas e combate à corrupção",
-      "original_title": "Igreja angolana quer pessoas no centro das políticas e combate à corrupção",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Mundo",
-      "published_at": "2026-11-09T12:47:01+00:00",
-      "article_url": "https://www.rtp.pt/noticias/mundo/igreja-angolana-quer-pessoas-no-centro-das-politicas-e-combate-a-corrupcao_n1777857",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "0c56a82e1d071a068b96",
-      "title": "12h Vice-presidente da Comissão Europeia apela à não-violência em protestos",
-      "original_title": "12h Vice-presidente da Comissão Europeia apela à não-violência em protestos",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-09T12:34:03+00:00",
-      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/12h-vice-presidente-da-comissao-europeia-apela-a-nao-violencia-em-protestos_a1_1777864",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
       "id": "0df4abc21bdbabe2b906",
       "title": "Nine foreigners caught allegedly trying to leave South Africa to fight in Ukraine",
       "original_title": "Nine foreigners caught allegedly trying to leave South Africa to fight in Ukraine",
@@ -379,19 +444,6 @@
       "editorial_status": "titulo_normalizado"
     },
     {
-      "id": "c463646a489cf27ad132",
-      "title": "Ministro das Finanças insiste que propostas da oposição podem levar a défice",
-      "original_title": "Ministro das Finanças insiste que propostas da oposição podem levar a défice",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Economia",
-      "published_at": "2026-11-09T12:28:48+00:00",
-      "article_url": "https://www.rtp.pt/noticias/economia/ministro-das-financas-insiste-que-propostas-da-oposicao-podem-levar-a-defice_v1777861",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
       "id": "6188a165ea811162b2d2",
       "title": "Government's EV targets expected to be reduced this week",
       "original_title": "Government's EV targets expected to be reduced this week",
@@ -400,19 +452,6 @@
       "category": "Economia",
       "published_at": "2026-11-09T12:06:22+00:00",
       "article_url": "https://www.bbc.co.uk/news/articles/cqkg5g2970epo?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "bf34822d622aca2156fc",
-      "title": "PJ apreende mais de quatro toneladas de haxixe",
-      "original_title": "PJ apreende mais de quatro toneladas de haxixe",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-09T11:59:02+00:00",
-      "article_url": "https://www.rtp.pt/noticias/pais/pj-apreende-mais-de-quatro-toneladas-de-haxixe_n1777856",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
@@ -457,19 +496,6 @@
       "editorial_status": "titulo_normalizado"
     },
     {
-      "id": "fce46ca75ffbba70265c",
-      "title": "Nvidia launches investigation into CEO's affair with suspected Chinese spy",
-      "original_title": "Nvidia launches investigation into CEO's affair with suspected Chinese spy",
-      "summary": "Informação divulgada por BBC Business. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC Business",
-      "category": "Economia",
-      "published_at": "2026-11-09T08:10:25+00:00",
-      "article_url": "https://www.bbc.co.uk/news/articles/c3dxw10rjn9no?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
       "id": "7fe145bf26dc253b8256",
       "title": "What do we know about Nvidia CEO’s affair with a suspected Chinese spy?",
       "original_title": "What do we know about Nvidia CEO’s affair with a suspected Chinese spy?",
@@ -478,19 +504,6 @@
       "category": "Economia",
       "published_at": "2026-11-09T07:10:11+00:00",
       "article_url": "https://www.bbc.co.uk/news/videos/cq3989nkzn3ko?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "ab7bde7744ab2a838f24",
-      "title": "What we know so far after Krakow gun attack",
-      "original_title": "What we know so far after Krakow gun attack",
-      "summary": "Informação divulgada por BBC Europe. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC Europe",
-      "category": "Europa",
-      "published_at": "2026-11-09T06:56:50+00:00",
-      "article_url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
@@ -569,19 +582,6 @@
       "category": "Europa",
       "published_at": "2026-11-08T22:05:12+00:00",
       "article_url": "https://www.bbc.co.uk/news/videos/c63elgqqz5y0o?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "c81f1cdfce4240fd36e1",
-      "title": "Aramco Tower hit in heart of Saudi capital as Houthis launch fresh strikes",
-      "original_title": "Aramco Tower hit in heart of Saudi capital as Houthis launch fresh strikes",
-      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC News",
-      "category": "Mundo",
-      "published_at": "2026-11-08T21:37:36+00:00",
-      "article_url": "https://www.bbc.co.uk/news/articles/c6ly3mjx958eo?at_medium=RSS&at_campaign=rss",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
