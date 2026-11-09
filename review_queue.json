@@ -1,6 +1,58 @@
 {
-  "generated_at": "2026-11-09T00:08:50.346100+00:00",
+  "generated_at": "2026-11-09T01:46:33.537939+00:00",
   "articles": [
+    {
+      "id": "8e5fa45643464a979cd2",
+      "title": "01h Benfica sofre mas ganha",
+      "original_title": "01h Benfica sofre mas ganha",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-09T01:13:03+00:00",
+      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/01h-benfica-sofre-mas-ganha_a1_1777787",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "fce46ca75ffbba70265c",
+      "title": "Nvidia launches investigation into CEO's affair with suspected Chinese spy",
+      "original_title": "Nvidia launches investigation into CEO's affair with suspected Chinese spy",
+      "summary": "Informação divulgada por BBC Business. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC Business",
+      "category": "Economia",
+      "published_at": "2026-11-09T00:50:06+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/c3dxw10rjn9no?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "c0fbba78e83d83e4f8a9",
+      "title": "00h Segunda-feira com a maior descida dos combustíveis em semanas",
+      "original_title": "00h Segunda-feira com a maior descida dos combustíveis em semanas",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-09T00:21:02+00:00",
+      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/00h-segunda-feira-com-a-maior-descida-dos-combustiveis-em-semanas_a1_1777786",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "6dff0501358b3340499b",
+      "title": "Doing these things now will help you save money at Christmas",
+      "original_title": "Doing these things now will help you save money at Christmas",
+      "summary": "Informação divulgada por BBC Business. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC Business",
+      "category": "Economia",
+      "published_at": "2026-11-09T00:09:14+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/ck7vppll151mo?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
     {
       "id": "7d95f5ac011abdda7ae0",
       "title": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
@@ -54,9 +106,9 @@
       "editorial_status": "titulo_normalizado"
     },
     {
-      "id": "aaf5960069dc05883dea",
-      "title": "Doctor who treated victims of Krakow shooting speaks to the BBC",
-      "original_title": "Doctor who treated victims of Krakow shooting speaks to the BBC",
+      "id": "3986fc924275cf8f808e",
+      "title": "'I treat all these people like they are victims', says doctor who treated Krakow shooting suspect",
+      "original_title": "'I treat all these people like they are victims', says doctor who treated Krakow shooting suspect",
       "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
       "source": "BBC News",
       "category": "Mundo",
@@ -353,32 +405,6 @@
       "editorial_status": "titulo_normalizado"
     },
     {
-      "id": "9c279c9c276930900684",
-      "title": "Espanha e Portugal empatam 37-37",
-      "original_title": "Espanha e Portugal empatam 37-37",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-08T16:44:23+00:00",
-      "article_url": "https://www.rtp.pt/noticias/outras-modalidades/espanha-e-portugal-empatam-37-37_d1777745",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "66cebc1fda41e1926678",
-      "title": "16h Casos de Portimão levam PS a chamar min Saúde ao parlamento",
-      "original_title": "16h Casos de Portimão levam PS a chamar min Saúde ao parlamento",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-08T16:36:02+00:00",
-      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/16h-casos-de-portimao-levam-ps-a-chamar-min-saude-ao-parlamento_a1_1777743",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
       "id": "38af068cdc5450569e92",
       "title": "Footage shows derailed carriages after fatal train crash in Egypt",
       "original_title": "Footage shows derailed carriages after fatal train crash in Egypt",
@@ -556,32 +582,6 @@
       "category": "Mundo",
       "published_at": "2026-11-07T19:17:22+00:00",
       "article_url": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "83aa127a69743beb28d6",
-      "title": "Moment police officer appears to shoot Krakow suspect",
-      "original_title": "Moment police officer appears to shoot Krakow suspect",
-      "summary": "Informação divulgada por BBC Europe. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC Europe",
-      "category": "Europa",
-      "published_at": "2026-11-07T19:12:47+00:00",
-      "article_url": "https://www.bbc.co.uk/news/videos/cw78p2x38jlmo?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "ed9ceb310f19d9b3aeaa",
-      "title": "US offers $20m reward for information about Iran's nuclear programme",
-      "original_title": "US offers $20m reward for information about Iran's nuclear programme",
-      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC News",
-      "category": "Mundo",
-      "published_at": "2026-11-07T18:14:38+00:00",
-      "article_url": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&at_campaign=rss",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
