@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-11-09T02:52:36.727251+00:00",
+  "generated_at": "2026-11-09T03:55:25.094547+00:00",
   "articles": [
+    {
+      "id": "0790140397dd30dafc5a",
+      "title": "3h Garda e Castelo Branco sob aviso laranja para chuva forte esta madrugada",
+      "original_title": "3h Garda e Castelo Branco sob aviso laranja para chuva forte esta madrugada",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-09T03:13:02+00:00",
+      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/3h-garda-e-castelo-branco-sob-aviso-laranja-para-chuva-forte-esta-madrugada_a1_1777794",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "c9b804851c53c22e5cc3",
+      "title": "Cruise ship pianist rescued from sea after nine hours in Pacific Ocean",
+      "original_title": "Cruise ship pianist rescued from sea after nine hours in Pacific Ocean",
+      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC News",
+      "category": "Mundo",
+      "published_at": "2026-11-09T02:50:13+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/ck1wvrrgln13o?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
     {
       "id": "fd6a4b73a111fd74e60f",
       "title": "2h Habitação. Acampada de Lisboa mantém tendas no Rossio após horas de debate",
@@ -392,19 +418,6 @@
       "editorial_status": "titulo_normalizado"
     },
     {
-      "id": "c440e3609a0450b2cc68",
-      "title": "Marco Bezzecchi vence no Qatar e adia título de MotoGP para Portimão",
-      "original_title": "Marco Bezzecchi vence no Qatar e adia título de MotoGP para Portimão",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-08T17:50:56+00:00",
-      "article_url": "https://www.rtp.pt/noticias/motores/marco-bezzecchi-vence-no-qatar-e-adia-titulo-de-motogp-para-portimao_d1777754",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
       "id": "38af068cdc5450569e92",
       "title": "Footage shows derailed carriages after fatal train crash in Egypt",
       "original_title": "Footage shows derailed carriages after fatal train crash in Egypt",
@@ -569,19 +582,6 @@
       "category": "Europa",
       "published_at": "2026-11-07T19:20:44+00:00",
       "article_url": "https://www.bbc.co.uk/news/videos/cwdd8191qz9jo?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "82dec50dd21d810f87a7",
-      "title": "Paraguay's former president charged after bank collapse",
-      "original_title": "Paraguay's former president charged after bank collapse",
-      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC News",
-      "category": "Mundo",
-      "published_at": "2026-11-07T19:17:22+00:00",
-      "article_url": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
