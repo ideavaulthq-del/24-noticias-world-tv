@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-11-10T10:28:30.495812+00:00",
+  "generated_at": "2026-11-10T11:23:24.452996+00:00",
   "articles": [
+    {
+      "id": "9ceb270325c1c6be50c9",
+      "title": "MP impôs segredo de justiça a processo de manifestantes detidos no Porto",
+      "original_title": "MP impôs segredo de justiça a processo de manifestantes detidos no Porto",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-10T11:08:19+00:00",
+      "article_url": "https://www.rtp.pt/noticias/pais/mp-impos-segredo-de-justica-a-processo-de-manifestantes-detidos-no-porto_n1778062",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "8361e0931a911d9a8750",
+      "title": "\"País vai ser posto à prova\". Governo declara \"situação de alerta\" para quarta-feira e fecha escolas",
+      "original_title": "\"País vai ser posto à prova\". Governo declara \"situação de alerta\" para quarta-feira e fecha escolas",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Mundo",
+      "published_at": "2026-11-10T11:06:33+00:00",
+      "article_url": "https://www.rtp.pt/noticias/mundo/pais-vai-ser-posto-a-prova-governo-declara-situacao-de-alerta-para-quarta-feira-e-fecha-escolas_e1778024",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
     {
       "id": "204299797eb16ed505e5",
       "title": "Police officer dies and another injured after backpack explosion in Oviedo",
@@ -8,8 +34,21 @@
       "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
       "source": "BBC News",
       "category": "Mundo",
-      "published_at": "2026-11-10T10:24:20+00:00",
+      "published_at": "2026-11-10T10:57:21+00:00",
       "article_url": "https://www.bbc.co.uk/news/articles/cwm262pzezy0o?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "a8d289a23d59098e6794",
+      "title": "Explosão em Oviedo mata e fere polícias espanhóis",
+      "original_title": "Explosão em Oviedo mata e fere polícias espanhóis",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Mundo",
+      "published_at": "2026-11-10T10:24:41+00:00",
+      "article_url": "https://www.rtp.pt/noticias/mundo/explosao-em-oviedo-mata-e-fere-policias-espanhois_n1778058",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
@@ -23,19 +62,6 @@
       "category": "Portugal",
       "published_at": "2026-11-10T10:18:03+00:00",
       "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/10h-pais-entra-em-situacao-de-alerta-a-partir-da-meia-noite_a1_1778059",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "8361e0931a911d9a8750",
-      "title": "\"País vai ser posto à prova\". Governo declara \"situação de alerta\" para quarta-feira e fecha escolas",
-      "original_title": "\"País vai ser posto à prova\". Governo declara \"situação de alerta\" para quarta-feira e fecha escolas",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Mundo",
-      "published_at": "2026-11-10T10:04:58+00:00",
-      "article_url": "https://www.rtp.pt/noticias/mundo/pais-vai-ser-posto-a-prova-governo-declara-situacao-de-alerta-para-quarta-feira-e-fecha-escolas_e1778024",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
@@ -132,14 +158,14 @@
       "editorial_status": "titulo_normalizado"
     },
     {
-      "id": "158ed1d5e92071b7ab1a",
-      "title": "Mundial de trampolins. Medalhistas portugueses já estão em casa",
-      "original_title": "Mundial de trampolins. Medalhistas portugueses já estão em casa",
+      "id": "e7f11a6bc4a8a75a2d1f",
+      "title": "Mundial de trampolins. Medalhados portugueses já estão em casa",
+      "original_title": "Mundial de trampolins. Medalhados portugueses já estão em casa",
       "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
       "source": "RTP Notícias",
       "category": "Portugal",
       "published_at": "2026-11-10T09:00:47+00:00",
-      "article_url": "https://www.rtp.pt/noticias/desporto/mundial-de-trampolins-medalhistas-portugueses-ja-estao-em-casa_v1778046",
+      "article_url": "https://www.rtp.pt/noticias/desporto/mundial-de-trampolins-medalhados-portugueses-ja-estao-em-casa_v1778046",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
@@ -400,32 +426,6 @@
       "category": "Mundo",
       "published_at": "2026-11-10T07:05:30+00:00",
       "article_url": "https://www.rtp.pt/noticias/mundo/eua-condena-sentenca-de-ativista-de-macau-e-cidadao-portugues-au-kam-san_n1778015",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "3bcddd238201a87c350a",
-      "title": "Rui Rio: \"Governo não está a fazer reformas. Concordo com Passos\"",
-      "original_title": "Rui Rio: \"Governo não está a fazer reformas. Concordo com Passos\"",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-10T07:05:14+00:00",
-      "article_url": "https://www.rtp.pt/noticias/politica/rui-rio-governo-nao-esta-a-fazer-reformas-concordo-com-passos_v1777921",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "e2fc5736bc462a3486ea",
-      "title": "Manifestantes detidos no Porto pronunciam-se sobre suspensão provisória do processo",
-      "original_title": "Manifestantes detidos no Porto pronunciam-se sobre suspensão provisória do processo",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-10T07:03:41+00:00",
-      "article_url": "https://www.rtp.pt/noticias/pais/manifestantes-detidos-no-porto-pronunciam-se-sobre-suspensao-provisoria-do-processo_n1778014",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
