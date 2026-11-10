@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-11-10T04:52:28.609763+00:00",
+  "generated_at": "2026-11-10T05:53:38.470231+00:00",
   "articles": [
+    {
+      "id": "e617ba3def92145fa6f3",
+      "title": "Trump says more US attacks on Iran 'highly unlikely'",
+      "original_title": "Trump says more US attacks on Iran 'highly unlikely'",
+      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC News",
+      "category": "Mundo",
+      "published_at": "2026-11-10T05:33:25+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/cq5yny4nl2d3o?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "94e2f627ea06e0d10f5b",
+      "title": "Australia considers criminal penalties for rogue AI in wake of OpenAI hack",
+      "original_title": "Australia considers criminal penalties for rogue AI in wake of OpenAI hack",
+      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC News",
+      "category": "Mundo",
+      "published_at": "2026-11-10T05:22:39+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/cmp3g37l566po?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
     {
       "id": "f1fd5c1cbd272843cd4d",
       "title": "4h Ministra da Saúde manda investigar Hospital de Portimão",
@@ -23,19 +49,6 @@
       "category": "Portugal",
       "published_at": "2026-11-10T04:24:01+00:00",
       "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/3h-seis-distritos-sob-aviso-laranja-para-chuva-intensa-ate-meio-da-manha_a1_1778009",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "e617ba3def92145fa6f3",
-      "title": "Trump says more US attacks on Iran 'highly unlikely'",
-      "original_title": "Trump says more US attacks on Iran 'highly unlikely'",
-      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC News",
-      "category": "Mundo",
-      "published_at": "2026-11-10T04:09:16+00:00",
-      "article_url": "https://www.bbc.co.uk/news/articles/cq5yny4nl2d3o?at_medium=RSS&at_campaign=rss",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
@@ -569,19 +582,6 @@
       "category": "Economia",
       "published_at": "2026-11-09T17:17:16+00:00",
       "article_url": "https://www.bbc.co.uk/news/articles/cm70pgnx891do?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "77809fb0f6547d5c445b",
-      "title": "Nine Zimbabweans caught allegedly trying to leave South Africa to fight in Ukraine",
-      "original_title": "Nine Zimbabweans caught allegedly trying to leave South Africa to fight in Ukraine",
-      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC News",
-      "category": "Mundo",
-      "published_at": "2026-11-09T17:06:18+00:00",
-      "article_url": "https://www.bbc.co.uk/news/articles/cm93z3lp5lnpo?at_medium=RSS&at_campaign=rss",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
