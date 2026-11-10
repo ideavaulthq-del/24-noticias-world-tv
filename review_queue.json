@@ -1,6 +1,58 @@
 {
-  "generated_at": "2026-11-10T18:49:58.561126+00:00",
+  "generated_at": "2026-11-10T19:52:36.766835+00:00",
   "articles": [
+    {
+      "id": "d2032499b44e212a0386",
+      "title": "Primeiro-ministro alerta para \"horas difíceis\" e pede aos portugueses que não subestimem mau tempo",
+      "original_title": "Primeiro-ministro alerta para \"horas difíceis\" e pede aos portugueses que não subestimem mau tempo",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-10T19:49:01+00:00",
+      "article_url": "https://www.rtp.pt/noticias/pais/primeiro-ministro-alerta-para-horas-dificeis-e-pede-aos-portugueses-que-nao-subestimem-mau-tempo_e1778024",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "fabd39740b1f4b0c8f68",
+      "title": "19h Charles. PM avisa que país vai enfrentar horas dífíceis",
+      "original_title": "19h Charles. PM avisa que país vai enfrentar horas dífíceis",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-10T19:45:02+00:00",
+      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/19h-charles-pm-avisa-que-pais-vai-enfrentar-horas-dificeis_a1_1778244",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "af6b537096ad5b05881e",
+      "title": "Manuscrito do discurso \"Eu tenho um sonho\" de Martin Luther King vai a leilão em janeiro",
+      "original_title": "Manuscrito do discurso \"Eu tenho um sonho\" de Martin Luther King vai a leilão em janeiro",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Mundo",
+      "published_at": "2026-11-10T19:38:53+00:00",
+      "article_url": "https://www.rtp.pt/noticias/mundo/manuscrito-do-discurso-eu-tenho-um-sonho-de-martin-luther-king-vai-a-leilao-em-janeiro_n1778237",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "5313ec9e351a8b417b02",
+      "title": "Carreiras fluviais entre Lisboa e Margem Sul garantidas na manhã de quarta-feira",
+      "original_title": "Carreiras fluviais entre Lisboa e Margem Sul garantidas na manhã de quarta-feira",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-10T18:55:20+00:00",
+      "article_url": "https://www.rtp.pt/noticias/pais/carreiras-fluviais-entre-lisboa-e-margem-sul-garantidas-na-manha-de-quarta-feira_n1778228",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
     {
       "id": "85c1bcb79dde63350f66",
       "title": "Eisenkot avisa ultraortodoxos que não vai ceder no serviço militar \"para todos\"",
@@ -10,19 +62,6 @@
       "category": "Portugal",
       "published_at": "2026-11-10T18:47:44+00:00",
       "article_url": "https://www.rtp.pt/noticias/guerra-no-medio-oriente/eisenkot-avisa-ultraortodoxos-que-nao-vai-ceder-no-servico-militar-para-todos_n1778200",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "d2032499b44e212a0386",
-      "title": "Primeiro-ministro alerta para \"horas difíceis\" e pede aos portugueses que não subestimem mau tempo",
-      "original_title": "Primeiro-ministro alerta para \"horas difíceis\" e pede aos portugueses que não subestimem mau tempo",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-10T18:47:07+00:00",
-      "article_url": "https://www.rtp.pt/noticias/pais/primeiro-ministro-alerta-para-horas-dificeis-e-pede-aos-portugueses-que-nao-subestimem-mau-tempo_e1778024",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
@@ -184,9 +223,9 @@
       "editorial_status": "titulo_normalizado"
     },
     {
-      "id": "f6ed7ac30ac07c76659f",
-      "title": "Anthropic set for $1.3tn stock market debut despite 'catastrophic' AI warning",
-      "original_title": "Anthropic set for $1.3tn stock market debut despite 'catastrophic' AI warning",
+      "id": "e7567187a38345b28202",
+      "title": "Claude chatbot maker set for $1.3tn stock market debut despite 'catastrophic' AI warning",
+      "original_title": "Claude chatbot maker set for $1.3tn stock market debut despite 'catastrophic' AI warning",
       "summary": "Informação divulgada por BBC Business. Consulte a publicação original para conhecer os detalhes e o contexto.",
       "source": "BBC Business",
       "category": "Economia",
@@ -491,45 +530,6 @@
       "category": "Portugal",
       "published_at": "2026-11-10T14:36:42+00:00",
       "article_url": "https://www.rtp.pt/noticias/politica/lider-do-ps-fala-em-quarta-morte-em-portimao-e-responsabiliza-montenegro-por-escolha-de-decisores_n1778123",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "ad73f588acaa57e702cf",
-      "title": "14h Lisboa encerra espaços públicos à meia-noite devido ao mau tempo",
-      "original_title": "14h Lisboa encerra espaços públicos à meia-noite devido ao mau tempo",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-10T14:34:03+00:00",
-      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/14h-lisboa-encerra-espacos-publicos-a-meia-noite-devido-ao-mau-tempo_a1_1778128",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "73f4fc125a785bd6ac69",
-      "title": "Robôs vindos da China são as estrelas da Web Summit",
-      "original_title": "Robôs vindos da China são as estrelas da Web Summit",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Economia",
-      "published_at": "2026-11-10T14:31:47+00:00",
-      "article_url": "https://www.rtp.pt/noticias/economia/robos-vindos-da-china-sao-as-estrelas-da-web-summit_v1778125",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "74215d5cbe768810c28f",
-      "title": "Reino Unido negoceia colaboração com Rui Pinto",
-      "original_title": "Reino Unido negoceia colaboração com Rui Pinto",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Mundo",
-      "published_at": "2026-11-10T14:28:06+00:00",
-      "article_url": "https://www.rtp.pt/noticias/mundo/reino-unido-negoceia-colaboracao-com-rui-pinto_n1778098",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
