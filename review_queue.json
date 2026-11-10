@@ -1,6 +1,19 @@
 {
-  "generated_at": "2026-11-10T02:02:07.471624+00:00",
+  "generated_at": "2026-11-10T02:50:03.308404+00:00",
   "articles": [
+    {
+      "id": "6ddef90cb506ecd412e3",
+      "title": "2h Ministra da Saúde vai demitir presidente da ULS do Algarve",
+      "original_title": "2h Ministra da Saúde vai demitir presidente da ULS do Algarve",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-10T02:30:02+00:00",
+      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/2h-ministra-da-saude-vai-demitir-presidente-da-uls-do-algarve_a1_1778004",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
     {
       "id": "f438146f50a82fb03f05",
       "title": "1h Depressão Charles: aviso laranja para a Ilha da Madeira e chega ao continente na quarta-feira",
@@ -452,19 +465,6 @@
       "category": "Portugal",
       "published_at": "2026-11-09T21:04:48+00:00",
       "article_url": "https://www.rtp.pt/noticias/pais/nova-depressao-atinge-portugal-na-quarta-feira_v1777961",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "cbb3c23d76935352ee05",
-      "title": "Começou mais uma edição da Web Summit em Lisboa",
-      "original_title": "Começou mais uma edição da Web Summit em Lisboa",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Economia",
-      "published_at": "2026-11-09T21:03:48+00:00",
-      "article_url": "https://www.rtp.pt/noticias/economia/comecou-mais-uma-edicao-da-web-summit-em-lisboa_v1777960",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
