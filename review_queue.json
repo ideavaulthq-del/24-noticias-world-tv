@@ -1,6 +1,58 @@
 {
-  "generated_at": "2026-11-10T03:50:21.010481+00:00",
+  "generated_at": "2026-11-10T04:52:28.609763+00:00",
   "articles": [
+    {
+      "id": "f1fd5c1cbd272843cd4d",
+      "title": "4h Ministra da Saúde manda investigar Hospital de Portimão",
+      "original_title": "4h Ministra da Saúde manda investigar Hospital de Portimão",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-10T04:24:02+00:00",
+      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/4h-ministra-da-saude-manda-investigar-hospital-de-portimao_a1_1778010",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "312069fa903b5931c7f1",
+      "title": "3h Seis distritos sob aviso laranja para chuva intensa até meio da manhã",
+      "original_title": "3h Seis distritos sob aviso laranja para chuva intensa até meio da manhã",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-10T04:24:01+00:00",
+      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/3h-seis-distritos-sob-aviso-laranja-para-chuva-intensa-ate-meio-da-manha_a1_1778009",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "e617ba3def92145fa6f3",
+      "title": "Trump says more US attacks on Iran 'highly unlikely'",
+      "original_title": "Trump says more US attacks on Iran 'highly unlikely'",
+      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC News",
+      "category": "Mundo",
+      "published_at": "2026-11-10T04:09:16+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/cq5yny4nl2d3o?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "c9cb1a78a5cac16894d1",
+      "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+      "original_title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC News",
+      "category": "Mundo",
+      "published_at": "2026-11-10T03:58:13+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
     {
       "id": "6ddef90cb506ecd412e3",
       "title": "2h Ministra da Saúde vai demitir presidente da ULS do Algarve",
@@ -36,19 +88,6 @@
       "category": "Mundo",
       "published_at": "2026-11-10T01:55:22+00:00",
       "article_url": "https://www.bbc.co.uk/news/articles/cry838v4qzvyo?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "c9cb1a78a5cac16894d1",
-      "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
-      "original_title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
-      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC News",
-      "category": "Mundo",
-      "published_at": "2026-11-10T01:44:53+00:00",
-      "article_url": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
@@ -101,19 +140,6 @@
       "category": "Mundo",
       "published_at": "2026-11-10T00:09:49+00:00",
       "article_url": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "a59f7bd1fd8bb5a555e8",
-      "title": "The superpower battle over energy – and what it means for your bills",
-      "original_title": "The superpower battle over energy – and what it means for your bills",
-      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC News",
-      "category": "Mundo",
-      "published_at": "2026-11-10T00:08:28+00:00",
-      "article_url": "https://www.bbc.co.uk/news/articles/cw62y2z53pg1o?at_medium=RSS&at_campaign=rss",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
@@ -439,32 +465,6 @@
       "category": "Mundo",
       "published_at": "2026-11-09T21:09:47+00:00",
       "article_url": "https://www.rtp.pt/noticias/mundo/eleicoes-em-israel-eisenkot-tem-de-negociar-formacao-do-governo_v1777964",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "6c918067cc102f008ebd",
-      "title": "Rússia intensifica bombardeamentos contra estruturas enérgéticas da Ucrânia",
-      "original_title": "Rússia intensifica bombardeamentos contra estruturas enérgéticas da Ucrânia",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Mundo",
-      "published_at": "2026-11-09T21:06:47+00:00",
-      "article_url": "https://www.rtp.pt/noticias/mundo/russia-intensifica-bombardeamentos-contra-estruturas-energeticas-da-ucrania_v1777962",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "77c0558f9ed53ea5c499",
-      "title": "Nova depressão atinge Portugal na quarta-feira",
-      "original_title": "Nova depressão atinge Portugal na quarta-feira",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-09T21:04:48+00:00",
-      "article_url": "https://www.rtp.pt/noticias/pais/nova-depressao-atinge-portugal-na-quarta-feira_v1777961",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
