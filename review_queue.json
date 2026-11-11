@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-11-11T01:41:35.565698+00:00",
+  "generated_at": "2026-11-11T02:50:30.015972+00:00",
   "articles": [
+    {
+      "id": "7c4eac1e9363cb90353c",
+      "title": "Meghan's father Thomas Markle back in federal custody after allegedly removing ankle monitor",
+      "original_title": "Meghan's father Thomas Markle back in federal custody after allegedly removing ankle monitor",
+      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC News",
+      "category": "Mundo",
+      "published_at": "2026-11-11T02:41:16+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/c9j3433zy4vro?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "b9369451babebd90992e",
+      "title": "2h Depressão Charles: proteção civil da Madeira regista mais de 50 ocorrências",
+      "original_title": "2h Depressão Charles: proteção civil da Madeira regista mais de 50 ocorrências",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-11T02:28:03+00:00",
+      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/2h-depressao-charles-protecao-civil-da-madeira-regista-mais-de-50-ocorrencias_a1_1778302",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
     {
       "id": "3393d266734b0ff8f07d",
       "title": "1h Saiba o que está fechado esta 4ªfeira",
@@ -205,19 +231,6 @@
       "category": "Portugal",
       "published_at": "2026-11-10T22:22:02+00:00",
       "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/22h-ipma-depressao-mudou-a-trajetoria-mais-para-sul_a1_1778275",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "7c4eac1e9363cb90353c",
-      "title": "Meghan's father Thomas Markle back in federal custody after allegedly removing ankle monitor",
-      "original_title": "Meghan's father Thomas Markle back in federal custody after allegedly removing ankle monitor",
-      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC News",
-      "category": "Mundo",
-      "published_at": "2026-11-10T22:17:45+00:00",
-      "article_url": "https://www.bbc.co.uk/news/articles/c9j3433zy4vro?at_medium=RSS&at_campaign=rss",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
@@ -491,19 +504,6 @@
       "category": "Portugal",
       "published_at": "2026-11-10T20:19:03+00:00",
       "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/20h-protecao-civil-ja-recebeu-mais-de-mil-pedidos-de-ajuda_a1_1778254",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "e5527d6456d893bbc46e",
-      "title": "Tempestade Charles. Montenegro garante que o país está mais preparado",
-      "original_title": "Tempestade Charles. Montenegro garante que o país está mais preparado",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-10T20:18:47+00:00",
-      "article_url": "https://www.rtp.pt/noticias/pais/tempestade-charles-montenegro-garante-que-o-pais-esta-mais-preparado_v1778253",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
