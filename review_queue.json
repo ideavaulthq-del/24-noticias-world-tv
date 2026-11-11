@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-11-11T03:53:57.080959+00:00",
+  "generated_at": "2026-11-11T04:58:08.648342+00:00",
   "articles": [
+    {
+      "id": "67bb24408efcda46519f",
+      "title": "4h Madeira: muita água nas ribeiras mas sem sair das margens",
+      "original_title": "4h Madeira: muita água nas ribeiras mas sem sair das margens",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-11T04:41:02+00:00",
+      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/4h-madeira-muita-agua-nas-ribeiras-mas-sem-sair-das-margens_a1_1778313",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "382a99bdb8857e935505",
+      "title": "Kennedys sue to block Trump's arch, arguing it would cast shadow on JFK's grave",
+      "original_title": "Kennedys sue to block Trump's arch, arguing it would cast shadow on JFK's grave",
+      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC News",
+      "category": "Mundo",
+      "published_at": "2026-11-11T03:44:06+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/cw8dvpmzp2p4o?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
     {
       "id": "869184e8b49792557692",
       "title": "US House blocks bid to impeach Defence Secretary Pete Hegseth, for now",
@@ -496,19 +522,6 @@
       "editorial_status": "titulo_normalizado"
     },
     {
-      "id": "e4f8c4579d74bfbd4867",
-      "title": "Situação de alerta. Escolas públicas e privadas vão estar fechadas",
-      "original_title": "Situação de alerta. Escolas públicas e privadas vão estar fechadas",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-10T20:20:48+00:00",
-      "article_url": "https://www.rtp.pt/noticias/pais/situacao-de-alerta-escolas-publicas-e-privadas-vao-estar-fechadas_v1778255",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
       "id": "5f82dcbc576195b6568d",
       "title": "US Army soldier suspected of spying for Russia arrested in UK",
       "original_title": "US Army soldier suspected of spying for Russia arrested in UK",
@@ -569,19 +582,6 @@
       "category": "Mundo",
       "published_at": "2026-11-10T18:07:56+00:00",
       "article_url": "https://www.bbc.co.uk/news/articles/ck78p827y642o?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "78ee5a0909a32dfe6451",
-      "title": "Anti-homosexuality laws in Trinidad and Tobago overturned",
-      "original_title": "Anti-homosexuality laws in Trinidad and Tobago overturned",
-      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC News",
-      "category": "Mundo",
-      "published_at": "2026-11-10T18:04:18+00:00",
-      "article_url": "https://www.bbc.co.uk/news/articles/cm0e0evlpp87o?at_medium=RSS&at_campaign=rss",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
