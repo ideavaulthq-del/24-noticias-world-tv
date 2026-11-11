@@ -2,13 +2,13 @@
   "audit_report": "audit_report.json",
   "pending_review": 45,
   "editorial_notice": "Correspondência entre fontes é apenas temática e NÃO confirma factos. Títulos RSS não são redação original; apenas textos revistos manualmente têm aprovação editorial.",
-  "generated_at": "2026-11-11T04:58:08.881024+00:00",
+  "generated_at": "2026-11-11T05:58:14.698095+00:00",
   "news": [],
   "weather": {
     "location": "Lisboa",
-    "temperature_c": 17.8,
-    "description": "Aguaceiros",
-    "updated_at": "2026-11-11T04:58:08.880223+00:00",
+    "temperature_c": 17.6,
+    "description": "Chuva fraca",
+    "updated_at": "2026-11-11T05:58:14.696970+00:00",
     "source": "Open-Meteo"
   }
 }

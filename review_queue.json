@@ -1,6 +1,19 @@
 {
-  "generated_at": "2026-11-11T04:58:08.648342+00:00",
+  "generated_at": "2026-11-11T05:58:14.104098+00:00",
   "articles": [
+    {
+      "id": "7176a7b639a7189d9b0e",
+      "title": "5h Depressão Charles põe nove distritos de Portugal Continental sob aviso vermelho",
+      "original_title": "5h Depressão Charles põe nove distritos de Portugal Continental sob aviso vermelho",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-11T05:19:02+00:00",
+      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/5h-depressao-charles-poe-nove-distritos-de-portugal-continental-sob-aviso-vermelho_a1_1778315",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
     {
       "id": "67bb24408efcda46519f",
       "title": "4h Madeira: muita água nas ribeiras mas sem sair das margens",
@@ -490,7 +503,7 @@
       "source": "BBC Technology",
       "category": "Tecnologia",
       "published_at": "2026-11-10T20:30:00+00:00",
-      "article_url": "https://www.bbc.co.uk/sounds/play/w3ct8jyv?at_medium=RSS&at_campaign=rss",
+      "article_url": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_south_asia?at_medium=RSS&at_campaign=rss",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
@@ -504,19 +517,6 @@
       "category": "Portugal",
       "published_at": "2026-11-10T20:29:47+00:00",
       "article_url": "https://www.rtp.pt/noticias/pais/mais-de-uma-centena-de-municipios-com-risco-de-cheias_v1778257",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "624c5eaf274459ee3454",
-      "title": "Tempestade Charles. Comerciantes preparam-se para inundações",
-      "original_title": "Tempestade Charles. Comerciantes preparam-se para inundações",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-10T20:21:48+00:00",
-      "article_url": "https://www.rtp.pt/noticias/pais/tempestade-charles-comerciantes-preparam-se-para-inundacoes_v1778256",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
