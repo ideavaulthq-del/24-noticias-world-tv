@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-11-10T23:36:19.926067+00:00",
+  "generated_at": "2026-11-11T00:11:41.303270+00:00",
   "articles": [
     {
-      "id": "f215c9582358b03b12d9",
-      "title": "23h Madeira, o pico da tempestade deve ser entre a meia-noite e as 3 da manhã",
-      "original_title": "23h Madeira, o pico da tempestade deve ser entre a meia-noite e as 3 da manhã",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-10T23:30:03+00:00",
-      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/23h-madeira-o-pico-da-tempestade-deve-ser-entre-a-meia-noite-e-as-3-da-manha_a1_1778283",
+      "id": "71ba1c2dec2c0243831d",
+      "title": "Poundland hopeful for last-minute rescue deal to stave off collapse",
+      "original_title": "Poundland hopeful for last-minute rescue deal to stave off collapse",
+      "summary": "Informação divulgada por BBC Business. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC Business",
+      "category": "Economia",
+      "published_at": "2026-11-11T00:02:07+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/c3702jjkez4ko?at_medium=RSS&at_campaign=rss",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
@@ -21,8 +21,21 @@
       "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
       "source": "RTP Notícias",
       "category": "Portugal",
-      "published_at": "2026-11-10T23:18:31+00:00",
+      "published_at": "2026-11-10T23:57:16+00:00",
       "article_url": "https://www.rtp.pt/noticias/pais/danos-semelhantes-aos-da-tempestade-kristin-sao-cenario-possivel-mas-nao-o-mais-provavel_e1778024",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "f215c9582358b03b12d9",
+      "title": "23h Madeira, o pico da tempestade deve ser entre a meia-noite e as 3 da manhã",
+      "original_title": "23h Madeira, o pico da tempestade deve ser entre a meia-noite e as 3 da manhã",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-10T23:30:03+00:00",
+      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/23h-madeira-o-pico-da-tempestade-deve-ser-entre-a-meia-noite-e-as-3-da-manha_a1_1778283",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
@@ -569,19 +582,6 @@
       "category": "Europa",
       "published_at": "2026-11-10T15:37:28+00:00",
       "article_url": "https://www.bbc.co.uk/news/articles/cxdd8vvll870o?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "d838545ebc2fa5877d22",
-      "title": "Board of Peace says Israel's aid response after Gaza floods 'insufficent'",
-      "original_title": "Board of Peace says Israel's aid response after Gaza floods 'insufficent'",
-      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC News",
-      "category": "Mundo",
-      "published_at": "2026-11-10T15:21:18+00:00",
-      "article_url": "https://www.bbc.co.uk/news/articles/cw4g1g4ll5m1o?at_medium=RSS&at_campaign=rss",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
