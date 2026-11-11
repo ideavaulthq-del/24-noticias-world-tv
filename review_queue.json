@@ -1,15 +1,54 @@
 {
-  "generated_at": "2026-11-11T18:55:33.171046+00:00",
+  "generated_at": "2026-11-11T19:58:13.518908+00:00",
   "articles": [
     {
-      "id": "69a0d624c2249bc82f3b",
-      "title": "Depressão Charles. \"Aparentemente, o pior já passou\", adianta o IPMA",
-      "original_title": "Depressão Charles. \"Aparentemente, o pior já passou\", adianta o IPMA",
+      "id": "f2b58ed76b9fd0da7dbf",
+      "title": "Depressão Charles. \"Mais vale prevenir do que remediar\", afirma Luís Montenegro",
+      "original_title": "Depressão Charles. \"Mais vale prevenir do que remediar\", afirma Luís Montenegro",
       "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
       "source": "RTP Notícias",
       "category": "Portugal",
-      "published_at": "2026-11-11T18:53:25+00:00",
-      "article_url": "https://www.rtp.pt/noticias/pais/depressao-charles-aparentemente-o-pior-ja-passou-adianta-o-ipma_e1778319",
+      "published_at": "2026-11-11T19:36:00+00:00",
+      "article_url": "https://www.rtp.pt/noticias/pais/depressao-charles-mais-vale-prevenir-do-que-remediar-afirma-luis-montenegro_e1778319",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "20123699809041414b8d",
+      "title": "'Not the answer': Labour MPs speak out against Rosebank as decision looms",
+      "original_title": "'Not the answer': Labour MPs speak out against Rosebank as decision looms",
+      "summary": "Informação divulgada por BBC Business. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC Business",
+      "category": "Economia",
+      "published_at": "2026-11-11T19:15:45+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/cqp9dr79jkrzo?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "4dc63e509d04e5bea5aa",
+      "title": "Elefante de zoo na Bélgica é segundo `inquilino` de santuário no Alentejo",
+      "original_title": "Elefante de zoo na Bélgica é segundo `inquilino` de santuário no Alentejo",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-11T19:07:31+00:00",
+      "article_url": "https://www.rtp.pt/noticias/pais/elefante-de-zoo-na-belgica-e-segundo-inquilino-de-santuario-no-alentejo_n1778497",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "ca5f2d2594e15cde6fcc",
+      "title": "16h Charles, Governo prevê regresso à normalidade amanhã",
+      "original_title": "16h Charles, Governo prevê regresso à normalidade amanhã",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-11T18:56:02+00:00",
+      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/16h-charles-governo-preve-regresso-a-normalidade-amanha_a1_1778511",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
@@ -405,32 +444,6 @@
       "editorial_status": "titulo_normalizado"
     },
     {
-      "id": "8d5145bcd3508a84ec78",
-      "title": "Mais de 300 escolas italianas receberam esta manhã ameaças de bomba",
-      "original_title": "Mais de 300 escolas italianas receberam esta manhã ameaças de bomba",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Mundo",
-      "published_at": "2026-11-11T15:22:46+00:00",
-      "article_url": "https://www.rtp.pt/noticias/mundo/mais-de-300-escolas-italianas-receberam-esta-manha-ameacas-de-bomba_n1778463",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "ca965a130e07f85388b1",
-      "title": "Torreense-Sparta Praga da Taça da Europa reagendado para quinta-feira",
-      "original_title": "Torreense-Sparta Praga da Taça da Europa reagendado para quinta-feira",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Mundo",
-      "published_at": "2026-11-11T15:12:30+00:00",
-      "article_url": "https://www.rtp.pt/noticias/mundo/torreense-sparta-praga-da-taca-da-europa-reagendado-para-quinta-feira_d1778462",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
       "id": "4e1cb0222ac5f1ba62dd",
       "title": "Kidnapper, 74, escapes from house arrest in Argentina by abseiling from balcony",
       "original_title": "Kidnapper, 74, escapes from house arrest in Argentina by abseiling from balcony",
@@ -569,19 +582,6 @@
       "category": "Economia",
       "published_at": "2026-11-11T07:44:24+00:00",
       "article_url": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "863a425556b6a24fd36e",
-      "title": "'They will kill you too': Sonia Gandhi's turbulent journey in Indian politics",
-      "original_title": "'They will kill you too': Sonia Gandhi's turbulent journey in Indian politics",
-      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC News",
-      "category": "Mundo",
-      "published_at": "2026-11-11T00:26:02+00:00",
-      "article_url": "https://www.bbc.co.uk/news/articles/c687z7g4xr97o?at_medium=RSS&at_campaign=rss",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
