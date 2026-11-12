@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T01:51:31.936154+00:00",
+  "generated_at": "2026-11-12T02:51:36.560273+00:00",
   "articles": [
     {
       "id": "83fd449477c29c39e1e7",
@@ -8,7 +8,7 @@
       "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
       "source": "BBC News",
       "category": "Mundo",
-      "published_at": "2026-11-12T01:34:58+00:00",
+      "published_at": "2026-11-12T02:33:12+00:00",
       "article_url": "https://www.bbc.co.uk/news/videos/c60rkwjj7x7go?at_medium=RSS&at_campaign=rss",
       "image_url": "",
       "verification_status": "fonte_unica",
@@ -21,8 +21,21 @@
       "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
       "source": "BBC News",
       "category": "Mundo",
-      "published_at": "2026-11-12T01:00:04+00:00",
+      "published_at": "2026-11-12T02:09:08+00:00",
       "article_url": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "0cc4b07d8ed11d64bf21",
+      "title": "01h Sociedade Portuguesa de Pneumologia apela à vacinação dos grupos mais vulneráveis",
+      "original_title": "01h Sociedade Portuguesa de Pneumologia apela à vacinação dos grupos mais vulneráveis",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-12T01:53:02+00:00",
+      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/01h-sociedade-portuguesa-de-pneumologia-apela-a-vacinacao-dos-grupos-mais-vulneraveis_a1_1778572",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
@@ -413,19 +426,6 @@
       "category": "Portugal",
       "published_at": "2026-11-11T20:16:52+00:00",
       "article_url": "https://www.rtp.pt/noticias/selecao-nacional/selecao-de-raguebi-sub-20-apura-se-para-final-do-europe-championship-2026_d1778530",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "9dfd6e23b42ef0c275f7",
-      "title": "Portugal fez treino ligeiro e com João Cancelo em dia de mau tempo",
-      "original_title": "Portugal fez treino ligeiro e com João Cancelo em dia de mau tempo",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-11T20:07:44+00:00",
-      "article_url": "https://www.rtp.pt/noticias/selecao-nacional/portugal-fez-treino-ligeiro-e-com-joao-cancelo-em-dia-de-mau-tempo_d1778529",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
