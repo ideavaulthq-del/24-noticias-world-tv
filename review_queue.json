@@ -1,6 +1,58 @@
 {
-  "generated_at": "2026-11-12T04:58:56.985229+00:00",
+  "generated_at": "2026-11-12T06:00:30.119067+00:00",
   "articles": [
+    {
+      "id": "7a3f5f7f6b21ad827a7c",
+      "title": "Ukraine's power supply close to critical as Russian strikes bring darkness and cold",
+      "original_title": "Ukraine's power supply close to critical as Russian strikes bring darkness and cold",
+      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC News",
+      "category": "Mundo",
+      "published_at": "2026-11-12T05:59:18+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/cr1ewpd95d21o?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "fbf68ae88107ded77220",
+      "title": "New York building collapse kills at least two, officials say",
+      "original_title": "New York building collapse kills at least two, officials say",
+      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC News",
+      "category": "Mundo",
+      "published_at": "2026-11-12T05:12:56+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/c8zx964glvwxo?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "7d12000e0c03e385f554",
+      "title": "Israeli strike on hospital kills at least five Palestinians, Gaza civil defence agency says",
+      "original_title": "Israeli strike on hospital kills at least five Palestinians, Gaza civil defence agency says",
+      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC News",
+      "category": "Mundo",
+      "published_at": "2026-11-12T05:06:27+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "4c065abd34c23844a1f1",
+      "title": "4h Papa Leão XIV chegou ao Perú onde vai estar até ao início da próxima semana",
+      "original_title": "4h Papa Leão XIV chegou ao Perú onde vai estar até ao início da próxima semana",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-12T04:54:02+00:00",
+      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/4h-papa-leao-xiv-chegou-ao-peru-onde-vai-estar-ate-ao-inicio-da-proxima-semana_a1_1778581",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
     {
       "id": "d77b7c8be586442eeb0b",
       "title": "What we know as pressure builds on embattled Nvidia CEO Jensen Huang",
@@ -41,19 +93,6 @@
       "editorial_status": "titulo_normalizado"
     },
     {
-      "id": "fd4c9b18080bf4603a17",
-      "title": "Israeli strike on Nasser Hospital kills at least six, Gaza civil defence agency says",
-      "original_title": "Israeli strike on Nasser Hospital kills at least six, Gaza civil defence agency says",
-      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC News",
-      "category": "Mundo",
-      "published_at": "2026-11-12T03:32:54+00:00",
-      "article_url": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
       "id": "ef420389241c3c3b3721",
       "title": "3h Ministra reconduziu presidente da ULS Algarve porque deu garantias de melhorar o serviço",
       "original_title": "3h Ministra reconduziu presidente da ULS Algarve porque deu garantias de melhorar o serviço",
@@ -88,19 +127,6 @@
       "category": "Mundo",
       "published_at": "2026-11-12T02:40:18+00:00",
       "article_url": "https://www.bbc.co.uk/news/articles/ckvg25zmppglo?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "9b83275cf1af2735d8ec",
-      "title": "Survivor pulled from rubble of deadly building collapse in New York",
-      "original_title": "Survivor pulled from rubble of deadly building collapse in New York",
-      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC News",
-      "category": "Mundo",
-      "published_at": "2026-11-12T02:33:12+00:00",
-      "article_url": "https://www.bbc.co.uk/news/videos/c60rkwjj7x7go?at_medium=RSS&at_campaign=rss",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
@@ -457,19 +483,6 @@
       "editorial_status": "titulo_normalizado"
     },
     {
-      "id": "37bf5e29f8e5740ca380",
-      "title": "Madeira. Deslizamentos de terras destruíram habitações",
-      "original_title": "Madeira. Deslizamentos de terras destruíram habitações",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-11T20:55:48+00:00",
-      "article_url": "https://www.rtp.pt/noticias/pais/madeira-deslizamentos-de-terras-destruiram-habitacoes_v1778534",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
       "id": "974e12eaf8ce73994985",
       "title": "African writing award probe finds 'no evidence' winning story was AI generated",
       "original_title": "African writing award probe finds 'no evidence' winning story was AI generated",
@@ -569,19 +582,6 @@
       "category": "Mundo",
       "published_at": "2026-11-11T14:56:11+00:00",
       "article_url": "https://www.bbc.co.uk/news/articles/c933gn6710lyo?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "8d08d91546066583720a",
-      "title": "Egyptian journalist's retrial adjourned as UN warns of 'assaults on press freedom'",
-      "original_title": "Egyptian journalist's retrial adjourned as UN warns of 'assaults on press freedom'",
-      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC News",
-      "category": "Mundo",
-      "published_at": "2026-11-11T13:25:47+00:00",
-      "article_url": "https://www.bbc.co.uk/news/articles/cmkg5jr59835o?at_medium=RSS&at_campaign=rss",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
