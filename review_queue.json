@@ -1,15 +1,54 @@
 {
-  "generated_at": "2026-11-11T23:28:08.063831+00:00",
+  "generated_at": "2026-11-12T00:24:25.277266+00:00",
   "articles": [
     {
-      "id": "381f3149adf07d34debb",
-      "title": "Democrat Scott Colom wins Mississippi Senate race in surprise victory for party",
-      "original_title": "Democrat Scott Colom wins Mississippi Senate race in surprise victory for party",
+      "id": "acefe4a41ed46cdea477",
+      "title": "00h Portugal sai a esta hora da situação de alerta",
+      "original_title": "00h Portugal sai a esta hora da situação de alerta",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-12T00:24:01+00:00",
+      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/00h-portugal-sai-a-esta-hora-da-situacao-de-alerta_a1_1778567",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "bff529eecfc282384cfc",
+      "title": "From Paris to DC - why offices are being turned into apartments",
+      "original_title": "From Paris to DC - why offices are being turned into apartments",
+      "summary": "Informação divulgada por BBC Business. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC Business",
+      "category": "Economia",
+      "published_at": "2026-11-12T00:05:40+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/cm89ze7qepvyo?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "6cb68d7ebdfdf8707538",
+      "title": "Democrat Scott Colom seals historic win in Mississippi Senate race",
+      "original_title": "Democrat Scott Colom seals historic win in Mississippi Senate race",
       "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
       "source": "BBC News",
       "category": "Mundo",
-      "published_at": "2026-11-11T23:24:15+00:00",
+      "published_at": "2026-11-11T23:52:30+00:00",
       "article_url": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "ab5fe139551d57a9b5e9",
+      "title": "Some under-25s should get less benefits, Milburn review to say",
+      "original_title": "Some under-25s should get less benefits, Milburn review to say",
+      "summary": "Informação divulgada por BBC Business. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC Business",
+      "category": "Economia",
+      "published_at": "2026-11-11T23:22:04+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/cwn70l1628l0o?at_medium=RSS&at_campaign=rss",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
@@ -366,19 +405,6 @@
       "editorial_status": "titulo_normalizado"
     },
     {
-      "id": "7534ec8efe3ada3f0fc7",
-      "title": "Portugal bate Dinamarca a abrir segunda fase de apuramento para Eurobasket feminino",
-      "original_title": "Portugal bate Dinamarca a abrir segunda fase de apuramento para Eurobasket feminino",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-11T20:03:48+00:00",
-      "article_url": "https://www.rtp.pt/noticias/lusa/portugal-bate-dinamarca-a-abrir-segunda-fase-de-apuramento-para-eurobasket-feminino_d1778519",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
       "id": "974e12eaf8ce73994985",
       "title": "African writing award probe finds 'no evidence' winning story was AI generated",
       "original_title": "African writing award probe finds 'no evidence' winning story was AI generated",
@@ -556,32 +582,6 @@
       "category": "Mundo",
       "published_at": "2026-11-11T11:34:50+00:00",
       "article_url": "https://www.bbc.co.uk/news/articles/c6e3d895zne7o?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "a11bb582f364a40ede3a",
-      "title": "New Indian mega library rocked by scandal over 'AI-generated books'",
-      "original_title": "New Indian mega library rocked by scandal over 'AI-generated books'",
-      "summary": "Informação divulgada por BBC Technology. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC Technology",
-      "category": "Tecnologia",
-      "published_at": "2026-11-11T11:33:24+00:00",
-      "article_url": "https://www.bbc.co.uk/news/articles/c54gne3plvrxo?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "c35359e07d7972aa1971",
-      "title": "Watch: Vinícius Jr's surprise message to boy who received prosthetic legs after Sudan drone strike",
-      "original_title": "Watch: Vinícius Jr's surprise message to boy who received prosthetic legs after Sudan drone strike",
-      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC News",
-      "category": "Mundo",
-      "published_at": "2026-11-11T09:28:36+00:00",
-      "article_url": "https://www.bbc.co.uk/news/videos/cm894wg251pzo?at_medium=RSS&at_campaign=rss",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
