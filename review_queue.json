@@ -1,10 +1,49 @@
 {
-  "generated_at": "2026-11-12T02:51:36.560273+00:00",
+  "generated_at": "2026-11-12T03:54:49.038887+00:00",
   "articles": [
     {
-      "id": "83fd449477c29c39e1e7",
-      "title": "New York building collapse kills one person and injures 12",
-      "original_title": "New York building collapse kills one person and injures 12",
+      "id": "ef420389241c3c3b3721",
+      "title": "3h Ministra reconduziu presidente da ULS Algarve porque deu garantias de melhorar o serviço",
+      "original_title": "3h Ministra reconduziu presidente da ULS Algarve porque deu garantias de melhorar o serviço",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-12T03:18:02+00:00",
+      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/3h-ministra-reconduziu-presidente-da-uls-algarve-porque-deu-garantias-de-melhorar-o-servico_a1_1778578",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "381c8629c8e17d577f85",
+      "title": "2h Meteorologia. Com fim da situação de alerta, escolas e serviços reabrem esta quinta-feira",
+      "original_title": "2h Meteorologia. Com fim da situação de alerta, escolas e serviços reabrem esta quinta-feira",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-12T02:48:01+00:00",
+      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/2h-meteorologia-com-fim-da-situacao-de-alerta-escolas-e-servicos-reabrem-esta-quinta-feira_a1_1778576",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "42aced950d4901f8eeb3",
+      "title": "Australian teen missing in bush for six days rescued alive",
+      "original_title": "Australian teen missing in bush for six days rescued alive",
+      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC News",
+      "category": "Mundo",
+      "published_at": "2026-11-12T02:40:18+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/ckvg25zmppglo?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "9b83275cf1af2735d8ec",
+      "title": "Survivor pulled from rubble of deadly building collapse in New York",
+      "original_title": "Survivor pulled from rubble of deadly building collapse in New York",
       "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
       "source": "BBC News",
       "category": "Mundo",
@@ -405,32 +444,6 @@
       "editorial_status": "titulo_normalizado"
     },
     {
-      "id": "8dc78e217a1dc4ca5bff",
-      "title": "20h Situação de alerta até à meia-noite",
-      "original_title": "20h Situação de alerta até à meia-noite",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-11T20:30:02+00:00",
-      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/20h-situacao-de-alerta-ate-a-meia-noite_a1_1778533",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "e34afbac443a3a6ce7cf",
-      "title": "Seleção de râguebi sub-20 apura-se para final do Europe Championship 2026",
-      "original_title": "Seleção de râguebi sub-20 apura-se para final do Europe Championship 2026",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-11T20:16:52+00:00",
-      "article_url": "https://www.rtp.pt/noticias/selecao-nacional/selecao-de-raguebi-sub-20-apura-se-para-final-do-europe-championship-2026_d1778530",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
       "id": "974e12eaf8ce73994985",
       "title": "African writing award probe finds 'no evidence' winning story was AI generated",
       "original_title": "African writing award probe finds 'no evidence' winning story was AI generated",
@@ -569,19 +582,6 @@
       "category": "Mundo",
       "published_at": "2026-11-11T13:24:29+00:00",
       "article_url": "https://www.bbc.co.uk/news/articles/cwg5r8zrm11mo?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "06dd03a0d9b88f054971",
-      "title": "Kenya discharges last Ebola patient in major milestone towards virus-free status",
-      "original_title": "Kenya discharges last Ebola patient in major milestone towards virus-free status",
-      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC News",
-      "category": "Mundo",
-      "published_at": "2026-11-11T12:53:11+00:00",
-      "article_url": "https://www.bbc.co.uk/news/articles/cwe9kzv0g0v7o?at_medium=RSS&at_campaign=rss",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
