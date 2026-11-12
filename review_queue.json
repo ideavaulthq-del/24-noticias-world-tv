@@ -1,6 +1,71 @@
 {
-  "generated_at": "2026-11-12T00:24:25.277266+00:00",
+  "generated_at": "2026-11-12T01:51:31.936154+00:00",
   "articles": [
+    {
+      "id": "83fd449477c29c39e1e7",
+      "title": "New York building collapse kills one person and injures 12",
+      "original_title": "New York building collapse kills one person and injures 12",
+      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC News",
+      "category": "Mundo",
+      "published_at": "2026-11-12T01:34:58+00:00",
+      "article_url": "https://www.bbc.co.uk/news/videos/c60rkwjj7x7go?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "6cb68d7ebdfdf8707538",
+      "title": "Democrat Scott Colom seals historic win in Mississippi Senate race",
+      "original_title": "Democrat Scott Colom seals historic win in Mississippi Senate race",
+      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC News",
+      "category": "Mundo",
+      "published_at": "2026-11-12T01:00:04+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "0b6d4c21c4cddf6068ac",
+      "title": "Poundland set for more time to secure a rescue deal as emergency talks continue",
+      "original_title": "Poundland set for more time to secure a rescue deal as emergency talks continue",
+      "summary": "Informação divulgada por BBC Business. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC Business",
+      "category": "Economia",
+      "published_at": "2026-11-12T00:49:05+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/c3702jjkez4ko?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "b45f806985a88b727e43",
+      "title": "Depressão Charles. Montenegro defende que \"mais vale prevenir do que remediar\"",
+      "original_title": "Depressão Charles. Montenegro defende que \"mais vale prevenir do que remediar\"",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-12T00:38:05+00:00",
+      "article_url": "https://www.rtp.pt/noticias/pais/depressao-charles-montenegro-defende-que-mais-vale-prevenir-do-que-remediar_e1778319",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "cd0d02892ce0c0dca85b",
+      "title": "Nigeria's president launches re-election manifesto but can he regain voters' trust?",
+      "original_title": "Nigeria's president launches re-election manifesto but can he regain voters' trust?",
+      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC News",
+      "category": "Mundo",
+      "published_at": "2026-11-12T00:36:11+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/ck5ynyw527wdo?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
     {
       "id": "acefe4a41ed46cdea477",
       "title": "00h Portugal sai a esta hora da situação de alerta",
@@ -23,19 +88,6 @@
       "category": "Economia",
       "published_at": "2026-11-12T00:05:40+00:00",
       "article_url": "https://www.bbc.co.uk/news/articles/cm89ze7qepvyo?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "6cb68d7ebdfdf8707538",
-      "title": "Democrat Scott Colom seals historic win in Mississippi Senate race",
-      "original_title": "Democrat Scott Colom seals historic win in Mississippi Senate race",
-      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC News",
-      "category": "Mundo",
-      "published_at": "2026-11-11T23:52:30+00:00",
-      "article_url": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
@@ -101,19 +153,6 @@
       "category": "Portugal",
       "published_at": "2026-11-11T22:36:02+00:00",
       "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/22h-mai-recusa-excesso-de-zelo-e-alerta-que-podia-ter-havido-uma-catastrofe_a1_1778555",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "0b6d4c21c4cddf6068ac",
-      "title": "Poundland set for more time to secure a rescue deal as emergency talks continue",
-      "original_title": "Poundland set for more time to secure a rescue deal as emergency talks continue",
-      "summary": "Informação divulgada por BBC Business. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC Business",
-      "category": "Economia",
-      "published_at": "2026-11-11T22:08:56+00:00",
-      "article_url": "https://www.bbc.co.uk/news/articles/c3702jjkez4ko?at_medium=RSS&at_campaign=rss",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
@@ -192,19 +231,6 @@
       "category": "Economia",
       "published_at": "2026-11-11T21:49:04+00:00",
       "article_url": "https://www.rtp.pt/noticias/economia/acampadas-reunem-se-com-presidente-da-republica-na-sexta-feira_n1778548",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "b45f806985a88b727e43",
-      "title": "Depressão Charles. Montenegro defende que \"mais vale prevenir do que remediar\"",
-      "original_title": "Depressão Charles. Montenegro defende que \"mais vale prevenir do que remediar\"",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-11T21:46:53+00:00",
-      "article_url": "https://www.rtp.pt/noticias/pais/depressao-charles-montenegro-defende-que-mais-vale-prevenir-do-que-remediar_e1778319",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
@@ -418,6 +444,19 @@
       "editorial_status": "titulo_normalizado"
     },
     {
+      "id": "2bba0491b0c87821cd78",
+      "title": "Famed ship SS United States to be sunk off coast of Florida",
+      "original_title": "Famed ship SS United States to be sunk off coast of Florida",
+      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC News",
+      "category": "Mundo",
+      "published_at": "2026-11-11T18:42:27+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/c3x298n87rn2o?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
       "id": "bc3555a35b96ffe43fd9",
       "title": "Schools in Italy, Scotland and Northern Ireland hit by threats in suspected bomb hoax",
       "original_title": "Schools in Italy, Scotland and Northern Ireland hit by threats in suspected bomb hoax",
@@ -543,45 +582,6 @@
       "category": "Mundo",
       "published_at": "2026-11-11T12:53:11+00:00",
       "article_url": "https://www.bbc.co.uk/news/articles/cwe9kzv0g0v7o?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "46348ff5d33f4aa400da",
-      "title": "Haitian PM praises El Salvador after joint strike on alleged home of gang leader",
-      "original_title": "Haitian PM praises El Salvador after joint strike on alleged home of gang leader",
-      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC News",
-      "category": "Mundo",
-      "published_at": "2026-11-11T12:14:12+00:00",
-      "article_url": "https://www.bbc.co.uk/news/articles/cmvg2xdwnwezo?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "afade81800a988b06023",
-      "title": "US House blocks bid to impeach Defence Secretary Pete Hegseth",
-      "original_title": "US House blocks bid to impeach Defence Secretary Pete Hegseth",
-      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC News",
-      "category": "Mundo",
-      "published_at": "2026-11-11T11:47:22+00:00",
-      "article_url": "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "cc3084ef415237725edd",
-      "title": "Transport workers in Chile block highways in protest over surging fuel prices",
-      "original_title": "Transport workers in Chile block highways in protest over surging fuel prices",
-      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC News",
-      "category": "Mundo",
-      "published_at": "2026-11-11T11:34:50+00:00",
-      "article_url": "https://www.bbc.co.uk/news/articles/c6e3d895zne7o?at_medium=RSS&at_campaign=rss",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
