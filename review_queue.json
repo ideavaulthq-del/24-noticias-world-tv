@@ -1,6 +1,58 @@
 {
-  "generated_at": "2026-11-12T03:54:49.038887+00:00",
+  "generated_at": "2026-11-12T04:58:56.985229+00:00",
   "articles": [
+    {
+      "id": "d77b7c8be586442eeb0b",
+      "title": "What we know as pressure builds on embattled Nvidia CEO Jensen Huang",
+      "original_title": "What we know as pressure builds on embattled Nvidia CEO Jensen Huang",
+      "summary": "Informação divulgada por BBC Business. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC Business",
+      "category": "Economia",
+      "published_at": "2026-11-12T04:18:33+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "9e90d0b98484e104f53e",
+      "title": "Famed ship SS United States sunk off coast of Florida",
+      "original_title": "Famed ship SS United States sunk off coast of Florida",
+      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC News",
+      "category": "Mundo",
+      "published_at": "2026-11-12T04:03:13+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/c3x298n87rn2o?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "6cb68d7ebdfdf8707538",
+      "title": "Democrat Scott Colom seals historic win in Mississippi Senate race",
+      "original_title": "Democrat Scott Colom seals historic win in Mississippi Senate race",
+      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC News",
+      "category": "Mundo",
+      "published_at": "2026-11-12T04:00:30+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "fd4c9b18080bf4603a17",
+      "title": "Israeli strike on Nasser Hospital kills at least six, Gaza civil defence agency says",
+      "original_title": "Israeli strike on Nasser Hospital kills at least six, Gaza civil defence agency says",
+      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC News",
+      "category": "Mundo",
+      "published_at": "2026-11-12T03:32:54+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
     {
       "id": "ef420389241c3c3b3721",
       "title": "3h Ministra reconduziu presidente da ULS Algarve porque deu garantias de melhorar o serviço",
@@ -54,19 +106,6 @@
       "editorial_status": "titulo_normalizado"
     },
     {
-      "id": "6cb68d7ebdfdf8707538",
-      "title": "Democrat Scott Colom seals historic win in Mississippi Senate race",
-      "original_title": "Democrat Scott Colom seals historic win in Mississippi Senate race",
-      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC News",
-      "category": "Mundo",
-      "published_at": "2026-11-12T02:09:08+00:00",
-      "article_url": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
       "id": "0cc4b07d8ed11d64bf21",
       "title": "01h Sociedade Portuguesa de Pneumologia apela à vacinação dos grupos mais vulneráveis",
       "original_title": "01h Sociedade Portuguesa de Pneumologia apela à vacinação dos grupos mais vulneráveis",
@@ -106,19 +145,6 @@
       "editorial_status": "titulo_normalizado"
     },
     {
-      "id": "cd0d02892ce0c0dca85b",
-      "title": "Nigeria's president launches re-election manifesto but can he regain voters' trust?",
-      "original_title": "Nigeria's president launches re-election manifesto but can he regain voters' trust?",
-      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC News",
-      "category": "Mundo",
-      "published_at": "2026-11-12T00:36:11+00:00",
-      "article_url": "https://www.bbc.co.uk/news/articles/ck5ynyw527wdo?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
       "id": "acefe4a41ed46cdea477",
       "title": "00h Portugal sai a esta hora da situação de alerta",
       "original_title": "00h Portugal sai a esta hora da situação de alerta",
@@ -145,9 +171,9 @@
       "editorial_status": "titulo_normalizado"
     },
     {
-      "id": "ab5fe139551d57a9b5e9",
-      "title": "Some under-25s should get less benefits, Milburn review to say",
-      "original_title": "Some under-25s should get less benefits, Milburn review to say",
+      "id": "14ca20034d3e089eb9a0",
+      "title": "Some under-25s should get fewer benefits, Milburn review to say",
+      "original_title": "Some under-25s should get fewer benefits, Milburn review to say",
       "summary": "Informação divulgada por BBC Business. Consulte a publicação original para conhecer os detalhes e o contexto.",
       "source": "BBC Business",
       "category": "Economia",
@@ -457,19 +483,6 @@
       "editorial_status": "titulo_normalizado"
     },
     {
-      "id": "2bba0491b0c87821cd78",
-      "title": "Famed ship SS United States to be sunk off coast of Florida",
-      "original_title": "Famed ship SS United States to be sunk off coast of Florida",
-      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC News",
-      "category": "Mundo",
-      "published_at": "2026-11-11T18:42:27+00:00",
-      "article_url": "https://www.bbc.co.uk/news/articles/c3x298n87rn2o?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
       "id": "bc3555a35b96ffe43fd9",
       "title": "Schools in Italy, Scotland and Northern Ireland hit by threats in suspected bomb hoax",
       "original_title": "Schools in Italy, Scotland and Northern Ireland hit by threats in suspected bomb hoax",
@@ -569,19 +582,6 @@
       "category": "Mundo",
       "published_at": "2026-11-11T13:25:47+00:00",
       "article_url": "https://www.bbc.co.uk/news/articles/cmkg5jr59835o?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "43804e36422f65a0a869",
-      "title": "Four grizzly bears killed in Canada after fatal attack on mother and daughter",
-      "original_title": "Four grizzly bears killed in Canada after fatal attack on mother and daughter",
-      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC News",
-      "category": "Mundo",
-      "published_at": "2026-11-11T13:24:29+00:00",
-      "article_url": "https://www.bbc.co.uk/news/articles/cwg5r8zrm11mo?at_medium=RSS&at_campaign=rss",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
