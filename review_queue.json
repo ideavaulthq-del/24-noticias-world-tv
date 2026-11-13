@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-11-13T03:53:26.707560+00:00",
+  "generated_at": "2026-11-13T04:57:53.749042+00:00",
   "articles": [
+    {
+      "id": "4400d9044559cfc617b6",
+      "title": "4h Papa Leão XIV encontra-se com vítimas de abusos sexuais no Perú",
+      "original_title": "4h Papa Leão XIV encontra-se com vítimas de abusos sexuais no Perú",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-13T04:18:02+00:00",
+      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/4h-papa-leao-xiv-encontra-se-com-vitimas-de-abusos-sexuais-no-peru_a1_1778832",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "4493f2bbe9c4a0449ae4",
+      "title": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy",
+      "original_title": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy",
+      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC News",
+      "category": "Mundo",
+      "published_at": "2026-11-13T03:57:01+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
     {
       "id": "bd4ef4c123e2cf9707b3",
       "title": "3h Seguro elogia a resposta das autoridades à passagem da tempestade Charles",
@@ -54,25 +80,12 @@
       "editorial_status": "titulo_normalizado"
     },
     {
-      "id": "0e394812e4664a3f8917",
-      "title": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
-      "original_title": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
-      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC News",
-      "category": "Mundo",
-      "published_at": "2026-11-13T02:39:00+00:00",
-      "article_url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
       "id": "f11082c6fbaa53e1f81c",
       "title": "Microsoft struggling to restore service as global outage affects Outlook and Teams",
       "original_title": "Microsoft struggling to restore service as global outage affects Outlook and Teams",
-      "summary": "Informação divulgada por BBC Business. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC Business",
-      "category": "Economia",
+      "summary": "Informação divulgada por BBC Technology. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC Technology",
+      "category": "Tecnologia",
       "published_at": "2026-11-13T02:38:02+00:00",
       "article_url": "https://www.bbc.co.uk/news/articles/c5gm3g9ldz8xo?at_medium=RSS&at_campaign=rss",
       "image_url": "",
@@ -426,19 +439,6 @@
       "category": "Mundo",
       "published_at": "2026-11-12T21:16:47+00:00",
       "article_url": "https://www.rtp.pt/noticias/mundo/paz-na-ucrania-foi-tema-de-discussao-em-dublin_v1778792",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "de17e86412a17bd5615f",
-      "title": "Grupo VITA assume ter contribuido para mudança da perceção sobre vitimas de abuso sexual na Igreja",
-      "original_title": "Grupo VITA assume ter contribuido para mudança da perceção sobre vitimas de abuso sexual na Igreja",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-12T21:12:23+00:00",
-      "article_url": "https://www.rtp.pt/noticias/pais/grupo-vita-assume-ter-contribuido-para-mudanca-da-percecao-sobre-vitimas-de-abuso-sexual-na-igreja_n1778779",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
