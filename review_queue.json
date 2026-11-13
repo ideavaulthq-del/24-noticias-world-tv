@@ -1,6 +1,19 @@
 {
-  "generated_at": "2026-11-13T04:57:53.749042+00:00",
+  "generated_at": "2026-11-13T05:58:51.708250+00:00",
   "articles": [
+    {
+      "id": "6dd269d928cd56e5d1dc",
+      "title": "5h Serviços Microsoft 365 voltam aos poucos mas empresa admite dificuldades na reposição",
+      "original_title": "5h Serviços Microsoft 365 voltam aos poucos mas empresa admite dificuldades na reposição",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-13T05:33:01+00:00",
+      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/5h-servicos-microsoft-365-voltam-aos-poucos-mas-empresa-admite-dificuldades-na-reposicao_a1_1778834",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
     {
       "id": "4400d9044559cfc617b6",
       "title": "4h Papa Leão XIV encontra-se com vítimas de abusos sexuais no Perú",
@@ -80,9 +93,9 @@
       "editorial_status": "titulo_normalizado"
     },
     {
-      "id": "f11082c6fbaa53e1f81c",
-      "title": "Microsoft struggling to restore service as global outage affects Outlook and Teams",
-      "original_title": "Microsoft struggling to restore service as global outage affects Outlook and Teams",
+      "id": "c3c231678539e7d818d5",
+      "title": "Global Microsoft outage affecting tens of thousands of users",
+      "original_title": "Global Microsoft outage affecting tens of thousands of users",
       "summary": "Informação divulgada por BBC Technology. Consulte a publicação original para conhecer os detalhes e o contexto.",
       "source": "BBC Technology",
       "category": "Tecnologia",
@@ -426,19 +439,6 @@
       "category": "Economia",
       "published_at": "2026-11-12T21:17:47+00:00",
       "article_url": "https://www.rtp.pt/noticias/economia/ajudas-de-custo-na-funcao-publica-vao-aumentar-5_v1778793",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "5a801a9458d0ab8969a4",
-      "title": "Paz na Ucrânia foi tema de discussão em Dublin",
-      "original_title": "Paz na Ucrânia foi tema de discussão em Dublin",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Mundo",
-      "published_at": "2026-11-12T21:16:47+00:00",
-      "article_url": "https://www.rtp.pt/noticias/mundo/paz-na-ucrania-foi-tema-de-discussao-em-dublin_v1778792",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
