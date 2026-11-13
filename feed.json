@@ -2,13 +2,13 @@
   "audit_report": "audit_report.json",
   "pending_review": 45,
   "editorial_notice": "Correspondência entre fontes é apenas temática e NÃO confirma factos. Títulos RSS não são redação original; apenas textos revistos manualmente têm aprovação editorial.",
-  "generated_at": "2026-11-13T15:49:37.524028+00:00",
+  "generated_at": "2026-11-13T16:53:51.393081+00:00",
   "news": [],
   "weather": {
     "location": "Lisboa",
-    "temperature_c": 18.6,
+    "temperature_c": 18.1,
     "description": "Parcialmente nublado",
-    "updated_at": "2026-11-13T15:49:37.523459+00:00",
+    "updated_at": "2026-11-13T16:53:51.392083+00:00",
     "source": "Open-Meteo"
   }
 }

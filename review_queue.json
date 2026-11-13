@@ -1,6 +1,45 @@
 {
-  "generated_at": "2026-11-13T15:49:37.314695+00:00",
+  "generated_at": "2026-11-13T16:53:51.316952+00:00",
   "articles": [
+    {
+      "id": "a91d5c9574068da9fbee",
+      "title": "Benfica no top-3 mundial. Está concluída a atualização do número de sócios dos encarnados",
+      "original_title": "Benfica no top-3 mundial. Está concluída a atualização do número de sócios dos encarnados",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-13T16:45:43+00:00",
+      "article_url": "https://www.rtp.pt/noticias/benfica/benfica-no-top-3-mundial-esta-concluida-a-atualizacao-do-numero-de-socios-dos-encarnados_d1778988",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "0da81c3bf12379b46a2d",
+      "title": "16h COP31: fim dos combustíveis fósseis continua sem consenso",
+      "original_title": "16h COP31: fim dos combustíveis fósseis continua sem consenso",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-13T16:25:02+00:00",
+      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/16h-cop31-fim-dos-combustiveis-fosseis-continua-sem-consenso_a1_1778976",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "34fcdfa996dcc3fe622c",
+      "title": "Quatro detidos e 58 crianças resgatadas de centro de acolhimento clandestino em Angola",
+      "original_title": "Quatro detidos e 58 crianças resgatadas de centro de acolhimento clandestino em Angola",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Mundo",
+      "published_at": "2026-11-13T16:22:22+00:00",
+      "article_url": "https://www.rtp.pt/noticias/mundo/quatro-detidos-e-58-criancas-resgatadas-de-centro-de-acolhimento-clandestino-em-angola_n1778972",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
     {
       "id": "011ab1d47357c7ec9550",
       "title": "Courts, spies and MPs: How the Microsoft outage has been felt around the world",
@@ -335,45 +374,6 @@
       "category": "Tecnologia",
       "published_at": "2026-11-13T13:41:25+00:00",
       "article_url": "https://www.bbc.co.uk/news/articles/c6vg2ljjpj32o?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "dca33968c3a5c0078a51",
-      "title": "COP31. Presidência divulga primeiro resumo das propostas dos países",
-      "original_title": "COP31. Presidência divulga primeiro resumo das propostas dos países",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Economia",
-      "published_at": "2026-11-13T13:40:51+00:00",
-      "article_url": "https://www.rtp.pt/noticias/economia/cop31-presidencia-divulga-primeiro-resumo-das-propostas-dos-paises_n1778923",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "56f5f91ff1be28836048",
-      "title": "UE não sabe quem representa europeus nas negociações de paz para Ucrânia",
-      "original_title": "UE não sabe quem representa europeus nas negociações de paz para Ucrânia",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Mundo",
-      "published_at": "2026-11-13T13:37:47+00:00",
-      "article_url": "https://www.rtp.pt/noticias/mundo/ue-nao-sabe-quem-representa-europeus-nas-negociacoes-de-paz-para-ucrania_v1778945",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "8af2ad59084c7078e1c0",
-      "title": "13h \"Uma mensagem de esperança\": Dino D?Santiago vence Grammy Latino",
-      "original_title": "13h \"Uma mensagem de esperança\": Dino D?Santiago vence Grammy Latino",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-13T13:35:04+00:00",
-      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/13h-uma-mensagem-de-esperanca-dino-dsantiago-vence-grammy-latino_a1_1778943",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
