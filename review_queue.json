@@ -1,6 +1,19 @@
 {
-  "generated_at": "2026-11-13T01:45:56.733976+00:00",
+  "generated_at": "2026-11-13T02:48:52.034919+00:00",
   "articles": [
+    {
+      "id": "0e394812e4664a3f8917",
+      "title": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
+      "original_title": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
+      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC News",
+      "category": "Mundo",
+      "published_at": "2026-11-13T02:39:00+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
     {
       "id": "f11082c6fbaa53e1f81c",
       "title": "Microsoft struggling to restore service as global outage affects Outlook and Teams",
@@ -8,8 +21,47 @@
       "summary": "Informação divulgada por BBC Business. Consulte a publicação original para conhecer os detalhes e o contexto.",
       "source": "BBC Business",
       "category": "Economia",
-      "published_at": "2026-11-13T01:39:32+00:00",
+      "published_at": "2026-11-13T02:38:02+00:00",
       "article_url": "https://www.bbc.co.uk/news/articles/c5gm3g9ldz8xo?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "fae2177ee8c25efeae23",
+      "title": "Australian footballers will not be charged after hotel incident, police say",
+      "original_title": "Australian footballers will not be charged after hotel incident, police say",
+      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC News",
+      "category": "Mundo",
+      "published_at": "2026-11-13T02:33:07+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/ckregjwr7njqo?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "e64f0c471cfc4257bad3",
+      "title": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks",
+      "original_title": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks",
+      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC News",
+      "category": "Mundo",
+      "published_at": "2026-11-13T02:01:35+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/ckn80j9jv3jxo?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "cb7362a5133fffdac720",
+      "title": "1h MP abre inquérito para investigar intervenção policial nas manifestações em Lisboa",
+      "original_title": "1h MP abre inquérito para investigar intervenção policial nas manifestações em Lisboa",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-13T01:58:02+00:00",
+      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/1h-mp-abre-inquerito-para-investigar-intervencao-policial-nas-manifestacoes-em-lisboa_a1_1778824",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
@@ -23,19 +75,6 @@
       "category": "Portugal",
       "published_at": "2026-11-13T01:23:02+00:00",
       "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/00h-acampadas-pela-habitacao-ja-tem-caderno-reivindicativo-para-reuniao-com-pr-na-proxima-semana_a1_1778823",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "fae2177ee8c25efeae23",
-      "title": "Australian footballers will not be charged after hotel incident, police say",
-      "original_title": "Australian footballers will not be charged after hotel incident, police say",
-      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC News",
-      "category": "Mundo",
-      "published_at": "2026-11-13T01:03:59+00:00",
-      "article_url": "https://www.bbc.co.uk/news/articles/ckregjwr7njqo?at_medium=RSS&at_campaign=rss",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
@@ -114,19 +153,6 @@
       "category": "Mundo",
       "published_at": "2026-11-12T23:42:52+00:00",
       "article_url": "https://www.bbc.co.uk/news/videos/cv5y1309dg3go?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "0e394812e4664a3f8917",
-      "title": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
-      "original_title": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
-      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC News",
-      "category": "Mundo",
-      "published_at": "2026-11-12T23:34:05+00:00",
-      "article_url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
@@ -418,25 +444,12 @@
       "editorial_status": "titulo_normalizado"
     },
     {
-      "id": "4d13c1227bda3165c185",
-      "title": "Homem esfaqueou a ex-namorada e o seu companheiro",
-      "original_title": "Homem esfaqueou a ex-namorada e o seu companheiro",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-12T21:02:47+00:00",
-      "article_url": "https://www.rtp.pt/noticias/pais/homem-esfaqueou-a-ex-namorada-e-o-seu-companheiro_v1778789",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
       "id": "127671d4bbdb474403c8",
       "title": "US envoys meet Zelensky in Dublin after talks with Putin in Moscow",
       "original_title": "US envoys meet Zelensky in Dublin after talks with Putin in Moscow",
-      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC News",
-      "category": "Mundo",
+      "summary": "Informação divulgada por BBC Europe. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC Europe",
+      "category": "Europa",
       "published_at": "2026-11-12T21:00:42+00:00",
       "article_url": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
       "image_url": "",
@@ -569,19 +582,6 @@
       "category": "Economia",
       "published_at": "2026-11-12T14:29:59+00:00",
       "article_url": "https://www.bbc.co.uk/news/articles/c3702jjkez4ko?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "af2f4741f7af0b8fc354",
-      "title": "Eight killed in Colombian air strike targeting Gulf Clan gang",
-      "original_title": "Eight killed in Colombian air strike targeting Gulf Clan gang",
-      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC News",
-      "category": "Mundo",
-      "published_at": "2026-11-12T13:58:49+00:00",
-      "article_url": "https://www.bbc.co.uk/news/articles/crgj3v3z10dno?at_medium=RSS&at_campaign=rss",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
