@@ -1,6 +1,71 @@
 {
-  "generated_at": "2026-11-13T21:47:55.306842+00:00",
+  "generated_at": "2026-11-13T22:43:38.707508+00:00",
   "articles": [
+    {
+      "id": "4e18703fb437ea4e7ca0",
+      "title": "22h EUA em alerta, nenhum avião levanta voo",
+      "original_title": "22h EUA em alerta, nenhum avião levanta voo",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-13T22:35:03+00:00",
+      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/22h-eua-em-alerta-nenhum-aviao-levanta-voo_a1_1779055",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "e4627d65a4da45dea5ed",
+      "title": "Petroleiro abalroa navio de cruzeiro com 129 pessoas no rio Mississippi",
+      "original_title": "Petroleiro abalroa navio de cruzeiro com 129 pessoas no rio Mississippi",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Mundo",
+      "published_at": "2026-11-13T22:00:06+00:00",
+      "article_url": "https://www.rtp.pt/noticias/mundo/petroleiro-abalroa-navio-de-cruzeiro-com-129-pessoas-no-rio-mississippi_n1779053",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "261b540843c6514327a3",
+      "title": "\"The End of Everything\". Vencedor do Prémio Booker 2026 será publicado em Portugal pelo grupo Infinito Particular",
+      "original_title": "\"The End of Everything\". Vencedor do Prémio Booker 2026 será publicado em Portugal pelo grupo Infinito Particular",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Cultura",
+      "published_at": "2026-11-13T21:52:35+00:00",
+      "article_url": "https://www.rtp.pt/noticias/cultura/the-end-of-everything-vencedor-do-premio-booker-2026-sera-publicado-em-portugal-pelo-grupo-infinito-particular_n1779047",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "59fd16f77df4615cc874",
+      "title": "21h Jorge Jesus está confiante no favoritismo de Portugal para chegar longe na Liga das Nações",
+      "original_title": "21h Jorge Jesus está confiante no favoritismo de Portugal para chegar longe na Liga das Nações",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-13T21:48:02+00:00",
+      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/21h-jorge-jesus-esta-confiante-no-favoritismo-de-portugal-para-chegar-longe-na-liga-das-nacoes_a1_1779051",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "89d3b14b0396d352e64d",
+      "title": "Arquivada queixa do Benfica contra árbitros do clássico com FC Porto",
+      "original_title": "Arquivada queixa do Benfica contra árbitros do clássico com FC Porto",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-13T21:47:36+00:00",
+      "article_url": "https://www.rtp.pt/noticias/benfica/arquivada-queixa-do-benfica-contra-arbitros-do-classico-com-fc-porto_d1779050",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
     {
       "id": "8bffcf0010a206fd1afb",
       "title": "Autarca de Vizela acusado de violência doméstica. PGR reabriu inquérito",
@@ -210,19 +275,6 @@
       "editorial_status": "titulo_normalizado"
     },
     {
-      "id": "d8af4fb0b7314f6eec73",
-      "title": "RTP em Dublin. Irlanda quer reconhecimento da língua gaélica",
-      "original_title": "RTP em Dublin. Irlanda quer reconhecimento da língua gaélica",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Mundo",
-      "published_at": "2026-11-13T20:48:47+00:00",
-      "article_url": "https://www.rtp.pt/noticias/mundo/rtp-em-dublin-irlanda-quer-reconhecimento-da-lingua-gaelica_v1779030",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
       "id": "9827383b9c8703d01963",
       "title": "Ucrânia. Rússia impõe condições à participação da Europa nas negociações de paz",
       "original_title": "Ucrânia. Rússia impõe condições à participação da Europa nas negociações de paz",
@@ -301,32 +353,6 @@
       "editorial_status": "titulo_normalizado"
     },
     {
-      "id": "c9623c831c9d8d40b9a8",
-      "title": "Bernardo Silva lamenta \"perder uma figura como o Cristiano\"",
-      "original_title": "Bernardo Silva lamenta \"perder uma figura como o Cristiano\"",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-13T20:10:48+00:00",
-      "article_url": "https://www.rtp.pt/noticias/desporto/bernardo-silva-lamenta-perder-uma-figura-como-o-cristiano_v1779021",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "9fc15a9c308fd798397d",
-      "title": "Jorge Jesus com \"poucas dúvidas ou quase nenhumas\" quanto ao onze",
-      "original_title": "Jorge Jesus com \"poucas dúvidas ou quase nenhumas\" quanto ao onze",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-13T20:04:48+00:00",
-      "article_url": "https://www.rtp.pt/noticias/desporto/jorge-jesus-com-poucas-duvidas-ou-quase-nenhumas-quanto-ao-onze_v1779020",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
       "id": "4388231c64c3038a8bcf",
       "title": "Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague",
       "original_title": "Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague",
@@ -348,32 +374,6 @@
       "category": "Economia",
       "published_at": "2026-11-13T19:53:57+00:00",
       "article_url": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "b4be3c880869419d15d9",
-      "title": "19h Saúde: PM reconhece problemas, mas mantém apoio à ministra",
-      "original_title": "19h Saúde: PM reconhece problemas, mas mantém apoio à ministra",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-13T19:18:02+00:00",
-      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/19h-saude-pm-reconhece-problemas-mas-mantem-apoio-a-ministra_a1_1779017",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "c41e1a792e0842224674",
-      "title": "Incêndios na Amazónia. Pará declara estado de emergência ambiental",
-      "original_title": "Incêndios na Amazónia. Pará declara estado de emergência ambiental",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Mundo",
-      "published_at": "2026-11-13T19:16:52+00:00",
-      "article_url": "https://www.rtp.pt/noticias/mundo/incendios-na-amazonia-para-declara-estado-de-emergencia-ambiental_n1779011",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
