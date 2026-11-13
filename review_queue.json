@@ -1,6 +1,58 @@
 {
-  "generated_at": "2026-11-13T02:48:52.034919+00:00",
+  "generated_at": "2026-11-13T03:53:26.707560+00:00",
   "articles": [
+    {
+      "id": "bd4ef4c123e2cf9707b3",
+      "title": "3h Seguro elogia a resposta das autoridades à passagem da tempestade Charles",
+      "original_title": "3h Seguro elogia a resposta das autoridades à passagem da tempestade Charles",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-13T03:28:02+00:00",
+      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/3h-seguro-elogia-a-resposta-das-autoridades-a-passagem-da-tempestade-charles_a1_1778829",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "4b471c788dc3d54e2339",
+      "title": "2h Acampadas de Lisboa e do Porto reúnem-se esta sexta-feira com o Presidente da República",
+      "original_title": "2h Acampadas de Lisboa e do Porto reúnem-se esta sexta-feira com o Presidente da República",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-13T03:22:02+00:00",
+      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/2h-acampadas-de-lisboa-e-do-porto-reunem-se-esta-sexta-feira-com-o-presidente-da-republica_a1_1778828",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "fae2177ee8c25efeae23",
+      "title": "Australian footballers will not be charged after hotel incident, police say",
+      "original_title": "Australian footballers will not be charged after hotel incident, police say",
+      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC News",
+      "category": "Mundo",
+      "published_at": "2026-11-13T03:02:54+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/ckregjwr7njqo?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "1998fd58feba39ff811a",
+      "title": "North Korean hackers used fake video calls in $400m crypto hack, says FBI",
+      "original_title": "North Korean hackers used fake video calls in $400m crypto hack, says FBI",
+      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC News",
+      "category": "Mundo",
+      "published_at": "2026-11-13T02:48:29+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/cqdj1ellpd70o?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
     {
       "id": "0e394812e4664a3f8917",
       "title": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
@@ -23,19 +75,6 @@
       "category": "Economia",
       "published_at": "2026-11-13T02:38:02+00:00",
       "article_url": "https://www.bbc.co.uk/news/articles/c5gm3g9ldz8xo?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "fae2177ee8c25efeae23",
-      "title": "Australian footballers will not be charged after hotel incident, police say",
-      "original_title": "Australian footballers will not be charged after hotel incident, police say",
-      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC News",
-      "category": "Mundo",
-      "published_at": "2026-11-13T02:33:07+00:00",
-      "article_url": "https://www.bbc.co.uk/news/articles/ckregjwr7njqo?at_medium=RSS&at_campaign=rss",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
@@ -101,19 +140,6 @@
       "category": "Mundo",
       "published_at": "2026-11-13T00:34:02+00:00",
       "article_url": "https://www.rtp.pt/noticias/mundo/operacao-policial-internacional-dirigida-a-utilizadores-da-dark-web-conduz-a-350-detencoes_n1778820",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "ea47ae3875c76b62021c",
-      "title": "Neither war nor peace in Tigray - is Ethiopia's latest conflict really over?",
-      "original_title": "Neither war nor peace in Tigray - is Ethiopia's latest conflict really over?",
-      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC News",
-      "category": "Mundo",
-      "published_at": "2026-11-13T00:20:24+00:00",
-      "article_url": "https://www.bbc.co.uk/news/articles/cm3egjgvp794o?at_medium=RSS&at_campaign=rss",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
@@ -413,32 +439,6 @@
       "category": "Portugal",
       "published_at": "2026-11-12T21:12:23+00:00",
       "article_url": "https://www.rtp.pt/noticias/pais/grupo-vita-assume-ter-contribuido-para-mudanca-da-percecao-sobre-vitimas-de-abuso-sexual-na-igreja_n1778779",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "572a707a30596215e1dd",
-      "title": "GNR deteve suspeitos de despejarem lamas tóxicas em terrenos agrícolas e florestais",
-      "original_title": "GNR deteve suspeitos de despejarem lamas tóxicas em terrenos agrícolas e florestais",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-12T21:10:48+00:00",
-      "article_url": "https://www.rtp.pt/noticias/pais/gnr-deteve-suspeitos-de-despejarem-lamas-toxicas-em-terrenos-agricolas-e-florestais_v1778791",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "604149cc5eb5eaddca6a",
-      "title": "Seleção prepara jogo com Dinamarca",
-      "original_title": "Seleção prepara jogo com Dinamarca",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-12T21:08:48+00:00",
-      "article_url": "https://www.rtp.pt/noticias/desporto/selecao-prepara-jogo-com-dinamarca_v1778790",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
