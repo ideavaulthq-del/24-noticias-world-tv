@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-11-13T22:43:38.707508+00:00",
+  "generated_at": "2026-11-13T23:40:36.566999+00:00",
   "articles": [
+    {
+      "id": "8306f4528714c437783f",
+      "title": "Wall Street fecha tendencialmente em baixa arrastada pelas tecnológicas",
+      "original_title": "Wall Street fecha tendencialmente em baixa arrastada pelas tecnológicas",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Economia",
+      "published_at": "2026-11-13T23:33:39+00:00",
+      "article_url": "https://www.rtp.pt/noticias/economia/wall-street-fecha-tendencialmente-em-baixa-arrastada-pelas-tecnologicas_n1779057",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "6af389f244e5893ce786",
+      "title": "How the Jensen Huang scandal created a headache for business-friendly Singapore",
+      "original_title": "How the Jensen Huang scandal created a headache for business-friendly Singapore",
+      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC News",
+      "category": "Mundo",
+      "published_at": "2026-11-13T23:00:31+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/ck1exevgql4qo?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
     {
       "id": "4e18703fb437ea4e7ca0",
       "title": "22h EUA em alerta, nenhum avião levanta voo",
@@ -80,14 +106,14 @@
       "editorial_status": "titulo_normalizado"
     },
     {
-      "id": "b3504a51d05ce65b1b9b",
-      "title": "Todos os voos suspensos nos EUA devido a \"circunstâncias extraordinárias e razões de segurança\"",
-      "original_title": "Todos os voos suspensos nos EUA devido a \"circunstâncias extraordinárias e razões de segurança\"",
+      "id": "28c9f4502245c6ed7ba7",
+      "title": "Voos suspensos nos EUA devido a \"circunstâncias extraordinárias e razões de segurança\"",
+      "original_title": "Voos suspensos nos EUA devido a \"circunstâncias extraordinárias e razões de segurança\"",
       "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
       "source": "RTP Notícias",
       "category": "Mundo",
       "published_at": "2026-11-13T21:35:47+00:00",
-      "article_url": "https://www.rtp.pt/noticias/mundo/todos-os-voos-suspensos-nos-eua-devido-a-circunstancias-extraordinarias-e-razoes-de-seguranca_n1779048",
+      "article_url": "https://www.rtp.pt/noticias/mundo/voos-suspensos-nos-eua-devido-a-circunstancias-extraordinarias-e-razoes-de-seguranca_n1779048",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
@@ -140,6 +166,19 @@
       "category": "Tecnologia",
       "published_at": "2026-11-13T21:15:41+00:00",
       "article_url": "https://www.bbc.co.uk/news/articles/cxzd9171m51qo?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "5f61cdd3a9e9cf604faa",
+      "title": "Watch: Cruise ship seen sinking after collision with cargo ship in New Orleans",
+      "original_title": "Watch: Cruise ship seen sinking after collision with cargo ship in New Orleans",
+      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC News",
+      "category": "Mundo",
+      "published_at": "2026-11-13T21:15:24+00:00",
+      "article_url": "https://www.bbc.co.uk/news/videos/ck4gn4y77m40o?at_medium=RSS&at_campaign=rss",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
@@ -340,14 +379,14 @@
       "editorial_status": "titulo_normalizado"
     },
     {
-      "id": "f99e3366d61bcdaebe8d",
-      "title": "20h Montenegro mantém confiança na ministra da Saúde",
-      "original_title": "20h Montenegro mantém confiança na ministra da Saúde",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-13T20:22:02+00:00",
-      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/20h-montenegro-mantem-confianca-na-ministra-da-saude_a1_1779022",
+      "id": "3c09ca26176ff3609edb",
+      "title": "SpaceX to attempt double catch of huge Starship rocket",
+      "original_title": "SpaceX to attempt double catch of huge Starship rocket",
+      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC News",
+      "category": "Mundo",
+      "published_at": "2026-11-13T20:12:02+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
@@ -543,45 +582,6 @@
       "category": "Tecnologia",
       "published_at": "2026-11-13T11:43:27+00:00",
       "article_url": "https://www.bbc.co.uk/news/videos/cqzjr903n01po?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "54b05df9d7f97c45b28d",
-      "title": "Rosalía scoops historic third best album award at Latin Grammys",
-      "original_title": "Rosalía scoops historic third best album award at Latin Grammys",
-      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC News",
-      "category": "Mundo",
-      "published_at": "2026-11-13T11:38:54+00:00",
-      "article_url": "https://www.bbc.co.uk/news/articles/cr3eg97eqde1o?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "5ba1d90bafaf018c5ad6",
-      "title": "Nigerian university in mourning after four students die at post-exam party",
-      "original_title": "Nigerian university in mourning after four students die at post-exam party",
-      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC News",
-      "category": "Mundo",
-      "published_at": "2026-11-13T11:37:08+00:00",
-      "article_url": "https://www.bbc.co.uk/news/articles/cmvg2dvw0355o?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "fdaff850195fe4785376",
-      "title": "Boy died from multiple injuries in Cyprus hotel fall",
-      "original_title": "Boy died from multiple injuries in Cyprus hotel fall",
-      "summary": "Informação divulgada por BBC Europe. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC Europe",
-      "category": "Europa",
-      "published_at": "2026-11-13T10:05:50+00:00",
-      "article_url": "https://www.bbc.co.uk/news/articles/cme3x30q9z9wo?at_medium=RSS&at_campaign=rss",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
