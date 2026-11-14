@@ -1,10 +1,49 @@
 {
-  "generated_at": "2026-11-14T06:56:58.094831+00:00",
+  "generated_at": "2026-11-14T07:59:42.427092+00:00",
   "articles": [
     {
-      "id": "cc9ed01ccf7ea40364f4",
-      "title": "Microsoft says services fully restored after for day-long global outage",
-      "original_title": "Microsoft says services fully restored after for day-long global outage",
+      "id": "e750f0caf37af4cc4f83",
+      "title": "What we know about the longest ground stop since 9/11",
+      "original_title": "What we know about the longest ground stop since 9/11",
+      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC News",
+      "category": "Mundo",
+      "published_at": "2026-11-14T07:42:11+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "090106cbb523b25a0b09",
+      "title": "07h É dia de protesto nacional pelo direito à habitação em mais de 30 cidades",
+      "original_title": "07h É dia de protesto nacional pelo direito à habitação em mais de 30 cidades",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-14T07:23:02+00:00",
+      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/07h-e-dia-de-protesto-nacional-pelo-direito-a-habitacao-em-mais-de-30-cidades_a1_1779089",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "ec3a8a24ada8be3dbffa",
+      "title": "06h Secretário dos Transportes dos EUA acusa o Congresso de não modernizar o sistema de tráfego aéreo",
+      "original_title": "06h Secretário dos Transportes dos EUA acusa o Congresso de não modernizar o sistema de tráfego aéreo",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-14T07:22:02+00:00",
+      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/06h-secretario-dos-transportes-dos-eua-acusa-o-congresso-de-nao-modernizar-o-sistema-de-trafego-aereo_a1_1779088",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "45305eb89955cc141adb",
+      "title": "Microsoft says services fully restored after day-long global outage",
+      "original_title": "Microsoft says services fully restored after day-long global outage",
       "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
       "source": "BBC News",
       "category": "Mundo",
@@ -67,19 +106,6 @@
       "editorial_status": "titulo_normalizado"
     },
     {
-      "id": "e750f0caf37af4cc4f83",
-      "title": "What we know about the longest ground stop since 9/11",
-      "original_title": "What we know about the longest ground stop since 9/11",
-      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC News",
-      "category": "Mundo",
-      "published_at": "2026-11-14T03:45:21+00:00",
-      "article_url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
       "id": "6f7ef42eab118d405849",
       "title": "02h Levantada a suspensão imposta aos voos dos Estados Unidos",
       "original_title": "02h Levantada a suspensão imposta aos voos dos Estados Unidos",
@@ -126,7 +152,7 @@
       "source": "BBC Technology",
       "category": "Tecnologia",
       "published_at": "2026-11-14T01:00:00+00:00",
-      "article_url": "https://www.bbc.co.uk/iplayer/live/bbcnews?at_medium=RSS&at_campaign=rss",
+      "article_url": "https://www.bbc.co.uk/iplayer/episode/m0034hf1?at_medium=RSS&at_campaign=rss",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
@@ -478,32 +504,6 @@
       "category": "Portugal",
       "published_at": "2026-11-13T20:58:47+00:00",
       "article_url": "https://www.rtp.pt/noticias/politica/habitacao-primeiro-ministro-remete-reunioes-para-ministerio-da-habitacao_v1779037",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "48a58f5029867bfc15fd",
-      "title": "Para travar o Chega. Isaltino Morais quer ir a votos nas próximas eleições",
-      "original_title": "Para travar o Chega. Isaltino Morais quer ir a votos nas próximas eleições",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-13T20:55:47+00:00",
-      "article_url": "https://www.rtp.pt/noticias/politica/para-travar-o-chega-isaltino-morais-quer-ir-a-votos-nas-proximas-eleicoes_v1779034",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "fc35e1d713bf775ffb96",
-      "title": "Operação \"Cloaca Máxima\". Esquema de encaminhamento irregular de lamas",
-      "original_title": "Operação \"Cloaca Máxima\". Esquema de encaminhamento irregular de lamas",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-13T20:54:47+00:00",
-      "article_url": "https://www.rtp.pt/noticias/pais/operacao-cloaca-maxima-esquema-de-encaminhamento-irregular-de-lamas_v1779033",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
