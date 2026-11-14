@@ -1,6 +1,45 @@
 {
-  "generated_at": "2026-11-14T12:47:48.205638+00:00",
+  "generated_at": "2026-11-14T13:51:20.806042+00:00",
   "articles": [
+    {
+      "id": "07ac2c2b6906ccd748ed",
+      "title": "13h Fernando Araújo defende novo rumo para a saúde",
+      "original_title": "13h Fernando Araújo defende novo rumo para a saúde",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-14T13:37:03+00:00",
+      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/13h-fernando-araujo-defende-novo-rumo-para-a-saude_a1_1779131",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "1695dcddae07e1668be3",
+      "title": "Carneiro defende que PS \"está bem vivo\" e pede que portugueses \"não desistam\"",
+      "original_title": "Carneiro defende que PS \"está bem vivo\" e pede que portugueses \"não desistam\"",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-14T13:20:09+00:00",
+      "article_url": "https://www.rtp.pt/noticias/politica/carneiro-defende-que-ps-esta-bem-vivo-e-pede-que-portugueses-nao-desistam_n1779121",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "fa5e8e6cfb37a3f7f27c",
+      "title": "Caos nos aeroportos dos EUA. Milhares de passageiros afetados",
+      "original_title": "Caos nos aeroportos dos EUA. Milhares de passageiros afetados",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Mundo",
+      "published_at": "2026-11-14T13:12:47+00:00",
+      "article_url": "https://www.rtp.pt/noticias/mundo/caos-nos-aeroportos-dos-eua-milhares-de-passageiros-afetados_v1779124",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
     {
       "id": "bd36255fd2d7462752de",
       "title": "12h Já começaram protestos pela habitação",
@@ -353,19 +392,6 @@
       "editorial_status": "titulo_normalizado"
     },
     {
-      "id": "971bdaabf60e6d4a9fe8",
-      "title": "01h Nos EUA mais de 10 mil aviões ficaram em terra",
-      "original_title": "01h Nos EUA mais de 10 mil aviões ficaram em terra",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-14T02:11:02+00:00",
-      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/01h-nos-eua-mais-de-10-mil-avioes-ficaram-em-terra_a1_1779070",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
       "id": "08d83c61855bb85e6171",
       "title": "'We'll get home one day' - US travellers impacted by nationwide ground stop",
       "original_title": "'We'll get home one day' - US travellers impacted by nationwide ground stop",
@@ -392,19 +418,6 @@
       "editorial_status": "titulo_normalizado"
     },
     {
-      "id": "c5e6f97d33fcd391debf",
-      "title": "00h EUA: falha nos aeroportos \"não é um 11 de setembro\"",
-      "original_title": "00h EUA: falha nos aeroportos \"não é um 11 de setembro\"",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-14T00:38:02+00:00",
-      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/00h-eua-falha-nos-aeroportos-nao-e-um-11-de-setembro_a1_1779067",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
       "id": "86c5c5130c89d4f77d2b",
       "title": "Even Grand Theft Auto's original creators haven't been able to play GTA 6",
       "original_title": "Even Grand Theft Auto's original creators haven't been able to play GTA 6",
@@ -413,19 +426,6 @@
       "category": "Tecnologia",
       "published_at": "2026-11-14T00:37:01+00:00",
       "article_url": "https://www.bbc.co.uk/news/articles/c6jd7k5ryl1mo?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "0c9d8a1a17c590d271a1",
-      "title": "SpaceX lança Starship mas falha tentativa de recuperação de toda a nave espacial",
-      "original_title": "SpaceX lança Starship mas falha tentativa de recuperação de toda a nave espacial",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Mundo",
-      "published_at": "2026-11-14T00:04:46+00:00",
-      "article_url": "https://www.rtp.pt/noticias/mundo/spacex-lanca-starship-mas-falha-tentativa-de-recuperacao-de-toda-a-nave-espacial_n1779064",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
