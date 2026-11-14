@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-11-14T05:49:43.489695+00:00",
+  "generated_at": "2026-11-14T06:56:58.094831+00:00",
   "articles": [
+    {
+      "id": "cc9ed01ccf7ea40364f4",
+      "title": "Microsoft says services fully restored after for day-long global outage",
+      "original_title": "Microsoft says services fully restored after for day-long global outage",
+      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC News",
+      "category": "Mundo",
+      "published_at": "2026-11-14T06:42:27+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "04afcf983871addad00c",
+      "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
+      "original_title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
+      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC News",
+      "category": "Mundo",
+      "published_at": "2026-11-14T05:52:31+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
     {
       "id": "466e087c53615330112d",
       "title": "05h Portugal defronta a Dinamarca. Jesus diz que jogo vai ser mais tático",
@@ -36,6 +62,19 @@
       "category": "Portugal",
       "published_at": "2026-11-14T04:19:02+00:00",
       "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/03h-governo-de-trump-responsabiliza-sistema-incrivelmente-antigo-pela-suspensao-de-voos_a1_1779077",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "e750f0caf37af4cc4f83",
+      "title": "What we know about the longest ground stop since 9/11",
+      "original_title": "What we know about the longest ground stop since 9/11",
+      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC News",
+      "category": "Mundo",
+      "published_at": "2026-11-14T03:45:21+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
@@ -87,7 +126,7 @@
       "source": "BBC Technology",
       "category": "Tecnologia",
       "published_at": "2026-11-14T01:00:00+00:00",
-      "article_url": "https://www.bbc.co.uk/iplayer/episode/m0034hf1?at_medium=RSS&at_campaign=rss",
+      "article_url": "https://www.bbc.co.uk/iplayer/live/bbcnews?at_medium=RSS&at_campaign=rss",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
@@ -392,19 +431,6 @@
       "editorial_status": "titulo_normalizado"
     },
     {
-      "id": "36e1eb150793dd5c9cd8",
-      "title": "Microsoft 'deeply sorry' for global outage as it reports broad recovery",
-      "original_title": "Microsoft 'deeply sorry' for global outage as it reports broad recovery",
-      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC News",
-      "category": "Mundo",
-      "published_at": "2026-11-13T21:14:22+00:00",
-      "article_url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
       "id": "3e780093fcfdb7be58c0",
       "title": "Novo capítulo na seleção. Portugal homenageia Ronaldo na luta pela liderança do grupo",
       "original_title": "Novo capítulo na seleção. Portugal homenageia Ronaldo na luta pela liderança do grupo",
@@ -525,9 +551,9 @@
       "id": "a502cd45565ebc6e4fd6",
       "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
       "original_title": "Why is Microsoft's outage lasting so long and will emails be lost?",
-      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC News",
-      "category": "Mundo",
+      "summary": "Informação divulgada por BBC Business. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC Business",
+      "category": "Economia",
       "published_at": "2026-11-13T18:36:57+00:00",
       "article_url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
       "image_url": "",
@@ -556,32 +582,6 @@
       "category": "Tecnologia",
       "published_at": "2026-11-13T17:34:58+00:00",
       "article_url": "https://www.bbc.co.uk/news/articles/cqp9d58eldlro?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "f22ae2e5a5a0edae2815",
-      "title": "Rosenberg: Uncompromising Putin ups demands for peace with Ukraine",
-      "original_title": "Rosenberg: Uncompromising Putin ups demands for peace with Ukraine",
-      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC News",
-      "category": "Mundo",
-      "published_at": "2026-11-13T16:40:31+00:00",
-      "article_url": "https://www.bbc.co.uk/news/articles/cq39glwprknjo?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "440901d9e480b588f232",
-      "title": "German spies handed new powers to tackle 'hybrid threats' from abroad",
-      "original_title": "German spies handed new powers to tackle 'hybrid threats' from abroad",
-      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC News",
-      "category": "Mundo",
-      "published_at": "2026-11-13T15:42:52+00:00",
-      "article_url": "https://www.bbc.co.uk/news/articles/c6jre3z03w4go?at_medium=RSS&at_campaign=rss",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
