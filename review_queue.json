@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T17:36:22.370571+00:00",
+  "generated_at": "2026-11-14T18:12:01.325005+00:00",
   "articles": [
     {
       "id": "7707db690b1e07a6d7e1",
@@ -8,8 +8,73 @@
       "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
       "source": "RTP Notícias",
       "category": "Economia",
-      "published_at": "2026-11-14T17:27:19+00:00",
+      "published_at": "2026-11-14T18:00:25+00:00",
       "article_url": "https://www.rtp.pt/noticias/economia/protesto-junta-milhares-de-pessoas-pelo-direito-a-morar_e1779157",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "d6c5eac44490cbd34bc0",
+      "title": "Sotheby's auction of $180m Van Gogh challenged over claims it was 'sold under duress'",
+      "original_title": "Sotheby's auction of $180m Van Gogh challenged over claims it was 'sold under duress'",
+      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC News",
+      "category": "Mundo",
+      "published_at": "2026-11-14T18:00:10+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/cmwy05gg75lvo?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "4da9c7749a7fe7f05f58",
+      "title": "Centenas de pessoas de diferentes gerações manifestaram-se em Leiria",
+      "original_title": "Centenas de pessoas de diferentes gerações manifestaram-se em Leiria",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Economia",
+      "published_at": "2026-11-14T17:59:52+00:00",
+      "article_url": "https://www.rtp.pt/noticias/economia/centenas-de-pessoas-de-diferentes-geracoes-manifestaram-se-em-leiria_n1779196",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "2a1157df17e1ed760476",
+      "title": "Philippines wins first Eurovision Song Contest Asia",
+      "original_title": "Philippines wins first Eurovision Song Contest Asia",
+      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC News",
+      "category": "Mundo",
+      "published_at": "2026-11-14T17:56:59+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/cqrlgnx9dx6eo?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "11b514ec7515cb1cc1f4",
+      "title": "Mais de 16 mil voos cancelados na sexta-feira e hoje nos EUA, prevê FAA",
+      "original_title": "Mais de 16 mil voos cancelados na sexta-feira e hoje nos EUA, prevê FAA",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Economia",
+      "published_at": "2026-11-14T17:38:03+00:00",
+      "article_url": "https://www.rtp.pt/noticias/economia/mais-de-16-mil-voos-cancelados-na-sexta-feira-e-hoje-nos-eua-preve-faa_n1779188",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "d6bd1c6aaa06cc51c0a8",
+      "title": "França. Manifestantes nas ruas de Paris pelo quinto fim de semana consecutivo",
+      "original_title": "França. Manifestantes nas ruas de Paris pelo quinto fim de semana consecutivo",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Mundo",
+      "published_at": "2026-11-14T17:36:40+00:00",
+      "article_url": "https://www.rtp.pt/noticias/mundo/franca-manifestantes-nas-ruas-de-paris-pelo-quinto-fim-de-semana-consecutivo_n1779193",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
@@ -353,32 +418,6 @@
       "editorial_status": "titulo_normalizado"
     },
     {
-      "id": "53515924c44e12437320",
-      "title": "Cuidados paliativos. Cruz Vermelha reforça apoio de hospitais do Porto",
-      "original_title": "Cuidados paliativos. Cruz Vermelha reforça apoio de hospitais do Porto",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-14T14:39:47+00:00",
-      "article_url": "https://www.rtp.pt/noticias/pais/cuidados-paliativos-cruz-vermelha-reforca-apoio-de-hospitais-do-porto_v1779145",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "e4c9462d68e2f9766626",
-      "title": "14h - Líder do PS diz estar disponível para falar com os manifestantes da Acampada",
-      "original_title": "14h - Líder do PS diz estar disponível para falar com os manifestantes da Acampada",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-14T14:28:02+00:00",
-      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/14h-lider-do-ps-diz-estar-disponivel-para-falar-com-os-manifestantes-da-acampada_a1_1779144",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
       "id": "58d482cb51b79a917abd",
       "title": "What we know about the ground stop and what to do if you're affected",
       "original_title": "What we know about the ground stop and what to do if you're affected",
@@ -387,19 +426,6 @@
       "category": "Mundo",
       "published_at": "2026-11-14T14:20:57+00:00",
       "article_url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "3a9bfbb9f5e3f83c2952",
-      "title": "IL defende que crise na Habitação não se resolve nas ruas mas sim na Assembleia",
-      "original_title": "IL defende que crise na Habitação não se resolve nas ruas mas sim na Assembleia",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-14T14:18:48+00:00",
-      "article_url": "https://www.rtp.pt/noticias/politica/il-defende-que-crise-na-habitacao-nao-se-resolve-nas-ruas-mas-sim-na-assembleia_v1779143",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
@@ -556,32 +582,6 @@
       "category": "Mundo",
       "published_at": "2026-11-13T23:00:31+00:00",
       "article_url": "https://www.bbc.co.uk/news/articles/ck1exevgql4qo?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "6bbdc24bf269ddfc3d68",
-      "title": "Microsoft outage 'stark reminder' of how much we rely on tech",
-      "original_title": "Microsoft outage 'stark reminder' of how much we rely on tech",
-      "summary": "Informação divulgada por BBC Technology. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC Technology",
-      "category": "Tecnologia",
-      "published_at": "2026-11-13T21:15:41+00:00",
-      "article_url": "https://www.bbc.co.uk/news/articles/cxzd9171m51qo?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "4388231c64c3038a8bcf",
-      "title": "Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague",
-      "original_title": "Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague",
-      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC News",
-      "category": "Mundo",
-      "published_at": "2026-11-13T19:53:57+00:00",
-      "article_url": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
