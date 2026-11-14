@@ -1,6 +1,58 @@
 {
-  "generated_at": "2026-11-14T20:12:00.821716+00:00",
+  "generated_at": "2026-11-14T21:13:52.978939+00:00",
   "articles": [
+    {
+      "id": "c1ffaafb16a7def2febf",
+      "title": "Second catch attempt as SpaceX Starship rocket heads back to Earth",
+      "original_title": "Second catch attempt as SpaceX Starship rocket heads back to Earth",
+      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC News",
+      "category": "Mundo",
+      "published_at": "2026-11-14T21:05:14+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "18bd2de29595e1e91c4a",
+      "title": "FC Porto na final da Taça Continental de hóquei em patins",
+      "original_title": "FC Porto na final da Taça Continental de hóquei em patins",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-14T20:59:40+00:00",
+      "article_url": "https://www.rtp.pt/noticias/hoquei/fc-porto-na-final-da-taca-continental-de-hoquei-em-patins_d1779219",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "f96c53723fb77f2bd236",
+      "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+      "original_title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC News",
+      "category": "Mundo",
+      "published_at": "2026-11-14T20:41:45+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "30493ed3be942b125ef9",
+      "title": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
+      "original_title": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
+      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC News",
+      "category": "Mundo",
+      "published_at": "2026-11-14T20:23:06+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
     {
       "id": "ab72fd805bc7f78bb911",
       "title": "Portugal na terceira fase no apuramento do Europeu de sub-19",
@@ -166,19 +218,6 @@
       "category": "Portugal",
       "published_at": "2026-11-14T19:23:47+00:00",
       "article_url": "https://www.rtp.pt/noticias/politica/ps-solidario-com-manifestantes-pela-habitacao_v1779206",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "f96c53723fb77f2bd236",
-      "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
-      "original_title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
-      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC News",
-      "category": "Mundo",
-      "published_at": "2026-11-14T19:21:10+00:00",
-      "article_url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
@@ -405,19 +444,6 @@
       "editorial_status": "titulo_normalizado"
     },
     {
-      "id": "19cadc4e8e7acb8ad8e3",
-      "title": "\"Governo começa a estar a mais para este problema\", avisa PCP",
-      "original_title": "\"Governo começa a estar a mais para este problema\", avisa PCP",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-14T16:40:47+00:00",
-      "article_url": "https://www.rtp.pt/noticias/politica/governo-comeca-a-estar-a-mais-para-este-problema-avisa-pcp_v1779183",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
       "id": "04afcf983871addad00c",
       "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
       "original_title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
@@ -439,19 +465,6 @@
       "category": "Mundo",
       "published_at": "2026-11-14T15:42:54+00:00",
       "article_url": "https://www.bbc.co.uk/news/articles/cmz6qjpdy2wqo?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "e45dc708a77de9d162e7",
-      "title": "Second catch attempt for SpaceX Starship rocket",
-      "original_title": "Second catch attempt for SpaceX Starship rocket",
-      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC News",
-      "category": "Mundo",
-      "published_at": "2026-11-14T14:18:41+00:00",
-      "article_url": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
@@ -543,19 +556,6 @@
       "category": "Mundo",
       "published_at": "2026-11-14T00:03:52+00:00",
       "article_url": "https://www.bbc.co.uk/news/articles/cmlydy0xw45wo?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "30493ed3be942b125ef9",
-      "title": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
-      "original_title": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
-      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC News",
-      "category": "Mundo",
-      "published_at": "2026-11-13T23:40:45+00:00",
-      "article_url": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
