@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T02:50:09.170205+00:00",
+  "generated_at": "2026-11-14T03:50:57.427591+00:00",
   "articles": [
     {
       "id": "6f7ef42eab118d405849",
@@ -23,6 +23,19 @@
       "category": "Portugal",
       "published_at": "2026-11-14T02:11:02+00:00",
       "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/01h-nos-eua-mais-de-10-mil-avioes-ficaram-em-terra_a1_1779070",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "08d83c61855bb85e6171",
+      "title": "'We'll get home one day' - US travellers impacted by nationwide ground stop",
+      "original_title": "'We'll get home one day' - US travellers impacted by nationwide ground stop",
+      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC News",
+      "category": "Mundo",
+      "published_at": "2026-11-14T01:47:36+00:00",
+      "article_url": "https://www.bbc.co.uk/news/videos/c893ryz7lw33o?at_medium=RSS&at_campaign=rss",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
@@ -340,9 +353,9 @@
       "editorial_status": "titulo_normalizado"
     },
     {
-      "id": "6333d8b17d72d12722d5",
-      "title": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
-      "original_title": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
+      "id": "36e1eb150793dd5c9cd8",
+      "title": "Microsoft 'deeply sorry' for global outage as it reports broad recovery",
+      "original_title": "Microsoft 'deeply sorry' for global outage as it reports broad recovery",
       "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
       "source": "BBC News",
       "category": "Mundo",
@@ -569,19 +582,6 @@
       "category": "Mundo",
       "published_at": "2026-11-13T15:42:52+00:00",
       "article_url": "https://www.bbc.co.uk/news/articles/c6jre3z03w4go?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "a72733ca4a0fec1f891a",
-      "title": "At least 24 killed after bus collides with truck in north-east India",
-      "original_title": "At least 24 killed after bus collides with truck in north-east India",
-      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC News",
-      "category": "Mundo",
-      "published_at": "2026-11-13T15:16:50+00:00",
-      "article_url": "https://www.bbc.co.uk/news/articles/c6r7g5lp1zrxo?at_medium=RSS&at_campaign=rss",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
