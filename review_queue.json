@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-11-14T04:52:24.346114+00:00",
+  "generated_at": "2026-11-14T05:49:43.489695+00:00",
   "articles": [
+    {
+      "id": "466e087c53615330112d",
+      "title": "05h Portugal defronta a Dinamarca. Jesus diz que jogo vai ser mais tático",
+      "original_title": "05h Portugal defronta a Dinamarca. Jesus diz que jogo vai ser mais tático",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-14T05:47:02+00:00",
+      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/05h-portugal-defronta-a-dinamarca-jesus-diz-que-jogo-vai-ser-mais-tatico_a1_1779083",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "b8eefd9e31851c7c8a7d",
+      "title": "04h Casa Branca garante que nunca esteve em risco a segurança dos passageiros",
+      "original_title": "04h Casa Branca garante que nunca esteve em risco a segurança dos passageiros",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-14T05:46:02+00:00",
+      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/04h-casa-branca-garante-que-nunca-esteve-em-risco-a-seguranca-dos-passageiros_a1_1779082",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
     {
       "id": "69403a55d501bacc9a0b",
       "title": "03h Governo de Trump responsabiliza sistema \"incrivelmente antigo\" pela suspensão de voos",
@@ -452,32 +478,6 @@
       "category": "Portugal",
       "published_at": "2026-11-13T20:54:47+00:00",
       "article_url": "https://www.rtp.pt/noticias/pais/operacao-cloaca-maxima-esquema-de-encaminhamento-irregular-de-lamas_v1779033",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "61f0191bf7c1587c2180",
-      "title": "Negociações sobre Ucrânia. Cinco países juntam-se à Comissão e Conselho Europeu",
-      "original_title": "Negociações sobre Ucrânia. Cinco países juntam-se à Comissão e Conselho Europeu",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Mundo",
-      "published_at": "2026-11-13T20:52:48+00:00",
-      "article_url": "https://www.rtp.pt/noticias/mundo/negociacoes-sobre-ucrania-cinco-paises-juntam-se-a-comissao-e-conselho-europeu_v1779032",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "2a45830b47df764ae2e1",
-      "title": "Suspenso por 12 jogos guarda-redes envolvido na morte de avançado do Tenerife",
-      "original_title": "Suspenso por 12 jogos guarda-redes envolvido na morte de avançado do Tenerife",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-13T20:51:34+00:00",
-      "article_url": "https://www.rtp.pt/noticias/futebol-internacional/suspenso-por-12-jogos-guarda-redes-envolvido-na-morte-de-avancado-do-tenerife_d1779029",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
