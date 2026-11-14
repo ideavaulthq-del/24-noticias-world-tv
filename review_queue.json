@@ -1,6 +1,58 @@
 {
-  "generated_at": "2026-11-14T08:50:32.096357+00:00",
+  "generated_at": "2026-11-14T09:45:22.511555+00:00",
   "articles": [
+    {
+      "id": "061ca60920dc038a1a98",
+      "title": "9h Reaberto espaço aéreo nos EUA",
+      "original_title": "9h Reaberto espaço aéreo nos EUA",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-14T09:43:02+00:00",
+      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/9h-reaberto-espaco-aereo-nos-eua_a1_1779105",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "5d0efb7d12dc5edaaebf",
+      "title": "Retomados voos nos EUA. TAP e ANA Aeroportos garantem toda a segurança",
+      "original_title": "Retomados voos nos EUA. TAP e ANA Aeroportos garantem toda a segurança",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-14T09:06:32+00:00",
+      "article_url": "https://www.rtp.pt/noticias/pais/retomados-voos-nos-eua-tap-e-ana-aeroportos-garantem-toda-a-seguranca_n1779098",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "b456da74d50734a7ec7a",
+      "title": "\"Preparar alternativa de Governo\". Arrancam novos Estados Gerais do PS",
+      "original_title": "\"Preparar alternativa de Governo\". Arrancam novos Estados Gerais do PS",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-14T08:52:50+00:00",
+      "article_url": "https://www.rtp.pt/noticias/pais/preparar-alternativa-de-governo-arrancam-novos-estados-gerais-do-ps_n1779084",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "703d517c14e9492ff9b6",
+      "title": "Pelo menos dois petroleiros em chamas após atingirem minas no Estreito de Ormuz",
+      "original_title": "Pelo menos dois petroleiros em chamas após atingirem minas no Estreito de Ormuz",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-14T08:49:40+00:00",
+      "article_url": "https://www.rtp.pt/noticias/guerra-no-medio-oriente/pelo-menos-dois-petroleiros-em-chamas-apos-atingirem-minas-no-estreito-de-ormuz_n1779078",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
     {
       "id": "b82f95ce1f0b5a95e8b5",
       "title": "Marcha no Chile contra alta dos combustíveis acaba em incidentes com polícia",
@@ -41,9 +93,9 @@
       "editorial_status": "titulo_normalizado"
     },
     {
-      "id": "e750f0caf37af4cc4f83",
-      "title": "What we know about the longest ground stop since 9/11",
-      "original_title": "What we know about the longest ground stop since 9/11",
+      "id": "58d482cb51b79a917abd",
+      "title": "What we know about the ground stop and what to do if you're affected",
+      "original_title": "What we know about the ground stop and what to do if you're affected",
       "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
       "source": "BBC News",
       "category": "Mundo",
@@ -431,45 +483,6 @@
       "editorial_status": "titulo_normalizado"
     },
     {
-      "id": "6224d176212d04eb1993",
-      "title": "Vila do Conde. Suspeitas de ilegalidades em contratos feitos pela autarquia",
-      "original_title": "Vila do Conde. Suspeitas de ilegalidades em contratos feitos pela autarquia",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-13T21:28:47+00:00",
-      "article_url": "https://www.rtp.pt/noticias/pais/vila-do-conde-suspeitas-de-ilegalidades-em-contratos-feitos-pela-autarquia_v1779046",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "e30dce25c3d24147eee7",
-      "title": "DBRS confirma `rating` de Portugal em \"A\" elevado com tendência positiva",
-      "original_title": "DBRS confirma `rating` de Portugal em \"A\" elevado com tendência positiva",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Economia",
-      "published_at": "2026-11-13T21:26:43+00:00",
-      "article_url": "https://www.rtp.pt/noticias/economia/dbrs-confirma-rating-de-portugal-em-a-elevado-com-tendencia-positiva_n1779045",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "b6a49ec918f8210015b2",
-      "title": "Portugal-Dinamarca. Todos os jogadores da seleção vão vestir camisola 7",
-      "original_title": "Portugal-Dinamarca. Todos os jogadores da seleção vão vestir camisola 7",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-13T21:15:48+00:00",
-      "article_url": "https://www.rtp.pt/noticias/desporto/portugal-dinamarca-todos-os-jogadores-da-selecao-vao-vestir-camisola-7_v1779044",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
       "id": "6bbdc24bf269ddfc3d68",
       "title": "Microsoft outage 'stark reminder' of how much we rely on tech",
       "original_title": "Microsoft outage 'stark reminder' of how much we rely on tech",
@@ -491,19 +504,6 @@
       "category": "Mundo",
       "published_at": "2026-11-13T21:15:24+00:00",
       "article_url": "https://www.bbc.co.uk/news/videos/ck4gn4y77m40o?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "3e780093fcfdb7be58c0",
-      "title": "Novo capítulo na seleção. Portugal homenageia Ronaldo na luta pela liderança do grupo",
-      "original_title": "Novo capítulo na seleção. Portugal homenageia Ronaldo na luta pela liderança do grupo",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-13T21:14:18+00:00",
-      "article_url": "https://www.rtp.pt/noticias/selecao-nacional/novo-capitulo-na-selecao-portugal-homenageia-ronaldo-na-luta-pela-lideranca-do-grupo_d1779043",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
@@ -548,6 +548,19 @@
       "editorial_status": "titulo_normalizado"
     },
     {
+      "id": "e21294de5f347ffa2b68",
+      "title": "Eurovision is finally coming to Asia - meet the stars gearing up to take the stage",
+      "original_title": "Eurovision is finally coming to Asia - meet the stars gearing up to take the stage",
+      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC News",
+      "category": "Mundo",
+      "published_at": "2026-11-13T19:01:36+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/cw4gn0ky2pgdo?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
       "id": "a502cd45565ebc6e4fd6",
       "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
       "original_title": "Why is Microsoft's outage lasting so long and will emails be lost?",
@@ -569,19 +582,6 @@
       "category": "Mundo",
       "published_at": "2026-11-13T18:34:45+00:00",
       "article_url": "https://www.bbc.co.uk/news/articles/cwg7l8n7dx5mo?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "cc9f6fa40871438aee6b",
-      "title": "Estonia bans Russian athletes as backlash intensifies",
-      "original_title": "Estonia bans Russian athletes as backlash intensifies",
-      "summary": "Informação divulgada por BBC Europe. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC Europe",
-      "category": "Europa",
-      "published_at": "2026-11-13T17:54:33+00:00",
-      "article_url": "https://www.bbc.co.uk/sport/articles/cm4gn9lvlgy2o?at_medium=RSS&at_campaign=rss",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
