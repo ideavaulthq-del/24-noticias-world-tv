@@ -1,6 +1,19 @@
 {
-  "generated_at": "2026-11-14T00:57:48.578435+00:00",
+  "generated_at": "2026-11-14T02:00:00.906680+00:00",
   "articles": [
+    {
+      "id": "6e02aa84b5b162888478",
+      "title": "Tech Now",
+      "original_title": "Tech Now",
+      "summary": "Informação divulgada por BBC Technology. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC Technology",
+      "category": "Tecnologia",
+      "published_at": "2026-11-14T01:00:00+00:00",
+      "article_url": "https://www.bbc.co.uk/iplayer/episode/m0034hf1?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
     {
       "id": "c5e6f97d33fcd391debf",
       "title": "00h EUA: falha nos aeroportos \"não é um 11 de setembro\"",
@@ -114,6 +127,19 @@
       "category": "Economia",
       "published_at": "2026-11-13T23:33:39+00:00",
       "article_url": "https://www.rtp.pt/noticias/economia/wall-street-fecha-tendencialmente-em-baixa-arrastada-pelas-tecnologicas_n1779057",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "c935b161235a86f5f85a",
+      "title": "After a summer win, India's Gen Z protesters face a winter of uncertainty",
+      "original_title": "After a summer win, India's Gen Z protesters face a winter of uncertainty",
+      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC News",
+      "category": "Mundo",
+      "published_at": "2026-11-13T23:11:51+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/cq99e0z4vg1eo?at_medium=RSS&at_campaign=rss",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
@@ -556,32 +582,6 @@
       "category": "Mundo",
       "published_at": "2026-11-13T15:16:50+00:00",
       "article_url": "https://www.bbc.co.uk/news/articles/c6r7g5lp1zrxo?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "c058c3561457d4d7f115",
-      "title": "Watch: Divers explore US ship sunk off Florida coast to create new reef",
-      "original_title": "Watch: Divers explore US ship sunk off Florida coast to create new reef",
-      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC News",
-      "category": "Mundo",
-      "published_at": "2026-11-13T15:09:40+00:00",
-      "article_url": "https://www.bbc.co.uk/news/videos/ckqx5ryx905qo?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "7372ce3ad2a3c2de8a21",
-      "title": "NHS, schools and police forces hit by Microsoft outage",
-      "original_title": "NHS, schools and police forces hit by Microsoft outage",
-      "summary": "Informação divulgada por BBC Technology. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC Technology",
-      "category": "Tecnologia",
-      "published_at": "2026-11-13T13:41:25+00:00",
-      "article_url": "https://www.bbc.co.uk/news/articles/c6vg2ljjpj32o?at_medium=RSS&at_campaign=rss",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
