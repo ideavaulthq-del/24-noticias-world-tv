@@ -1,6 +1,71 @@
 {
-  "generated_at": "2026-11-14T22:11:49.872788+00:00",
+  "generated_at": "2026-11-14T23:10:44.428153+00:00",
   "articles": [
+    {
+      "id": "62448a8781b982d78024",
+      "title": "Ruben Dias e João Palhinha não jogam em Cardiff",
+      "original_title": "Ruben Dias e João Palhinha não jogam em Cardiff",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-14T23:07:17+00:00",
+      "article_url": "https://www.rtp.pt/noticias/selecao-nacional/ruben-dias-e-joao-palhinha-nao-jogam-em-cardiff_d1779234",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "e2839ff0cf343509a414",
+      "title": "Habitação. Acampada decide montar tendas nos Restauradores",
+      "original_title": "Habitação. Acampada decide montar tendas nos Restauradores",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Economia",
+      "published_at": "2026-11-14T23:03:02+00:00",
+      "article_url": "https://www.rtp.pt/noticias/economia/habitacao-acampada-decide-montar-tendas-nos-restauradores_e1779157",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "657950cdf5f2398512a6",
+      "title": "Portugal perde com estrondo com a Dinamarca",
+      "original_title": "Portugal perde com estrondo com a Dinamarca",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-14T22:51:43+00:00",
+      "article_url": "https://www.rtp.pt/noticias/selecao-nacional/portugal-perde-com-estrondo-com-a-dinamarca_d1779231",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "f96c53723fb77f2bd236",
+      "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+      "original_title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC News",
+      "category": "Mundo",
+      "published_at": "2026-11-14T22:37:25+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "a0a99df8ae19329cb0f9",
+      "title": "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth",
+      "original_title": "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth",
+      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC News",
+      "category": "Mundo",
+      "published_at": "2026-11-14T22:09:40+00:00",
+      "article_url": "https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
     {
       "id": "363ed30e6ad8e81829b7",
       "title": "Filme “Everytime” vence grande prémio do Lisboa Film Festival",
@@ -10,19 +75,6 @@
       "category": "Cultura",
       "published_at": "2026-11-14T22:01:59+00:00",
       "article_url": "https://www.rtp.pt/noticias/cultura/filme-everytime-vence-grande-premio-do-lisboa-film-festival_n1779226",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "7707db690b1e07a6d7e1",
-      "title": "Protesto junta milhares de pessoas pelo \"direito a morar\"",
-      "original_title": "Protesto junta milhares de pessoas pelo \"direito a morar\"",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Economia",
-      "published_at": "2026-11-14T21:51:13+00:00",
-      "article_url": "https://www.rtp.pt/noticias/economia/protesto-junta-milhares-de-pessoas-pelo-direito-a-morar_e1779157",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
@@ -46,9 +98,9 @@
       "original_title": "Irão acusa EUA de ameaçarem matar iranianos à fome através de bloqueio económico",
       "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
       "source": "RTP Notícias",
-      "category": "Mundo",
+      "category": "Portugal",
       "published_at": "2026-11-14T21:39:00+00:00",
-      "article_url": "https://www.rtp.pt/noticias/mundo/irao-acusa-eua-de-ameacarem-matar-iranianos-a-fome-atraves-de-bloqueio-economico_n1779222",
+      "article_url": "https://www.rtp.pt/noticias/guerra-no-medio-oriente/irao-acusa-eua-de-ameacarem-matar-iranianos-a-fome-atraves-de-bloqueio-economico_n1779222",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
@@ -75,19 +127,6 @@
       "category": "Portugal",
       "published_at": "2026-11-14T20:59:40+00:00",
       "article_url": "https://www.rtp.pt/noticias/hoquei/fc-porto-na-final-da-taca-continental-de-hoquei-em-patins_d1779219",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "f96c53723fb77f2bd236",
-      "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
-      "original_title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
-      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC News",
-      "category": "Mundo",
-      "published_at": "2026-11-14T20:41:45+00:00",
-      "article_url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
@@ -405,32 +444,6 @@
       "editorial_status": "titulo_normalizado"
     },
     {
-      "id": "4da9c7749a7fe7f05f58",
-      "title": "Centenas de pessoas de diferentes gerações manifestaram-se em Leiria",
-      "original_title": "Centenas de pessoas de diferentes gerações manifestaram-se em Leiria",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Economia",
-      "published_at": "2026-11-14T17:59:52+00:00",
-      "article_url": "https://www.rtp.pt/noticias/economia/centenas-de-pessoas-de-diferentes-geracoes-manifestaram-se-em-leiria_n1779196",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "11b514ec7515cb1cc1f4",
-      "title": "Mais de 16 mil voos cancelados na sexta-feira e hoje nos EUA, prevê FAA",
-      "original_title": "Mais de 16 mil voos cancelados na sexta-feira e hoje nos EUA, prevê FAA",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Economia",
-      "published_at": "2026-11-14T17:38:03+00:00",
-      "article_url": "https://www.rtp.pt/noticias/economia/mais-de-16-mil-voos-cancelados-na-sexta-feira-e-hoje-nos-eua-preve-faa_n1779188",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
       "id": "04afcf983871addad00c",
       "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
       "original_title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
@@ -569,19 +582,6 @@
       "category": "Mundo",
       "published_at": "2026-11-13T23:00:31+00:00",
       "article_url": "https://www.bbc.co.uk/news/articles/ck1exevgql4qo?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "6bbdc24bf269ddfc3d68",
-      "title": "Microsoft outage 'stark reminder' of how much we rely on tech",
-      "original_title": "Microsoft outage 'stark reminder' of how much we rely on tech",
-      "summary": "Informação divulgada por BBC Technology. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC Technology",
-      "category": "Tecnologia",
-      "published_at": "2026-11-13T21:15:41+00:00",
-      "article_url": "https://www.bbc.co.uk/news/articles/cxzd9171m51qo?at_medium=RSS&at_campaign=rss",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
