@@ -1,6 +1,19 @@
 {
-  "generated_at": "2026-11-14T03:50:57.427591+00:00",
+  "generated_at": "2026-11-14T04:52:24.346114+00:00",
   "articles": [
+    {
+      "id": "69403a55d501bacc9a0b",
+      "title": "03h Governo de Trump responsabiliza sistema \"incrivelmente antigo\" pela suspensão de voos",
+      "original_title": "03h Governo de Trump responsabiliza sistema \"incrivelmente antigo\" pela suspensão de voos",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-14T04:19:02+00:00",
+      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/03h-governo-de-trump-responsabiliza-sistema-incrivelmente-antigo-pela-suspensao-de-voos_a1_1779077",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
     {
       "id": "6f7ef42eab118d405849",
       "title": "02h Levantada a suspensão imposta aos voos dos Estados Unidos",
@@ -465,19 +478,6 @@
       "category": "Portugal",
       "published_at": "2026-11-13T20:51:34+00:00",
       "article_url": "https://www.rtp.pt/noticias/futebol-internacional/suspenso-por-12-jogos-guarda-redes-envolvido-na-morte-de-avancado-do-tenerife_d1779029",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "5a11a75f63ce261ef4a4",
-      "title": "Caso Renata Cambra. Processo deu entrada no Ministério Público",
-      "original_title": "Caso Renata Cambra. Processo deu entrada no Ministério Público",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-13T20:49:47+00:00",
-      "article_url": "https://www.rtp.pt/noticias/pais/caso-renata-cambra-processo-deu-entrada-no-ministerio-publico_v1779031",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
