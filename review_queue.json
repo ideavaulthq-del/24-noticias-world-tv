@@ -1,6 +1,45 @@
 {
-  "generated_at": "2026-11-14T07:59:42.427092+00:00",
+  "generated_at": "2026-11-14T08:50:32.096357+00:00",
   "articles": [
+    {
+      "id": "b82f95ce1f0b5a95e8b5",
+      "title": "Marcha no Chile contra alta dos combustíveis acaba em incidentes com polícia",
+      "original_title": "Marcha no Chile contra alta dos combustíveis acaba em incidentes com polícia",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Mundo",
+      "published_at": "2026-11-14T08:40:29+00:00",
+      "article_url": "https://www.rtp.pt/noticias/mundo/marcha-no-chile-contra-alta-dos-combustiveis-acaba-em-incidentes-com-policia_n1779071",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "9582bed75c6402dd608b",
+      "title": "8h - Voos retomam o normal nos EUA",
+      "original_title": "8h - Voos retomam o normal nos EUA",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-14T08:39:02+00:00",
+      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/8h-voos-retomam-o-normal-nos-eua_a1_1779094",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "de6eba2c68d5d6f3bce3",
+      "title": "Voos retomados nos EUA após suspensão que cancelou seis mil ligações em todo o mundo",
+      "original_title": "Voos retomados nos EUA após suspensão que cancelou seis mil ligações em todo o mundo",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Mundo",
+      "published_at": "2026-11-14T08:15:46+00:00",
+      "article_url": "https://www.rtp.pt/noticias/mundo/voos-retomados-nos-eua-apos-suspensao-que-cancelou-seis-mil-ligacoes-em-todo-o-mundo_n1779090",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
     {
       "id": "e750f0caf37af4cc4f83",
       "title": "What we know about the longest ground stop since 9/11",
@@ -470,45 +509,6 @@
       "editorial_status": "titulo_normalizado"
     },
     {
-      "id": "6f21c93ecb8d2d44cb0b",
-      "title": "Escândalo na Nvidia. Ex-CEO convocado para depor no Senado",
-      "original_title": "Escândalo na Nvidia. Ex-CEO convocado para depor no Senado",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Mundo",
-      "published_at": "2026-11-13T21:00:49+00:00",
-      "article_url": "https://www.rtp.pt/noticias/mundo/escandalo-na-nvidia-ex-ceo-convocado-para-depor-no-senado_v1779039",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "2ac43b7310b38c9f5225",
-      "title": "Leão XIV no Peru. Papa regressa à diocese de Chiclayo onde foi bispo",
-      "original_title": "Leão XIV no Peru. Papa regressa à diocese de Chiclayo onde foi bispo",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Mundo",
-      "published_at": "2026-11-13T20:59:47+00:00",
-      "article_url": "https://www.rtp.pt/noticias/mundo/leao-xiv-no-peru-papa-regressa-a-diocese-de-chiclayo-onde-foi-bispo_v1779038",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "288148c558564b231ff3",
-      "title": "Habitação. Primeiro-ministro remete reuniões para Ministério da Habitação",
-      "original_title": "Habitação. Primeiro-ministro remete reuniões para Ministério da Habitação",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-13T20:58:47+00:00",
-      "article_url": "https://www.rtp.pt/noticias/politica/habitacao-primeiro-ministro-remete-reunioes-para-ministerio-da-habitacao_v1779037",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
       "id": "4388231c64c3038a8bcf",
       "title": "Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague",
       "original_title": "Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague",
@@ -574,14 +574,14 @@
       "editorial_status": "titulo_normalizado"
     },
     {
-      "id": "011ab1d47357c7ec9550",
-      "title": "Courts, spies and MPs: How the Microsoft outage has been felt around the world",
-      "original_title": "Courts, spies and MPs: How the Microsoft outage has been felt around the world",
-      "summary": "Informação divulgada por BBC Technology. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC Technology",
-      "category": "Tecnologia",
-      "published_at": "2026-11-13T17:34:58+00:00",
-      "article_url": "https://www.bbc.co.uk/news/articles/cqp9d58eldlro?at_medium=RSS&at_campaign=rss",
+      "id": "cc9f6fa40871438aee6b",
+      "title": "Estonia bans Russian athletes as backlash intensifies",
+      "original_title": "Estonia bans Russian athletes as backlash intensifies",
+      "summary": "Informação divulgada por BBC Europe. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC Europe",
+      "category": "Europa",
+      "published_at": "2026-11-13T17:54:33+00:00",
+      "article_url": "https://www.bbc.co.uk/sport/articles/cm4gn9lvlgy2o?at_medium=RSS&at_campaign=rss",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
