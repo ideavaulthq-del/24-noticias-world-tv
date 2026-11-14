@@ -1,6 +1,45 @@
 {
-  "generated_at": "2026-11-14T11:38:20.726547+00:00",
+  "generated_at": "2026-11-14T12:47:48.205638+00:00",
   "articles": [
+    {
+      "id": "bd36255fd2d7462752de",
+      "title": "12h Já começaram protestos pela habitação",
+      "original_title": "12h Já começaram protestos pela habitação",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-14T12:29:02+00:00",
+      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/12h-ja-comecaram-protestos-pela-habitacao_a1_1779119",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "60dae99e19af0581c8ca",
+      "title": "EUA propuseram a Kiev cedência de território em troca de adesão à NATO",
+      "original_title": "EUA propuseram a Kiev cedência de território em troca de adesão à NATO",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Mundo",
+      "published_at": "2026-11-14T12:05:21+00:00",
+      "article_url": "https://www.rtp.pt/noticias/mundo/eua-propuseram-a-kiev-cedencia-de-territorio-em-troca-de-adesao-a-nato_n1779118",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "f96c53723fb77f2bd236",
+      "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+      "original_title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC News",
+      "category": "Mundo",
+      "published_at": "2026-11-14T11:41:20+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
     {
       "id": "51f2c62c807f1d6eafa0",
       "title": "11h Suspensão de voos pode voltar nos EUA",
@@ -15,9 +54,9 @@
       "editorial_status": "titulo_normalizado"
     },
     {
-      "id": "5f61cdd3a9e9cf604faa",
-      "title": "Watch: Cruise ship seen sinking after collision with cargo ship in New Orleans",
-      "original_title": "Watch: Cruise ship seen sinking after collision with cargo ship in New Orleans",
+      "id": "fd1f6a18f8eb1c6db92e",
+      "title": "Watch: Cruise ship overturns after collision with tanker in New Orleans",
+      "original_title": "Watch: Cruise ship overturns after collision with tanker in New Orleans",
       "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
       "source": "BBC News",
       "category": "Mundo",
@@ -75,19 +114,6 @@
       "category": "Mundo",
       "published_at": "2026-11-14T10:35:16+00:00",
       "article_url": "https://www.rtp.pt/noticias/mundo/servicos-da-microsoft-restabelecidos-apos-interrupcao-global_n1779111",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "f96c53723fb77f2bd236",
-      "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
-      "original_title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
-      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC News",
-      "category": "Mundo",
-      "published_at": "2026-11-14T10:30:38+00:00",
-      "article_url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
@@ -444,19 +470,6 @@
       "editorial_status": "titulo_normalizado"
     },
     {
-      "id": "dd9898a2e25b1d1dda8f",
-      "title": "23h EUA problema detetado no controlo de trafego aéreo impede os aviões de voar",
-      "original_title": "23h EUA problema detetado no controlo de trafego aéreo impede os aviões de voar",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-13T23:59:02+00:00",
-      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/23h-eua-problema-detetado-no-controlo-de-trafego-aereo-impede-os-avioes-de-voar_a1_1779063",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
       "id": "30493ed3be942b125ef9",
       "title": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
       "original_title": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
@@ -465,19 +478,6 @@
       "category": "Mundo",
       "published_at": "2026-11-13T23:40:45+00:00",
       "article_url": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "8306f4528714c437783f",
-      "title": "Wall Street fecha tendencialmente em baixa arrastada pelas tecnológicas",
-      "original_title": "Wall Street fecha tendencialmente em baixa arrastada pelas tecnológicas",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Economia",
-      "published_at": "2026-11-13T23:33:39+00:00",
-      "article_url": "https://www.rtp.pt/noticias/economia/wall-street-fecha-tendencialmente-em-baixa-arrastada-pelas-tecnologicas_n1779057",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
