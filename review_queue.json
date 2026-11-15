@@ -1,6 +1,58 @@
 {
-  "generated_at": "2026-11-15T09:47:03.857778+00:00",
+  "generated_at": "2026-11-15T10:43:42.331368+00:00",
   "articles": [
+    {
+      "id": "2280f2ff50abaef99918",
+      "title": "10h Cabo Verde escolhe presidente",
+      "original_title": "10h Cabo Verde escolhe presidente",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-15T10:42:02+00:00",
+      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/10h-cabo-verde-escolhe-presidente_a1_1779294",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "0fb6c6201cbf9ea39eb6",
+      "title": "Bastonário dos Médicos diz ser \"inadmissível\" mortes em Portimão",
+      "original_title": "Bastonário dos Médicos diz ser \"inadmissível\" mortes em Portimão",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-15T10:20:47+00:00",
+      "article_url": "https://www.rtp.pt/noticias/pais/bastonario-dos-medicos-diz-ser-inadmissivel-mortes-em-portimao_v1779291",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "5c275e8bf1a4eb89582e",
+      "title": "Pope Leo speaks of community 'suffering' on visit to remote Andes town",
+      "original_title": "Pope Leo speaks of community 'suffering' on visit to remote Andes town",
+      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC News",
+      "category": "Mundo",
+      "published_at": "2026-11-15T09:57:25+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/cr4gnz0lv2vlo?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "ef4064825094ad404479",
+      "title": "Dois aviões colidem na pista do aeroporto internacional de Miami",
+      "original_title": "Dois aviões colidem na pista do aeroporto internacional de Miami",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Mundo",
+      "published_at": "2026-11-15T09:51:16+00:00",
+      "article_url": "https://www.rtp.pt/noticias/mundo/dois-avioes-colidem-na-pista-do-aeroporto-internacional-de-miami_n1779290",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
     {
       "id": "d79513cc8208b683dd43",
       "title": "Milhares de passageiros continuam retidos depois da paralisação aérea de sexta-feira",
@@ -163,9 +215,9 @@
       "original_title": "Coligação da Arábia Saudita diz ter abatido dois mísseis disparados contra Riade",
       "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
       "source": "RTP Notícias",
-      "category": "Mundo",
+      "category": "Portugal",
       "published_at": "2026-11-15T07:24:24+00:00",
-      "article_url": "https://www.rtp.pt/noticias/mundo/coligacao-da-arabia-saudita-diz-ter-abatido-dois-misseis-disparados-contra-riade_n1779259",
+      "article_url": "https://www.rtp.pt/noticias/guerra-no-medio-oriente/coligacao-da-arabia-saudita-diz-ter-abatido-dois-misseis-disparados-contra-riade_n1779259",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
@@ -314,19 +366,6 @@
       "editorial_status": "titulo_normalizado"
     },
     {
-      "id": "5c275e8bf1a4eb89582e",
-      "title": "Pope Leo speaks of community 'suffering' on visit to remote Andes town",
-      "original_title": "Pope Leo speaks of community 'suffering' on visit to remote Andes town",
-      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC News",
-      "category": "Mundo",
-      "published_at": "2026-11-15T02:49:45+00:00",
-      "article_url": "https://www.bbc.co.uk/news/articles/cr4gnz0lv2vlo?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
       "id": "a562b3f9e694ea83921b",
       "title": "01h Acampada de Lisboa muda-se para os Restauradores",
       "original_title": "01h Acampada de Lisboa muda-se para os Restauradores",
@@ -348,45 +387,6 @@
       "category": "Mundo",
       "published_at": "2026-11-15T01:16:37+00:00",
       "article_url": "https://www.rtp.pt/noticias/mundo/netanyahu-reafirma-que-so-governo-de-uniao-nacional-garante-seguranca-de-israel_n1779253",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "6f09a4f545eef11dedcf",
-      "title": "00h Cartaz no Rossio proíbe mensagens políticas",
-      "original_title": "00h Cartaz no Rossio proíbe mensagens políticas",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-15T00:35:02+00:00",
-      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/00h-cartaz-no-rossio-proibe-mensagens-politicas_a1_1779245",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "d821ab6c6b11fa44188e",
-      "title": "Leão XIV denuncia escravatura e discriminação contra afrodescendentes no Peru",
-      "original_title": "Leão XIV denuncia escravatura e discriminação contra afrodescendentes no Peru",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Mundo",
-      "published_at": "2026-11-15T00:33:23+00:00",
-      "article_url": "https://www.rtp.pt/noticias/mundo/leao-xiv-denuncia-escravatura-e-discriminacao-contra-afrodescendentes-no-peru_n1779244",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "3440f2fc2a51c3183376",
-      "title": "Jogadores reconheceram que a Dinamarca foi superior",
-      "original_title": "Jogadores reconheceram que a Dinamarca foi superior",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-15T00:12:47+00:00",
-      "article_url": "https://www.rtp.pt/noticias/desporto/jogadores-reconheceram-que-a-dinamarca-foi-superior_v1779240",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
@@ -419,8 +419,8 @@
     },
     {
       "id": "2ba0dc09d3558bf8c36b",
-      "title": "Beauty advent calendars can cost hundreds - but are they value for money?",
-      "original_title": "Beauty advent calendars can cost hundreds - but are they value for money?",
+      "title": "Beauty advent calendars can cost hundreds but are they value for money?",
+      "original_title": "Beauty advent calendars can cost hundreds but are they value for money?",
       "summary": "Informação divulgada por BBC Business. Consulte a publicação original para conhecer os detalhes e o contexto.",
       "source": "BBC Business",
       "category": "Economia",
