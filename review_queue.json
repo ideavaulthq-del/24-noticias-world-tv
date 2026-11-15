@@ -1,6 +1,19 @@
 {
-  "generated_at": "2026-11-15T04:54:44.192420+00:00",
+  "generated_at": "2026-11-15T05:53:48.627371+00:00",
   "articles": [
+    {
+      "id": "fd9f2cee8da985852c2b",
+      "title": "05h Presidente da Agência para o PTRR diz que Governo deveria ter sido \"mais cauteloso\" na classificação das medidas",
+      "original_title": "05h Presidente da Agência para o PTRR diz que Governo deveria ter sido \"mais cauteloso\" na classificação das medidas",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-15T05:43:02+00:00",
+      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/05h-presidente-da-agencia-para-o-ptrr-diz-que-governo-deveria-ter-sido-mais-cauteloso-na-classificacao-das-medidas_a1_1779274",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
     {
       "id": "d50ac704dbe4bc3ab15d",
       "title": "04h Bernardo Silva Rúben Dias e Palhinha dispensados do estágio de Portugal",
@@ -413,19 +426,6 @@
       "category": "Cultura",
       "published_at": "2026-11-14T19:42:52+00:00",
       "article_url": "https://www.rtp.pt/noticias/cultura/estado-portugues-pagou-220-mil-euros-por-pulseira-que-pertenceu-a-rainha-d-amelia_v1779215",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "e84db08ee88f0590e6a1",
-      "title": "Varandas elogia impacto de novo treinador",
-      "original_title": "Varandas elogia impacto de novo treinador",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-14T19:42:47+00:00",
-      "article_url": "https://www.rtp.pt/noticias/desporto/varandas-elogia-impacto-de-novo-treinador_v1779214",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
