@@ -1,6 +1,71 @@
 {
-  "generated_at": "2026-11-15T19:44:23.369350+00:00",
+  "generated_at": "2026-11-15T20:39:29.428375+00:00",
   "articles": [
+    {
+      "id": "32fd167d94501ef94e71",
+      "title": "Tendas ocupam Restauradores. Manifestantes pela habitação prometem continuar protestos",
+      "original_title": "Tendas ocupam Restauradores. Manifestantes pela habitação prometem continuar protestos",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Economia",
+      "published_at": "2026-11-15T20:37:27+00:00",
+      "article_url": "https://www.rtp.pt/noticias/economia/tendas-ocupam-restauradores-manifestantes-pela-habitacao-prometem-continuar-protestos_e1779157",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "5f550052ed23cfc1839f",
+      "title": "Acampada de regresso a Lisboa. Restauradores são o local escolhido",
+      "original_title": "Acampada de regresso a Lisboa. Restauradores são o local escolhido",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-15T20:32:47+00:00",
+      "article_url": "https://www.rtp.pt/noticias/pais/acampada-de-regresso-a-lisboa-restauradores-sao-o-local-escolhido_v1779369",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "1c5d9f9fdc8fd00a123c",
+      "title": "20h Contam-se os votos em Cabo Verde",
+      "original_title": "20h Contam-se os votos em Cabo Verde",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-15T20:28:03+00:00",
+      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/20h-contam-se-os-votos-em-cabo-verde_a1_1779367",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "86102b346814ff8c0fdf",
+      "title": "Portugal tricampeão europeu de râguebi sub-20",
+      "original_title": "Portugal tricampeão europeu de râguebi sub-20",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-15T19:51:04+00:00",
+      "article_url": "https://www.rtp.pt/noticias/raguebi/portugal-tricampeao-europeu-de-raguebi-sub-20_d1779366",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "800696629535a64d2839",
+      "title": "Regresso de Ronaldinho aos 46 anos",
+      "original_title": "Regresso de Ronaldinho aos 46 anos",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-15T19:46:40+00:00",
+      "article_url": "https://www.rtp.pt/noticias/futebol-internacional/regresso-de-ronaldinho-aos-46-anos_d1779365",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
     {
       "id": "d23b3459031377a20a57",
       "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
@@ -10,6 +75,19 @@
       "category": "Mundo",
       "published_at": "2026-11-15T19:32:39+00:00",
       "article_url": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "9913bd42d85c8f79aecc",
+      "title": "Ronaldinho makes comeback in Ravenna win",
+      "original_title": "Ronaldinho makes comeback in Ravenna win",
+      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC News",
+      "category": "Mundo",
+      "published_at": "2026-11-15T19:31:48+00:00",
+      "article_url": "https://www.bbc.co.uk/sport/football/articles/ckregz4g823xo?at_medium=RSS&at_campaign=rss",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
@@ -28,14 +106,14 @@
       "editorial_status": "titulo_normalizado"
     },
     {
-      "id": "32fd167d94501ef94e71",
-      "title": "Tendas ocupam Restauradores. Manifestantes pela habitação prometem continuar protestos",
-      "original_title": "Tendas ocupam Restauradores. Manifestantes pela habitação prometem continuar protestos",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Economia",
-      "published_at": "2026-11-15T19:18:18+00:00",
-      "article_url": "https://www.rtp.pt/noticias/economia/tendas-ocupam-restauradores-manifestantes-pela-habitacao-prometem-continuar-protestos_e1779157",
+      "id": "0268ff8e51e22e44c5f1",
+      "title": "Thousands of US flights still cancelled or delayed two days after grounding of planes nationwide",
+      "original_title": "Thousands of US flights still cancelled or delayed two days after grounding of planes nationwide",
+      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC News",
+      "category": "Mundo",
+      "published_at": "2026-11-15T19:20:53+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/cw1mdlv0k2r4o?at_medium=RSS&at_campaign=rss",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
@@ -49,6 +127,19 @@
       "category": "Mundo",
       "published_at": "2026-11-15T18:56:49+00:00",
       "article_url": "https://www.rtp.pt/noticias/mundo/nvidia-tem-de-procurar-candidatos-fora-da-empresa-para-encontrar-um-novo-ceo_n1779359",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "fd7a4ded0d5a8112e84b",
+      "title": "Pope Leo rides in helicopter cockpit during Peru trip",
+      "original_title": "Pope Leo rides in helicopter cockpit during Peru trip",
+      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC News",
+      "category": "Mundo",
+      "published_at": "2026-11-15T18:38:11+00:00",
+      "article_url": "https://www.bbc.co.uk/news/videos/c6pw4rl00lrjo?at_medium=RSS&at_campaign=rss",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
@@ -236,6 +327,19 @@
       "editorial_status": "titulo_normalizado"
     },
     {
+      "id": "93afc694573cb9bbedc8",
+      "title": "Clothing factories shut in Bangladesh as workers strike over pay",
+      "original_title": "Clothing factories shut in Bangladesh as workers strike over pay",
+      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC News",
+      "category": "Mundo",
+      "published_at": "2026-11-15T16:15:20+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/cx5y1pzr9604o?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
       "id": "b075b398e569d1c673dd",
       "title": "Judge blocks Trump closure of 'Trash Island' Washington DC golf course on Sunday",
       "original_title": "Judge blocks Trump closure of 'Trash Island' Washington DC golf course on Sunday",
@@ -314,58 +418,6 @@
       "editorial_status": "titulo_normalizado"
     },
     {
-      "id": "e71a5450a68d5e207f21",
-      "title": "Dias, Palhinha e Bernardo dispensados do estágio de Portugal",
-      "original_title": "Dias, Palhinha e Bernardo dispensados do estágio de Portugal",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-15T15:35:57+00:00",
-      "article_url": "https://www.rtp.pt/noticias/selecao-nacional/dias-palhinha-e-bernardo-dispensados-do-estagio-de-portugal_d1779333",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "a98bedb456dd7f8e9fbb",
-      "title": "Marinha britânica reporta ataque a petroleiro perto do Estreito de Ormuz",
-      "original_title": "Marinha britânica reporta ataque a petroleiro perto do Estreito de Ormuz",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Economia",
-      "published_at": "2026-11-15T15:30:15+00:00",
-      "article_url": "https://www.rtp.pt/noticias/economia/marinha-britanica-reporta-ataque-a-petroleiro-perto-do-estreito-de-ormuz_n1779321",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "9b3983404fc228031c63",
-      "title": "Andreeva e Svitolina disputam título das WTA Finals",
-      "original_title": "Andreeva e Svitolina disputam título das WTA Finals",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-15T15:23:03+00:00",
-      "article_url": "https://www.rtp.pt/noticias/tenis/andreeva-e-svitolina-disputam-titulo-das-wta-finals_d1779331",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "feee4e8d28a6086ac05e",
-      "title": "15h Trump responsabiliza o antecessor Joe Biden pelo caos aéreo dos últimos dias",
-      "original_title": "15h Trump responsabiliza o antecessor Joe Biden pelo caos aéreo dos últimos dias",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-15T15:21:02+00:00",
-      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/15h-trump-responsabiliza-o-antecessor-joe-biden-pelo-caos-aereo-dos-ultimos-dias_a1_1779330",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
       "id": "eb0209d40110394028d3",
       "title": "How telecoms upgrade work sparked US flight chaos",
       "original_title": "How telecoms upgrade work sparked US flight chaos",
@@ -387,19 +439,6 @@
       "category": "Mundo",
       "published_at": "2026-11-15T14:56:21+00:00",
       "article_url": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "91e8d057e56aa91dea82",
-      "title": "New Orleans port files $1m lawsuit over 'miracle on the Mississippi' tanker collision",
-      "original_title": "New Orleans port files $1m lawsuit over 'miracle on the Mississippi' tanker collision",
-      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC News",
-      "category": "Mundo",
-      "published_at": "2026-11-15T14:33:59+00:00",
-      "article_url": "https://www.bbc.co.uk/news/articles/cwe89y2r5j20o?at_medium=RSS&at_campaign=rss",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
@@ -457,32 +496,6 @@
       "editorial_status": "titulo_normalizado"
     },
     {
-      "id": "5c275e8bf1a4eb89582e",
-      "title": "Pope Leo speaks of community 'suffering' on visit to remote Andes town",
-      "original_title": "Pope Leo speaks of community 'suffering' on visit to remote Andes town",
-      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC News",
-      "category": "Mundo",
-      "published_at": "2026-11-15T09:57:25+00:00",
-      "article_url": "https://www.bbc.co.uk/news/articles/cr4gnz0lv2vlo?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "62ac72070493a87cd576",
-      "title": "Fifth Canadian soldier dies from injuries caused by large fire at military base",
-      "original_title": "Fifth Canadian soldier dies from injuries caused by large fire at military base",
-      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC News",
-      "category": "Mundo",
-      "published_at": "2026-11-15T09:26:37+00:00",
-      "article_url": "https://www.bbc.co.uk/news/articles/cmrlgn4x2xw8o?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
       "id": "7f56656cdf42ffea6d9d",
       "title": "Israel kills Hamas commander in strike on Gaza camp, officials say",
       "original_title": "Israel kills Hamas commander in strike on Gaza camp, officials say",
@@ -491,19 +504,6 @@
       "category": "Mundo",
       "published_at": "2026-11-15T08:17:41+00:00",
       "article_url": "https://www.bbc.co.uk/news/articles/cqrkg4r6mg7xo?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "b8d8de3c116655ff39ba",
-      "title": "Copper wire upgrade behind US flight suspension, transport secretary says",
-      "original_title": "Copper wire upgrade behind US flight suspension, transport secretary says",
-      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC News",
-      "category": "Mundo",
-      "published_at": "2026-11-15T07:10:31+00:00",
-      "article_url": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
