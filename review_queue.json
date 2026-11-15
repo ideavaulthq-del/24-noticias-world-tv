@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-11-15T03:52:32.688102+00:00",
+  "generated_at": "2026-11-15T04:54:44.192420+00:00",
   "articles": [
+    {
+      "id": "d50ac704dbe4bc3ab15d",
+      "title": "04h Bernardo Silva Rúben Dias e Palhinha dispensados do estágio de Portugal",
+      "original_title": "04h Bernardo Silva Rúben Dias e Palhinha dispensados do estágio de Portugal",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-15T04:30:02+00:00",
+      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/04h-bernardo-silva-ruben-dias-e-palhinha-dispensados-do-estagio-de-portugal_a1_1779267",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "bddda401fb37b91b82cd",
+      "title": "04h Bernado Silva Rúben Dias e Palhinha dispensados do estágio de Portugal",
+      "original_title": "04h Bernado Silva Rúben Dias e Palhinha dispensados do estágio de Portugal",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-15T04:22:01+00:00",
+      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/04h-bernado-silva-ruben-dias-e-palhinha-dispensados-do-estagio-de-portugal_a1_1779266",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
     {
       "id": "d18543b502768ecfcbf0",
       "title": "03h Portugal sofre a maior derrota de sempre em casa em jogos oficiais",
@@ -400,32 +426,6 @@
       "category": "Portugal",
       "published_at": "2026-11-14T19:42:47+00:00",
       "article_url": "https://www.rtp.pt/noticias/desporto/varandas-elogia-impacto-de-novo-treinador_v1779214",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "fe986153f0f5bcfb8a91",
-      "title": "Presidente do Benfica queixa-se da arbitragem e critica a lei dos direitos televisivos",
-      "original_title": "Presidente do Benfica queixa-se da arbitragem e critica a lei dos direitos televisivos",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-14T19:34:48+00:00",
-      "article_url": "https://www.rtp.pt/noticias/desporto/presidente-do-benfica-queixa-se-da-arbitragem-e-critica-a-lei-dos-direitos-televisivos_v1779211",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "b3a9a0b19e52d400f57e",
-      "title": "Sistema de comunicações de tráfego aéreo \"obsoleto\" precisa de 50 mil milhões de dólares",
-      "original_title": "Sistema de comunicações de tráfego aéreo \"obsoleto\" precisa de 50 mil milhões de dólares",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Mundo",
-      "published_at": "2026-11-14T19:33:47+00:00",
-      "article_url": "https://www.rtp.pt/noticias/mundo/sistema-de-comunicacoes-de-trafego-aereo-obsoleto-precisa-de-50-mil-milhoes-de-dolares_v1779210",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
