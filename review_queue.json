@@ -1,15 +1,28 @@
 {
-  "generated_at": "2026-11-15T08:54:52.182228+00:00",
+  "generated_at": "2026-11-15T09:47:03.857778+00:00",
   "articles": [
     {
-      "id": "7f56656cdf42ffea6d9d",
-      "title": "Israel kills Hamas commander in strike on Gaza camp, officials say",
-      "original_title": "Israel kills Hamas commander in strike on Gaza camp, officials say",
+      "id": "d79513cc8208b683dd43",
+      "title": "Milhares de passageiros continuam retidos depois da paralisação aérea de sexta-feira",
+      "original_title": "Milhares de passageiros continuam retidos depois da paralisação aérea de sexta-feira",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Mundo",
+      "published_at": "2026-11-15T09:30:03+00:00",
+      "article_url": "https://www.rtp.pt/noticias/mundo/milhares-de-passageiros-continuam-retidos-depois-da-paralisacao-aerea-de-sexta-feira_n1779289",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "62ac72070493a87cd576",
+      "title": "Fifth Canadian soldier dies from injuries caused by large fire at military base",
+      "original_title": "Fifth Canadian soldier dies from injuries caused by large fire at military base",
       "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
       "source": "BBC News",
       "category": "Mundo",
-      "published_at": "2026-11-15T08:17:41+00:00",
-      "article_url": "https://www.bbc.co.uk/news/articles/cqrkg4r6mg7xo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-15T09:26:37+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/cmrlgn4x2xw8o?at_medium=RSS&at_campaign=rss",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
@@ -21,8 +34,34 @@
       "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
       "source": "RTP Notícias",
       "category": "Economia",
-      "published_at": "2026-11-15T08:04:45+00:00",
+      "published_at": "2026-11-15T09:23:17+00:00",
       "article_url": "https://www.rtp.pt/noticias/economia/habitacao-manifestantes-montam-tendas-nos-restauradores_e1779157",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "4e8ce376cff5989b25c9",
+      "title": "09h Tendas voltam a Lisboa",
+      "original_title": "09h Tendas voltam a Lisboa",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-15T09:23:02+00:00",
+      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/09h-tendas-voltam-a-lisboa_a1_1779288",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "7f56656cdf42ffea6d9d",
+      "title": "Israel kills Hamas commander in strike on Gaza camp, officials say",
+      "original_title": "Israel kills Hamas commander in strike on Gaza camp, officials say",
+      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC News",
+      "category": "Mundo",
+      "published_at": "2026-11-15T08:17:41+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/cqrkg4r6mg7xo?at_medium=RSS&at_campaign=rss",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
@@ -353,32 +392,6 @@
       "editorial_status": "titulo_normalizado"
     },
     {
-      "id": "17889492ecfd8d13b22e",
-      "title": "\"Falta de quê? Só se for falta para fazer-me companhia\", reage Jorge Jesus a pergunta sobre Ronaldo",
-      "original_title": "\"Falta de quê? Só se for falta para fazer-me companhia\", reage Jorge Jesus a pergunta sobre Ronaldo",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-15T00:11:47+00:00",
-      "article_url": "https://www.rtp.pt/noticias/desporto/falta-de-que-so-se-for-falta-para-fazer-me-companhia-reage-jorge-jesus-a-pergunta-sobre-ronaldo_v1779239",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "582e0bc57705d7006b56",
-      "title": "Portugal perdeu em casa com a Dinamarca por 4-1",
-      "original_title": "Portugal perdeu em casa com a Dinamarca por 4-1",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-15T00:08:47+00:00",
-      "article_url": "https://www.rtp.pt/noticias/desporto/portugal-perdeu-em-casa-com-a-dinamarca-por-4-1_v1779238",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
       "id": "e7af9343e1e8857e52a3",
       "title": "My mother told me I would die if I sought treatment for Ebola - I am proof you can survive",
       "original_title": "My mother told me I would die if I sought treatment for Ebola - I am proof you can survive",
@@ -569,19 +582,6 @@
       "category": "Economia",
       "published_at": "2026-11-14T06:42:27+00:00",
       "article_url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "6e02aa84b5b162888478",
-      "title": "Tech Now",
-      "original_title": "Tech Now",
-      "summary": "Informação divulgada por BBC Technology. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC Technology",
-      "category": "Tecnologia",
-      "published_at": "2026-11-14T01:00:00+00:00",
-      "article_url": "https://www.bbc.co.uk/iplayer/episode/m0034hf1?at_medium=RSS&at_campaign=rss",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
