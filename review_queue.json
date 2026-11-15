@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-11-15T08:06:27.168929+00:00",
+  "generated_at": "2026-11-15T08:54:52.182228+00:00",
   "articles": [
+    {
+      "id": "7f56656cdf42ffea6d9d",
+      "title": "Israel kills Hamas commander in strike on Gaza camp, officials say",
+      "original_title": "Israel kills Hamas commander in strike on Gaza camp, officials say",
+      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC News",
+      "category": "Mundo",
+      "published_at": "2026-11-15T08:17:41+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/cqrkg4r6mg7xo?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "67797affa37ee3336c2d",
+      "title": "Habitação. Manifestantes montam tendas nos Restauradores",
+      "original_title": "Habitação. Manifestantes montam tendas nos Restauradores",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Economia",
+      "published_at": "2026-11-15T08:04:45+00:00",
+      "article_url": "https://www.rtp.pt/noticias/economia/habitacao-manifestantes-montam-tendas-nos-restauradores_e1779157",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
     {
       "id": "0eaf7d085e7270d7ac79",
       "title": "Arquitetura de pedra, terra e memória: as lições de sustentabilidade do Nordeste Algarvio",
@@ -72,9 +98,9 @@
       "original_title": "Exército israelita diz ter morto responsável do Hamas",
       "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
       "source": "RTP Notícias",
-      "category": "Mundo",
+      "category": "Portugal",
       "published_at": "2026-11-15T07:29:33+00:00",
-      "article_url": "https://www.rtp.pt/noticias/mundo/exercito-israelita-diz-ter-morto-responsavel-do-hamas_n1779262",
+      "article_url": "https://www.rtp.pt/noticias/guerra-no-medio-oriente/exercito-israelita-diz-ter-morto-responsavel-do-hamas_n1779262",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
@@ -145,14 +171,14 @@
       "editorial_status": "titulo_normalizado"
     },
     {
-      "id": "1ef2310f6653318c466e",
-      "title": "Seis distritos do continente sob aviso amarelo devido à chuva",
-      "original_title": "Seis distritos do continente sob aviso amarelo devido à chuva",
+      "id": "c8960133a6314254fd3d",
+      "title": "IPMA antecipa aviso amarelo em seis distritos devido à chuva forte",
+      "original_title": "IPMA antecipa aviso amarelo em seis distritos devido à chuva forte",
       "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
       "source": "RTP Notícias",
       "category": "Portugal",
       "published_at": "2026-11-15T07:11:08+00:00",
-      "article_url": "https://www.rtp.pt/noticias/pais/seis-distritos-do-continente-sob-aviso-amarelo-devido-a-chuva_n1779257",
+      "article_url": "https://www.rtp.pt/noticias/pais/ipma-antecipa-aviso-amarelo-em-seis-distritos-devido-a-chuva-forte_n1779257",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
@@ -166,19 +192,6 @@
       "category": "Mundo",
       "published_at": "2026-11-15T07:10:31+00:00",
       "article_url": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "67797affa37ee3336c2d",
-      "title": "Habitação. Manifestantes montam tendas nos Restauradores",
-      "original_title": "Habitação. Manifestantes montam tendas nos Restauradores",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Economia",
-      "published_at": "2026-11-15T06:59:21+00:00",
-      "article_url": "https://www.rtp.pt/noticias/economia/habitacao-manifestantes-montam-tendas-nos-restauradores_e1779157",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
@@ -431,6 +444,19 @@
       "editorial_status": "titulo_normalizado"
     },
     {
+      "id": "91e8d057e56aa91dea82",
+      "title": "New Orleans port files $1m lawsuit over 'miracle on the Mississippi' tanker collision",
+      "original_title": "New Orleans port files $1m lawsuit over 'miracle on the Mississippi' tanker collision",
+      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC News",
+      "category": "Mundo",
+      "published_at": "2026-11-14T22:27:06+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/cwe89y2r5j20o?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
       "id": "a0a99df8ae19329cb0f9",
       "title": "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth",
       "original_title": "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth",
@@ -548,19 +574,6 @@
       "editorial_status": "titulo_normalizado"
     },
     {
-      "id": "08d83c61855bb85e6171",
-      "title": "'We'll get home one day' - US travellers impacted by nationwide ground stop",
-      "original_title": "'We'll get home one day' - US travellers impacted by nationwide ground stop",
-      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC News",
-      "category": "Mundo",
-      "published_at": "2026-11-14T01:47:36+00:00",
-      "article_url": "https://www.bbc.co.uk/news/videos/c893ryz7lw33o?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
       "id": "6e02aa84b5b162888478",
       "title": "Tech Now",
       "original_title": "Tech Now",
@@ -569,19 +582,6 @@
       "category": "Tecnologia",
       "published_at": "2026-11-14T01:00:00+00:00",
       "article_url": "https://www.bbc.co.uk/iplayer/episode/m0034hf1?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "86c5c5130c89d4f77d2b",
-      "title": "Even Grand Theft Auto's original creators haven't been able to play GTA 6",
-      "original_title": "Even Grand Theft Auto's original creators haven't been able to play GTA 6",
-      "summary": "Informação divulgada por BBC Technology. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC Technology",
-      "category": "Tecnologia",
-      "published_at": "2026-11-14T00:37:01+00:00",
-      "article_url": "https://www.bbc.co.uk/news/articles/c6jd7k5ryl1mo?at_medium=RSS&at_campaign=rss",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
