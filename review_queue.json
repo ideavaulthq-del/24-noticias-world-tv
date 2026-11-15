@@ -1,6 +1,84 @@
 {
-  "generated_at": "2026-11-15T14:43:55.728195+00:00",
+  "generated_at": "2026-11-15T15:39:27.423495+00:00",
   "articles": [
+    {
+      "id": "a98bedb456dd7f8e9fbb",
+      "title": "Marinha britânica reporta ataque a petroleiro perto do Estreito de Ormuz",
+      "original_title": "Marinha britânica reporta ataque a petroleiro perto do Estreito de Ormuz",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-15T15:30:15+00:00",
+      "article_url": "https://www.rtp.pt/noticias/guerra-no-medio-oriente/marinha-britanica-reporta-ataque-a-petroleiro-perto-do-estreito-de-ormuz_n1779321",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "9b3983404fc228031c63",
+      "title": "Andreeva e Svitolina disputam título das WTA Finals",
+      "original_title": "Andreeva e Svitolina disputam título das WTA Finals",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-15T15:23:03+00:00",
+      "article_url": "https://www.rtp.pt/noticias/tenis/andreeva-e-svitolina-disputam-titulo-das-wta-finals_d1779331",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "feee4e8d28a6086ac05e",
+      "title": "15h Trump responsabiliza o antecessor Joe Biden pelo caos aéreo dos últimos dias",
+      "original_title": "15h Trump responsabiliza o antecessor Joe Biden pelo caos aéreo dos últimos dias",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-15T15:21:02+00:00",
+      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/15h-trump-responsabiliza-o-antecessor-joe-biden-pelo-caos-aereo-dos-ultimos-dias_a1_1779330",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "3942cf54bc4de82ebbf9",
+      "title": "Benfica goleado na final da Taça Continental feminina de hóquei em patins",
+      "original_title": "Benfica goleado na final da Taça Continental feminina de hóquei em patins",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-15T15:12:12+00:00",
+      "article_url": "https://www.rtp.pt/noticias/hoquei/benfica-goleado-na-final-da-taca-continental-feminina-de-hoquei-em-patins_d1779329",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "eb0209d40110394028d3",
+      "title": "How telecoms upgrade work sparked US flight chaos",
+      "original_title": "How telecoms upgrade work sparked US flight chaos",
+      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC News",
+      "category": "Mundo",
+      "published_at": "2026-11-15T14:57:15+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "b6bb1cf08d63dd61d6d2",
+      "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
+      "original_title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
+      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC News",
+      "category": "Mundo",
+      "published_at": "2026-11-15T14:56:21+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
     {
       "id": "91e8d057e56aa91dea82",
       "title": "New Orleans port files $1m lawsuit over 'miracle on the Mississippi' tanker collision",
@@ -85,9 +163,9 @@
       "original_title": "Tempestade Charles: Governo agiu bem \"sem dúvida\", defende presidente do PTRR",
       "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
       "source": "RTP Notícias",
-      "category": "Economia",
+      "category": "Portugal",
       "published_at": "2026-11-15T13:56:07+00:00",
-      "article_url": "https://www.rtp.pt/noticias/economia/tempestade-charles-governo-agiu-bem-sem-duvida-defende-presidente-do-ptrr_v1778977",
+      "article_url": "https://www.rtp.pt/noticias/conversa-capital/tempestade-charles-governo-agiu-bem-sem-duvida-defende-presidente-do-ptrr_v1778977",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
@@ -223,6 +301,19 @@
       "editorial_status": "titulo_normalizado"
     },
     {
+      "id": "74e24aa2ee1820fbcf33",
+      "title": "Minister backs legal right to job support for young people",
+      "original_title": "Minister backs legal right to job support for young people",
+      "summary": "Informação divulgada por BBC Business. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC Business",
+      "category": "Economia",
+      "published_at": "2026-11-15T13:06:15+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/cqr7gn1zmlj1o?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
       "id": "65097942fc7d71b7fa45",
       "title": "12h Bastonário dos advogados não vè problemas na acampada",
       "original_title": "12h Bastonário dos advogados não vè problemas na acampada",
@@ -241,9 +332,9 @@
       "original_title": "Drones ucranianos atingem zona industrial no centro da Rússia",
       "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
       "source": "RTP Notícias",
-      "category": "Mundo",
+      "category": "Portugal",
       "published_at": "2026-11-15T11:53:12+00:00",
-      "article_url": "https://www.rtp.pt/noticias/mundo/drones-ucranianos-atingem-zona-industrial-no-centro-da-russia_n1779299",
+      "article_url": "https://www.rtp.pt/noticias/guerra-na-ucrania/drones-ucranianos-atingem-zona-industrial-no-centro-da-russia_n1779299",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
@@ -327,19 +418,6 @@
       "editorial_status": "titulo_normalizado"
     },
     {
-      "id": "0fb6c6201cbf9ea39eb6",
-      "title": "Bastonário dos Médicos diz ser \"inadmissível\" mortes em Portimão",
-      "original_title": "Bastonário dos Médicos diz ser \"inadmissível\" mortes em Portimão",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-15T10:20:47+00:00",
-      "article_url": "https://www.rtp.pt/noticias/pais/bastonario-dos-medicos-diz-ser-inadmissivel-mortes-em-portimao_v1779291",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
       "id": "5c275e8bf1a4eb89582e",
       "title": "Pope Leo speaks of community 'suffering' on visit to remote Andes town",
       "original_title": "Pope Leo speaks of community 'suffering' on visit to remote Andes town",
@@ -353,32 +431,6 @@
       "editorial_status": "titulo_normalizado"
     },
     {
-      "id": "ef4064825094ad404479",
-      "title": "Dois aviões colidem na pista do aeroporto internacional de Miami",
-      "original_title": "Dois aviões colidem na pista do aeroporto internacional de Miami",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Mundo",
-      "published_at": "2026-11-15T09:51:16+00:00",
-      "article_url": "https://www.rtp.pt/noticias/mundo/dois-avioes-colidem-na-pista-do-aeroporto-internacional-de-miami_n1779290",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "d79513cc8208b683dd43",
-      "title": "Milhares de passageiros continuam retidos depois da paralisação aérea de sexta-feira",
-      "original_title": "Milhares de passageiros continuam retidos depois da paralisação aérea de sexta-feira",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Mundo",
-      "published_at": "2026-11-15T09:30:03+00:00",
-      "article_url": "https://www.rtp.pt/noticias/mundo/milhares-de-passageiros-continuam-retidos-depois-da-paralisacao-aerea-de-sexta-feira_n1779289",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
       "id": "62ac72070493a87cd576",
       "title": "Fifth Canadian soldier dies from injuries caused by large fire at military base",
       "original_title": "Fifth Canadian soldier dies from injuries caused by large fire at military base",
@@ -387,19 +439,6 @@
       "category": "Mundo",
       "published_at": "2026-11-15T09:26:37+00:00",
       "article_url": "https://www.bbc.co.uk/news/articles/cmrlgn4x2xw8o?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "4e8ce376cff5989b25c9",
-      "title": "09h Tendas voltam a Lisboa",
-      "original_title": "09h Tendas voltam a Lisboa",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-15T09:23:02+00:00",
-      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/09h-tendas-voltam-a-lisboa_a1_1779288",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
@@ -431,9 +470,9 @@
       "editorial_status": "titulo_normalizado"
     },
     {
-      "id": "f715c603f1b54f68d013",
-      "title": "Judge temporarily blocks Trump from closing Washington DC golf course for renovation",
-      "original_title": "Judge temporarily blocks Trump from closing Washington DC golf course for renovation",
+      "id": "10b3304f160ae64f7b42",
+      "title": "Trump barred from closing 'Trash Island' golf course on Sunday",
+      "original_title": "Trump barred from closing 'Trash Island' golf course on Sunday",
       "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
       "source": "BBC News",
       "category": "Mundo",
@@ -478,19 +517,6 @@
       "category": "Economia",
       "published_at": "2026-11-15T00:01:07+00:00",
       "article_url": "https://www.bbc.co.uk/news/articles/cqn83l442724o?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "eb0209d40110394028d3",
-      "title": "How telecoms upgrade work sparked US flight chaos",
-      "original_title": "How telecoms upgrade work sparked US flight chaos",
-      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC News",
-      "category": "Mundo",
-      "published_at": "2026-11-14T23:11:27+00:00",
-      "article_url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
@@ -556,32 +582,6 @@
       "category": "Mundo",
       "published_at": "2026-11-14T18:17:58+00:00",
       "article_url": "https://www.bbc.co.uk/news/articles/cqrlgnx9dx6eo?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "d6c5eac44490cbd34bc0",
-      "title": "Sotheby's auction of $180m Van Gogh challenged over claims it was 'sold under duress'",
-      "original_title": "Sotheby's auction of $180m Van Gogh challenged over claims it was 'sold under duress'",
-      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC News",
-      "category": "Mundo",
-      "published_at": "2026-11-14T18:00:10+00:00",
-      "article_url": "https://www.bbc.co.uk/news/articles/cmwy05gg75lvo?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "04afcf983871addad00c",
-      "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
-      "original_title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
-      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC News",
-      "category": "Mundo",
-      "published_at": "2026-11-14T15:53:55+00:00",
-      "article_url": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
