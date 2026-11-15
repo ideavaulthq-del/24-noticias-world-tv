@@ -1,6 +1,58 @@
 {
-  "generated_at": "2026-11-15T18:44:12.924906+00:00",
+  "generated_at": "2026-11-15T19:44:23.369350+00:00",
   "articles": [
+    {
+      "id": "d23b3459031377a20a57",
+      "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
+      "original_title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
+      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC News",
+      "category": "Mundo",
+      "published_at": "2026-11-15T19:32:39+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "1f3a5a3e706092a790a8",
+      "title": "19h Acampada vai decidir se fica ou não nos Restauradores",
+      "original_title": "19h Acampada vai decidir se fica ou não nos Restauradores",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-15T19:26:03+00:00",
+      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/19h-acampada-vai-decidir-se-fica-ou-nao-nos-restauradores_a1_1779363",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "32fd167d94501ef94e71",
+      "title": "Tendas ocupam Restauradores. Manifestantes pela habitação prometem continuar protestos",
+      "original_title": "Tendas ocupam Restauradores. Manifestantes pela habitação prometem continuar protestos",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Economia",
+      "published_at": "2026-11-15T19:18:18+00:00",
+      "article_url": "https://www.rtp.pt/noticias/economia/tendas-ocupam-restauradores-manifestantes-pela-habitacao-prometem-continuar-protestos_e1779157",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "6621a80da359dfae1310",
+      "title": "Nvidia tem de \"procurar candidatos fora da empresa\" para encontrar um novo CEO",
+      "original_title": "Nvidia tem de \"procurar candidatos fora da empresa\" para encontrar um novo CEO",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Mundo",
+      "published_at": "2026-11-15T18:56:49+00:00",
+      "article_url": "https://www.rtp.pt/noticias/mundo/nvidia-tem-de-procurar-candidatos-fora-da-empresa-para-encontrar-um-novo-ceo_n1779359",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
     {
       "id": "6b22274b2ed9e701a0d2",
       "title": "18h Presidenciais em Cabo Verde, a afluência de manhã foi fraca mas à tarde votaram mais eleitores",
@@ -62,19 +114,6 @@
       "category": "Portugal",
       "published_at": "2026-11-15T18:15:02+00:00",
       "article_url": "https://www.rtp.pt/noticias/futebol-nacional/ii-liga-academica-arranca-empate-em-portimao_d1779352",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "d23b3459031377a20a57",
-      "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
-      "original_title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
-      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC News",
-      "category": "Mundo",
-      "published_at": "2026-11-15T18:08:20+00:00",
-      "article_url": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
@@ -153,19 +192,6 @@
       "category": "Mundo",
       "published_at": "2026-11-15T17:23:40+00:00",
       "article_url": "https://www.bbc.co.uk/news/articles/cm8e0knr7604o?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "32fd167d94501ef94e71",
-      "title": "Tendas ocupam Restauradores. Manifestantes pela habitação prometem continuar protestos",
-      "original_title": "Tendas ocupam Restauradores. Manifestantes pela habitação prometem continuar protestos",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Economia",
-      "published_at": "2026-11-15T17:16:20+00:00",
-      "article_url": "https://www.rtp.pt/noticias/economia/tendas-ocupam-restauradores-manifestantes-pela-habitacao-prometem-continuar-protestos_e1779157",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
@@ -340,19 +366,6 @@
       "editorial_status": "titulo_normalizado"
     },
     {
-      "id": "3942cf54bc4de82ebbf9",
-      "title": "Benfica goleado na final da Taça Continental feminina de hóquei em patins",
-      "original_title": "Benfica goleado na final da Taça Continental feminina de hóquei em patins",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-15T15:12:12+00:00",
-      "article_url": "https://www.rtp.pt/noticias/hoquei/benfica-goleado-na-final-da-taca-continental-feminina-de-hoquei-em-patins_d1779329",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
       "id": "eb0209d40110394028d3",
       "title": "How telecoms upgrade work sparked US flight chaos",
       "original_title": "How telecoms upgrade work sparked US flight chaos",
@@ -387,19 +400,6 @@
       "category": "Mundo",
       "published_at": "2026-11-15T14:33:59+00:00",
       "article_url": "https://www.bbc.co.uk/news/articles/cwe89y2r5j20o?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "1f17c9349a2e3224d419",
-      "title": "14h Página oficial da ASAE foi alvo de um ataque informático",
-      "original_title": "14h Página oficial da ASAE foi alvo de um ataque informático",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-15T14:28:02+00:00",
-      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/14h-pagina-oficial-da-asae-foi-alvo-de-um-ataque-informatico_a1_1779324",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
