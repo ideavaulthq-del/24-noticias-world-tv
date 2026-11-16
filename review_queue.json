@@ -1,6 +1,71 @@
 {
-  "generated_at": "2026-11-16T02:38:25.001999+00:00",
+  "generated_at": "2026-11-16T04:11:45.114289+00:00",
   "articles": [
+    {
+      "id": "c0545b54e12d54a75797",
+      "title": "Mexican drug lord Miguel Angel Felix Gallardo dies age 80",
+      "original_title": "Mexican drug lord Miguel Angel Felix Gallardo dies age 80",
+      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC News",
+      "category": "Mundo",
+      "published_at": "2026-11-16T03:21:56+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/c51k9nkwrndxo?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "7f8246c1bbf66bd1d896",
+      "title": "3h Acampada de Lisboa volta a dormir na praça dos Restauradores",
+      "original_title": "3h Acampada de Lisboa volta a dormir na praça dos Restauradores",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-16T03:13:02+00:00",
+      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/3h-acampada-de-lisboa-volta-a-dormir-na-praca-dos-restauradores_a1_1779405",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "a5e4b362cbf72b3764e1",
+      "title": "Australian MP 'full of gratitude' upon leaving hospital after alleged car attack",
+      "original_title": "Australian MP 'full of gratitude' upon leaving hospital after alleged car attack",
+      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC News",
+      "category": "Mundo",
+      "published_at": "2026-11-16T03:09:49+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/cmpqr9j81888o?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "3647c606255ab8b34f11",
+      "title": "Yemeni forces' retreat leaves Houthis in control of key Red Sea waterway",
+      "original_title": "Yemeni forces' retreat leaves Houthis in control of key Red Sea waterway",
+      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC News",
+      "category": "Mundo",
+      "published_at": "2026-11-16T03:08:31+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/cqvg2xgyvnjpo?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "6200abd6a4c2caad677b",
+      "title": "Investors sue chip giant Intel after 29% stock plunge",
+      "original_title": "Investors sue chip giant Intel after 29% stock plunge",
+      "summary": "Informação divulgada por BBC Business. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC Business",
+      "category": "Economia",
+      "published_at": "2026-11-16T03:04:01+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/cw62p42p288do?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
     {
       "id": "c5aac1753426e96531a7",
       "title": "2h China confirma cimeira a três com Xi Jinping, Donald Trump e Vladimir Putin",
@@ -10,19 +75,6 @@
       "category": "Portugal",
       "published_at": "2026-11-16T02:13:01+00:00",
       "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/2h-china-confirma-cimeira-a-tres-com-xi-jinping-donald-trump-e-vladimir-putin_a1_1779403",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "edb9a5f229f8a645c32a",
-      "title": "Australian MP who lost both legs in alleged car attack discharged from hospital",
-      "original_title": "Australian MP who lost both legs in alleged car attack discharged from hospital",
-      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC News",
-      "category": "Mundo",
-      "published_at": "2026-11-16T01:53:19+00:00",
-      "article_url": "https://www.bbc.co.uk/news/articles/cmpqr9j81888o?at_medium=RSS&at_campaign=rss",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
@@ -54,19 +106,6 @@
       "editorial_status": "titulo_normalizado"
     },
     {
-      "id": "93afc694573cb9bbedc8",
-      "title": "Clothing factories shut in Bangladesh as workers strike over pay",
-      "original_title": "Clothing factories shut in Bangladesh as workers strike over pay",
-      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC News",
-      "category": "Mundo",
-      "published_at": "2026-11-16T01:05:44+00:00",
-      "article_url": "https://www.bbc.co.uk/news/articles/cx5y1pzr9604o?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
       "id": "53a22f66d15ec143f57f",
       "title": "Black Friday and tax return scams - don't fall for these",
       "original_title": "Black Friday and tax return scams - don't fall for these",
@@ -88,19 +127,6 @@
       "category": "Mundo",
       "published_at": "2026-11-16T00:13:14+00:00",
       "article_url": "https://www.bbc.co.uk/news/articles/c60733mxm0x0o?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "c0545b54e12d54a75797",
-      "title": "Mexican drug lord Miguel Angel Felix Gallardo dies age 80",
-      "original_title": "Mexican drug lord Miguel Angel Felix Gallardo dies age 80",
-      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC News",
-      "category": "Mundo",
-      "published_at": "2026-11-15T23:52:10+00:00",
-      "article_url": "https://www.bbc.co.uk/news/articles/c51k9nkwrndxo?at_medium=RSS&at_campaign=rss",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
@@ -218,6 +244,19 @@
       "category": "Mundo",
       "published_at": "2026-11-15T22:28:54+00:00",
       "article_url": "https://www.bbc.co.uk/news/articles/cqm2j0jvep4eo?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "8c27ea3f21a5cee220ba",
+      "title": "Canada bars Russia from Junior World Championships",
+      "original_title": "Canada bars Russia from Junior World Championships",
+      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC News",
+      "category": "Mundo",
+      "published_at": "2026-11-15T22:01:16+00:00",
+      "article_url": "https://www.bbc.co.uk/sport/ice-hockey/articles/cqkgm0jgv4mdo?at_medium=RSS&at_campaign=rss",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
@@ -470,19 +509,6 @@
       "editorial_status": "titulo_normalizado"
     },
     {
-      "id": "800696629535a64d2839",
-      "title": "Regresso de Ronaldinho aos 46 anos",
-      "original_title": "Regresso de Ronaldinho aos 46 anos",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-15T19:46:40+00:00",
-      "article_url": "https://www.rtp.pt/noticias/futebol-internacional/regresso-de-ronaldinho-aos-46-anos_d1779365",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
       "id": "d23b3459031377a20a57",
       "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
       "original_title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
@@ -556,32 +582,6 @@
       "category": "Economia",
       "published_at": "2026-11-15T13:06:15+00:00",
       "article_url": "https://www.bbc.co.uk/news/articles/cqr7gn1zmlj1o?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "485cf11cd9f73a746484",
-      "title": "Three men sentenced to death in Jordan over fatal church mass shooting",
-      "original_title": "Three men sentenced to death in Jordan over fatal church mass shooting",
-      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC News",
-      "category": "Mundo",
-      "published_at": "2026-11-15T11:06:32+00:00",
-      "article_url": "https://www.bbc.co.uk/news/articles/c3rrg9xgqlwpo?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "e7af9343e1e8857e52a3",
-      "title": "My mother told me I would die if I sought treatment for Ebola - I am proof you can survive",
-      "original_title": "My mother told me I would die if I sought treatment for Ebola - I am proof you can survive",
-      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC News",
-      "category": "Mundo",
-      "published_at": "2026-11-15T00:06:55+00:00",
-      "article_url": "https://www.bbc.co.uk/news/articles/cmvg2e2q28w1o?at_medium=RSS&at_campaign=rss",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
