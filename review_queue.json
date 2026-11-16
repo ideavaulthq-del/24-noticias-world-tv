@@ -1,6 +1,45 @@
 {
-  "generated_at": "2026-11-16T01:21:38.432562+00:00",
+  "generated_at": "2026-11-16T02:38:25.001999+00:00",
   "articles": [
+    {
+      "id": "c5aac1753426e96531a7",
+      "title": "2h China confirma cimeira a três com Xi Jinping, Donald Trump e Vladimir Putin",
+      "original_title": "2h China confirma cimeira a três com Xi Jinping, Donald Trump e Vladimir Putin",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-16T02:13:01+00:00",
+      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/2h-china-confirma-cimeira-a-tres-com-xi-jinping-donald-trump-e-vladimir-putin_a1_1779403",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "edb9a5f229f8a645c32a",
+      "title": "Australian MP who lost both legs in alleged car attack discharged from hospital",
+      "original_title": "Australian MP who lost both legs in alleged car attack discharged from hospital",
+      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC News",
+      "category": "Mundo",
+      "published_at": "2026-11-16T01:53:19+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/cmpqr9j81888o?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "b6bb1cf08d63dd61d6d2",
+      "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
+      "original_title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
+      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC News",
+      "category": "Mundo",
+      "published_at": "2026-11-16T01:47:57+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
     {
       "id": "7e5ff058952ff923b2dd",
       "title": "01h Seguro felicita presidente de Cabo Verde",
@@ -49,19 +88,6 @@
       "category": "Mundo",
       "published_at": "2026-11-16T00:13:14+00:00",
       "article_url": "https://www.bbc.co.uk/news/articles/c60733mxm0x0o?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "0268ff8e51e22e44c5f1",
-      "title": "Thousands of US flights still cancelled or delayed two days after grounding of planes nationwide",
-      "original_title": "Thousands of US flights still cancelled or delayed two days after grounding of planes nationwide",
-      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC News",
-      "category": "Mundo",
-      "published_at": "2026-11-16T00:03:29+00:00",
-      "article_url": "https://www.bbc.co.uk/news/articles/cw1mdlv0k2r4o?at_medium=RSS&at_campaign=rss",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
@@ -197,19 +223,6 @@
       "editorial_status": "titulo_normalizado"
     },
     {
-      "id": "b6bb1cf08d63dd61d6d2",
-      "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
-      "original_title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
-      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC News",
-      "category": "Mundo",
-      "published_at": "2026-11-15T22:24:20+00:00",
-      "article_url": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
       "id": "6cf68291b74677ee6e4f",
       "title": "UK will have 'voice' but no vote on EU food rules in Brexit reset",
       "original_title": "UK will have 'voice' but no vote on EU food rules in Brexit reset",
@@ -218,6 +231,19 @@
       "category": "Economia",
       "published_at": "2026-11-15T22:00:24+00:00",
       "article_url": "https://www.bbc.co.uk/news/articles/c6wy4l8nl42wo?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "7568c505b2d68a0faae2",
+      "title": "Prince Harry praises war veterans on surprise visit to Ukraine",
+      "original_title": "Prince Harry praises war veterans on surprise visit to Ukraine",
+      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC News",
+      "category": "Mundo",
+      "published_at": "2026-11-15T22:00:13+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/c60evn992jq8o?at_medium=RSS&at_campaign=rss",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
@@ -483,19 +509,6 @@
       "editorial_status": "titulo_normalizado"
     },
     {
-      "id": "1f3a5a3e706092a790a8",
-      "title": "19h Acampada vai decidir se fica ou não nos Restauradores",
-      "original_title": "19h Acampada vai decidir se fica ou não nos Restauradores",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-15T19:26:03+00:00",
-      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/19h-acampada-vai-decidir-se-fica-ou-nao-nos-restauradores_a1_1779363",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
       "id": "fd7a4ded0d5a8112e84b",
       "title": "Pope Leo rides in helicopter cockpit during Peru trip",
       "original_title": "Pope Leo rides in helicopter cockpit during Peru trip",
@@ -517,19 +530,6 @@
       "category": "Mundo",
       "published_at": "2026-11-15T14:57:15+00:00",
       "article_url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "9bbdd7688a8f18efc289",
-      "title": "Iran targets US military base in Bahrain with drone attack",
-      "original_title": "Iran targets US military base in Bahrain with drone attack",
-      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC News",
-      "category": "Mundo",
-      "published_at": "2026-11-15T13:42:58+00:00",
-      "article_url": "https://www.bbc.co.uk/news/articles/cqn4e2py48kwo?at_medium=RSS&at_campaign=rss",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
