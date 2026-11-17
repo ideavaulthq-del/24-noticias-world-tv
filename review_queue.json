@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-11-17T22:54:42.378180+00:00",
+  "generated_at": "2026-11-17T23:51:02.746756+00:00",
   "articles": [
+    {
+      "id": "cee18af58675001a2ac4",
+      "title": "23h Portugal vence por 3-2 o País Gales numa ida a Cardiff",
+      "original_title": "23h Portugal vence por 3-2 o País Gales numa ida a Cardiff",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-17T23:45:03+00:00",
+      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/23h-portugal-vence-por-3-2-o-pais-gales-numa-ida-a-cardiff_a1_1779878",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "a7c3dafaaa180d106a05",
+      "title": "Nvidia reports bumper results as firm says it's not reinstating Huang",
+      "original_title": "Nvidia reports bumper results as firm says it's not reinstating Huang",
+      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC News",
+      "category": "Mundo",
+      "published_at": "2026-11-17T23:03:39+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
     {
       "id": "279024f5ebf0f4d0658a",
       "title": "American soldier arrested by UK police on suspicion of spying taken into US military custody",
@@ -41,6 +67,19 @@
       "editorial_status": "titulo_normalizado"
     },
     {
+      "id": "cb4cea57ccb4ee93a681",
+      "title": "Thomas Markle charged over child sex abuse material in Philippines",
+      "original_title": "Thomas Markle charged over child sex abuse material in Philippines",
+      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC News",
+      "category": "Mundo",
+      "published_at": "2026-11-17T22:44:15+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/ckg5ry8m49ggo?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
       "id": "bd3bbc6c5107c5265345",
       "title": "Israel. Candidato da oposição eleito presidente do Parlamento",
       "original_title": "Israel. Candidato da oposição eleito presidente do Parlamento",
@@ -49,19 +88,6 @@
       "category": "Mundo",
       "published_at": "2026-11-17T22:36:33+00:00",
       "article_url": "https://www.rtp.pt/noticias/mundo/israel-candidato-da-oposicao-eleito-presidente-do-parlamento_n1779870",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "180dd35faae10f8067ea",
-      "title": "Nvidia reports bumper results as firm says it not reinstating Huang",
-      "original_title": "Nvidia reports bumper results as firm says it not reinstating Huang",
-      "summary": "Informação divulgada por BBC Business. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC Business",
-      "category": "Economia",
-      "published_at": "2026-11-17T22:34:41+00:00",
-      "article_url": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
@@ -431,19 +457,6 @@
       "editorial_status": "titulo_normalizado"
     },
     {
-      "id": "6c90d720576c4b399b48",
-      "title": "Ucrânia. Zelensky apela a ajuda na defesa anti-aérea",
-      "original_title": "Ucrânia. Zelensky apela a ajuda na defesa anti-aérea",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Mundo",
-      "published_at": "2026-11-17T19:33:48+00:00",
-      "article_url": "https://www.rtp.pt/noticias/mundo/ucrania-zelensky-apela-a-ajuda-na-defesa-anti-aerea_v1779840",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
       "id": "b2bb5bd50139efbf1a06",
       "title": "Carney looks to China as Trump tariffs squeeze Canada's car industry",
       "original_title": "Carney looks to China as Trump tariffs squeeze Canada's car industry",
@@ -452,6 +465,19 @@
       "category": "Mundo",
       "published_at": "2026-11-17T18:58:57+00:00",
       "article_url": "https://www.bbc.co.uk/news/articles/cq98xlz09ye0o?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "60e6d7fec0a51340503e",
+      "title": "Government backs welfare shake-up to prevent 'lost generation'",
+      "original_title": "Government backs welfare shake-up to prevent 'lost generation'",
+      "summary": "Informação divulgada por BBC Business. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC Business",
+      "category": "Economia",
+      "published_at": "2026-11-17T18:43:05+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/ck79210y125xo?at_medium=RSS&at_campaign=rss",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
@@ -473,9 +499,9 @@
       "id": "562508a14c3175d2f871",
       "title": "Jensen Huang says he would be 'honoured' to return as Nvidia CEO if board asked him",
       "original_title": "Jensen Huang says he would be 'honoured' to return as Nvidia CEO if board asked him",
-      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC News",
-      "category": "Mundo",
+      "summary": "Informação divulgada por BBC Business. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC Business",
+      "category": "Economia",
       "published_at": "2026-11-17T18:24:21+00:00",
       "article_url": "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo?at_medium=RSS&at_campaign=rss",
       "image_url": "",
@@ -556,32 +582,6 @@
       "category": "Mundo",
       "published_at": "2026-11-17T15:54:15+00:00",
       "article_url": "https://www.bbc.co.uk/news/videos/cmlywvww3pzlo?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "97809f2280e8d11295d4",
-      "title": "How the attack on Crimean Bridge unfolded",
-      "original_title": "How the attack on Crimean Bridge unfolded",
-      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC News",
-      "category": "Mundo",
-      "published_at": "2026-11-17T15:38:10+00:00",
-      "article_url": "https://www.bbc.co.uk/news/articles/crz9dgz28zwdo?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "ad9a26ae8c271a68082b",
-      "title": "How the attack on Putin's prized Crimean Bridge unfolded",
-      "original_title": "How the attack on Putin's prized Crimean Bridge unfolded",
-      "summary": "Informação divulgada por BBC Europe. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC Europe",
-      "category": "Europa",
-      "published_at": "2026-11-17T15:38:10+00:00",
-      "article_url": "https://www.bbc.co.uk/news/articles/crz9dgz28zwdo?at_medium=RSS&at_campaign=rss",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
