@@ -1,6 +1,45 @@
 {
-  "generated_at": "2026-11-17T01:03:54.728648+00:00",
+  "generated_at": "2026-11-17T02:15:22.467046+00:00",
   "articles": [
+    {
+      "id": "185d7204ac2e51c77deb",
+      "title": "01h Saúde e humor. Médico dos presidentes junta Cavaco e Marcelo",
+      "original_title": "01h Saúde e humor. Médico dos presidentes junta Cavaco e Marcelo",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-17T02:12:02+00:00",
+      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/01h-saude-e-humor-medico-dos-presidentes-junta-cavaco-e-marcelo_a1_1779662",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "e9f14e6454d725936615",
+      "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO",
+      "original_title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO",
+      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC News",
+      "category": "Mundo",
+      "published_at": "2026-11-17T01:49:26+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "bd7912fc4388ebbe3b26",
+      "title": "New Zealand tricks and annual leave - the lengths fans are going to for GTA 6",
+      "original_title": "New Zealand tricks and annual leave - the lengths fans are going to for GTA 6",
+      "summary": "Informação divulgada por BBC Technology. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC Technology",
+      "category": "Tecnologia",
+      "published_at": "2026-11-17T01:04:45+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/cm4gn9xnn1ppo?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
     {
       "id": "a145b3819db93907a409",
       "title": "00h Começa a greve dos guardas prisionais, o sindicato não cedeu ao pedido do governo",
@@ -223,19 +262,6 @@
       "editorial_status": "titulo_normalizado"
     },
     {
-      "id": "e9f14e6454d725936615",
-      "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO",
-      "original_title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO",
-      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC News",
-      "category": "Mundo",
-      "published_at": "2026-11-16T22:21:27+00:00",
-      "article_url": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
       "id": "3b4fb56b76408ed1f270",
       "title": "\"Não é a solução\". Sánchez critica plano europeu de deportar migrantes para o Ruanda",
       "original_title": "\"Não é a solução\". Sánchez critica plano europeu de deportar migrantes para o Ruanda",
@@ -256,7 +282,7 @@
       "source": "RTP Notícias",
       "category": "Portugal",
       "published_at": "2026-11-16T22:05:24+00:00",
-      "article_url": "https://www.rtp.pt/noticias/sporting/sporting-volta-a-golear-e-vence-grupo-b-da-taca-intercontinental-de-futsal_d1779634",
+      "article_url": "https://www.rtp.pt/noticias/futsal/sporting-volta-a-golear-e-vence-grupo-b-da-taca-intercontinental-de-futsal_d1779634",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
@@ -431,19 +457,6 @@
       "editorial_status": "titulo_normalizado"
     },
     {
-      "id": "0394fc3140d39c4e753a",
-      "title": "Cultura, habitação e cidadania: \"Temos de exigir e lutar por modelos alternativos\"",
-      "original_title": "Cultura, habitação e cidadania: \"Temos de exigir e lutar por modelos alternativos\"",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-16T21:13:31+00:00",
-      "article_url": "https://www.rtp.pt/noticias/pais/cultura-habitacao-e-cidadania-temos-de-exigir-e-lutar-por-modelos-alternativos_n1779613",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
       "id": "05f06b93c71bc18fd619",
       "title": "Forensic expert says his analysis of autopsy photos suggests Epstein was killed",
       "original_title": "Forensic expert says his analysis of autopsy photos suggests Epstein was killed",
@@ -569,19 +582,6 @@
       "category": "Mundo",
       "published_at": "2026-11-16T14:22:36+00:00",
       "article_url": "https://www.bbc.co.uk/news/articles/cqp83nk673reo?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "884481a944938538ba37",
-      "title": "Gérard Depardieu drops appeal against sexual assault conviction",
-      "original_title": "Gérard Depardieu drops appeal against sexual assault conviction",
-      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC News",
-      "category": "Mundo",
-      "published_at": "2026-11-16T13:40:56+00:00",
-      "article_url": "https://www.bbc.co.uk/news/articles/cm20vexye1d0o?at_medium=RSS&at_campaign=rss",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
