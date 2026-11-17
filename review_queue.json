@@ -1,6 +1,58 @@
 {
-  "generated_at": "2026-11-17T11:02:10.713621+00:00",
+  "generated_at": "2026-11-17T11:50:58.565553+00:00",
   "articles": [
+    {
+      "id": "c8865a381417b98db79c",
+      "title": "Pretending to be in New Zeland, booking leave and buying consoles - the lengths fans are going to for GTA 6",
+      "original_title": "Pretending to be in New Zeland, booking leave and buying consoles - the lengths fans are going to for GTA 6",
+      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC News",
+      "category": "Mundo",
+      "published_at": "2026-11-17T11:49:01+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/cm4gn9xnn1ppo?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "f641f30fa8e5604b8289",
+      "title": "11h Bruxelas prevê regresso de Portugal aos défices em 2027",
+      "original_title": "11h Bruxelas prevê regresso de Portugal aos défices em 2027",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-17T11:21:03+00:00",
+      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/11h-bruxelas-preve-regresso-de-portugal-aos-defices-em-2027_a1_1779741",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "a689ebcb4f5dae4c8d78",
+      "title": "US government confirms investigation into tech firm Megaspeed",
+      "original_title": "US government confirms investigation into tech firm Megaspeed",
+      "summary": "Informação divulgada por BBC Business. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC Business",
+      "category": "Economia",
+      "published_at": "2026-11-17T11:17:32+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/cmn504nq5033o?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "f4e02af81909e90651a8",
+      "title": "Bullying cresce nas escolas: o fenómeno que marca até a vida adulta",
+      "original_title": "Bullying cresce nas escolas: o fenómeno que marca até a vida adulta",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-17T11:09:37+00:00",
+      "article_url": "https://www.rtp.pt/noticias/pais/bullying-cresce-nas-escolas-o-fenomeno-que-marca-ate-a-vida-adulta_n1779740",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
     {
       "id": "23d5f739e574c75d4d32",
       "title": "Jorge Simão sucede a Vítor Martins no comando técnico do Desportivo de Chaves",
@@ -236,9 +288,9 @@
       "editorial_status": "titulo_normalizado"
     },
     {
-      "id": "3f513102bba8391500ee",
-      "title": "Where has the most jobs for 16-24 year-olds? Use our look-up to find out",
-      "original_title": "Where has the most jobs for 16-24 year-olds? Use our look-up to find out",
+      "id": "2890fa1931d01bf23ab0",
+      "title": "Where has the most jobs for 18-24 year-olds? Use our look-up to find out",
+      "original_title": "Where has the most jobs for 18-24 year-olds? Use our look-up to find out",
       "summary": "Informação divulgada por BBC Business. Consulte a publicação original para conhecer os detalhes e o contexto.",
       "source": "BBC Business",
       "category": "Economia",
@@ -405,19 +457,6 @@
       "editorial_status": "titulo_normalizado"
     },
     {
-      "id": "025664cec43382d66a79",
-      "title": "Bullying e ciberbullying continua a aumentar, revela plataforma Escola Segura",
-      "original_title": "Bullying e ciberbullying continua a aumentar, revela plataforma Escola Segura",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-17T07:50:04+00:00",
-      "article_url": "https://www.rtp.pt/noticias/pais/bullying-e-ciberbullying-continua-a-aumentar-revela-plataforma-escola-segura_n1779688",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
       "id": "caff745bc084b8edd0be",
       "title": "Japan sends up jets after alleged Russian incursion of its airspace",
       "original_title": "Japan sends up jets after alleged Russian incursion of its airspace",
@@ -426,19 +465,6 @@
       "category": "Mundo",
       "published_at": "2026-11-17T07:44:17+00:00",
       "article_url": "https://www.bbc.co.uk/news/articles/c60evw20qe47o?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "7e43b416d6baa467cd8e",
-      "title": "Polícia da Turquia lança operação e faz detenções em emissora da oposição",
-      "original_title": "Polícia da Turquia lança operação e faz detenções em emissora da oposição",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Mundo",
-      "published_at": "2026-11-17T07:34:13+00:00",
-      "article_url": "https://www.rtp.pt/noticias/mundo/policia-da-turquia-lanca-operacao-e-faz-detencoes-em-emissora-da-oposicao_n1779684",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
@@ -509,19 +535,6 @@
       "editorial_status": "titulo_normalizado"
     },
     {
-      "id": "bd7912fc4388ebbe3b26",
-      "title": "New Zealand tricks and annual leave - the lengths fans are going to for GTA 6",
-      "original_title": "New Zealand tricks and annual leave - the lengths fans are going to for GTA 6",
-      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC News",
-      "category": "Mundo",
-      "published_at": "2026-11-17T01:04:45+00:00",
-      "article_url": "https://www.bbc.co.uk/news/articles/cm4gn9xnn1ppo?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
       "id": "97951f571079c6fc1dcd",
       "title": "Customers report service outages at major US banks",
       "original_title": "Customers report service outages at major US banks",
@@ -569,19 +582,6 @@
       "category": "Tecnologia",
       "published_at": "2026-11-16T23:25:53+00:00",
       "article_url": "https://www.bbc.co.uk/news/articles/c820vnln2lzpo?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "623d4e1e8c7ca3bdd6c6",
-      "title": "Five EU countries announce migrant deportation centre in Rwanda",
-      "original_title": "Five EU countries announce migrant deportation centre in Rwanda",
-      "summary": "Informação divulgada por BBC Europe. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC Europe",
-      "category": "Europa",
-      "published_at": "2026-11-16T23:20:45+00:00",
-      "article_url": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
