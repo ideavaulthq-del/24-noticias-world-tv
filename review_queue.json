@@ -1,6 +1,71 @@
 {
-  "generated_at": "2026-11-16T23:43:06.184419+00:00",
+  "generated_at": "2026-11-17T01:03:54.728648+00:00",
   "articles": [
+    {
+      "id": "a145b3819db93907a409",
+      "title": "00h Começa a greve dos guardas prisionais, o sindicato não cedeu ao pedido do governo",
+      "original_title": "00h Começa a greve dos guardas prisionais, o sindicato não cedeu ao pedido do governo",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-17T00:49:02+00:00",
+      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/00h-comeca-a-greve-dos-guardas-prisionais-o-sindicato-nao-cedeu-ao-pedido-do-governo_a1_1779660",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "9aaf105a849f205b737d",
+      "title": "23h Autarca do Porto: não são possíveis políticas para garantir a todos o direito de viver na cidade",
+      "original_title": "23h Autarca do Porto: não são possíveis políticas para garantir a todos o direito de viver na cidade",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-17T00:24:02+00:00",
+      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/23h-autarca-do-porto-nao-sao-possiveis-politicas-para-garantir-a-todos-o-direito-de-viver-na-cidade_a1_1779658",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "97951f571079c6fc1dcd",
+      "title": "Customers report service outages at major US banks",
+      "original_title": "Customers report service outages at major US banks",
+      "summary": "Informação divulgada por BBC Business. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC Business",
+      "category": "Economia",
+      "published_at": "2026-11-17T00:18:01+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/cj752wvqneq6o?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "184935a4a1aa390eb137",
+      "title": "Aged 16-24 and looking for work? Use our look-up to find out which areas have the most jobs",
+      "original_title": "Aged 16-24 and looking for work? Use our look-up to find out which areas have the most jobs",
+      "summary": "Informação divulgada por BBC Business. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC Business",
+      "category": "Economia",
+      "published_at": "2026-11-17T00:00:03+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/cw3djdjk5d7ko?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "bf82ab1a94ea155adfa7",
+      "title": "We couldn't afford a house alone, so we bought one with strangers",
+      "original_title": "We couldn't afford a house alone, so we bought one with strangers",
+      "summary": "Informação divulgada por BBC Business. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC Business",
+      "category": "Economia",
+      "published_at": "2026-11-17T00:00:02+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/c5742lwdyzglo?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
     {
       "id": "0ee116f5ecaeff624a3c",
       "title": "23h Presidente da Câmara do Porto: são possíveis políticas para garantir a todos o direito de viver na cidade",
@@ -54,19 +119,6 @@
       "editorial_status": "titulo_normalizado"
     },
     {
-      "id": "97951f571079c6fc1dcd",
-      "title": "Customers report service outages at major US banks",
-      "original_title": "Customers report service outages at major US banks",
-      "summary": "Informação divulgada por BBC Business. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC Business",
-      "category": "Economia",
-      "published_at": "2026-11-16T23:15:21+00:00",
-      "article_url": "https://www.bbc.co.uk/news/articles/cj752wvqneq6o?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
       "id": "39b6ee0cc9801e9d7edd",
       "title": "California sues OpenAI over Hugging Face attack",
       "original_title": "California sues OpenAI over Hugging Face attack",
@@ -114,6 +166,19 @@
       "category": "Cultura",
       "published_at": "2026-11-16T22:33:07+00:00",
       "article_url": "https://www.rtp.pt/noticias/cultura/paineis-de-sao-vicente-com-restauro-concluido-em-abril-de-2027-para-apresentacao-publica_n1779591",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "41f185390634d5399425",
+      "title": "'Complete system reset' needed to get 440,000 young people into work, says major review",
+      "original_title": "'Complete system reset' needed to get 440,000 young people into work, says major review",
+      "summary": "Informação divulgada por BBC Business. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC Business",
+      "category": "Economia",
+      "published_at": "2026-11-16T22:32:47+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/c38xzy980924o?at_medium=RSS&at_campaign=rss",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
@@ -191,7 +256,7 @@
       "source": "RTP Notícias",
       "category": "Portugal",
       "published_at": "2026-11-16T22:05:24+00:00",
-      "article_url": "https://www.rtp.pt/noticias/futsal/sporting-volta-a-golear-e-vence-grupo-b-da-taca-intercontinental-de-futsal_d1779634",
+      "article_url": "https://www.rtp.pt/noticias/sporting/sporting-volta-a-golear-e-vence-grupo-b-da-taca-intercontinental-de-futsal_d1779634",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
@@ -379,32 +444,6 @@
       "editorial_status": "titulo_normalizado"
     },
     {
-      "id": "c24c4b689f4d8be4a85e",
-      "title": "\"O Médico dos Presidentes\". Daniel de Matos acompanhou quatro chefes de Estado",
-      "original_title": "\"O Médico dos Presidentes\". Daniel de Matos acompanhou quatro chefes de Estado",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-16T21:10:47+00:00",
-      "article_url": "https://www.rtp.pt/noticias/politica/o-medico-dos-presidentes-daniel-de-matos-acompanhou-quatro-chefes-de-estado_v1779614",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "3bb4255b927806e16228",
-      "title": "\"A conversa não foi fácil\". Europeus, ucranianos e norte-americanos preparam negociações com a Rússia",
-      "original_title": "\"A conversa não foi fácil\". Europeus, ucranianos e norte-americanos preparam negociações com a Rússia",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Mundo",
-      "published_at": "2026-11-16T21:09:22+00:00",
-      "article_url": "https://www.rtp.pt/noticias/mundo/a-conversa-nao-foi-facil-europeus-ucranianos-e-norte-americanos-preparam-negociacoes-com-a-russia_n1779607",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
       "id": "05f06b93c71bc18fd619",
       "title": "Forensic expert says his analysis of autopsy photos suggests Epstein was killed",
       "original_title": "Forensic expert says his analysis of autopsy photos suggests Epstein was killed",
@@ -543,45 +582,6 @@
       "category": "Mundo",
       "published_at": "2026-11-16T13:40:56+00:00",
       "article_url": "https://www.bbc.co.uk/news/articles/cm20vexye1d0o?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "5ba3878f9c30b6e39c32",
-      "title": "GTA 6 hacker pleads guilty after release from secure hospital",
-      "original_title": "GTA 6 hacker pleads guilty after release from secure hospital",
-      "summary": "Informação divulgada por BBC Technology. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC Technology",
-      "category": "Tecnologia",
-      "published_at": "2026-11-16T13:34:22+00:00",
-      "article_url": "https://www.bbc.co.uk/news/articles/cq99exy89dngo?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "a488884cc263f9111d6b",
-      "title": "Create more jobs for under-25s by cutting National Insurance, key report urges",
-      "original_title": "Create more jobs for under-25s by cutting National Insurance, key report urges",
-      "summary": "Informação divulgada por BBC Business. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC Business",
-      "category": "Economia",
-      "published_at": "2026-11-16T13:19:33+00:00",
-      "article_url": "https://www.bbc.co.uk/news/articles/c6p9dzmj514ko?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "af6adb32c1d7207a3b2c",
-      "title": "Ashes of exiled Nobel Laureate Miguel Ángel Asturias returned to Guatemala",
-      "original_title": "Ashes of exiled Nobel Laureate Miguel Ángel Asturias returned to Guatemala",
-      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC News",
-      "category": "Mundo",
-      "published_at": "2026-11-16T12:42:14+00:00",
-      "article_url": "https://www.bbc.co.uk/news/articles/cvde1klewg88o?at_medium=RSS&at_campaign=rss",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
