@@ -1,6 +1,45 @@
 {
-  "generated_at": "2026-11-17T23:51:02.746756+00:00",
+  "generated_at": "2026-11-18T01:10:34.471419+00:00",
   "articles": [
+    {
+      "id": "80f1f77243bd8f32df96",
+      "title": "00h Governo vai reunir com manifestantes do Porto, diz Ministro da Habitação",
+      "original_title": "00h Governo vai reunir com manifestantes do Porto, diz Ministro da Habitação",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-18T00:37:02+00:00",
+      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/00h-governo-vai-reunir-com-manifestantes-do-porto-diz-ministro-da-habitacao_a1_1779883",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "275a6b2398c71b33e672",
+      "title": "Nvidia says it won't reinstate Huang as firm reports bumper results",
+      "original_title": "Nvidia says it won't reinstate Huang as firm reports bumper results",
+      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC News",
+      "category": "Mundo",
+      "published_at": "2026-11-18T00:28:01+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "17594de277b46eef84e8",
+      "title": "Europe plans to catch the next computer chip wave",
+      "original_title": "Europe plans to catch the next computer chip wave",
+      "summary": "Informação divulgada por BBC Business. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC Business",
+      "category": "Economia",
+      "published_at": "2026-11-18T00:00:24+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/cqglwjd450k0o?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
     {
       "id": "cee18af58675001a2ac4",
       "title": "23h Portugal vence por 3-2 o País Gales numa ida a Cardiff",
@@ -15,14 +54,14 @@
       "editorial_status": "titulo_normalizado"
     },
     {
-      "id": "a7c3dafaaa180d106a05",
-      "title": "Nvidia reports bumper results as firm says it's not reinstating Huang",
-      "original_title": "Nvidia reports bumper results as firm says it's not reinstating Huang",
+      "id": "e6b9a3774af759f77cec",
+      "title": "As Trump and Xi meet, China's AI dreams face an unexpected hurdle: the Nvidia spy scandal",
+      "original_title": "As Trump and Xi meet, China's AI dreams face an unexpected hurdle: the Nvidia spy scandal",
       "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
       "source": "BBC News",
       "category": "Mundo",
-      "published_at": "2026-11-17T23:03:39+00:00",
-      "article_url": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-17T23:02:12+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/c5vg23g92rj4o?at_medium=RSS&at_campaign=rss",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
@@ -444,19 +483,6 @@
       "editorial_status": "titulo_normalizado"
     },
     {
-      "id": "2020239126fef97dc1e5",
-      "title": "A caminho da China. Trump admite encontro a sós com Putin",
-      "original_title": "A caminho da China. Trump admite encontro a sós com Putin",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Mundo",
-      "published_at": "2026-11-17T19:34:47+00:00",
-      "article_url": "https://www.rtp.pt/noticias/mundo/a-caminho-da-china-trump-admite-encontro-a-sos-com-putin_v1779842",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
       "id": "b2bb5bd50139efbf1a06",
       "title": "Carney looks to China as Trump tariffs squeeze Canada's car industry",
       "original_title": "Carney looks to China as Trump tariffs squeeze Canada's car industry",
@@ -556,32 +582,6 @@
       "category": "Mundo",
       "published_at": "2026-11-17T17:19:57+00:00",
       "article_url": "https://www.bbc.co.uk/news/articles/cq7825234lgmo?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "1c64de6a4f16b3899636",
-      "title": "We can't afford to hire under-25s, say firms. Will Milburn plans help?",
-      "original_title": "We can't afford to hire under-25s, say firms. Will Milburn plans help?",
-      "summary": "Informação divulgada por BBC Business. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC Business",
-      "category": "Economia",
-      "published_at": "2026-11-17T15:56:04+00:00",
-      "article_url": "https://www.bbc.co.uk/news/articles/c6d01e8m15mko?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "91073ff572cfe685e19d",
-      "title": "BBC reports from Kyiv bridge hit by Russian attack",
-      "original_title": "BBC reports from Kyiv bridge hit by Russian attack",
-      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC News",
-      "category": "Mundo",
-      "published_at": "2026-11-17T15:54:15+00:00",
-      "article_url": "https://www.bbc.co.uk/news/videos/cmlywvww3pzlo?at_medium=RSS&at_campaign=rss",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
