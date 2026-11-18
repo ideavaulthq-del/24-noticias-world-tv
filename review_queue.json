@@ -1,6 +1,45 @@
 {
-  "generated_at": "2026-11-18T04:34:26.700866+00:00",
+  "generated_at": "2026-11-18T05:37:31.610568+00:00",
   "articles": [
+    {
+      "id": "694e9c1fe2e21091ea3e",
+      "title": "Security flaw found in Java, world's third-largest programming language",
+      "original_title": "Security flaw found in Java, world's third-largest programming language",
+      "summary": "Informação divulgada por BBC Business. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC Business",
+      "category": "Economia",
+      "published_at": "2026-11-18T05:33:13+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/cke89jevqm1vo?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "de89495c06f9f0e54285",
+      "title": "Watch: Marco Rubio says recent tech outages are 'completely unrelated' to one another",
+      "original_title": "Watch: Marco Rubio says recent tech outages are 'completely unrelated' to one another",
+      "summary": "Informação divulgada por BBC Technology. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC Technology",
+      "category": "Tecnologia",
+      "published_at": "2026-11-18T05:10:02+00:00",
+      "article_url": "https://www.bbc.co.uk/news/videos/cx1l0vm87yl9o?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "c8488d1b726591dea2af",
+      "title": "4h Nvidia não vai reintegrar antigo presidente executivo Jensen Huang",
+      "original_title": "4h Nvidia não vai reintegrar antigo presidente executivo Jensen Huang",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-18T04:53:02+00:00",
+      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/4h-nvidia-nao-vai-reintegrar-antigo-presidente-executivo-jensen-huang_a1_1779893",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
     {
       "id": "c5b8a9a340f528248dc7",
       "title": "Jeff Bezos says he was 'heavily involved' in casting Robert Pattinson as new 007",
@@ -451,7 +490,7 @@
       "source": "BBC Technology",
       "category": "Tecnologia",
       "published_at": "2026-11-17T20:30:00+00:00",
-      "article_url": "https://www.bbc.co.uk/sounds/play/w3ct8jyw?at_medium=RSS&at_campaign=rss",
+      "article_url": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_south_asia?at_medium=RSS&at_campaign=rss",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
@@ -478,19 +517,6 @@
       "category": "Portugal",
       "published_at": "2026-11-17T20:08:57+00:00",
       "article_url": "https://www.rtp.pt/noticias/selecao-nacional/selecao-portuguesa-de-sub-21-vence-noruega-em-particular_d1779841",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "c70e6063ef8cf6862908",
-      "title": "David Brooks marca para o País de Gales",
-      "original_title": "David Brooks marca para o País de Gales",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-17T20:08:47+00:00",
-      "article_url": "https://www.rtp.pt/noticias/desporto/david-brooks-marca-para-o-pais-de-gales_v1779845",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
@@ -556,32 +582,6 @@
       "category": "Economia",
       "published_at": "2026-11-17T18:24:21+00:00",
       "article_url": "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "3ae789c1a9b395ff1166",
-      "title": "William and Kate celebrate Earthshot Prize winners in Mumbai",
-      "original_title": "William and Kate celebrate Earthshot Prize winners in Mumbai",
-      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC News",
-      "category": "Mundo",
-      "published_at": "2026-11-17T18:20:36+00:00",
-      "article_url": "https://www.bbc.co.uk/news/articles/cqlykve012d1o?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "4a81109626ab8c33704f",
-      "title": "Who to watch in Spain's election race",
-      "original_title": "Who to watch in Spain's election race",
-      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC News",
-      "category": "Mundo",
-      "published_at": "2026-11-17T18:13:45+00:00",
-      "article_url": "https://www.bbc.co.uk/news/articles/cxr5g4lyp94no?at_medium=RSS&at_campaign=rss",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
