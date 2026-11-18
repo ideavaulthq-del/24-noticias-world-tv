@@ -1,6 +1,58 @@
 {
-  "generated_at": "2026-11-18T02:33:57.019283+00:00",
+  "generated_at": "2026-11-18T03:28:22.619001+00:00",
   "articles": [
+    {
+      "id": "28805e6e902f182ce366",
+      "title": "3h Oito distritos do continente sob aviso amarelo do IPMA devido à previsão de chuva",
+      "original_title": "3h Oito distritos do continente sob aviso amarelo do IPMA devido à previsão de chuva",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-18T03:19:02+00:00",
+      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/3h-oito-distritos-do-continente-sob-aviso-amarelo-do-ipma-devido-a-previsao-de-chuva_a1_1779890",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "34e092e320c5795fc840",
+      "title": "Waymo temporarily pulls driverless taxis from all US freeways",
+      "original_title": "Waymo temporarily pulls driverless taxis from all US freeways",
+      "summary": "Informação divulgada por BBC Technology. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC Technology",
+      "category": "Tecnologia",
+      "published_at": "2026-11-18T03:07:22+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/cmy86pp336qlo?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "fe0cece767dc15ca94df",
+      "title": "2h Governo vai reunir com manifestantes do Porto diz Ministro da Habitação",
+      "original_title": "2h Governo vai reunir com manifestantes do Porto diz Ministro da Habitação",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-18T02:43:01+00:00",
+      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/2h-governo-vai-reunir-com-manifestantes-do-porto-diz-ministro-da-habitacao_a1_1779888",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "c5b8a9a340f528248dc7",
+      "title": "Jeff Bezos says he was 'heavily involved' in casting Robert Pattinson as new 007",
+      "original_title": "Jeff Bezos says he was 'heavily involved' in casting Robert Pattinson as new 007",
+      "summary": "Informação divulgada por BBC Business. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC Business",
+      "category": "Economia",
+      "published_at": "2026-11-18T02:40:45+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/cm5y1eejk292o?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
     {
       "id": "6d5017936648c5d5d1ee",
       "title": "1h Ministro da Economia: \"Sempre morreram\" pessoas nas urgências",
@@ -444,19 +496,6 @@
       "editorial_status": "titulo_normalizado"
     },
     {
-      "id": "77df885a21547ca8db66",
-      "title": "Bruno Fernandes inaugura o marcador",
-      "original_title": "Bruno Fernandes inaugura o marcador",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-17T20:06:47+00:00",
-      "article_url": "https://www.rtp.pt/noticias/desporto/bruno-fernandes-inaugura-o-marcador_v1779844",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
       "id": "400df84843a50e4e67a8",
       "title": "Speed camera fault may have allowed drivers to escape fines",
       "original_title": "Speed camera fault may have allowed drivers to escape fines",
@@ -465,19 +504,6 @@
       "category": "Economia",
       "published_at": "2026-11-17T20:04:54+00:00",
       "article_url": "https://www.bbc.co.uk/news/articles/c5y4j7z373kzo?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "71f62001ce5dc0de32cf",
-      "title": "Cimeira do Clima. Fim dos combustíveis fósseis é tema forte",
-      "original_title": "Cimeira do Clima. Fim dos combustíveis fósseis é tema forte",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Mundo",
-      "published_at": "2026-11-17T19:59:47+00:00",
-      "article_url": "https://www.rtp.pt/noticias/mundo/cimeira-do-clima-fim-dos-combustiveis-fosseis-e-tema-forte_v1779843",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
@@ -556,32 +582,6 @@
       "category": "Mundo",
       "published_at": "2026-11-17T18:13:45+00:00",
       "article_url": "https://www.bbc.co.uk/news/articles/cxr5g4lyp94no?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "7453732fbf8d4d5df1ef",
-      "title": "Trump says US taking 'very seriously' any Iranian plot against Washington",
-      "original_title": "Trump says US taking 'very seriously' any Iranian plot against Washington",
-      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC News",
-      "category": "Mundo",
-      "published_at": "2026-11-17T17:37:04+00:00",
-      "article_url": "https://www.bbc.co.uk/news/articles/cq808vzd3nnpo?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "d583f45ccad3b0125c23",
-      "title": "'It was really scary': Mother describes sheltering during Russia strikes on Kyiv bridge",
-      "original_title": "'It was really scary': Mother describes sheltering during Russia strikes on Kyiv bridge",
-      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC News",
-      "category": "Mundo",
-      "published_at": "2026-11-17T17:19:57+00:00",
-      "article_url": "https://www.bbc.co.uk/news/articles/cq7825234lgmo?at_medium=RSS&at_campaign=rss",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
