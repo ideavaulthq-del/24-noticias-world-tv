@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-11-18T01:10:34.471419+00:00",
+  "generated_at": "2026-11-18T02:33:57.019283+00:00",
   "articles": [
     {
-      "id": "80f1f77243bd8f32df96",
-      "title": "00h Governo vai reunir com manifestantes do Porto, diz Ministro da Habitação",
-      "original_title": "00h Governo vai reunir com manifestantes do Porto, diz Ministro da Habitação",
+      "id": "6d5017936648c5d5d1ee",
+      "title": "1h Ministro da Economia: \"Sempre morreram\" pessoas nas urgências",
+      "original_title": "1h Ministro da Economia: \"Sempre morreram\" pessoas nas urgências",
       "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
       "source": "RTP Notícias",
       "category": "Portugal",
-      "published_at": "2026-11-18T00:37:02+00:00",
-      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/00h-governo-vai-reunir-com-manifestantes-do-porto-diz-ministro-da-habitacao_a1_1779883",
+      "published_at": "2026-11-18T01:59:02+00:00",
+      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/1h-ministro-da-economia-sempre-morreram-pessoas-nas-urgencias_a1_1779886",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
@@ -21,8 +21,21 @@
       "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
       "source": "BBC News",
       "category": "Mundo",
-      "published_at": "2026-11-18T00:28:01+00:00",
+      "published_at": "2026-11-18T01:18:18+00:00",
       "article_url": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "80f1f77243bd8f32df96",
+      "title": "00h Governo vai reunir com manifestantes do Porto, diz Ministro da Habitação",
+      "original_title": "00h Governo vai reunir com manifestantes do Porto, diz Ministro da Habitação",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-18T00:37:02+00:00",
+      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/00h-governo-vai-reunir-com-manifestantes-do-porto-diz-ministro-da-habitacao_a1_1779883",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
@@ -465,19 +478,6 @@
       "category": "Mundo",
       "published_at": "2026-11-17T19:59:47+00:00",
       "article_url": "https://www.rtp.pt/noticias/mundo/cimeira-do-clima-fim-dos-combustiveis-fosseis-e-tema-forte_v1779843",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "2ce97fe55760fb8c2b4d",
-      "title": "Avião militar russo despenha-se na Sibéria e faz 19 mortos",
-      "original_title": "Avião militar russo despenha-se na Sibéria e faz 19 mortos",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Mundo",
-      "published_at": "2026-11-17T19:38:10+00:00",
-      "article_url": "https://www.rtp.pt/noticias/mundo/aviao-militar-russo-despenha-se-na-siberia-e-faz-19-mortos_n1779838",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
