@@ -1,6 +1,19 @@
 {
-  "generated_at": "2026-11-18T03:28:22.619001+00:00",
+  "generated_at": "2026-11-18T04:34:26.700866+00:00",
   "articles": [
+    {
+      "id": "c5b8a9a340f528248dc7",
+      "title": "Jeff Bezos says he was 'heavily involved' in casting Robert Pattinson as new 007",
+      "original_title": "Jeff Bezos says he was 'heavily involved' in casting Robert Pattinson as new 007",
+      "summary": "Informação divulgada por BBC Business. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC Business",
+      "category": "Economia",
+      "published_at": "2026-11-18T04:00:54+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/cm5y1eejk292o?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
     {
       "id": "28805e6e902f182ce366",
       "title": "3h Oito distritos do continente sob aviso amarelo do IPMA devido à previsão de chuva",
@@ -15,12 +28,12 @@
       "editorial_status": "titulo_normalizado"
     },
     {
-      "id": "34e092e320c5795fc840",
-      "title": "Waymo temporarily pulls driverless taxis from all US freeways",
-      "original_title": "Waymo temporarily pulls driverless taxis from all US freeways",
-      "summary": "Informação divulgada por BBC Technology. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC Technology",
-      "category": "Tecnologia",
+      "id": "2fca5f8136f16a8e8faa",
+      "title": "Waymo pulls driverless taxis from all US freeways",
+      "original_title": "Waymo pulls driverless taxis from all US freeways",
+      "summary": "Informação divulgada por BBC Business. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC Business",
+      "category": "Economia",
       "published_at": "2026-11-18T03:07:22+00:00",
       "article_url": "https://www.bbc.co.uk/news/articles/cmy86pp336qlo?at_medium=RSS&at_campaign=rss",
       "image_url": "",
@@ -36,19 +49,6 @@
       "category": "Portugal",
       "published_at": "2026-11-18T02:43:01+00:00",
       "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/2h-governo-vai-reunir-com-manifestantes-do-porto-diz-ministro-da-habitacao_a1_1779888",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "c5b8a9a340f528248dc7",
-      "title": "Jeff Bezos says he was 'heavily involved' in casting Robert Pattinson as new 007",
-      "original_title": "Jeff Bezos says he was 'heavily involved' in casting Robert Pattinson as new 007",
-      "summary": "Informação divulgada por BBC Business. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC Business",
-      "category": "Economia",
-      "published_at": "2026-11-18T02:40:45+00:00",
-      "article_url": "https://www.bbc.co.uk/news/articles/cm5y1eejk292o?at_medium=RSS&at_campaign=rss",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
@@ -171,9 +171,9 @@
       "editorial_status": "titulo_normalizado"
     },
     {
-      "id": "cb4cea57ccb4ee93a681",
-      "title": "Thomas Markle charged over child sex abuse material in Philippines",
-      "original_title": "Thomas Markle charged over child sex abuse material in Philippines",
+      "id": "ce13a07d57dec1c7b3cb",
+      "title": "Philippines police ask prosecutors to charge Thomas Markle over child sex abuse material",
+      "original_title": "Philippines police ask prosecutors to charge Thomas Markle over child sex abuse material",
       "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
       "source": "BBC News",
       "category": "Mundo",
