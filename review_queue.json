@@ -1,6 +1,58 @@
 {
-  "generated_at": "2026-11-19T00:24:31.430061+00:00",
+  "generated_at": "2026-11-19T01:51:19.561479+00:00",
   "articles": [
+    {
+      "id": "43af64dd0086658531dc",
+      "title": "01h Inundações em Manteigas, duas pessoas foram realojadas",
+      "original_title": "01h Inundações em Manteigas, duas pessoas foram realojadas",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-19T01:43:01+00:00",
+      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/01h-inundacoes-em-manteigas-duas-pessoas-foram-realojadas_a1_1780128",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "bde35f593f5e6e69cddc",
+      "title": "00h Elevadores. Vice da Câmara de Lisboa critica vereadores \"a fazer política\" com relatórios",
+      "original_title": "00h Elevadores. Vice da Câmara de Lisboa critica vereadores \"a fazer política\" com relatórios",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-19T01:42:02+00:00",
+      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/00h-elevadores-vice-da-camara-de-lisboa-critica-vereadores-a-fazer-politica-com-relatorios_a1_1780127",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "66665f75c31a97d44603",
+      "title": "Crimean Bridge attacked again, Russian official says",
+      "original_title": "Crimean Bridge attacked again, Russian official says",
+      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC News",
+      "category": "Mundo",
+      "published_at": "2026-11-19T01:05:03+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "cc8b84514385d7f37ec3",
+      "title": "Van Gogh painting sells for record $190.4m after row over its Nazi history",
+      "original_title": "Van Gogh painting sells for record $190.4m after row over its Nazi history",
+      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC News",
+      "category": "Mundo",
+      "published_at": "2026-11-19T00:49:19+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/c5dj1dkwzvzwo?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
     {
       "id": "e306041658cb495fd61d",
       "title": "McDonald's sex abuse: 'They were waiting for the younger girls to turn 18'",
@@ -23,6 +75,19 @@
       "category": "Portugal",
       "published_at": "2026-11-18T23:58:47+00:00",
       "article_url": "https://www.rtp.pt/noticias/pais/auditoria-elevadores-de-lisboa-goncalo-reis-considera-que-importante-e-garantir-seguranca_v1780121",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "1c9bba71761175e40306",
+      "title": "Why has Waymo pulled all its driverless cars from US freeways?",
+      "original_title": "Why has Waymo pulled all its driverless cars from US freeways?",
+      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC News",
+      "category": "Mundo",
+      "published_at": "2026-11-18T23:47:46+00:00",
+      "article_url": "https://www.bbc.co.uk/news/videos/cmx2ryw97x4go?at_medium=RSS&at_campaign=rss",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
@@ -67,9 +132,9 @@
       "editorial_status": "titulo_normalizado"
     },
     {
-      "id": "23ea1353c2d5d247bf2d",
-      "title": "Russian man accused of spying on US tech defence company that assists Ukraine",
-      "original_title": "Russian man accused of spying on US tech defence company that assists Ukraine",
+      "id": "3f2ae4b07091e9c3ac42",
+      "title": "Russian arrested for spying on US defence company Palantir over Ukraine support",
+      "original_title": "Russian arrested for spying on US defence company Palantir over Ukraine support",
       "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
       "source": "BBC News",
       "category": "Mundo",
@@ -224,8 +289,8 @@
     },
     {
       "id": "4cfcb2fb164e11dff074",
-      "title": "Can Anthropic's record breaking IPO stop the AI bubble bursting?",
-      "original_title": "Can Anthropic's record breaking IPO stop the AI bubble bursting?",
+      "title": "Can Anthropic's record-breaking IPO stop the AI bubble bursting?",
+      "original_title": "Can Anthropic's record-breaking IPO stop the AI bubble bursting?",
       "summary": "Informação divulgada por BBC Business. Consulte a publicação original para conhecer os detalhes e o contexto.",
       "source": "BBC Business",
       "category": "Economia",
@@ -431,32 +496,6 @@
       "editorial_status": "titulo_normalizado"
     },
     {
-      "id": "d559028f26aa162532a4",
-      "title": "Autarquia reforça vigilância na escola de Lisboa onde uma aluna foi agredida",
-      "original_title": "Autarquia reforça vigilância na escola de Lisboa onde uma aluna foi agredida",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-18T20:22:47+00:00",
-      "article_url": "https://www.rtp.pt/noticias/pais/autarquia-reforca-vigilancia-na-escola-de-lisboa-onde-uma-aluna-foi-agredida_v1780076",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "413af2f76949178ada84",
-      "title": "20h Parlamento aprovou um novo suplemento extraordinário das pensões para 2027",
-      "original_title": "20h Parlamento aprovou um novo suplemento extraordinário das pensões para 2027",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-18T20:18:02+00:00",
-      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/20h-parlamento-aprovou-um-novo-suplemento-extraordinario-das-pensoes-para-2027_a1_1780075",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
       "id": "14776c51d6c2487e9bc2",
       "title": "William and Kate meet PM Modi as they wrap up India tour",
       "original_title": "William and Kate meet PM Modi as they wrap up India tour",
@@ -543,45 +582,6 @@
       "category": "Europa",
       "published_at": "2026-11-18T16:24:04+00:00",
       "article_url": "https://www.bbc.co.uk/news/articles/cm2d93zpnyxeo?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "9b0ec0f54b837d16142d",
-      "title": "Trump shakes hands with Putin and Xi ahead of historic talks in China",
-      "original_title": "Trump shakes hands with Putin and Xi ahead of historic talks in China",
-      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC News",
-      "category": "Mundo",
-      "published_at": "2026-11-18T16:10:44+00:00",
-      "article_url": "https://www.bbc.co.uk/news/articles/ck9d75x5wwwwo?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "f90d591e49e1cd0a0736",
-      "title": "Parents jailed for torture and death of four-year-old girl found along French motorway in 1987",
-      "original_title": "Parents jailed for torture and death of four-year-old girl found along French motorway in 1987",
-      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC News",
-      "category": "Mundo",
-      "published_at": "2026-11-18T15:39:57+00:00",
-      "article_url": "https://www.bbc.co.uk/news/articles/c6lyw490z14jo?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "de8ebb3b9f708398dcf5",
-      "title": "Parents jailed for torture and death of four-year-old girl in France in 1987",
-      "original_title": "Parents jailed for torture and death of four-year-old girl in France in 1987",
-      "summary": "Informação divulgada por BBC Europe. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC Europe",
-      "category": "Europa",
-      "published_at": "2026-11-18T15:39:57+00:00",
-      "article_url": "https://www.bbc.co.uk/news/articles/c6lyw490z14jo?at_medium=RSS&at_campaign=rss",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
