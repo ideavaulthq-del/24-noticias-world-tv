@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-11-19T01:51:19.561479+00:00",
+  "generated_at": "2026-11-19T02:52:56.182573+00:00",
   "articles": [
+    {
+      "id": "abfcc8c2b39d0e1ae67e",
+      "title": "Elon Musk says record spending on US midterms was 'pretty foolish'",
+      "original_title": "Elon Musk says record spending on US midterms was 'pretty foolish'",
+      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC News",
+      "category": "Mundo",
+      "published_at": "2026-11-19T02:47:34+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "c5b4f04453c48cb31ff0",
+      "title": "Claude-maker Anthropic poised for stock market debut worth up to $1.5tn",
+      "original_title": "Claude-maker Anthropic poised for stock market debut worth up to $1.5tn",
+      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC News",
+      "category": "Mundo",
+      "published_at": "2026-11-19T02:20:15+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
     {
       "id": "43af64dd0086658531dc",
       "title": "01h Inundações em Manteigas, duas pessoas foram realojadas",
@@ -88,19 +114,6 @@
       "category": "Mundo",
       "published_at": "2026-11-18T23:47:46+00:00",
       "article_url": "https://www.bbc.co.uk/news/videos/cmx2ryw97x4go?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "6b28c2f58993c10ec33c",
-      "title": "Claude-maker Anthropic poised for more than $1.4tn stock market debut",
-      "original_title": "Claude-maker Anthropic poised for more than $1.4tn stock market debut",
-      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC News",
-      "category": "Mundo",
-      "published_at": "2026-11-18T23:44:27+00:00",
-      "article_url": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
@@ -569,19 +582,6 @@
       "category": "Mundo",
       "published_at": "2026-11-18T16:33:16+00:00",
       "article_url": "https://www.bbc.co.uk/news/articles/c6x284pnn4e2o?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "388daab854a75cf10cf2",
-      "title": "Budget Fiat 500s complete 4,000km Rome challenge",
-      "original_title": "Budget Fiat 500s complete 4,000km Rome challenge",
-      "summary": "Informação divulgada por BBC Europe. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC Europe",
-      "category": "Europa",
-      "published_at": "2026-11-18T16:24:04+00:00",
-      "article_url": "https://www.bbc.co.uk/news/articles/cm2d93zpnyxeo?at_medium=RSS&at_campaign=rss",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
