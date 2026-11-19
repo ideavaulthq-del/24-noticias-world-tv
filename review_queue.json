@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-11-19T03:57:32.858789+00:00",
+  "generated_at": "2026-11-19T05:05:41.411149+00:00",
   "articles": [
+    {
+      "id": "44c24b6ef75c5a6dad0c",
+      "title": "This is a remarkable diplomatic moment for China's Xi - but it comes with pitfalls",
+      "original_title": "This is a remarkable diplomatic moment for China's Xi - but it comes with pitfalls",
+      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC News",
+      "category": "Mundo",
+      "published_at": "2026-11-19T04:42:52+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/cr9d75we51j1o?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "66665f75c31a97d44603",
+      "title": "Crimean Bridge attacked again, Russian official says",
+      "original_title": "Crimean Bridge attacked again, Russian official says",
+      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC News",
+      "category": "Mundo",
+      "published_at": "2026-11-19T04:37:17+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
     {
       "id": "abfcc8c2b39d0e1ae67e",
       "title": "Elon Musk says record spending on US midterms was 'pretty foolish'",
@@ -49,19 +75,6 @@
       "category": "Portugal",
       "published_at": "2026-11-19T01:42:02+00:00",
       "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/00h-elevadores-vice-da-camara-de-lisboa-critica-vereadores-a-fazer-politica-com-relatorios_a1_1780127",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "66665f75c31a97d44603",
-      "title": "Crimean Bridge attacked again, Russian official says",
-      "original_title": "Crimean Bridge attacked again, Russian official says",
-      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC News",
-      "category": "Mundo",
-      "published_at": "2026-11-19T01:05:03+00:00",
-      "article_url": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
@@ -564,24 +577,11 @@
       "id": "3d951dd0ceb580413b02",
       "title": "'The drones don't fly here' - BBC reports from Ukraine's new front line",
       "original_title": "'The drones don't fly here' - BBC reports from Ukraine's new front line",
-      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC News",
-      "category": "Mundo",
+      "summary": "Informação divulgada por BBC Europe. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC Europe",
+      "category": "Europa",
       "published_at": "2026-11-18T17:00:04+00:00",
       "article_url": "https://www.bbc.co.uk/news/articles/c32l507ev4v4o?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "9dca0bd57ada067d57c0",
-      "title": "Julio Iglesias facing court investigation over alleged sexual offences",
-      "original_title": "Julio Iglesias facing court investigation over alleged sexual offences",
-      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC News",
-      "category": "Mundo",
-      "published_at": "2026-11-18T16:33:16+00:00",
-      "article_url": "https://www.bbc.co.uk/news/articles/c6x284pnn4e2o?at_medium=RSS&at_campaign=rss",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
