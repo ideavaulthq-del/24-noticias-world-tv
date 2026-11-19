@@ -1,6 +1,84 @@
 {
-  "generated_at": "2026-11-19T16:37:15.294036+00:00",
+  "generated_at": "2026-11-19T17:55:50.751536+00:00",
   "articles": [
+    {
+      "id": "aac095ff7f34604bcf7f",
+      "title": "Trump, Putin and Xi release 'peace declaration' after historic meeting",
+      "original_title": "Trump, Putin and Xi release 'peace declaration' after historic meeting",
+      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC News",
+      "category": "Mundo",
+      "published_at": "2026-11-19T17:38:22+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/c623j4ln97x7o?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "5b867553a4edaf0ff0f8",
+      "title": "Susan Smith denied parole again 32 years after drowning her two sons",
+      "original_title": "Susan Smith denied parole again 32 years after drowning her two sons",
+      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC News",
+      "category": "Mundo",
+      "published_at": "2026-11-19T17:23:34+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/ckdd1y09eqjmo?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "34d56f976c0943529f2d",
+      "title": "Israeli military completes ground operation in Gaza beyond Yellow Line",
+      "original_title": "Israeli military completes ground operation in Gaza beyond Yellow Line",
+      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC News",
+      "category": "Mundo",
+      "published_at": "2026-11-19T17:03:23+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "699da27e5c5086db1f9a",
+      "title": "Myanmar committed genocide against Rohingya minority, top UN court rules",
+      "original_title": "Myanmar committed genocide against Rohingya minority, top UN court rules",
+      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC News",
+      "category": "Mundo",
+      "published_at": "2026-11-19T16:55:57+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/c804wzp20ddvo?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "ce6dfa4d4ea4223c6aca",
+      "title": "Governo aprova 50 milhões de euros para reforçar capacidade das Forças Armadas",
+      "original_title": "Governo aprova 50 milhões de euros para reforçar capacidade das Forças Armadas",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Economia",
+      "published_at": "2026-11-19T16:47:49+00:00",
+      "article_url": "https://www.rtp.pt/noticias/economia/governo-aprova-50-milhoes-de-euros-para-reforcar-capacidade-das-forcas-armadas_n1780268",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "9f8b47e8d795cc45509a",
+      "title": "Governo reforça em 700 mil euros apoio às rádios afetadas",
+      "original_title": "Governo reforça em 700 mil euros apoio às rádios afetadas",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Economia",
+      "published_at": "2026-11-19T16:40:39+00:00",
+      "article_url": "https://www.rtp.pt/noticias/economia/governo-reforca-em-700-mil-euros-apoio-as-radios-afetadas_n1780262",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
     {
       "id": "d5e226e236b9a406f07d",
       "title": "Criada associação de vítimas de violência política",
@@ -36,19 +114,6 @@
       "category": "Portugal",
       "published_at": "2026-11-19T16:26:21+00:00",
       "article_url": "https://www.rtp.pt/noticias/pais/alexandra-leitao-exige-esclarecimentos-de-carlos-moedas-sobre-relatorios-dos-elevadores-de-lisboa_n1780266",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "699da27e5c5086db1f9a",
-      "title": "Myanmar committed genocide against Rohingya minority, top UN court rules",
-      "original_title": "Myanmar committed genocide against Rohingya minority, top UN court rules",
-      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC News",
-      "category": "Mundo",
-      "published_at": "2026-11-19T16:19:23+00:00",
-      "article_url": "https://www.bbc.co.uk/news/articles/c804wzp20ddvo?at_medium=RSS&at_campaign=rss",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
@@ -113,7 +178,7 @@
       "source": "RTP Notícias",
       "category": "Portugal",
       "published_at": "2026-11-19T15:48:41+00:00",
-      "article_url": "https://www.rtp.pt/noticias/fc-porto/taca-de-portugal-farioli-avisa-que-a-diferenca-de-escalao-nao-ganha-jogos_d1780259",
+      "article_url": "https://www.rtp.pt/noticias/taca-de-portugal/taca-de-portugal-farioli-avisa-que-a-diferenca-de-escalao-nao-ganha-jogos_d1780259",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
@@ -153,19 +218,6 @@
       "category": "Portugal",
       "published_at": "2026-11-19T15:25:03+00:00",
       "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/15h-mai-reitera-confianca-na-psp-mas-avisa-que-abusos-tem-consequencias_a1_1780257",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "aac095ff7f34604bcf7f",
-      "title": "Trump, Putin and Xi release 'peace declaration' after historic meeting",
-      "original_title": "Trump, Putin and Xi release 'peace declaration' after historic meeting",
-      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC News",
-      "category": "Mundo",
-      "published_at": "2026-11-19T15:23:34+00:00",
-      "article_url": "https://www.bbc.co.uk/news/articles/c623j4ln97x7o?at_medium=RSS&at_campaign=rss",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
@@ -366,32 +418,6 @@
       "editorial_status": "titulo_normalizado"
     },
     {
-      "id": "6d1c94664473d7914048",
-      "title": "Fábrica de satélites em Alverca inaugurada a 11 de dezembro",
-      "original_title": "Fábrica de satélites em Alverca inaugurada a 11 de dezembro",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Economia",
-      "published_at": "2026-11-19T14:14:07+00:00",
-      "article_url": "https://www.rtp.pt/noticias/economia/fabrica-de-satelites-em-alverca-inaugurada-a-11-de-dezembro_n1780220",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "a32b2009e258739b922e",
-      "title": "Bruxelas dá dois meses a Portugal para transpor regras sobre denunciantes e supervisão bancária",
-      "original_title": "Bruxelas dá dois meses a Portugal para transpor regras sobre denunciantes e supervisão bancária",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Mundo",
-      "published_at": "2026-11-19T14:13:49+00:00",
-      "article_url": "https://www.rtp.pt/noticias/mundo/bruxelas-da-dois-meses-a-portugal-para-transpor-regras-sobre-denunciantes-e-supervisao-bancaria_n1780207",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
       "id": "8004d90bca14e2b60f76",
       "title": "Viagogo may have broken law on hidden fees, watchdog provisionally finds",
       "original_title": "Viagogo may have broken law on hidden fees, watchdog provisionally finds",
@@ -465,19 +491,6 @@
       "category": "Mundo",
       "published_at": "2026-11-19T11:44:57+00:00",
       "article_url": "https://www.bbc.co.uk/news/articles/cm702q0lg50po?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "34d56f976c0943529f2d",
-      "title": "Israeli military completes ground operation in Gaza beyond Yellow Line",
-      "original_title": "Israeli military completes ground operation in Gaza beyond Yellow Line",
-      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC News",
-      "category": "Mundo",
-      "published_at": "2026-11-19T11:07:37+00:00",
-      "article_url": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
@@ -569,19 +582,6 @@
       "category": "Economia",
       "published_at": "2026-11-19T00:05:31+00:00",
       "article_url": "https://www.bbc.co.uk/news/articles/c6e9kn15z9d7o?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "e306041658cb495fd61d",
-      "title": "McDonald's sex abuse: 'They were waiting for the younger girls to turn 18'",
-      "original_title": "McDonald's sex abuse: 'They were waiting for the younger girls to turn 18'",
-      "summary": "Informação divulgada por BBC Business. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC Business",
-      "category": "Economia",
-      "published_at": "2026-11-19T00:00:59+00:00",
-      "article_url": "https://www.bbc.co.uk/news/articles/c6x2eve321jno?at_medium=RSS&at_campaign=rss",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
