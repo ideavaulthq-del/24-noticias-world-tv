@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T02:52:56.238886+00:00",
+  "generated_at": "2026-11-19T03:57:33.073343+00:00",
   "audits": [
     {
       "article_id": "abfcc8c2b39d0e1ae67e",
@@ -10,7 +10,7 @@
       "status": "revisao_humana_obrigatoria"
     },
     {
-      "article_id": "c5b4f04453c48cb31ff0",
+      "article_id": "36da1fa0dd1f0821ca58",
       "sources_detected": 1,
       "issues": [
         "sem_segunda_fonte_independente"
