@@ -1,6 +1,19 @@
 {
-  "generated_at": "2026-11-20T04:32:49.574001+00:00",
+  "generated_at": "2026-11-20T05:35:58.681261+00:00",
   "articles": [
+    {
+      "id": "be258b50e28308ba336b",
+      "title": "UK and EU to agree youth mobility scheme, BBC understands",
+      "original_title": "UK and EU to agree youth mobility scheme, BBC understands",
+      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC News",
+      "category": "Mundo",
+      "published_at": "2026-11-20T04:35:51+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/c623j4kpg94go?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
     {
       "id": "67854829e45e66647cb0",
       "title": "China issues Mount Fuji warning as family of missing climber offers reward",
@@ -23,19 +36,6 @@
       "category": "Economia",
       "published_at": "2026-11-20T02:54:40+00:00",
       "article_url": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "be258b50e28308ba336b",
-      "title": "UK and EU to agree youth mobility scheme, BBC understands",
-      "original_title": "UK and EU to agree youth mobility scheme, BBC understands",
-      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC News",
-      "category": "Mundo",
-      "published_at": "2026-11-20T02:40:49+00:00",
-      "article_url": "https://www.bbc.co.uk/news/articles/c623j4kpg94go?at_medium=RSS&at_campaign=rss",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
