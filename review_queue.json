@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-11-20T05:35:58.681261+00:00",
+  "generated_at": "2026-11-20T06:35:30.666867+00:00",
   "articles": [
+    {
+      "id": "57f51e77058c46671295",
+      "title": "2h OE27. Parlamento aprovou a proposta do PS do IVA zero no cabaz alimentar essencial",
+      "original_title": "2h OE27. Parlamento aprovou a proposta do PS do IVA zero no cabaz alimentar essencial",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-20T06:32:01+00:00",
+      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/2h-oe27-parlamento-aprovou-a-proposta-do-ps-do-iva-zero-no-cabaz-alimentar-essencial_a1_1780390",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "c4d67322772be3dcdf15",
+      "title": "Mouldy, infested housing for vulnerable people sold as ethical investments abroad",
+      "original_title": "Mouldy, infested housing for vulnerable people sold as ethical investments abroad",
+      "summary": "Informação divulgada por BBC Business. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC Business",
+      "category": "Economia",
+      "published_at": "2026-11-20T06:00:33+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/c6evre8j12vno?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
     {
       "id": "be258b50e28308ba336b",
       "title": "UK and EU to agree youth mobility scheme, BBC understands",
@@ -28,9 +54,9 @@
       "editorial_status": "titulo_normalizado"
     },
     {
-      "id": "3b76268b26bd6388360b",
-      "title": "GTA 6 breaks records as sales top $2.3bn - industry estimate",
-      "original_title": "GTA 6 breaks records as sales top $2.3bn - industry estimate",
+      "id": "177ff708ac057de9f580",
+      "title": "GTA 6 breaks records as estimated sales top $2.3bn",
+      "original_title": "GTA 6 breaks records as estimated sales top $2.3bn",
       "summary": "Informação divulgada por BBC Business. Consulte a publicação original para conhecer os detalhes e o contexto.",
       "source": "BBC Business",
       "category": "Economia",
@@ -184,9 +210,9 @@
       "editorial_status": "titulo_normalizado"
     },
     {
-      "id": "efccf8e893dda0577c29",
-      "title": "'I tell my son it's just fireworks': People inside besieged Yemeni city speak to BBC",
-      "original_title": "'I tell my son it's just fireworks': People inside besieged Yemeni city speak to BBC",
+      "id": "0c5fe696c6b46fd0d9f6",
+      "title": "'I tell my son it's just fireworks': Life inside Yemeni city besieged by Houthis",
+      "original_title": "'I tell my son it's just fireworks': Life inside Yemeni city besieged by Houthis",
       "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
       "source": "BBC News",
       "category": "Mundo",
@@ -483,19 +509,6 @@
       "editorial_status": "titulo_normalizado"
     },
     {
-      "id": "f16e9fffd283c9d7f5e1",
-      "title": "OE2027. Financiamento das freguesias aumenta 44 milhões de euros",
-      "original_title": "OE2027. Financiamento das freguesias aumenta 44 milhões de euros",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Economia",
-      "published_at": "2026-11-19T22:28:38+00:00",
-      "article_url": "https://www.rtp.pt/noticias/economia/oe2027-financiamento-das-freguesias-aumenta-44-milhoes-de-euros_n1780321",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
       "id": "699da27e5c5086db1f9a",
       "title": "Myanmar committed genocide against Rohingya minority, top UN court rules",
       "original_title": "Myanmar committed genocide against Rohingya minority, top UN court rules",
@@ -569,19 +582,6 @@
       "category": "Economia",
       "published_at": "2026-11-19T15:58:58+00:00",
       "article_url": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "15fc9aa0aee9b610a3c2",
-      "title": "Dozens missing after boat carrying migrants sinks off Senegal's coast",
-      "original_title": "Dozens missing after boat carrying migrants sinks off Senegal's coast",
-      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC News",
-      "category": "Mundo",
-      "published_at": "2026-11-19T15:52:26+00:00",
-      "article_url": "https://www.bbc.co.uk/news/articles/c58j484089ewo?at_medium=RSS&at_campaign=rss",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
