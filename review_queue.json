@@ -1,6 +1,58 @@
 {
-  "generated_at": "2026-11-21T17:19:32.090788+00:00",
+  "generated_at": "2026-11-21T18:15:08.503885+00:00",
   "articles": [
+    {
+      "id": "06861d4075bf4fdd38ba",
+      "title": "Famalicão goleia São João de Ver por 5-1 em jogo particular",
+      "original_title": "Famalicão goleia São João de Ver por 5-1 em jogo particular",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Mundo",
+      "published_at": "2026-11-21T17:36:03+00:00",
+      "article_url": "https://www.rtp.pt/noticias/mundo/famalicao-goleia-sao-joao-de-ver-por-5-1-em-jogo-particular_d1780811",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "1cc04523469819fbe0be",
+      "title": "17h Milhares de pessoas na manifestação da CGTP",
+      "original_title": "17h Milhares de pessoas na manifestação da CGTP",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-21T17:35:02+00:00",
+      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/17h-milhares-de-pessoas-na-manifestacao-da-cgtp_a1_1780810",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "a59aacd37cb88cffc4d4",
+      "title": "Wolverhampton de César Peixoto sobe a terceiro no Championship",
+      "original_title": "Wolverhampton de César Peixoto sobe a terceiro no Championship",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-21T17:34:12+00:00",
+      "article_url": "https://www.rtp.pt/noticias/futebol-internacional/wolverhampton-de-cesar-peixoto-sobe-a-terceiro-no-championship_d1780809",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "26f5aed284830f3987d7",
+      "title": "OE2027. Livre, PCP e BE acusam Governo de encenação e vitimização",
+      "original_title": "OE2027. Livre, PCP e BE acusam Governo de encenação e vitimização",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Economia",
+      "published_at": "2026-11-21T17:26:02+00:00",
+      "article_url": "https://www.rtp.pt/noticias/economia/oe2027-livre-pcp-e-be-acusam-governo-de-encenacao-e-vitimizacao_n1780802",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
     {
       "id": "c3d16cbce778fec3b111",
       "title": "Lisboa e Setúbal passam a aviso laranja devido à chuva",
@@ -8,7 +60,7 @@
       "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
       "source": "RTP Notícias",
       "category": "Portugal",
-      "published_at": "2026-11-21T17:13:31+00:00",
+      "published_at": "2026-11-21T17:25:28+00:00",
       "article_url": "https://www.rtp.pt/noticias/pais/lisboa-e-setubal-passam-a-aviso-laranja-devido-a-chuva_e1780804",
       "image_url": "",
       "verification_status": "fonte_unica",
@@ -191,7 +243,7 @@
       "source": "RTP Notícias",
       "category": "Portugal",
       "published_at": "2026-11-21T16:14:17+00:00",
-      "article_url": "https://www.rtp.pt/noticias/motos/motogpportugal-bezzecchi-vence-sprint-e-queda-de-marquez-adia-titulo_d1780789",
+      "article_url": "https://www.rtp.pt/noticias/motores/motogpportugal-bezzecchi-vence-sprint-e-queda-de-marquez-adia-titulo_d1780789",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
@@ -301,19 +353,6 @@
       "editorial_status": "titulo_normalizado"
     },
     {
-      "id": "f32579ff836802e85cca",
-      "title": "15h Manteigas em alerta municipal",
-      "original_title": "15h Manteigas em alerta municipal",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-21T15:23:02+00:00",
-      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/15h-manteigas-em-alerta-municipal_a1_1780778",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
       "id": "f91fdde3b46d4f20515c",
       "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
       "original_title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
@@ -322,45 +361,6 @@
       "category": "Mundo",
       "published_at": "2026-11-21T14:54:24+00:00",
       "article_url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "95fd839d609eb342f4d4",
-      "title": "Carneiro diz que Montenegro está a ser \"ingrato\" e a \"mostrar desespero\"",
-      "original_title": "Carneiro diz que Montenegro está a ser \"ingrato\" e a \"mostrar desespero\"",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-21T14:48:47+00:00",
-      "article_url": "https://www.rtp.pt/noticias/politica/carneiro-diz-que-montenegro-esta-a-ser-ingrato-e-a-mostrar-desespero_v1780770",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "9019c8a7971815098d64",
-      "title": "Taça de Portugal. União da Serra em Alvalade para jogo histórico",
-      "original_title": "Taça de Portugal. União da Serra em Alvalade para jogo histórico",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-21T14:44:47+00:00",
-      "article_url": "https://www.rtp.pt/noticias/desporto/taca-de-portugal-uniao-da-serra-em-alvalade-para-jogo-historico_v1780769",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "1228de1dc211fcb9b7a8",
-      "title": "Taça de Portugal. Sporting recebe União da Serra",
-      "original_title": "Taça de Portugal. Sporting recebe União da Serra",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-21T14:42:53+00:00",
-      "article_url": "https://www.rtp.pt/noticias/desporto/taca-de-portugal-sporting-recebe-uniao-da-serra_v1780768",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
