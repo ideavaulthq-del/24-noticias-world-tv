@@ -1,6 +1,19 @@
 {
-  "generated_at": "2026-11-21T04:55:52.431560+00:00",
+  "generated_at": "2026-11-21T05:56:03.125571+00:00",
   "articles": [
+    {
+      "id": "5c6a512360032447bbbb",
+      "title": "Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend",
+      "original_title": "Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend",
+      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC News",
+      "category": "Mundo",
+      "published_at": "2026-11-21T05:15:41+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
     {
       "id": "e44406098155e94a9897",
       "title": "4h Passos Coelho diz-se \"solidário\" com Luís Montenegro",
@@ -49,19 +62,6 @@
       "category": "Mundo",
       "published_at": "2026-11-21T04:34:00+00:00",
       "article_url": "https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "bff049a47a2da43a87f7",
-      "title": "'He's a killer': Zelensky reacts to Trump calling Putin a friend",
-      "original_title": "'He's a killer': Zelensky reacts to Trump calling Putin a friend",
-      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC News",
-      "category": "Mundo",
-      "published_at": "2026-11-21T04:32:50+00:00",
-      "article_url": "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo?at_medium=RSS&at_campaign=rss",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
@@ -262,9 +262,9 @@
       "editorial_status": "titulo_normalizado"
     },
     {
-      "id": "128c3007b1463fa735f4",
-      "title": "Dead pets were meant to be cremated - then their bodies appeared on a livestream",
-      "original_title": "Dead pets were meant to be cremated - then their bodies appeared on a livestream",
+      "id": "7b0d150717d4b1f8be96",
+      "title": "These dead pets were meant to be cremated - then their bodies appeared on a livestream",
+      "original_title": "These dead pets were meant to be cremated - then their bodies appeared on a livestream",
       "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
       "source": "BBC News",
       "category": "Mundo",
