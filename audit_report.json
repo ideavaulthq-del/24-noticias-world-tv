@@ -1,8 +1,24 @@
 {
-  "generated_at": "2026-11-21T20:17:48.253190+00:00",
+  "generated_at": "2026-11-21T21:16:46.564078+00:00",
   "audits": [
     {
+      "article_id": "8f5a298a87c52e995999",
+      "sources_detected": 1,
+      "issues": [
+        "sem_segunda_fonte_independente"
+      ],
+      "status": "revisao_humana_obrigatoria"
+    },
+    {
       "article_id": "c3d16cbce778fec3b111",
+      "sources_detected": 1,
+      "issues": [
+        "sem_segunda_fonte_independente"
+      ],
+      "status": "revisao_humana_obrigatoria"
+    },
+    {
+      "article_id": "a33e80c68c402c566927",
       "sources_detected": 1,
       "issues": [
         "sem_segunda_fonte_independente"
@@ -210,14 +226,6 @@
       "status": "revisao_humana_obrigatoria"
     },
     {
-      "article_id": "a59aacd37cb88cffc4d4",
-      "sources_detected": 1,
-      "issues": [
-        "sem_segunda_fonte_independente"
-      ],
-      "status": "revisao_humana_obrigatoria"
-    },
-    {
       "article_id": "2fe4fae561e444b7777d",
       "sources_detected": 1,
       "issues": [
@@ -235,14 +243,6 @@
     },
     {
       "article_id": "52179ec5e1f7ece4360f",
-      "sources_detected": 1,
-      "issues": [
-        "sem_segunda_fonte_independente"
-      ],
-      "status": "revisao_humana_obrigatoria"
-    },
-    {
-      "article_id": "8f5a298a87c52e995999",
       "sources_detected": 1,
       "issues": [
         "sem_segunda_fonte_independente"

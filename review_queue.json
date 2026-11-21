@@ -1,6 +1,19 @@
 {
-  "generated_at": "2026-11-21T20:17:48.215757+00:00",
+  "generated_at": "2026-11-21T21:16:46.485902+00:00",
   "articles": [
+    {
+      "id": "8f5a298a87c52e995999",
+      "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
+      "original_title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
+      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC News",
+      "category": "Mundo",
+      "published_at": "2026-11-21T21:05:29+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
     {
       "id": "c3d16cbce778fec3b111",
       "title": "Lisboa e Setúbal passam a aviso laranja devido à chuva",
@@ -8,8 +21,21 @@
       "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
       "source": "RTP Notícias",
       "category": "Portugal",
-      "published_at": "2026-11-21T20:16:00+00:00",
+      "published_at": "2026-11-21T20:22:31+00:00",
       "article_url": "https://www.rtp.pt/noticias/pais/lisboa-e-setubal-passam-a-aviso-laranja-devido-a-chuva_e1780804",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "a33e80c68c402c566927",
+      "title": "Risco de enxurradas coloca Manteigas em situação de alerta municipal",
+      "original_title": "Risco de enxurradas coloca Manteigas em situação de alerta municipal",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Mundo",
+      "published_at": "2026-11-21T20:17:47+00:00",
+      "article_url": "https://www.rtp.pt/noticias/mundo/risco-de-enxurradas-coloca-manteigas-em-situacao-de-alerta-municipal_v1780841",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
@@ -340,19 +366,6 @@
       "editorial_status": "titulo_normalizado"
     },
     {
-      "id": "a59aacd37cb88cffc4d4",
-      "title": "Wolverhampton de César Peixoto sobe a terceiro no Championship",
-      "original_title": "Wolverhampton de César Peixoto sobe a terceiro no Championship",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-21T17:34:12+00:00",
-      "article_url": "https://www.rtp.pt/noticias/futebol-internacional/wolverhampton-de-cesar-peixoto-sobe-a-terceiro-no-championship_d1780809",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
       "id": "2fe4fae561e444b7777d",
       "title": "FBI reportedly investigating apparent hack of its criminal database",
       "original_title": "FBI reportedly investigating apparent hack of its criminal database",
@@ -387,19 +400,6 @@
       "category": "Mundo",
       "published_at": "2026-11-21T13:17:38+00:00",
       "article_url": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "8f5a298a87c52e995999",
-      "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
-      "original_title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
-      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC News",
-      "category": "Mundo",
-      "published_at": "2026-11-21T13:15:21+00:00",
-      "article_url": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
