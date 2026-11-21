@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21T21:22:00.387107+00:00",
+  "updated_at": "2026-11-21T22:02:15.116690+00:00",
   "categories": {
     "world": [
       {
@@ -187,10 +187,28 @@
     ],
     "portugal": [
       {
-        "title": "Estradas inundadas e encerradas: Chuva forte está a provocar estragos em Portugal continental - Correio da Manhã",
+        "title": "Mau tempo causa estragos e inundações em Portugal continental. Avisos laranja e vermelho já foram levantados - Correio da Manhã",
         "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPOWVocVZKRzYzcGJpYllVaENyLUV6dllEUm5HeUZWQVc4bGh0b1pOQVoxel9TRkJPSm83YXg1WnAyck8zTFV6VWVGd3pObk42VGRsVUFaandNRGp2eFh5aDVYSGcxMldWeHhWdFpUa0FIOG5wRE1QY2F0My1pdWtmWTJ1WHJWdHFjOWRHYmQ5ZEhjemlzWHA1VWdfemVwUHVOZldxQUdacUpYdGllVkIxZzFsTjdJc0hrdlRia29zZ3lsNWxLUFRRa2w3bGFpdlJ2TEFKTTBhQdIB0gFBVV95cUxQVWhaZHNsX3QyUXBRMGlJR0FBclFhOXUtZUlYc0ZnakgtYXQzR3hUQ1NOeHBpa3lwUG9zYVM3RkdzU0VCYWp4VVBsQ2t1M3hydF9IY2JTTkFDaVdnOWhfZFhTSWtNb1ZMNUdzcDVmdHlROVpFN1BaM3JXOXJrUDg3TG8wTVN5bjVQbVoxMFVvRzBZQXgyelBGdERaNzFhZ2laNmhPaTdnZ0hmNkRVTGRZbVZ0ZFc2X1RpeWFFdERTSDkxdjMwbjRlYlpfRDQwMHI4bUE?oc=5",
         "source": "Correio da Manhã",
         "date": "Sat, 21 Nov 2026 14:02:00 GMT"
+      },
+      {
+        "title": "Lisboa e Setúbal passam a aviso laranja devido à chuva - CNN Portugal",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbEJHekRhNkpWTVBFQWJ0bjV4QjdGWlhHMm9pbGUtdEtJS3NrenBUWE1yTlI2NWFMWTR6cXZQZlNMcHVkX28tajhOMEk5bkxoSVpnMFFGZUVEelpKQ0EzVjZxZ09ubmxBQUV0QzhzMEVsbzdfTnhPS2tJdjVhZlF3MlUzY3RkaTFlRGgwU0o1T29vUWJudE1ZRGRFRlpVSFdUN0ZPclhWVnkyUHFsYWx0MjZ6ZW44VzhTam5Jd2xB?oc=5",
+        "source": "CNN Portugal",
+        "date": "Sat, 21 Nov 2026 17:33:56 GMT"
+      },
+      {
+        "title": "Chuva forte no fim de semana: oito distritos de Portugal sob aviso laranja. Manteigas em alerta - Euronews.com",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOLXVCU19Da21xbDdKdVNOUEg2SlNNcGRmdk1abmpZUTVWWS1zTGRtc1J1X29zaDNuazdVSUtScmJ6YVhxcU5KZnFxVEpidnJMa3dYWGFQOXRHZldYYjJ2QWhLTmFsMFNYSG1vbnd4MG9jRFZ1d0lmc1FBcWd4V1JWSnVBdnFhR1lvOHZrZmplaTNJLVRYNWRmSFBvWVE4NERqRHI2MWJfbmgyelJBcmY0bVNmRFVLSHpuV3VFWG9vcXgwZUU?oc=5",
+        "source": "Euronews.com",
+        "date": "Fri, 20 Nov 2026 19:49:40 GMT"
+      },
+      {
+        "title": "Todos os concertos marcados para 2026 e 2027 em Portugal - Expresso",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQeXQtN3pVV3JieFVRY2NBV0E1dW9seG51R0JOcExZaXpmSmMweWFMcU53SHBPWXI1MGNkNUJsQjQ0M3Y2d1p5cW1tZG0wemtwNlJZUEp6TkVfNG9NRU52Ti1XbHoyTF9SVFV5V0ZkVXRqOE5sTlptdUcyTmkweFFZWFVSbHRiZGUybG9heDBHX0Y4b0ExZmdiS3dXNmQ0Zkpfc3p2X1pmTlMwN1Y2cnc?oc=5",
+        "source": "Expresso",
+        "date": "Sat, 21 Nov 2026 21:30:00 GMT"
       },
       {
         "title": "\"Tenho muita dificuldade em compreender em que momento é que os astros se podem alinhar para que Portugal tenha uma crise política que leve a eleições\" - CNN Portugal",
@@ -199,28 +217,10 @@
         "date": "Sat, 21 Nov 2026 20:55:13 GMT"
       },
       {
-        "title": "Marítimo com cinco alterações no duelo da Taça de Portugal - dnoticias.pt",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMVN5RXk1MWEtMlhYajdRWnl0VnhBXzVXRzFsVllXZnZfRTdoLWpKX3pHLVRFckt6bEZEWTBQaUpISGE4Um5rRFJKNm1hVE1sMFE2NlVzRzdjZUJtaUpTNkJSbTBYUWxiWFF3S01kaUVNQjROV0JydnVjR0FDdWhNcm1nZ0xab05mTHp3TWNUYWNVRWpHRUVRZ2dXQWdwemdpdElFTQ?oc=5",
-        "source": "dnoticias.pt",
-        "date": "Sat, 21 Nov 2026 16:34:00 GMT"
-      },
-      {
-        "title": "Taça de Portugal: Marítimo-Desp.Chaves, 0-0 (3-2 após g.p) (crónica) - Maisfutebol",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZ0ZhQlBYQ0pWOGF2QWxDQWlFUmg5c1I4NHNTSGlnVjc0NWlPN3N0cmt4aEhNY0Ric0M0Ny1vY0xWTDJ1dEFhazV6MzdteU1ocnFkc0xOaDRvVlVjWXRfclpNbG5DUEVKMFBWSjliYW9mV3NjRUtFcFhDSF9OR0M0d1Roa1d5dU9vQjBzSHpkSjU4bldYeWVoYmczR1hBbXBGS0daNVp5QUhXZjdwNmF0aWpn?oc=5",
-        "source": "Maisfutebol",
-        "date": "Sat, 21 Nov 2026 20:33:07 GMT"
-      },
-      {
-        "title": "Taça de Portugal: Tabua(ço) tapou a baliza, para o Marítimo sorrir nos penáltis (crónica) - A Bola",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNNmJuVlpBNjdGN1l0aTNNdDAteEc2dEVrMzdpdUY2VVdPa1paVmQyN1FJMmY3VmI0ekdra0hib2QxOEtROFVyenl0U3NKcEx3ZlhPU3ZiSnlfNnd3T1BWR216LXJaYmNHeUJyOTFMNHpfdFVUZFFQSzkwVDdjZGNvOHR0Wml4N1BxcUg0UGxuYndlQjN5c1dLVjZYMEltbWozSWtKdFE0RjN6X1ZCdGlqUUdTdHBSdGZicnZqUEkyZDJQRmFkM2I1MHItQVRlUQ?oc=5",
-        "source": "A Bola",
-        "date": "Sat, 21 Nov 2026 20:13:00 GMT"
-      },
-      {
-        "title": "Taça de Portugal: Vitória-Braga ao minuto - TSF",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRjJNTHNCYlJZWjJlRkNxdFR2NlRvR0JoNUNab3Y1dnBYSGhlTnA2YU5Na2NubDhVam85YnVQUHJYSW02azJXOGM1MnBoRGZYSGx1ZHg2MmVwYjVpVDYtUG5qeVdRczVZMWZteWh3dlpERUpCY3dUOWlvNE9SdTd6Z2U4STZadE5EMGU2TQ?oc=5",
-        "source": "TSF",
-        "date": "Sat, 21 Nov 2026 20:18:25 GMT"
+        "title": "E os “gigantes” continuam a tombar na Taça de Portugal - Público",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQTBfa0tfVlZVTmdGTk9HSnQ1dExSXzd4T0NUMTBQOVpaVjhSVzBUVzFDN0MwbjZtYnFBNGNRa0xtWkxCUXRSOWthVGdOTV9nQXZmZFk2dDhpRDRuekFvcDVuZ2NVS1M1U0ZOYV9JOGVrbU9aUTZwcmNiclJOZXA1cmlkeTA0QnBUR0MwbVNXZkFOUmUzUG9TSlpQeURMVTQ?oc=5",
+        "source": "Público",
+        "date": "Sat, 21 Nov 2026 20:39:59 GMT"
       },
       {
         "title": "Proposta de Costa impõe corte de 400 milhões a Portugal no novo orçamento da União - ECO",
@@ -247,10 +247,10 @@
         "date": "Sat, 21 Nov 2026 14:44:47 GMT"
       },
       {
-        "title": "Sporting elimina União da Serra e segue para os 'oitavos' da Taça de Portugal - SIC Notícias",
-        "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQOVpGamwzN0VSU2dWaUNvdW5Da3UxTmRCQXRGUDJLUlJOTnhZOFkwbTZ2Q0NyaHhCaEFfSnFDYzJCYmZQUmdwMVdtRmlBb2xQbTYtOGEycllsYlpJeFZvbzlfTENyUjBHMWFrSnA1U2xOQ2F0WWx3QXNpbGZoeFkwVlFnaVpKZlFJS0RLb0tNanhDNnQ3YlNoTF8yN0lhNkQxNVgxMFhicnd2M0dadHJ6aFRCbHdKWXUxNTU1dEtCQzdmZTBZY1ozYkh1SjVzS2hBX1hKLVRXdzR4WkFGSklSN3Q5eUNFOWh1YjVlc09SeDk?oc=5",
-        "source": "SIC Notícias",
-        "date": "Sat, 21 Nov 2026 19:55:55 GMT"
+        "title": "Sporting goleia União da Serra e está nos oitavos de final da Taça de Portugal - RTP",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPS2xQbU8wWE5RMTB2ODY5QmpOSGFzTmQ3c2pQU2xSRnc4czNybXJVR2NzVkdzY0FVMkJfa3dCRTlCa3JneTE1RFdKdGp5cVJRZ2ZmNC1FNlhadDAwZW1qTUlUTVhIcnZWajlNNU9MZkdpMGdlbUhOU1NsVXl4VFlYQ0F1NG9aM1V2bUkxQTZDSEhNbWZlbnppbjVXVkJXbVhSVFFlTlY1MmpsUF9VbmRaeG5aNFdXUnJ1SnFuLWpZcVE0UQ?oc=5",
+        "source": "RTP",
+        "date": "Sat, 21 Nov 2026 19:55:46 GMT"
       },
       {
         "title": "Os 11 iniciais do Sporting x União da Serra - Sport TV",
@@ -259,22 +259,22 @@
         "date": "Sat, 21 Nov 2026 08:48:00 GMT"
       },
       {
+        "title": "O recorde que o Benfica está proibido de atingir na Taça de Portugal - A Bola",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQT2hIY2RMcm9NbG5HckpxVlNibUluTnlwZmJFR2llZnR5QnAxQ0RuWndaQjcyS3FMeEF6cUh4ODVBQTJ1OHZIem5JM2JGYV9QQmlXRDFpV3k3RUxFOXNkWndCQjRROXV3VjJaY0N4bHhZMi1TWEplRjJtQktlZDdKYXdoMlE2MDExbTVRLU5JMGxlVmtKdFhSZ2ZHeHVMdFJRTHh6b3VndDRjT2MwRHlfMGRZZThQelhoYlE?oc=5",
+        "source": "A Bola",
+        "date": "Sat, 21 Nov 2026 09:30:00 GMT"
+      },
+      {
         "title": "“O meu coração está aqui”. Bryan Adams voltou à escola onde estudou em Portugal - NiT New in Town",
         "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPU0tQbU9sVzNONGF5UDN3Zi14X2RkRl9EN3RjRnpMRVJSUWxIWnYzeGZ3WV9FZVpzZUYtcnd3ejVueFBMUTJJSkU1RE5EdGRIVkdZQmFoRzN2MGhPMldfVjFaTUJhTnU2cVlDOGJ2RWxYZjZkQVlrM1hhNXJsekVITTlXS1RLYnVYVWFtNGh0OHd5dnlTX1dHb2tHQlNHSFFqRWlWRV9uOGt0ckJCeWx3?oc=5",
         "source": "NiT New in Town",
         "date": "Sat, 21 Nov 2026 09:29:00 GMT"
       },
       {
-        "title": "Moody's sobe rating de Portugal pela primeira vez desde 2023 - Jornal de Negócios",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTzZtclJ5djFBMWREOEVieU5JVm9FMVVsYlVyMmpPZWZtc2otQUNGOXhNMlRTNnNWTzlZMC05QkpHemNmNXBWSk1pdUw0b0JQczFrdURVenlublZmb3M1dDFWdmxPLUNBSWJHMVdQaU1RenpxYUlycG5UUXdjWGNaYThydC1TdjBLYW5kU0R4VTdsbktZV2tQNFdFVVF5LXNj?oc=5",
-        "source": "Jornal de Negócios",
-        "date": "Fri, 20 Nov 2026 21:37:00 GMT"
-      },
-      {
-        "title": "Moody’s sobe rating de Portugal para A2 com perspetiva estável - ECO",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdVJhZ2YzTnVycjFDXzlzUmlacWZfQk5lS0Zsd1M1NFV1ZjhkeHpWdkpQTnE3eGVWYWxWS29ZTVhiWGI2M2QydGIzSnJnbVR4Y0hsa3R6Z2x4Vjhtdk9SdlJOanpzdUxRT0R2VWhNb3hCY2ZiWHpMaWVyWlpKUks3UnhfY0RJMnFVWHdGSDVJUVFfazViMU5nRg?oc=5",
-        "source": "ECO",
-        "date": "Fri, 20 Nov 2026 22:39:33 GMT"
+        "title": "Resultados da 4.ª eliminatória da Taça de Portugal - Liga Portugal",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOLUhIY3RuVF8tV2VNdnVEUU9JUFN3OVdGZlpna2tPREVmVkw1aGdOMjVxQzhaNHBuRzhDUHF5ZUpJQVluMDZDc0ZjaEFMYlhKb1g0aF9DdGs0RlRQX1B0Q3dWekdKT2ZiZUlxNV9fcUpvT3RTb3BMNzdLeDJoZUJhWFBPTjN2NFNqWFBhS0RieWo2R00?oc=5",
+        "source": "Liga Portugal",
+        "date": "Fri, 20 Nov 2026 23:49:46 GMT"
       }
     ],
     "economy": [
