@@ -1,6 +1,45 @@
 {
-  "generated_at": "2026-11-21T08:27:32.496900+00:00",
+  "generated_at": "2026-11-21T09:20:40.781592+00:00",
   "articles": [
+    {
+      "id": "4759ef4e4e3f1e2698d7",
+      "title": "09h Há três distritos com aviso vermelho do IPMA",
+      "original_title": "09h Há três distritos com aviso vermelho do IPMA",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-21T09:18:02+00:00",
+      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/09h-ha-tres-distritos-com-aviso-vermelho-do-ipma_a1_1780730",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "52131ef1f9c866784751",
+      "title": "Constituído arguido. PSP identificou autor da ameaça de bomba na convenção do Chega",
+      "original_title": "Constituído arguido. PSP identificou autor da ameaça de bomba na convenção do Chega",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-21T09:04:36+00:00",
+      "article_url": "https://www.rtp.pt/noticias/politica/constituido-arguido-psp-identificou-autor-da-ameaca-de-bomba-na-convencao-do-chega_n1780729",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "692136e3a2682248b133",
+      "title": "IPMA coloca Coimbra, Guarda e Viseu sob aviso vermelho de chuva no sábado",
+      "original_title": "IPMA coloca Coimbra, Guarda e Viseu sob aviso vermelho de chuva no sábado",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-21T08:36:47+00:00",
+      "article_url": "https://www.rtp.pt/noticias/pais/ipma-coloca-coimbra-guarda-e-viseu-sob-aviso-vermelho-de-chuva-no-sabado_n1780726",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
     {
       "id": "ab8a3f50422c3965557b",
       "title": "08h Os campeões de Futsal do Sporting chegam a Lisboa",
@@ -23,6 +62,19 @@
       "category": "Mundo",
       "published_at": "2026-11-21T08:10:25+00:00",
       "article_url": "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "553699a9cb7f8023ca71",
+      "title": "Trafalgar Square Christmas tree felled in Norway",
+      "original_title": "Trafalgar Square Christmas tree felled in Norway",
+      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC News",
+      "category": "Mundo",
+      "published_at": "2026-11-21T08:10:03+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/cx8dv4327dnpo?at_medium=RSS&at_campaign=rss",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
@@ -458,13 +510,13 @@
     },
     {
       "id": "336d14cbd20c6ef3a9d9",
-      "title": "“A irresponsabilidade paga-se caro”. Montenegro acusa PS e Chega de castigarem famílias",
-      "original_title": "“A irresponsabilidade paga-se caro”. Montenegro acusa PS e Chega de castigarem famílias",
+      "title": "\"A irresponsabilidade paga-se caro\". Montenegro acusa PS e Chega de castigarem famílias",
+      "original_title": "\"A irresponsabilidade paga-se caro\". Montenegro acusa PS e Chega de castigarem famílias",
       "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
       "source": "RTP Notícias",
-      "category": "Economia",
+      "category": "Portugal",
       "published_at": "2026-11-20T22:38:35+00:00",
-      "article_url": "https://www.rtp.pt/noticias/economia/a-irresponsabilidade-paga-se-caro-montenegro-acusa-ps-e-chega-de-castigarem-familias_n1780664",
+      "article_url": "https://www.rtp.pt/noticias/politica/a-irresponsabilidade-paga-se-caro-montenegro-acusa-ps-e-chega-de-castigarem-familias_n1780664",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
@@ -509,45 +561,6 @@
       "editorial_status": "titulo_normalizado"
     },
     {
-      "id": "3a0e840eca449cf1e746",
-      "title": "Filme de animação \"Viana - A Lenda dos Corações de Ouro\" estreia em simultâneo a versão portuguesa e inglesa",
-      "original_title": "Filme de animação \"Viana - A Lenda dos Corações de Ouro\" estreia em simultâneo a versão portuguesa e inglesa",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Cultura",
-      "published_at": "2026-11-20T22:32:51+00:00",
-      "article_url": "https://www.rtp.pt/noticias/cultura/filme-de-animacao-viana-a-lenda-dos-coracoes-de-ouro-estreia-em-simultaneo-a-versao-portuguesa-e-inglesa_n1780661",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "ee6cee123416db91ae35",
-      "title": "Daniil Medvedev conquista última vaga nas 'meias' das ATP Finals em ténis",
-      "original_title": "Daniil Medvedev conquista última vaga nas 'meias' das ATP Finals em ténis",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-20T22:22:12+00:00",
-      "article_url": "https://www.rtp.pt/noticias/tenis/daniil-medvedev-conquista-ultima-vaga-nas-meias-das-atp-finals-em-tenis_d1780651",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "3cc9240fc7f8854aac2d",
-      "title": "GTA VI regista recorde de 3,79 mil milhões de dólares em vendas no primeiro dia",
-      "original_title": "GTA VI regista recorde de 3,79 mil milhões de dólares em vendas no primeiro dia",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Economia",
-      "published_at": "2026-11-20T22:15:49+00:00",
-      "article_url": "https://www.rtp.pt/noticias/economia/gta-vi-regista-recorde-de-3-79-mil-milhoes-de-dolares-em-vendas-no-primeiro-dia_n1780655",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
       "id": "0c5fe696c6b46fd0d9f6",
       "title": "'I tell my son it's just fireworks': Life inside Yemeni city besieged by Houthis",
       "original_title": "'I tell my son it's just fireworks': Life inside Yemeni city besieged by Houthis",
@@ -569,19 +582,6 @@
       "category": "Mundo",
       "published_at": "2026-11-20T21:57:07+00:00",
       "article_url": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "27c07e5a96f92b16d630",
-      "title": "What the new UK-EU deal could mean for future post-Brexit relations",
-      "original_title": "What the new UK-EU deal could mean for future post-Brexit relations",
-      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC News",
-      "category": "Mundo",
-      "published_at": "2026-11-20T21:43:22+00:00",
-      "article_url": "https://www.bbc.co.uk/news/videos/c90k6gl3lyxeo?at_medium=RSS&at_campaign=rss",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
