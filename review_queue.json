@@ -1,6 +1,71 @@
 {
-  "generated_at": "2026-11-21T09:20:40.781592+00:00",
+  "generated_at": "2026-11-21T10:23:41.271394+00:00",
   "articles": [
+    {
+      "id": "183883981ced035c9d5b",
+      "title": "Évora, o lugar onde (de)Vagar se faz cultura",
+      "original_title": "Évora, o lugar onde (de)Vagar se faz cultura",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Cultura",
+      "published_at": "2026-11-21T10:09:12+00:00",
+      "article_url": "https://www.rtp.pt/noticias/cultura/evora-o-lugar-onde-devagar-se-faz-cultura_es1780506",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "f91fdde3b46d4f20515c",
+      "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
+      "original_title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
+      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC News",
+      "category": "Mundo",
+      "published_at": "2026-11-21T09:52:11+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "5de4e122a3f071aa61d6",
+      "title": "OE2027. \"Solidário\" com Montenegro, Passos Coelho diz que \"não aceitaria\" que fosse Parlamento a governar",
+      "original_title": "OE2027. \"Solidário\" com Montenegro, Passos Coelho diz que \"não aceitaria\" que fosse Parlamento a governar",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-21T09:41:57+00:00",
+      "article_url": "https://www.rtp.pt/noticias/politica/oe2027-solidario-com-montenegro-passos-coelho-diz-que-nao-aceitaria-que-fosse-parlamento-a-governar_n1780733",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "20b79ee4b6f787c58264",
+      "title": "Deal with EU not dependent on tuition fees agreement, Miliband says",
+      "original_title": "Deal with EU not dependent on tuition fees agreement, Miliband says",
+      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC News",
+      "category": "Mundo",
+      "published_at": "2026-11-21T09:40:55+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/cm9w9p4geke8o?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "2fe4fae561e444b7777d",
+      "title": "FBI reportedly investigating apparent hack of its criminal database",
+      "original_title": "FBI reportedly investigating apparent hack of its criminal database",
+      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC News",
+      "category": "Mundo",
+      "published_at": "2026-11-21T09:34:20+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
     {
       "id": "4759ef4e4e3f1e2698d7",
       "title": "09h Há três distritos com aviso vermelho do IPMA",
@@ -93,19 +158,6 @@
       "editorial_status": "titulo_normalizado"
     },
     {
-      "id": "f91fdde3b46d4f20515c",
-      "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
-      "original_title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
-      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC News",
-      "category": "Mundo",
-      "published_at": "2026-11-21T07:31:05+00:00",
-      "article_url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
       "id": "bbad97335574e1faceb9",
       "title": "6h Aviso vermelho de chuva para vários distritos",
       "original_title": "6h Aviso vermelho de chuva para vários distritos",
@@ -127,19 +179,6 @@
       "category": "Portugal",
       "published_at": "2026-11-21T06:22:01+00:00",
       "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/5h-convocada-manifestacao-da-cgtp-para-hoje_a1_1780715",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "20b79ee4b6f787c58264",
-      "title": "Deal with EU not dependent on tuition fees agreement, Miliband says",
-      "original_title": "Deal with EU not dependent on tuition fees agreement, Miliband says",
-      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC News",
-      "category": "Mundo",
-      "published_at": "2026-11-21T06:00:09+00:00",
-      "article_url": "https://www.bbc.co.uk/news/articles/cm9w9p4geke8o?at_medium=RSS&at_campaign=rss",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
@@ -522,19 +561,6 @@
       "editorial_status": "titulo_normalizado"
     },
     {
-      "id": "016d4b1a517ab343f8c9",
-      "title": "Filme animação português \"Viana A Lenda dos Corações de Ouro\" tem como cenário da cidade de Viana Castelo",
-      "original_title": "Filme animação português \"Viana A Lenda dos Corações de Ouro\" tem como cenário da cidade de Viana Castelo",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-20T22:37:26+00:00",
-      "article_url": "https://www.rtp.pt/noticias/pais/filme-animacao-portugues-viana-a-lenda-dos-coracoes-de-ouro-tem-como-cenario-da-cidade-de-viana-castelo_n1780663",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
       "id": "7b8e0205a02f9ba2f923",
       "title": "French police officers sentenced for beating of music producer Michel Zecler",
       "original_title": "French police officers sentenced for beating of music producer Michel Zecler",
@@ -548,19 +574,6 @@
       "editorial_status": "titulo_normalizado"
     },
     {
-      "id": "89be2e547372be3d9bb2",
-      "title": "21h AR votações adiadas para 2ªfeira por imposição do Chega que reúne esta noite no Entroncamento",
-      "original_title": "21h AR votações adiadas para 2ªfeira por imposição do Chega que reúne esta noite no Entroncamento",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-20T22:34:03+00:00",
-      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/21h-ar-votacoes-adiadas-para-2afeira-por-imposicao-do-chega-que-reune-esta-noite-no-entroncamento_a1_1780662",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
       "id": "0c5fe696c6b46fd0d9f6",
       "title": "'I tell my son it's just fireworks': Life inside Yemeni city besieged by Houthis",
       "original_title": "'I tell my son it's just fireworks': Life inside Yemeni city besieged by Houthis",
@@ -569,19 +582,6 @@
       "category": "Mundo",
       "published_at": "2026-11-20T22:14:17+00:00",
       "article_url": "https://www.bbc.co.uk/news/articles/cx7v2d8q879eo?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "bb759b0103bfa4e28613",
-      "title": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
-      "original_title": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
-      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC News",
-      "category": "Mundo",
-      "published_at": "2026-11-20T21:57:07+00:00",
-      "article_url": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
