@@ -1,6 +1,58 @@
 {
-  "generated_at": "2026-11-21T07:07:29.177084+00:00",
+  "generated_at": "2026-11-21T08:27:32.496900+00:00",
   "articles": [
+    {
+      "id": "ab8a3f50422c3965557b",
+      "title": "08h Os campeões de Futsal do Sporting chegam a Lisboa",
+      "original_title": "08h Os campeões de Futsal do Sporting chegam a Lisboa",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-21T08:24:02+00:00",
+      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/08h-os-campeoes-de-futsal-do-sporting-chegam-a-lisboa_a1_1780723",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "5c6a512360032447bbbb",
+      "title": "Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend",
+      "original_title": "Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend",
+      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC News",
+      "category": "Mundo",
+      "published_at": "2026-11-21T08:10:25+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "0090ed2b3aa774634a7c",
+      "title": "7h Convenção do Chega retoma trabalhos esta manhã",
+      "original_title": "7h Convenção do Chega retoma trabalhos esta manhã",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-21T07:33:02+00:00",
+      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/7h-convencao-do-chega-retoma-trabalhos-esta-manha_a1_1780720",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "f91fdde3b46d4f20515c",
+      "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
+      "original_title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
+      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC News",
+      "category": "Mundo",
+      "published_at": "2026-11-21T07:31:05+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
     {
       "id": "bbad97335574e1faceb9",
       "title": "6h Aviso vermelho de chuva para vários distritos",
@@ -36,19 +88,6 @@
       "category": "Mundo",
       "published_at": "2026-11-21T06:00:09+00:00",
       "article_url": "https://www.bbc.co.uk/news/articles/cm9w9p4geke8o?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "5c6a512360032447bbbb",
-      "title": "Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend",
-      "original_title": "Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend",
-      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC News",
-      "category": "Mundo",
-      "published_at": "2026-11-21T05:15:41+00:00",
-      "article_url": "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo?at_medium=RSS&at_campaign=rss",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
@@ -522,32 +561,6 @@
       "editorial_status": "titulo_normalizado"
     },
     {
-      "id": "0bea237c9c37132c53d2",
-      "title": "Israel ataca reunião com membros do Hamas que preparavam atentados",
-      "original_title": "Israel ataca reunião com membros do Hamas que preparavam atentados",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-20T22:10:20+00:00",
-      "article_url": "https://www.rtp.pt/noticias/guerra-no-medio-oriente/israel-ataca-reuniao-com-membros-do-hamas-que-preparavam-atentados_n1780648",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "d9b8548bd12ceabf4048",
-      "title": "Trump garante que não permitirá ataque iraniano com \"bomba suja\" a Washington",
-      "original_title": "Trump garante que não permitirá ataque iraniano com \"bomba suja\" a Washington",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-20T22:08:58+00:00",
-      "article_url": "https://www.rtp.pt/noticias/guerra-no-medio-oriente/trump-garante-que-nao-permitira-ataque-iraniano-com-bomba-suja-a-washington_n1780652",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
       "id": "bb759b0103bfa4e28613",
       "title": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
       "original_title": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
@@ -569,19 +582,6 @@
       "category": "Mundo",
       "published_at": "2026-11-20T21:43:22+00:00",
       "article_url": "https://www.bbc.co.uk/news/videos/c90k6gl3lyxeo?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "0f0feead5d04b87587cf",
-      "title": "Trump threatens ban on US firms building AI data centres overseas",
-      "original_title": "Trump threatens ban on US firms building AI data centres overseas",
-      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC News",
-      "category": "Mundo",
-      "published_at": "2026-11-20T20:54:12+00:00",
-      "article_url": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
