@@ -1,6 +1,19 @@
 {
-  "generated_at": "2026-11-21T11:20:57.211919+00:00",
+  "generated_at": "2026-11-21T12:20:23.578278+00:00",
   "articles": [
+    {
+      "id": "cc0bd466966bc0854312",
+      "title": "Falsa ameaça de bomba. Ventura denuncia \"tentativa de silenciar o partido\"",
+      "original_title": "Falsa ameaça de bomba. Ventura denuncia \"tentativa de silenciar o partido\"",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-21T11:26:26+00:00",
+      "article_url": "https://www.rtp.pt/noticias/politica/falsa-ameaca-de-bomba-ventura-denuncia-tentativa-de-silenciar-o-partido_n1780742",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
     {
       "id": "9dd1e52e020c20f2271e",
       "title": "10h Foi identificado o autor da ameaça de bomba na Convenção do Chega",
@@ -33,9 +46,9 @@
       "original_title": "Évora, o lugar onde (de)Vagar se faz cultura",
       "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
       "source": "RTP Notícias",
-      "category": "Portugal",
+      "category": "Cultura",
       "published_at": "2026-11-21T10:09:12+00:00",
-      "article_url": "https://www.rtp.pt/noticias/pais/evora-o-lugar-onde-devagar-se-faz-cultura_es1780506",
+      "article_url": "https://www.rtp.pt/noticias/cultura/evora-o-lugar-onde-devagar-se-faz-cultura_es1780506",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
@@ -556,19 +569,6 @@
       "category": "Portugal",
       "published_at": "2026-11-20T22:41:32+00:00",
       "article_url": "https://www.rtp.pt/noticias/futebol-internacional/bayern-munique-empata-com-colonia-e-pode-perder-lideranca-para-o-dortmund_d1780667",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "9555b25e5978010117cc",
-      "title": "22h Uma parte dos sindicatos de polícias abandonou as negociações com o governo",
-      "original_title": "22h Uma parte dos sindicatos de polícias abandonou as negociações com o governo",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-20T22:40:03+00:00",
-      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/22h-uma-parte-dos-sindicatos-de-policias-abandonou-as-negociacoes-com-o-governo_a1_1780665",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
