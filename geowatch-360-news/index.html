@@ -28,6 +28,23 @@ async function fetchNews(){
  if(fetching)return;
  fetching=true;const request=++latestRequest,button=$('refreshNews');button.disabled=true;
  setFeedStatus('A consultar fontes externas… Última consulta bem-sucedida: '+consultationTime());
+ const category=$('region').value;
+ try {
+   const response=await fetch('./news.json?t='+Date.now(),{cache:'no-store'});
+   if(response.ok){
+     const data=await response.json();
+     const items=(data.categories||{})[category]||[];
+     if(items.length){
+       externalItems=items.filter(it=>it.title&&/^https:\/\//.test(it.link)).slice(0,15);
+       if(externalItems.length){
+         lastSuccess=new Date(data.updated_at||Date.now());headlineCursor=0;
+         displayFeed(externalItems);updateNewsStage();
+         setFeedStatus(externalItems.length+' manchetes externas · Última recolha: '+consultationTime()+' · Verificação de atualizações a cada 60 s · Sem verificação editorial independente');
+         fetching=false;button.disabled=false;return;
+       }
+     }
+   }
+ }catch(e){console.warn('News JSON indisponível',e)}
  const q=queries[$('region').value];
  const rss='https://news.google.com/rss/search?q='+encodeURIComponent(q)+'&hl=pt-PT&gl=PT&ceid=PT:pt-150';
  const endpoints=['https://api.allorigins.win/raw?url='+encodeURIComponent(rss),'https://api.codetabs.com/v1/proxy?quest='+encodeURIComponent(rss),'https://api.allorigins.win/get?url='+encodeURIComponent(rss)];
