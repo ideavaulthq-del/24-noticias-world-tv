@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T02:50:24.200312+00:00",
+  "generated_at": "2026-11-21T03:52:58.892015+00:00",
   "articles": [
     {
       "id": "3c8b012d93f20eefc340",
@@ -48,7 +48,7 @@
       "source": "BBC Technology",
       "category": "Tecnologia",
       "published_at": "2026-11-21T01:00:00+00:00",
-      "article_url": "https://www.bbc.co.uk/iplayer/live/bbcnews?at_medium=RSS&at_campaign=rss",
+      "article_url": "https://www.bbc.co.uk/iplayer/episode/m0034tjc?at_medium=RSS&at_campaign=rss",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
@@ -386,7 +386,7 @@
       "source": "RTP Notícias",
       "category": "Portugal",
       "published_at": "2026-11-20T22:22:12+00:00",
-      "article_url": "https://www.rtp.pt/noticias/outras-modalidades/daniil-medvedev-conquista-ultima-vaga-nas-meias-das-atp-finals-em-tenis_d1780651",
+      "article_url": "https://www.rtp.pt/noticias/tenis/daniil-medvedev-conquista-ultima-vaga-nas-meias-das-atp-finals-em-tenis_d1780651",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
@@ -423,9 +423,9 @@
       "original_title": "Israel ataca reunião com membros do Hamas que preparavam atentados",
       "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
       "source": "RTP Notícias",
-      "category": "Mundo",
+      "category": "Portugal",
       "published_at": "2026-11-20T22:10:20+00:00",
-      "article_url": "https://www.rtp.pt/noticias/mundo/israel-ataca-reuniao-com-membros-do-hamas-que-preparavam-atentados_n1780648",
+      "article_url": "https://www.rtp.pt/noticias/guerra-no-medio-oriente/israel-ataca-reuniao-com-membros-do-hamas-que-preparavam-atentados_n1780648",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
