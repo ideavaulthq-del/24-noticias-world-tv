@@ -1,8 +1,64 @@
 {
-  "generated_at": "2026-11-20T23:22:25.684977+00:00",
+  "generated_at": "2026-11-21T00:22:10.908188+00:00",
   "audits": [
     {
-      "article_id": "7b0d150717d4b1f8be96",
+      "article_id": "e081a56780118788feba",
+      "sources_detected": 1,
+      "issues": [
+        "sem_segunda_fonte_independente"
+      ],
+      "status": "revisao_humana_obrigatoria"
+    },
+    {
+      "article_id": "47e9dbe7680481415e79",
+      "sources_detected": 1,
+      "issues": [
+        "sem_segunda_fonte_independente"
+      ],
+      "status": "revisao_humana_obrigatoria"
+    },
+    {
+      "article_id": "d969d11f7ef5f463d050",
+      "sources_detected": 1,
+      "issues": [
+        "sem_segunda_fonte_independente"
+      ],
+      "status": "revisao_humana_obrigatoria"
+    },
+    {
+      "article_id": "4a258b3b440ca0a19264",
+      "sources_detected": 1,
+      "issues": [
+        "sem_segunda_fonte_independente"
+      ],
+      "status": "revisao_humana_obrigatoria"
+    },
+    {
+      "article_id": "49d84f36156a95deb5bd",
+      "sources_detected": 1,
+      "issues": [
+        "sem_segunda_fonte_independente"
+      ],
+      "status": "revisao_humana_obrigatoria"
+    },
+    {
+      "article_id": "b601ad59ad6764f32289",
+      "sources_detected": 1,
+      "issues": [
+        "sem_segunda_fonte_independente"
+      ],
+      "status": "revisao_humana_obrigatoria"
+    },
+    {
+      "article_id": "26ee9fac02b1da1f655d",
+      "sources_detected": 1,
+      "issues": [
+        "sem_segunda_fonte_independente"
+      ],
+      "status": "revisao_humana_obrigatoria"
+    },
+    {
+      "article_id": "128c3007b1463fa735f4",
       "sources_detected": 1,
       "issues": [
         "sem_segunda_fonte_independente"
@@ -26,7 +82,7 @@
       "status": "revisao_humana_obrigatoria"
     },
     {
-      "article_id": "5422ea3d278c6074f96a",
+      "article_id": "40604de581b6acba9ec8",
       "sources_detected": 1,
       "issues": [
         "sem_segunda_fonte_independente"
@@ -42,7 +98,7 @@
       "status": "revisao_humana_obrigatoria"
     },
     {
-      "article_id": "60d0949bf16527726bbc",
+      "article_id": "03b02fcf46e7ec65de4d",
       "sources_detected": 1,
       "issues": [
         "sem_segunda_fonte_independente"
@@ -250,38 +306,6 @@
       "status": "revisao_humana_obrigatoria"
     },
     {
-      "article_id": "52e781656a5fbc7d100f",
-      "sources_detected": 1,
-      "issues": [
-        "sem_segunda_fonte_independente"
-      ],
-      "status": "revisao_humana_obrigatoria"
-    },
-    {
-      "article_id": "84f1dd3e6812f60e7571",
-      "sources_detected": 1,
-      "issues": [
-        "sem_segunda_fonte_independente"
-      ],
-      "status": "revisao_humana_obrigatoria"
-    },
-    {
-      "article_id": "07868743e2f0db95afe5",
-      "sources_detected": 1,
-      "issues": [
-        "sem_segunda_fonte_independente"
-      ],
-      "status": "revisao_humana_obrigatoria"
-    },
-    {
-      "article_id": "88d3da18db3216a1679b",
-      "sources_detected": 1,
-      "issues": [
-        "sem_segunda_fonte_independente"
-      ],
-      "status": "revisao_humana_obrigatoria"
-    },
-    {
       "article_id": "b8d8940764e8cb3b5a3b",
       "sources_detected": 1,
       "issues": [
@@ -331,30 +355,6 @@
     },
     {
       "article_id": "d05f83165b433ac849b1",
-      "sources_detected": 1,
-      "issues": [
-        "sem_segunda_fonte_independente"
-      ],
-      "status": "revisao_humana_obrigatoria"
-    },
-    {
-      "article_id": "57ded403e1756f2b0a78",
-      "sources_detected": 1,
-      "issues": [
-        "sem_segunda_fonte_independente"
-      ],
-      "status": "revisao_humana_obrigatoria"
-    },
-    {
-      "article_id": "65e02b8f1f3242a3bf80",
-      "sources_detected": 1,
-      "issues": [
-        "sem_segunda_fonte_independente"
-      ],
-      "status": "revisao_humana_obrigatoria"
-    },
-    {
-      "article_id": "7ee81a7398dd38913269",
       "sources_detected": 1,
       "issues": [
         "sem_segunda_fonte_independente"
