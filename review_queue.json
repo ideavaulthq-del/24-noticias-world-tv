@@ -1,6 +1,19 @@
 {
-  "generated_at": "2026-11-21T01:49:57.613914+00:00",
+  "generated_at": "2026-11-21T02:50:24.200312+00:00",
   "articles": [
+    {
+      "id": "3c8b012d93f20eefc340",
+      "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
+      "original_title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
+      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC News",
+      "category": "Mundo",
+      "published_at": "2026-11-21T02:09:46+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
     {
       "id": "bfe2189578d5ea53c3e3",
       "title": "01h Agência Moody's subiu o rating de Portugal A3 para A2",
@@ -35,7 +48,7 @@
       "source": "BBC Technology",
       "category": "Tecnologia",
       "published_at": "2026-11-21T01:00:00+00:00",
-      "article_url": "https://www.bbc.co.uk/iplayer/episode/m0034tjc?at_medium=RSS&at_campaign=rss",
+      "article_url": "https://www.bbc.co.uk/iplayer/live/bbcnews?at_medium=RSS&at_campaign=rss",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
@@ -319,9 +332,9 @@
       "original_title": "Filme animação português \"Viana A Lenda dos Corações de Ouro\" tem como cenário da cidade de Viana Castelo",
       "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
       "source": "RTP Notícias",
-      "category": "Cultura",
+      "category": "Portugal",
       "published_at": "2026-11-20T22:37:26+00:00",
-      "article_url": "https://www.rtp.pt/noticias/cultura/filme-animacao-portugues-viana-a-lenda-dos-coracoes-de-ouro-tem-como-cenario-da-cidade-de-viana-castelo_n1780663",
+      "article_url": "https://www.rtp.pt/noticias/pais/filme-animacao-portugues-viana-a-lenda-dos-coracoes-de-ouro-tem-como-cenario-da-cidade-de-viana-castelo_n1780663",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
@@ -423,9 +436,9 @@
       "original_title": "Trump garante que não permitirá ataque iraniano com \"bomba suja\" a Washington",
       "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
       "source": "RTP Notícias",
-      "category": "Mundo",
+      "category": "Portugal",
       "published_at": "2026-11-20T22:08:58+00:00",
-      "article_url": "https://www.rtp.pt/noticias/mundo/trump-garante-que-nao-permitira-ataque-iraniano-com-bomba-suja-a-washington_n1780652",
+      "article_url": "https://www.rtp.pt/noticias/guerra-no-medio-oriente/trump-garante-que-nao-permitira-ataque-iraniano-com-bomba-suja-a-washington_n1780652",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
@@ -569,19 +582,6 @@
       "category": "Tecnologia",
       "published_at": "2026-11-20T19:03:56+00:00",
       "article_url": "https://www.bbc.co.uk/news/articles/cwz0k3nn5p5mo?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "1718c18fdc25a1f23cf4",
-      "title": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
-      "original_title": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
-      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC News",
-      "category": "Mundo",
-      "published_at": "2026-11-20T17:49:48+00:00",
-      "article_url": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
