@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-11-22T21:20:51.519987+00:00",
+  "generated_at": "2026-11-22T22:20:29.635751+00:00",
   "articles": [
+    {
+      "id": "23621e146d45584661cf",
+      "title": "OE2027. Hugo Soares acusa PS e Chega de formarem uma \"Gerinsonsa\"",
+      "original_title": "OE2027. Hugo Soares acusa PS e Chega de formarem uma \"Gerinsonsa\"",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-22T21:26:47+00:00",
+      "article_url": "https://www.rtp.pt/noticias/politica/oe2027-hugo-soares-acusa-ps-e-chega-de-formarem-uma-gerinsonsa_v1780986",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "a3bc0fdd2a2b9f32e8ac",
+      "title": "Miley Cyrus marries Maxx Morando in California ceremony",
+      "original_title": "Miley Cyrus marries Maxx Morando in California ceremony",
+      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC News",
+      "category": "Mundo",
+      "published_at": "2026-11-22T21:22:40+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/cq8e0p87l89lo?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
     {
       "id": "c25d3dc47ef608005cb1",
       "title": "20h Ventura afirma que está pronto para ser primeiro-ministro",
@@ -85,9 +111,9 @@
       "original_title": "Drone russo provoca colapso de prédio e mata duas pessoas na Ucrânia",
       "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
       "source": "RTP Notícias",
-      "category": "Mundo",
+      "category": "Portugal",
       "published_at": "2026-11-22T20:34:47+00:00",
-      "article_url": "https://www.rtp.pt/noticias/mundo/drone-russo-provoca-colapso-de-predio-e-mata-duas-pessoas-na-ucrania_v1780980",
+      "article_url": "https://www.rtp.pt/noticias/guerra-na-ucrania/drone-russo-provoca-colapso-de-predio-e-mata-duas-pessoas-na-ucrania_v1780980",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
@@ -405,19 +431,6 @@
       "editorial_status": "titulo_normalizado"
     },
     {
-      "id": "58428b11c8950f373444",
-      "title": "Lusitânia de Lourosa vence Vitória de Sernache e segue em frente na Taça de Portugal",
-      "original_title": "Lusitânia de Lourosa vence Vitória de Sernache e segue em frente na Taça de Portugal",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-22T16:53:09+00:00",
-      "article_url": "https://www.rtp.pt/noticias/taca-de-portugal/lusitania-de-lourosa-vence-vitoria-de-sernache-e-segue-em-frente-na-taca-de-portugal_d1780950",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
       "id": "f10c69aad836f5dfaed7",
       "title": "Three killed and dozens missing after fire at Indonesian factory",
       "original_title": "Three killed and dozens missing after fire at Indonesian factory",
@@ -452,19 +465,6 @@
       "category": "Mundo",
       "published_at": "2026-11-22T09:20:45+00:00",
       "article_url": "https://www.bbc.co.uk/news/articles/cw3dgk29d37no?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "a3bc0fdd2a2b9f32e8ac",
-      "title": "Miley Cyrus marries Maxx Morando in California ceremony",
-      "original_title": "Miley Cyrus marries Maxx Morando in California ceremony",
-      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC News",
-      "category": "Mundo",
-      "published_at": "2026-11-22T08:46:28+00:00",
-      "article_url": "https://www.bbc.co.uk/news/articles/cq8e0p87l89lo?at_medium=RSS&at_campaign=rss",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
