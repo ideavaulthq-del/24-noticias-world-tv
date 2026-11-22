@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T14:03:46.500878+00:00",
+  "updated_at": "2026-11-22T14:51:27.157135+00:00",
   "categories": {
     "world": [
       {
@@ -45,12 +45,6 @@
         "date": "Thu, 05 Nov 2026 08:00:00 GMT"
       },
       {
-        "title": "World Architecture Festival 2026: anunciados os vencedores do segundo dia - ArchDaily",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNT0FsRGhRQnVQc282QjFzVUMxS0VVQUFOb192dFpZUFE4cFE0cVB6andtUGJkV3g3S1NQaV9PME1COEllRy1JMWRsajk1QS1xUWNVYXpHZEF4d2RkRzlfWE5QQzdzbG85WkZlaFk3NmxYOVlSM0dRWldvZjhqblktYlJDOXpHcEFDS1NrNHZTSXJRVmxWUmJZVF9xbFJXWWgxeGZESldkQnBPT01zVmc?oc=5",
-        "source": "ArchDaily",
-        "date": "Fri, 20 Nov 2026 09:30:00 GMT"
-      },
-      {
         "title": "Onde ver em direto e grátis Portugal vs Uruguai para a World Rugby Nations Cup na TV? - Magazine.HD",
         "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTy1MSzZLcEk1Y0x3UGlwdzR0WF9oUjRqYnV1SWJyQWo0a1NlOEMtVjItQzNJYlBldk9BZC1NUVRrYTVud05ScU9Jd2h4U1VjYWRvWXdRSmtjUG5xeGp4ZHlYZ0M3NHB3Y2N4cFJ2WEhINVU1TVRlbmhrUUhBOE5OczdQRXFHc21welFfdVE1eXl2Tkt2S3hMenJ3?oc=5",
         "source": "Magazine.HD",
@@ -91,100 +85,15 @@
         "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQU1RLbERHRWcxS0FyUldZZlA2U1pFM3EyOXV1cWRIMlhSaGl0TkxWV2loWm5EamJRcnFfZVZRSjFTM0pWLUJlZUQ4NUlVS1Y0aDlhdlFpVi14YVhaUGlLWFNnMWQ4Y3BVQjNvcHdCUHg3QWpVc1FiTWJlZkNaRUp3ZjM1RGlHZGVuU3lvdktnTWJRT1Z4R1NqZV96Mm44WTNsemctRktQZHFnWWNlSU9kdGh5Z0hZaHVZYzV3Sw?oc=5",
         "source": "Euronews.com",
         "date": "Thu, 19 Nov 2026 13:14:45 GMT"
+      },
+      {
+        "title": "Rayssa Leal e Sebastian Simonetto passam às finais da Copa do Mundo de Skate Street Utsunomiya 2026 - Olympics",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQeWJadk90aDB3SU9qaGdwY0pZZkpacGo2YVJPUXp5ZVRzQ3hWM1BobVFleG9pVTZHU2p4QXVqcnlNQjBpcGZBUTNFZHJJU3RqU3docEVFOXBSUFhtd3l4OFlYWjUyNExxQ0V1ZEs3d3Jpblg2OFQzb1d2VDV1clREaWZFNlEtaVgwLWNPdTZHLXNyTG5EWFBQa1hYNW5BbzRNN0JiWGhtN1ZkNldSVjI2MXpMLTBrR0VaZnY2U1VvZ19rNUU?oc=5",
+        "source": "Olympics",
+        "date": "Sun, 22 Nov 2026 10:35:00 GMT"
       }
     ],
-    "ukraine": [
-      {
-        "title": "Ataque russo faz desabar parte de edifício residencial na Ucrânia e deixa 14 pessoas desaparecidas - 24 Notícias",
-        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQX2laeXVuNDQtQkVIRWxBWUhCNVdzYWNtVlg5dUh5TFdTQ0NZaV9WSUVYYU1fQnpldUNNWEdvSktSeHlUQjI0YnlST092UnpYTTgwOFdBNHpwVFNYRm14RFRzbDh6al9UVzdNWG9PSVdBN1F6a085QVFmZ0ZObC12b0pSajlrbTZYZTJ0cnY5bUU5ZzZ4ZEV2VFppcVdMYTROMnBQNGtDN0pwekxVR0IxTWlMcWpuRTU0dkR3eDlMczVwNUl6QTdFOUdzSm8zZ2NrU21mREZ2NWZ6RC1X?oc=5",
-        "source": "24 Notícias",
-        "date": "Sun, 22 Nov 2026 10:20:14 GMT"
-      },
-      {
-        "title": "Portugal: EU security talks with Russia only after Ukraine peace - minister - LUSA",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNOHFqOWJrbV9yMXJCZEI5Z1pMZWdYQ0JpaGc0U1VrcWVtMnR4N0h2aERjeEVaSFp0bjVubVAzZElZd1ZzS0QyRF9QS1B4Wi1HRnhyeENHREJNMVQwTVRrR2VGQ1ZtV19nRnJlVi1WQnFUNFpTdm02aUdvZWNJT2hzV290Rl8wQkx0U2xOQ2NkSUgxZ2V1N21kREJkdlpQWU5td0xxSDZxa2JjOUFjSWNzbWtpZVJxb284cTBLanFwX2hjQ25jVjJUVw?oc=5",
-        "source": "LUSA",
-        "date": "Mon, 16 Nov 2026 14:49:00 GMT"
-      },
-      {
-        "title": "Pelo menos 14 pessoas desaparecidas após ataque russo contra edifício residencial na Ucrânia - RTP",
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQYVF0a1JKLWYwM1pMQnBDZElLZWFGdmQtbUpaR0xnWXlKbEFDQXVEZk9ZSkRBR1A0MGdkeVdYMDBSdEFOMlVmakNnd3lyVlVWYm5BRFVKNTV2dVZadEItVG1NLTJYdEJVaGI2dXFsZlV5d0FvWS1Lb2NrQXJ1bFl4Vm1BYU5PQTB3UzlhdlljNXFaZW94d1BlRzJtVFdLbGJQYU8wRndnZXFFNWxIdTZHOVRzWGtLVmRFY2ptZFMwMmRGaER2dXR6dEZFTEVHaHYx?oc=5",
-        "source": "RTP",
-        "date": "Fri, 20 Nov 2026 16:50:52 GMT"
-      },
-      {
-        "title": "Rússia lançou \"ataque vil\" com mais de 110 mísseis contra a Ucrânia e tenta \"compensar impotência militar\" - Observador",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObDhUV29TSVF3ZHk4cVhhMWpYM2YtV3NhZmU3dTBEcGxGUmFhUkxESE9fM0Z1b3NpYW4xQ3JPN05zVXdtcGpNXzhsUHVWT3I4dXZTa3N6VHU0NjB2ZndHMmNna2trdDlyd09VZ2o4aWFXNHJXaHBnOTBhNVlPb3RQR3gxdGJMUGp3cUVTel90bkkwVlJKRVJDRUlLTTRNYzI4bEJlSXVjMXZJZXAtNV9KMzRHZlBRRGJqa0VZMEVB?oc=5",
-        "source": "Observador",
-        "date": "Fri, 20 Nov 2026 14:28:00 GMT"
-      },
-      {
-        "title": "Donald Trump quer acordo de paz entre Ucrânia e Rússia fechado até janeiro - SIC Notícias",
-        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOU05zbnBocmJhMUswVG01S1I1c056ZjN6VVJhVGtGQlY5QTZNSUdZSEpjNmhHanVFdDczWG1DVmU4RnpEX1lMdFRDYlZoeGowVXoyWXFLbDJHOHhySkpVWVNxS0xsQ09hbmk4aDJEU1hKR3B4TzV0Xy05amVGVHRQM1k4WDc0X2JxRW9jS2xmS1BiNWZ5VXlJMkxSc2Z4aHhGNXZfTmEzTWFTVHRWZWhTVy1BUU5aNkJkN21rUkJ5SkNCeERZRTg5WkFGbTBtWkk2cTBYQ3hmbW0?oc=5",
-        "source": "SIC Notícias",
-        "date": "Fri, 20 Nov 2026 16:45:54 GMT"
-      },
-      {
-        "title": "Rússia garante que ponte da Crimeia atacada por Kiev vai ficar ainda melhor - Diário de Notícias",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONl9vbjJ4THIxeG1nY0pDSnYtdUg2cC1oeVF4TGpZTkh1VTZoeV9VdkpwY2wtTUdvTU8zLVJKNVFmU0JDbmpUZkh6OEJRSnFIS2NjcDJSYk84STczY2JwUmpDMUlyandoODhLMm5nUExVN0tFdTBKRy1PNHZuVnhmQlZDdFU5WFBOczlEQ0ptcDVHWkNnc0VlYzg3Y18tTW8tbFRF?oc=5",
-        "source": "Diário de Notícias",
-        "date": "Tue, 17 Nov 2026 09:54:42 GMT"
-      },
-      {
-        "title": "França condiciona conversações em Moscovo a participação em negociações diretas sobre Ucrânia - Expresso",
-        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOc3lHSkFfbG5aLUowU2lzRnNsVVh1UVZXMUV2ZTQxaXRCaDREUU5JOWptNnVNa3ZIWkJaQWZxT2NHbzVUOHYwSWdieEFEM2puSTl1ZFhNT1BudXNfaXpKR0x4a1h3VTRjWGZ2Sk1VYmc2ajQ4TVU0SEFYSUpTMkxxcEljNHB1MDdLSVIxbXlPUFhfZmdzNF85UnJTamwxVVpxZktfN0lra01URmZmYlNubjZYLXd6SW1WM2ZkU1ljYTdpZ281NHdnbXZKdDQza3pON0x3Y3NTb0VhSW9JTnhSSVpn?oc=5",
-        "source": "Expresso",
-        "date": "Fri, 20 Nov 2026 15:50:03 GMT"
-      },
-      {
-        "title": "Ponte que liga Crimeia à Rússia alvo de novo ataque, o terceiro em quatro dias - Público",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdmZnM1hoTC1XaVc4dWVfT2ZYRmFKSzN2S2YzQzczQW9HMlJ1U2p4MGxWSEJMcnIzaGJfM3puTnpzTmdSZ3NjMzFZMUJ0Z0RId3FxOGN2Mk80Z3NVN0doMTlOa1B1bmhTQ3gyWEYwd1NjNW5xUi04XzctcDBXZnVMQlVsSDFjQjRWbFRRd284U1lXWkxhLXlrUU10Vl9ZTnA2SHhXZzlFMXN2MUtFTlVNNDdiaDdPRjhDM05J?oc=5",
-        "source": "Público",
-        "date": "Thu, 19 Nov 2026 09:50:15 GMT"
-      },
-      {
-        "title": "Putin propõe viagem de europeus à Rússia para discutir paz na Ucrânia - Valor Econômico",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVWJ4dXBkalJxY0JEMjROc0ZKc0lrSWNsWmEzVVp1NVNzdE1rSGpnTS1WM3FCZkM3MWRIa1VzNzdiWnZBTEJHZVNsMUEzTGpWMERQOXpqRDdvd0E2THFhSEpqc1RCME9ybXdDRDhjZEJiSlVnWGc4UGgwREpyS0pPWk5CWWtOd0FiT0ZfNHBpdHFkVERwUmdtbFhabUx1ZEQ2U0tVSEhMN3FiUjRTbTRBV05OcHMxR2U4c3dZ0gHKAUFVX3lxTE1ib0wtQlNVc3NvV0VHNUhkX25IQjRHV0JOanhvVWhRN0VPZ1JSamczUDZIZ2RGYW5SaG1hbXFTZGpLM0FLSDU3MGlkTEswRlV5emhzZFFHc254MTYzSUNRVW0xQmRxaDR2c2NHMFcxS0VwUFpYQUhMTmVlVlZNQ1BsRGNidWZNYzd6WFVqM003UHd6NjF6ZGQtRjc2U01pVXhmalktcUNPbHVHeWp0Q2pzLXhiZWx5aXhPZmFIVTJjS3M4WENuMUc2dEE?oc=5",
-        "source": "Valor Econômico",
-        "date": "Thu, 19 Nov 2026 16:06:08 GMT"
-      },
-      {
-        "title": "Míssil russo atinge a Polônia e primeiro-ministro fala em 'provocação' - BBC",
-        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1JRjlnOFFYRXFUSGoyRG1EWVN4blVVenhaOFYzZmRCUFBJb0VNQmFtXzRaOEdjanExQkVfRmc4dE5XaktaTnBfcE84U2ZZTGlHUzhKWkRwNlJfT1QtS0tYdmp2Z9IBaEFVX3lxTE1sOEh5Q29OVUxHOER3Z3UxSjhhQ2NoMWlLcXo2U0ZVRU1UeERwQXI1QmtvQjJXeFRoUDNYVDFjZk5zSGFFaWhOcDhwTlFZdnNLNVM0ajItUDZvRTIzQ0tzQTZVR2t4QUVX?oc=5",
-        "source": "BBC",
-        "date": "Fri, 20 Nov 2026 20:08:14 GMT"
-      },
-      {
-        "title": "O presidente Trump insinua um acordo de cessar-fogo em larga escala entre a Rússia e a Ucrânia. - Vietnam.vn",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSjZiTC00czV2V1lGc3c4ek9yM0JHdnJZcmw5eXJUSHJMUm1QdVloTk1VeW5TNkdRVldOSldBRFNJZmFqUER2SDNaN3VYSGpDVzlqY2JDcWRncXRja3hlc3RWSjFYN3lEU0NRb1V1bUQ0TzRSNVRsSFN3aDM3YV9sNVZydlUxOGd2RzNKUkMxbkFIeGQyMlBKR1dKaU5kZw?oc=5",
-        "source": "Vietnam.vn",
-        "date": "Sun, 22 Nov 2026 13:35:30 GMT"
-      },
-      {
-        "title": "\"Posição de força\". Comissão Europeia propõe novo empréstimo de 45 mil milhões à Ucrânia - RTP",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPcHJmYU9LYUZQbU1qSDBla29FQjZ1T1JDcnF0cHdyQ3lOZndYaFVZTFRXU09Pc1hxX3VWWkl3Nzk3MHRtU3diZGpQVHFveFFjUU1yazFtNjRRc0ZIUzBfTWJqRHFtWldWSVJWUzFrMGExVGs3OFlnc3hmNzZ5eFdkOHM4LUpybUhXS21ZR1B3bk42SXpfZl8ybTNJVVl5b2szZ0EyYVluMk96NzBJRXNLOXdNcVh6MTZKLXlyOVlsQVVxUUljNS1z?oc=5",
-        "source": "RTP",
-        "date": "Wed, 18 Nov 2026 18:13:06 GMT"
-      },
-      {
-        "title": "Míssil russo atinge a Polônia, país-membro da Otan, durante ataque massivo à Ucrânia, e aliança condena 'graves violações' - O GLOBO",
-        "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxONjh1X1hhRWdfd1V5b01nUmc4S3BkSHhCbEhjVWM3WFE4WHJka09za3RXWHBBWnRUOTI4LVZsaWVFQU1OWXNzdmtLV3ptWTdTQnMzVVB0RmFERGMtUjBGcjFVLUFsb2R2YU9zMnd0azZZV092UG1LOE5RajhqcXRnUmJZNm9JeVlRSUlFcDRmcHg3azJQcW40cmFzU2RvVVl6M0RiMWFuYW5lUmkxRk8td2V0YzZpcHRweWFIOTFUcGg0ZVUtVnZac0NrQWFmUUVqMmRWTWJGdENQVTFsRk81TWw4bndCRlZ5NXVKWm9YY3RFZ19Ha2FtNWdIS2ItVm1oYThr0gGSAkFVX3lxTE43T1JFcDBidGJSVG1FUGhUaEZ1VGR2UkFKWEtlSmZYLVkzVjJjcHFZWU83SF9BYmtaVGItbGl5amliVm1XXzVZOFROcXRWbzBQT3c4cnlVNlYzUjRsRm90SDZuRWN2VGpnaVVRTEN1UjhMVnNPb2ZmSUZuQjBLY19CZEw2bnVLNnNjYkVEM0gwX2FuUlJOUGtwM0NiR0xPb0Q4b1NqXzN5SjJsLWJfVC1SX2pVRU1FbkVZVWJkVjVzUGZqNHpneHV1b0FFWFg4a09mVGtoSjZCU0lxeXJWQm4ybXZySnBCSERHZE5OSmJsdnJCVnNmV2VoLWVyeS1fbjctVGxiMEJ1cDdyZVdrbWNVVnc?oc=5",
-        "source": "O GLOBO",
-        "date": "Fri, 20 Nov 2026 14:45:19 GMT"
-      },
-      {
-        "title": "Ucrânia voltou a atingir ponte da Crimeia: “É um golpe no prestígio de Putin, além de representar um grave problema militar” - Expresso",
-        "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPbUNRNFQ2MFpHcmg3d3hEVnpyTDBpalRUV2hBR3VtYU40NHpVemNqY193UHdNWGxOVEg4ZlhrbzJyVGJ0YUY0elptMkFyZE9yeHpvQXBOWGNFQ202UkJVUWpQaUFFazdhQ2dSNWJFU3N5NURwNkE1Tmp2SThxZWdDd1g1VVdaQW5xZG5mdG9XU1dYaHdDeURlMUQ1WDJRWXNyQTlIdnVzOExUNG5tT0pzRktoSlFtZ1liTDQ0VDYwTVBmTEJXUDE1Uy1ydWVmSUZYU2Foc2hJTlZFOXh2UjNNZExnbVozZkEweEhXNGJsc2RfT09JVHlGVFNLU25aVHJaQVdHYVRB?oc=5",
-        "source": "Expresso",
-        "date": "Thu, 19 Nov 2026 16:45:49 GMT"
-      },
-      {
-        "title": "2026-10-30T125827Z_1_LWD443030102026RP1_RTRWNEV_C_4430-UKRAINE-CRISIS-RUSSIA-REFINERY-UGC - (9x16)_1 - CNN Portugal",
-        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPaE1OcDJ5dmJPYXZ5MDVmbENib3YyVDJGY1ZSWUt5Tm9JQk1GZm9ydU45RE5xU2dvdk9CNEs3dHptUVJTVkRZQVFDVFJzRnFKSUFUZ01ycEdNTXRINlBXZUZJNVZwRTNHeXVDa3Y2ZzFzS2ZlX1B1X24tRjdjcTFGbGYtTG5fdFRhOUkySDNyNHVtTEhqeUM3NUh1YmdtUmVrbEhrbXdQaHNMRGNTNERGZlJ1a1cwYXdrd0RITVdpZnNRbGJPMEtQWmlTNmJnRlJST19xdGJFTGpJV2VIUzdMeGczWEVRTEtoZ3dB?oc=5",
-        "source": "CNN Portugal",
-        "date": "Tue, 10 Nov 2026 19:12:00 GMT"
-      }
-    ],
+    "ukraine": [],
     "portugal": [
       {
         "title": "Mau tempo causa estragos e inundações em Portugal continental. Avisos laranja e vermelho já foram levantados - Correio da Manhã",
@@ -193,28 +102,16 @@
         "date": "Sat, 21 Nov 2026 14:02:00 GMT"
       },
       {
-        "title": "Moto GP: Márquez tenta título em Portugal - A Bola",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBybkhWa0VMUkNBVXVSY1NlM2ZkNk5fblZOSXdvb0hJanczcXpqRmtWY2N5bEw1NFRxbnp4MDUwOXJVUExGZ2RNTXZselF3UWgyYU5iLXYyV0tTTUNsSjduWTlzSTNPblVUaHpCNnItZnluMUNlWlA3OF9R?oc=5",
-        "source": "A Bola",
-        "date": "Sun, 22 Nov 2026 12:30:00 GMT"
+        "title": "Em quatro anos entraram em Portugal 1,57 milhões de imigrantes? - SIC Notícias",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQXdnX0tlTFFsOFYzdDRNMGVrcDk4cDJuN0ZXX1RuZnIyTnZsUzhwd2dBRkNneVJrNHVrNkt5cEktSjYzWTJuT1A2cDZwcUVOdVBDRVh1R2UwMG11TWpEUmt6RWJGVFJjbWJQOGI0UEJuakw4UTFBOUpaWEpraFZMREVfVW5FOHpLb19GYVZMcFlPS1ZXZEdKaHptWGJwS3M3TzhQRTB5YXVyYlJkLVNQZkFGT0hKM2Yy?oc=5",
+        "source": "SIC Notícias",
+        "date": "Fri, 20 Nov 2026 08:00:00 GMT"
       },
       {
-        "title": "MotoGP: Marc Márquez é campeão do mundo em Portugal - A Bola",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQc29WY2NMVVhnWlNoOUFzTFE3aVZTZ244andkWXdnQ2xTcTRzSDBVR1cwMEZra2JoRjRwTFF4emdRRlN3ZFpBODFrVGgzbF9JSXFXbVpRUFpNRTBkeGI0TDcwYTc0S09BbDAzejVmWnRJcUUyOV9Sd0JCXzR0VnNuWDFUSThoS1c1eFdSeHFqZnRiZkNCM3JndElsOHFrUjFZRHc?oc=5",
+        "title": "Surpreenda-se com alguns! Os jogadores mais bem pagos em Portugal fora dos três grandes - A Bola",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPQlNna09iVUppaDF5NjFLM3hWR2Rfb3ZSUnBDMDJjYTJ0XzRhOWZxTjdNLWxsM1dTdjhyaDMyeTJwS2tHREFLS3lwcUR2Q21FR3A2bm43UzVFaHNkdnhsYzhoUTlZcXh1a1VFM19WbzVRaUJvT1RSUzh1QnhwaGRnelNtQ3ZRUi0tWnhKekVSd01FeEtpbWhOUUotckpaVDVDWHYycGYzT3lmbkhQU1hhWlhEZENVa2JQRGw1dDhhQWJ0NnVGMlRRY1lhbG1jdWpXNEE?oc=5",
         "source": "A Bola",
-        "date": "Sun, 22 Nov 2026 13:43:00 GMT"
-      },
-      {
-        "title": "MotoGP: Marc Márquez é campeão do Mundo pela oitava vez - CNN Portugal",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNXo4Q2JDckJyQktZYkRLYUpNc0hTSHBnOVRXTm5felNaTV9WWTdDTHVfTVhweTVTdTZwb2pHdW9OR1pobUxVcm5jRUg3VWZ3dUNCdVZYeDhwYkUxU3lDTWVPX25iQlUtQTc3dnZjc2FaWDRiZmVSQU5ySi10VkR5cjhfeWUydk02NzhlRVVOM3lWYUoyakE5eUY2TUE5eFdyLXBLc1gwSUtQWmdkVldsbA?oc=5",
-        "source": "CNN Portugal",
-        "date": "Fri, 20 Nov 2026 19:13:00 GMT"
-      },
-      {
-        "title": "Reviravolta coloca a Académica nos oitavos de final da Taça de Portugal - A Bola",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcWJENE5BT1Y0aUtETk9YWS1hbzJmay1rU3VuM0FncnZadGNPMDJmbjNWMnlxWklRNVdXbFR2T3MwcmRGTXk5MEJVWHJGb2JxZ3k1WFNhalBsaExkaUNveUdXRnYteDhQbWFCazhZMExrSVpldlo2amE5MU1zaC1sQkt6Qm1Va2ZwY1V6TnZ2S21YaGFQQXpRZ1dSYlhKeWsxYU5zUUVZQXloNGJfdWZYeVdRUWIyeExwU3pMWUtR?oc=5",
-        "source": "A Bola",
-        "date": "Sun, 22 Nov 2026 13:18:00 GMT"
+        "date": "Sun, 22 Nov 2026 11:54:00 GMT"
       },
       {
         "title": "\"Uma sala de aula é um cemitério de talentos\": José Pacheco, o homem que desafiou a escola portuguesa e agora se sente derrotado - CNN Portugal",
@@ -223,16 +120,34 @@
         "date": "Sun, 22 Nov 2026 08:03:49 GMT"
       },
       {
-        "title": "Quem compra casas acima de um milhão de euros em Portugal e porque é que algumas desaparecem em dias? - SIC Notícias",
-        "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOdDdkeG1SOHVRYi1HOTAtZUgwOWt4eUxGbFU4TkRmR1pTVnJHTzVtQjNBQW03V2JpNkxtNFlRUWVzZFo3VE9XY2JLbHFvV2pfNm96cGZyU2FDb3dlclMwT1BTUVhzVTVVdlJPekxtajRvQkVackFpT2MwNW9BRDJCZFI5MjQ2Z196S1FUUDVzMWpvUlFCQS03YllGaWsyd2NYeHJJYzNBcWJiT2NlVEZGdXJNWGxsY3RGYXRaaDdReUNRaWZ5LUVPaWFiQmZmMDd2bzk0eml3alp4Q09nbE9reUVWUXJpTFVuUHcxWDlzTjFBVUpaTEE?oc=5",
-        "source": "SIC Notícias",
-        "date": "Sun, 22 Nov 2026 07:30:00 GMT"
+        "title": "Portugal, França e Espanha: milhares protestam contra custo de vida e desigualdade social - Euronews.com",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOalJQU2VyZlVjNE5HVWg0NnI1MmlNNHNxaldTN1FiUzBIYUYwcjNub3A2ekhBS2xZUi1qTDFUVHBDTFpJdFM2Qjh2LUREY3dpU1RIS292VFFyRW04SXlxQnBIUmNNYXRybnR5bmxrN2I5THhHWTM2aFBvc3hhYzlBX0JyVmoxMXQ4bk9fNUtXNXhWOWl5Mzk4dGUyc2ZNWWVCSnQ3bXZzdmxCSkRrSVVSeXFYdkdlRmV3Q25IR2pBQQ?oc=5",
+        "source": "Euronews.com",
+        "date": "Sun, 22 Nov 2026 07:09:54 GMT"
+      },
+      {
+        "title": "Futebol: Taça de Portugal - SCU Torreense x SL Benfica - RTP",
+        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5xSUl6UXVLaERpTlYyRk9Xa1p1azBRUDljR3dZWmxaMWxMOGlZNWt5UWR5OVNMdE9PT0ZxcWNLMWRjQTAxbmt0ODVpTEkyQQ?oc=5",
+        "source": "RTP",
+        "date": "Sun, 22 Nov 2026 00:50:27 GMT"
       },
       {
         "title": "E os “gigantes” continuam a tombar na Taça de Portugal - Público",
         "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQTBfa0tfVlZVTmdGTk9HSnQ1dExSXzd4T0NUMTBQOVpaVjhSVzBUVzFDN0MwbjZtYnFBNGNRa0xtWkxCUXRSOWthVGdOTV9nQXZmZFk2dDhpRDRuekFvcDVuZ2NVS1M1U0ZOYV9JOGVrbU9aUTZwcmNiclJOZXA1cmlkeTA0QnBUR0MwbVNXZkFOUmUzUG9TSlpQeURMVTQ?oc=5",
         "source": "Público",
         "date": "Sat, 21 Nov 2026 20:39:59 GMT"
+      },
+      {
+        "title": "Sporting de Braga afasta Vitória de Guimarães da Taça de Portugal - RTP",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYkp0cXJCZFlMREpUU3piMllCeWhTbmZjQ0lrd01SYjgybHZnRlByZTdnZ0ZMSlFrQ0hkWjlrZWU1QTFUZkI5WURsM0ZQS1c2dExkTXBwcFRYVTBaeW9XUW9LYnhzZWhFUHZyajh2a00ta2xYSEhrbkQ0M2NzYk9BaGppUWt5S2ROMjctV3pkd3dPUWR1U0VDclNmZS1FNmtSMmlfbVhJNW9WZlhjb1dYcjB0SjNoZFBIQ1pF?oc=5",
+        "source": "RTP",
+        "date": "Sat, 21 Nov 2026 22:32:05 GMT"
+      },
+      {
+        "title": "Reviravolta coloca a Académica nos oitavos de final da Taça de Portugal - A Bola",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcWJENE5BT1Y0aUtETk9YWS1hbzJmay1rU3VuM0FncnZadGNPMDJmbjNWMnlxWklRNVdXbFR2T3MwcmRGTXk5MEJVWHJGb2JxZ3k1WFNhalBsaExkaUNveUdXRnYteDhQbWFCazhZMExrSVpldlo2amE5MU1zaC1sQkt6Qm1Va2ZwY1V6TnZ2S21YaGFQQXpRZ1dSYlhKeWsxYU5zUUVZQXloNGJfdWZYeVdRUWIyeExwU3pMWUtR?oc=5",
+        "source": "A Bola",
+        "date": "Sun, 22 Nov 2026 13:18:00 GMT"
       },
       {
         "title": "Proposta de Costa impõe corte de 400 milhões a Portugal no novo orçamento da União - ECO",
@@ -259,22 +174,16 @@
         "date": "Sun, 22 Nov 2026 09:03:15 GMT"
       },
       {
-        "title": "Taça: os onzes prováveis para o Torreense-Benfica - CNN Portugal",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSXU3VGhrVVBOajFCWTZZUEFjYUlSalBWZDktMXlsREdvY2kzeEMxek44VWdFTXJfM0tzQ0lVRWlOM2NNRFdaT0plR29aTGh4RDAwWkRUdGhXM2VrXy1VVjh1NndqRXhjZE1raXFGa2d2TVM1WVJ6cGFnSU9CVlNrZWNIeU9xel9XellETFc2QkpaR0lFRmZ5YmRqSFlZV0NyZnJxRkFfdS1YQQ?oc=5",
-        "source": "CNN Portugal",
-        "date": "Sun, 22 Nov 2026 10:29:49 GMT"
+        "title": "Banco de Portugal altera regras de implementação da política monetária do Eurosistema - Jornal PT50",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdTd6LTVwc050VUZYd0JPdzRTeHIwcTNtQXNxOFRKSWNxdlhzS0FZdXI1a2RXNW9iUnlJR0FxZXBXYkM2ME8zdkxGazEyR2JzN3lKakJNNE1DbVA4Uk5MZnRWTDkzZUFkSnZkTzZ0ZDJZQ0hndnJzbFdiZGZfVnlvbm5JWWQ5S05scWsyU182MnNPeXpydnUya2VOUjA1SzBIU3ZzZEQ4M0hsZHZSdW1mZ19OclBsN0U?oc=5",
+        "source": "Jornal PT50",
+        "date": "Sun, 22 Nov 2026 07:13:00 GMT"
       },
       {
-        "title": "Futebol: Taça de Portugal - SCU Torreense x SL Benfica - RTP",
-        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5xSUl6UXVLaERpTlYyRk9Xa1p1azBRUDljR3dZWmxaMWxMOGlZNWt5UWR5OVNMdE9PT0ZxcWNLMWRjQTAxbmt0ODVpTEkyQQ?oc=5",
-        "source": "RTP",
-        "date": "Sun, 22 Nov 2026 00:50:27 GMT"
-      },
-      {
-        "title": "Marco Silva destaca importância especial da Taça de Portugal - SAPO",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeVZwVTZfaFNfd2VZQTlYaV9TWGFTODJEemhQVFZhZGN0cmdZTm9XaTlTNkI3elhaT1VoNl9CQU5la2gwX1l0bUxGYlFNcGxjVmQteDh2ZlNGMnNjd3l2NUtNd092ZUtTdDU4Z21RYW1oaW00Sm4yZVRra043bmJQa25LcjZZWHk1WkNGTWdmOG55dmlKZ1IycFdCUTNTQ3k3ejNpdUhieC1waUJr?oc=5",
-        "source": "SAPO",
-        "date": "Sat, 21 Nov 2026 17:11:00 GMT"
+        "title": "Veja o Torreense x Benfica na Sport TV - Sport TV",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOWUQyRW4yMXE0RFo5X2I3QWtSRU1BT3RjMmIxd3YtLWs1LUY2Zi1La2RzaHp3VTZHdVU4Njd3X3gzdXVITWFUMWRMaHVwVXY0YnJPVmZQZDN0cWExUzVoZDZnSVczY013eHdaOTZfbEFyUzRQb3FmcUltdHpiQ2ZkMkszSQ?oc=5",
+        "source": "Sport TV",
+        "date": "Sun, 22 Nov 2026 11:03:17 GMT"
       }
     ],
     "economy": [
@@ -333,9 +242,9 @@
         "date": "Tue, 16 Jan 2024 06:27:51 GMT"
       },
       {
-        "title": "President Lula launches National Energy Transition Policy, expected to bring BRL 2 trillion in investment - www.gov.br",
+        "title": "President Lula launches National Energy Transition Policy, expected to bring BRL 2 trillion in investment - GOV.BR",
         "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNV21oTDdpSzU4U3RieDlTWmJuVEN4bFdRRTZOLUhIaWdwLW1yZ3pQYUtWYkxZMGI1UEN5LW5ydGFFM1JPckVsNUpQNkNtMFlCRl9JV1MtX25pUjJTTjAtQ0ZsOFlfbXZ5VjFTaXhmN3lGeUdmZGxVVVJfd3JxYkItSk1wYkg3cGR4OUo1ZnRPT0pJRHV4eEdkd1R3OVhZYnpETldkcWZkeGVwc3lVZURPeUstUjBlNjIxWVZBc1NYX1oyMXdhZTd6blNveEkxMG9qZkRtSmZEN0V3ZVF0TG9wSnJxZk8?oc=5",
-        "source": "www.gov.br",
+        "source": "GOV.BR",
         "date": "Tue, 27 Aug 2024 07:00:00 GMT"
       },
       {
@@ -363,10 +272,10 @@
         "date": "Fri, 04 Nov 2022 07:00:00 GMT"
       },
       {
-        "title": "How Chinese enterprises are acting on climate by meeting China's dual carbon goals - World Economic Forum",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRUUzbzRCOHRzQTBqc003MGtZNDJUNGtmUTdRNDZIN0Jqc0NHRGdxSmVJN0t1N1FyZEVPOTZNVG9VVkFPOVNSLS10dWFpdHFQbXBCQ29zZ1k1eDVGY0U1TEMzOU5rMkRMLV9vNWpaSDB5QmdhMS03b05laWc0MHJCYWpBdUxJRWtQSHlHWWczNUtJaVlMSC00?oc=5",
-        "source": "World Economic Forum",
-        "date": "Thu, 27 Jul 2023 07:00:00 GMT"
+        "title": "Lula enacts Fuel of the Future law: “Brazil will drive the world's largest energy revolution” — Planalto - www.gov.br",
+        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOaTRVQktpV2RTcWNNSG5KWGJvQXRMajN0VF9oSEVCTUo1bTdwZ1V5ZVFObVl1QlBQbm42UjB2Y3NjcFBoLW5zTXhYcnBkRkpxb3lrZkh4Q2Q1dHFEN1Bjc1VoZ3BfUjVCdC0wVFZvRE9ZeDh3WTRRaEFPM2NscDljbl9hM3Q5bFRCMkZNZXZvdGIwUENUaDBmRmk4aTA4N21ZdlRPeG5xcXIweVRnNXBtRmthQ2doT0J1RTdPc0VGSHFWNmV4a0VWNlNUTHZRYWtYUzlmQmxJZ0tWQ19ma1dIUDVR?oc=5",
+        "source": "www.gov.br",
+        "date": "Wed, 09 Oct 2024 07:00:00 GMT"
       }
     ]
   }
