@@ -1,6 +1,58 @@
 {
-  "generated_at": "2026-11-21T23:14:55.134281+00:00",
+  "generated_at": "2026-11-22T00:12:48.980830+00:00",
   "articles": [
+    {
+      "id": "2fe4fae561e444b7777d",
+      "title": "FBI reportedly investigating apparent hack of its criminal database",
+      "original_title": "FBI reportedly investigating apparent hack of its criminal database",
+      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC News",
+      "category": "Mundo",
+      "published_at": "2026-11-22T00:10:44+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "b08961f7c48e56a39ad6",
+      "title": "Convenção do Chega. Advogada de membros do grupo 1143 encabeça lista ao Conselho de Jurisdição",
+      "original_title": "Convenção do Chega. Advogada de membros do grupo 1143 encabeça lista ao Conselho de Jurisdição",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-22T00:00:41+00:00",
+      "article_url": "https://www.rtp.pt/noticias/politica/convencao-do-chega-advogada-de-membros-do-grupo-1143-encabeca-lista-ao-conselho-de-jurisdicao_n1780869",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "8f5a298a87c52e995999",
+      "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
+      "original_title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
+      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC News",
+      "category": "Mundo",
+      "published_at": "2026-11-21T23:31:17+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "c111a83e8db2be6960f4",
+      "title": "23h As tendas pelo direito à habitação vão ficar no parlamento",
+      "original_title": "23h As tendas pelo direito à habitação vão ficar no parlamento",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-21T23:25:02+00:00",
+      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/23h-as-tendas-pelo-direito-a-habitacao-vao-ficar-no-parlamento_a1_1780868",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
     {
       "id": "b5bec78fcb1ae3849397",
       "title": "Arsenal 'desperdiça' pontos ao empatar em Newcastle",
@@ -275,19 +327,6 @@
       "editorial_status": "titulo_normalizado"
     },
     {
-      "id": "8f5a298a87c52e995999",
-      "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
-      "original_title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
-      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC News",
-      "category": "Mundo",
-      "published_at": "2026-11-21T21:05:29+00:00",
-      "article_url": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
       "id": "a33e80c68c402c566927",
       "title": "Risco de enxurradas coloca Manteigas em situação de alerta municipal",
       "original_title": "Risco de enxurradas coloca Manteigas em situação de alerta municipal",
@@ -327,32 +366,6 @@
       "editorial_status": "titulo_normalizado"
     },
     {
-      "id": "8b2af1cbc6cd0d2bba8b",
-      "title": "Ataque com `drones` deixa navio russo em chamas e ancorado no golfo da Finlândia",
-      "original_title": "Ataque com `drones` deixa navio russo em chamas e ancorado no golfo da Finlândia",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Mundo",
-      "published_at": "2026-11-21T20:04:17+00:00",
-      "article_url": "https://www.rtp.pt/noticias/mundo/ataque-com-drones-deixa-navio-russo-em-chamas-e-ancorado-no-golfo-da-finlandia_n1780828",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "72086de80e51bc886cf7",
-      "title": "Pedro Pinto rejeita \"guerra artificial\" e diz que \"única fação\" é a de Ventura",
-      "original_title": "Pedro Pinto rejeita \"guerra artificial\" e diz que \"única fação\" é a de Ventura",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-21T20:03:32+00:00",
-      "article_url": "https://www.rtp.pt/noticias/politica/pedro-pinto-rejeita-guerra-artificial-e-diz-que-unica-facao-e-a-de-ventura_n1780832",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
       "id": "7fb36c538e5615bdb273",
       "title": "Russia-bound ship attacked in Gulf of Finland",
       "original_title": "Russia-bound ship attacked in Gulf of Finland",
@@ -361,19 +374,6 @@
       "category": "Mundo",
       "published_at": "2026-11-21T19:20:22+00:00",
       "article_url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "2fe4fae561e444b7777d",
-      "title": "FBI reportedly investigating apparent hack of its criminal database",
-      "original_title": "FBI reportedly investigating apparent hack of its criminal database",
-      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC News",
-      "category": "Mundo",
-      "published_at": "2026-11-21T16:35:15+00:00",
-      "article_url": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
