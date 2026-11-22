@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-11-22T12:19:30.627752+00:00",
+  "generated_at": "2026-11-22T13:35:47.782906+00:00",
   "articles": [
+    {
+      "id": "766949de76c57ad7fda0",
+      "title": "13h Último dia da Convenção do Chega encerram-se as votações",
+      "original_title": "13h Último dia da Convenção do Chega encerram-se as votações",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-22T13:18:02+00:00",
+      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/13h-ultimo-dia-da-convencao-do-chega-encerram-se-as-votacoes_a1_1780900",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "57aaf21e2888f8dfd52e",
+      "title": "COP31. Sessão de encerramento falha acordo sobre combustíveis fósseis",
+      "original_title": "COP31. Sessão de encerramento falha acordo sobre combustíveis fósseis",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Mundo",
+      "published_at": "2026-11-22T13:04:12+00:00",
+      "article_url": "https://www.rtp.pt/noticias/mundo/cop31-sessao-de-encerramento-falha-acordo-sobre-combustiveis-fosseis_n1780895",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
     {
       "id": "7a16dbaeda21bb45d48b",
       "title": "12h COP31: proposta final rejeitada",
@@ -426,32 +452,6 @@
       "category": "Portugal",
       "published_at": "2026-11-21T22:45:10+00:00",
       "article_url": "https://www.rtp.pt/noticias/futebol-internacional/arsenal-desperdica-pontos-ao-empatar-em-newcastle_d1780867",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "88d04483ae637ec59012",
-      "title": "Feyenoord perde em casa com o Excelsior antes de receber o FC Porto",
-      "original_title": "Feyenoord perde em casa com o Excelsior antes de receber o FC Porto",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-21T22:43:59+00:00",
-      "article_url": "https://www.rtp.pt/noticias/futebol-internacional/feyenoord-perde-em-casa-com-o-excelsior-antes-de-receber-o-fc-porto_d1780866",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "778f7a9e406d79cce350",
-      "title": "Jorge Jesus desbravou o caminho e o Brasil descobriu o treinador português",
-      "original_title": "Jorge Jesus desbravou o caminho e o Brasil descobriu o treinador português",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-21T22:41:45+00:00",
-      "article_url": "https://www.rtp.pt/noticias/futebol-internacional/jorge-jesus-desbravou-o-caminho-e-o-brasil-descobriu-o-treinador-portugues_d1780865",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
