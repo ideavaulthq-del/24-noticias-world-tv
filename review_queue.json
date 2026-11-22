@@ -1,6 +1,19 @@
 {
-  "generated_at": "2026-11-22T08:27:57.151746+00:00",
+  "generated_at": "2026-11-22T09:21:06.354704+00:00",
   "articles": [
+    {
+      "id": "508c62b4c1ed11c4939a",
+      "title": "Novo aeroporto em Lisboa em 2034? \"Nem daqui a uma década\", afirma responsável do turismo do Porto e Norte",
+      "original_title": "Novo aeroporto em Lisboa em 2034? \"Nem daqui a uma década\", afirma responsável do turismo do Porto e Norte",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Economia",
+      "published_at": "2026-11-22T08:35:18+00:00",
+      "article_url": "https://www.rtp.pt/noticias/economia/novo-aeroporto-em-lisboa-em-2034-nem-daqui-a-uma-decada-afirma-responsavel-do-turismo-do-porto-e-norte_v1780697",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
     {
       "id": "c565599495a2d2412448",
       "title": "MP criticises Guernsey and Jersey company ownership register plans",
@@ -439,19 +452,6 @@
       "category": "Portugal",
       "published_at": "2026-11-21T21:29:54+00:00",
       "article_url": "https://www.rtp.pt/noticias/desporto/marco-silva-elogia-o-torreense-tudo-o-que-tem-feito-so-nos-pode-deixar-alerta_v1780849",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "eb090931c9ee436bf6c1",
-      "title": "Casos de VIH estão a aumentar em Angola",
-      "original_title": "Casos de VIH estão a aumentar em Angola",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Mundo",
-      "published_at": "2026-11-21T21:29:47+00:00",
-      "article_url": "https://www.rtp.pt/noticias/mundo/casos-de-vih-estao-a-aumentar-em-angola_v1780848",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
