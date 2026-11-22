@@ -1,6 +1,58 @@
 {
-  "generated_at": "2026-11-22T00:12:48.980830+00:00",
+  "generated_at": "2026-11-22T01:48:02.923506+00:00",
   "articles": [
+    {
+      "id": "5c8957abc1b3614b4b0d",
+      "title": "01h Os ativistas da acampada decidiram ficar frente ao parlamento",
+      "original_title": "01h Os ativistas da acampada decidiram ficar frente ao parlamento",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-22T01:27:02+00:00",
+      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/01h-os-ativistas-da-acampada-decidiram-ficar-frente-ao-parlamento_a1_1780874",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "8f5a298a87c52e995999",
+      "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
+      "original_title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
+      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC News",
+      "category": "Mundo",
+      "published_at": "2026-11-22T01:25:03+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "10dd6c937afd8fd04e85",
+      "title": "00h Os ativistas da acampada decidiram ficar frente ao parlamento",
+      "original_title": "00h Os ativistas da acampada decidiram ficar frente ao parlamento",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-22T01:19:02+00:00",
+      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/00h-os-ativistas-da-acampada-decidiram-ficar-frente-ao-parlamento_a1_1780873",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "06df5d639b1c894e5214",
+      "title": "00h Presidente da COP 31 otimista num acordo sobre o texto final",
+      "original_title": "00h Presidente da COP 31 otimista num acordo sobre o texto final",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-22T00:21:02+00:00",
+      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/00h-presidente-da-cop-31-otimista-num-acordo-sobre-o-texto-final_a1_1780871",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
     {
       "id": "2fe4fae561e444b7777d",
       "title": "FBI reportedly investigating apparent hack of its criminal database",
@@ -15,6 +67,32 @@
       "editorial_status": "titulo_normalizado"
     },
     {
+      "id": "b352c4edc92a12fe0a25",
+      "title": "Nigerian youth have shown their power in the past - why aren't they shaping this election?",
+      "original_title": "Nigerian youth have shown their power in the past - why aren't they shaping this election?",
+      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC News",
+      "category": "Mundo",
+      "published_at": "2026-11-22T00:10:37+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/ck4g174n020eo?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "17b4c603e3052ed5c35d",
+      "title": "How a teen gamer and his mother helped rescue a missing girl",
+      "original_title": "How a teen gamer and his mother helped rescue a missing girl",
+      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC News",
+      "category": "Mundo",
+      "published_at": "2026-11-22T00:09:58+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/cmq8lyv8lkjwo?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
       "id": "b08961f7c48e56a39ad6",
       "title": "Convenção do Chega. Advogada de membros do grupo 1143 encabeça lista ao Conselho de Jurisdição",
       "original_title": "Convenção do Chega. Advogada de membros do grupo 1143 encabeça lista ao Conselho de Jurisdição",
@@ -23,19 +101,6 @@
       "category": "Portugal",
       "published_at": "2026-11-22T00:00:41+00:00",
       "article_url": "https://www.rtp.pt/noticias/politica/convencao-do-chega-advogada-de-membros-do-grupo-1143-encabeca-lista-ao-conselho-de-jurisdicao_n1780869",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "8f5a298a87c52e995999",
-      "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
-      "original_title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
-      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC News",
-      "category": "Mundo",
-      "published_at": "2026-11-21T23:31:17+00:00",
-      "article_url": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
@@ -340,32 +405,6 @@
       "editorial_status": "titulo_normalizado"
     },
     {
-      "id": "a1c7062fe17ba7d65f01",
-      "title": "\"Virgem Fandango\" vence Prémio Cidade de Coimbra nos Caminhos do Cinema Português",
-      "original_title": "\"Virgem Fandango\" vence Prémio Cidade de Coimbra nos Caminhos do Cinema Português",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Cultura",
-      "published_at": "2026-11-21T20:05:38+00:00",
-      "article_url": "https://www.rtp.pt/noticias/cultura/virgem-fandango-vence-premio-cidade-de-coimbra-nos-caminhos-do-cinema-portugues_n1780817",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "c6589c706ec632405ade",
-      "title": "Hamas defende governo único para Cisjordânia e Gaza unindo fações políticas",
-      "original_title": "Hamas defende governo único para Cisjordânia e Gaza unindo fações políticas",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Mundo",
-      "published_at": "2026-11-21T20:04:37+00:00",
-      "article_url": "https://www.rtp.pt/noticias/mundo/hamas-defende-governo-unico-para-cisjordania-e-gaza-unindo-facoes-politicas_n1780827",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
       "id": "7fb36c538e5615bdb273",
       "title": "Russia-bound ship attacked in Gulf of Finland",
       "original_title": "Russia-bound ship attacked in Gulf of Finland",
@@ -509,19 +548,6 @@
       "editorial_status": "titulo_normalizado"
     },
     {
-      "id": "23b67c2c4dba928752e0",
-      "title": "ANC fights to keep control of South Africa's key cities after election setback",
-      "original_title": "ANC fights to keep control of South Africa's key cities after election setback",
-      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC News",
-      "category": "Mundo",
-      "published_at": "2026-11-21T00:34:51+00:00",
-      "article_url": "https://www.bbc.co.uk/news/articles/cqpv94d10rwpo?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
       "id": "47e9dbe7680481415e79",
       "title": "Can AI really help spot Black Friday deals? We put it to the test",
       "original_title": "Can AI really help spot Black Friday deals? We put it to the test",
@@ -548,19 +574,6 @@
       "editorial_status": "titulo_normalizado"
     },
     {
-      "id": "7b0d150717d4b1f8be96",
-      "title": "These dead pets were meant to be cremated - then their bodies appeared on a livestream",
-      "original_title": "These dead pets were meant to be cremated - then their bodies appeared on a livestream",
-      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC News",
-      "category": "Mundo",
-      "published_at": "2026-11-20T23:20:33+00:00",
-      "article_url": "https://www.bbc.co.uk/news/articles/cmn502ek17yvo?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
       "id": "f57bc1602e960cfc6065",
       "title": "US declassifies more UFO footage filmed in the Middle East",
       "original_title": "US declassifies more UFO footage filmed in the Middle East",
@@ -569,19 +582,6 @@
       "category": "Mundo",
       "published_at": "2026-11-20T23:15:20+00:00",
       "article_url": "https://www.bbc.co.uk/news/videos/cqdr1x8mypnko?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "e2070d432cda9c122efc",
-      "title": "In a year of AI solving maths problems, an Anthropic worker says he may have cracked the biggest",
-      "original_title": "In a year of AI solving maths problems, an Anthropic worker says he may have cracked the biggest",
-      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC News",
-      "category": "Mundo",
-      "published_at": "2026-11-20T23:08:57+00:00",
-      "article_url": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
