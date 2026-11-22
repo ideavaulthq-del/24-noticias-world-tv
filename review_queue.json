@@ -1,6 +1,58 @@
 {
-  "generated_at": "2026-11-22T11:19:25.995096+00:00",
+  "generated_at": "2026-11-22T12:19:30.627752+00:00",
   "articles": [
+    {
+      "id": "7a16dbaeda21bb45d48b",
+      "title": "12h COP31: proposta final rejeitada",
+      "original_title": "12h COP31: proposta final rejeitada",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-22T12:17:01+00:00",
+      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/12h-cop31-proposta-final-rejeitada_a1_1780894",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "c274107522ebfa46aef2",
+      "title": "OE2027. PSD acusa oposição de \"ingerência no poder executivo\" e rejeita postura de vitimização",
+      "original_title": "OE2027. PSD acusa oposição de \"ingerência no poder executivo\" e rejeita postura de vitimização",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-22T12:16:08+00:00",
+      "article_url": "https://www.rtp.pt/noticias/politica/oe2027-psd-acusa-oposicao-de-ingerencia-no-poder-executivo-e-rejeita-postura-de-vitimizacao_n1780893",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "3e5bee2d9212a4224065",
+      "title": "11h Cimeira do clima: diminuem as hipóteses de um acordo",
+      "original_title": "11h Cimeira do clima: diminuem as hipóteses de um acordo",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-22T11:29:02+00:00",
+      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/11h-cimeira-do-clima-diminuem-as-hipoteses-de-um-acordo_a1_1780890",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "a12dc239f5fc4290c701",
+      "title": "Russia-bound ship still on fire after attack in Gulf of Finland",
+      "original_title": "Russia-bound ship still on fire after attack in Gulf of Finland",
+      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC News",
+      "category": "Mundo",
+      "published_at": "2026-11-22T11:25:14+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
     {
       "id": "abd73d0982dd946a8f49",
       "title": "Pelo menos 14 pessoas desaparecidas após ataque russo contra edifício residencial na Ucrânia",
@@ -405,45 +457,6 @@
       "editorial_status": "titulo_normalizado"
     },
     {
-      "id": "319fd074f2971a3cc91a",
-      "title": "Leonardo Jardim é o quarto luso campeão no Brasil, no seu pentacampeonato",
-      "original_title": "Leonardo Jardim é o quarto luso campeão no Brasil, no seu pentacampeonato",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-21T22:39:47+00:00",
-      "article_url": "https://www.rtp.pt/noticias/futebol-internacional/leonardo-jardim-e-o-quarto-luso-campeao-no-brasil-no-seu-pentacampeonato_d1780864",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "1c4b7bf176d8ff12ccf9",
-      "title": "Eisenkot convida partido de Netanyahu para negociações de coligação",
-      "original_title": "Eisenkot convida partido de Netanyahu para negociações de coligação",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Mundo",
-      "published_at": "2026-11-21T22:38:39+00:00",
-      "article_url": "https://www.rtp.pt/noticias/mundo/eisenkot-convida-partido-de-netanyahu-para-negociacoes-de-coligacao_n1780854",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "5ef2658b6c6d6b1808e6",
-      "title": "Vítor Matos estreia-se com derrota e Carlos Vicens com vitória em Lille",
-      "original_title": "Vítor Matos estreia-se com derrota e Carlos Vicens com vitória em Lille",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Mundo",
-      "published_at": "2026-11-21T22:37:25+00:00",
-      "article_url": "https://www.rtp.pt/noticias/mundo/vitor-matos-estreia-se-com-derrota-e-carlos-vicens-com-vitoria-em-lille_d1780863",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
       "id": "96f8fdc21e5f727a6717",
       "title": "Lock of former US President George Washington's hair sells for $4,000",
       "original_title": "Lock of former US President George Washington's hair sells for $4,000",
@@ -452,19 +465,6 @@
       "category": "Mundo",
       "published_at": "2026-11-21T22:01:19+00:00",
       "article_url": "https://www.bbc.co.uk/news/articles/cwe9k23dpz0do?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "7fb36c538e5615bdb273",
-      "title": "Russia-bound ship attacked in Gulf of Finland",
-      "original_title": "Russia-bound ship attacked in Gulf of Finland",
-      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC News",
-      "category": "Mundo",
-      "published_at": "2026-11-21T19:20:22+00:00",
-      "article_url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
