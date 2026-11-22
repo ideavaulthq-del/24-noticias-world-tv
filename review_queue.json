@@ -1,6 +1,19 @@
 {
-  "generated_at": "2026-11-22T04:58:15.570484+00:00",
+  "generated_at": "2026-11-22T05:57:39.526184+00:00",
   "articles": [
+    {
+      "id": "68e7eea2ecd744eab35d",
+      "title": "New draft deal aims to avert collapse of talks at climate summit",
+      "original_title": "New draft deal aims to avert collapse of talks at climate summit",
+      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC News",
+      "category": "Mundo",
+      "published_at": "2026-11-22T05:26:10+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/cq7827z2841zo?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
     {
       "id": "a5ac61a53f02fbdd5f9b",
       "title": "4h COP31. Países já têm em mãos o texto final",
@@ -296,19 +309,6 @@
       "category": "Portugal",
       "published_at": "2026-11-21T22:22:02+00:00",
       "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/22h-manifestantes-querem-tendas-montadas-ate-terca-feira_a1_1780856",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "f91fdde3b46d4f20515c",
-      "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
-      "original_title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
-      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC News",
-      "category": "Mundo",
-      "published_at": "2026-11-21T22:19:43+00:00",
-      "article_url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
