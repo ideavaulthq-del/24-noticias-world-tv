@@ -1,6 +1,45 @@
 {
-  "generated_at": "2026-11-22T03:54:51.334792+00:00",
+  "generated_at": "2026-11-22T04:58:15.570484+00:00",
   "articles": [
+    {
+      "id": "a5ac61a53f02fbdd5f9b",
+      "title": "4h COP31. Países já têm em mãos o texto final",
+      "original_title": "4h COP31. Países já têm em mãos o texto final",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-22T04:55:03+00:00",
+      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/4h-cop31-paises-ja-tem-em-maos-o-texto-final_a1_1780877",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "2b5f50243c970185f805",
+      "title": "3h Acampada decorre de forma pacífica frente ao Parlamento",
+      "original_title": "3h Acampada decorre de forma pacífica frente ao Parlamento",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-22T04:55:03+00:00",
+      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/3h-acampada-decorre-de-forma-pacifica-frente-ao-parlamento_a1_1780876",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "b24cb4cd7e082c1df7cc",
+      "title": "2h Manifestantes retiram tendas da estrada frente ao Parlamento",
+      "original_title": "2h Manifestantes retiram tendas da estrada frente ao Parlamento",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-22T04:54:02+00:00",
+      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/2h-manifestantes-retiram-tendas-da-estrada-frente-ao-parlamento_a1_1780875",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
     {
       "id": "5c8957abc1b3614b4b0d",
       "title": "01h Os ativistas da acampada decidiram ficar frente ao parlamento",
@@ -361,45 +400,6 @@
       "category": "Economia",
       "published_at": "2026-11-21T21:24:47+00:00",
       "article_url": "https://www.rtp.pt/noticias/economia/oe2027-montenegro-acusa-ps-e-chega-de-irresponsabilidade_v1780844",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "326e192b0f67fe41b55d",
-      "title": "21h Tendas montadas frente ao parlamento",
-      "original_title": "21h Tendas montadas frente ao parlamento.",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-21T21:24:02+00:00",
-      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/21h-tendas-montadas-frente-ao-parlamento_a1_1780843",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "ac53a799089f6ec86ddd",
-      "title": "Milhares de pessoas manifestaram-se em Lisboa por melhores salários e pensões",
-      "original_title": "Milhares de pessoas manifestaram-se em Lisboa por melhores salários e pensões",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Economia",
-      "published_at": "2026-11-21T21:22:47+00:00",
-      "article_url": "https://www.rtp.pt/noticias/economia/milhares-de-pessoas-manifestaram-se-em-lisboa-por-melhores-salarios-e-pensoes_v1780842",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "a33e80c68c402c566927",
-      "title": "Risco de enxurradas coloca Manteigas em situação de alerta municipal",
-      "original_title": "Risco de enxurradas coloca Manteigas em situação de alerta municipal",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Mundo",
-      "published_at": "2026-11-21T20:17:47+00:00",
-      "article_url": "https://www.rtp.pt/noticias/mundo/risco-de-enxurradas-coloca-manteigas-em-situacao-de-alerta-municipal_v1780841",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
