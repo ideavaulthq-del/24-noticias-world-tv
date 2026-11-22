@@ -1,6 +1,71 @@
 {
-  "generated_at": "2026-11-22T13:35:47.782906+00:00",
+  "generated_at": "2026-11-22T14:27:53.284866+00:00",
   "articles": [
+    {
+      "id": "26577fc8070204ff0be4",
+      "title": "14h CH: de partido do ressentimento, para partido de Governo",
+      "original_title": "14h CH: de partido do ressentimento, para partido de Governo",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-22T14:21:02+00:00",
+      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/14h-ch-de-partido-do-ressentimento-para-partido-de-governo_a1_1780905",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "d4de3f8a3829054ff050",
+      "title": "Marc Márquez conquista oitavo título mundial de MotoGP no Algarve",
+      "original_title": "Marc Márquez conquista oitavo título mundial de MotoGP no Algarve",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-22T14:12:30+00:00",
+      "article_url": "https://www.rtp.pt/noticias/motores/marc-marquez-conquista-oitavo-titulo-mundial-de-motogp-no-algarve_d1780902",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "c44a2c80b52e8e3b3dd5",
+      "title": "\"Tenho quase a certeza absoluta\". Presidente da Região de Turismo do Porto e Norte estima que novo aeroporto de Lisboa não estará pronto em 2034",
+      "original_title": "\"Tenho quase a certeza absoluta\". Presidente da Região de Turismo do Porto e Norte estima que novo aeroporto de Lisboa não estará pronto em 2034",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Economia",
+      "published_at": "2026-11-22T14:07:57+00:00",
+      "article_url": "https://www.rtp.pt/noticias/economia/tenho-quase-a-certeza-absoluta-presidente-da-regiao-de-turismo-do-porto-e-norte-estima-que-novo-aeroporto-de-lisboa-nao-estara-pronto-em-2034_v1780668",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "f10c69aad836f5dfaed7",
+      "title": "Three killed and dozens missing after fire at Indonesian factory",
+      "original_title": "Three killed and dozens missing after fire at Indonesian factory",
+      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC News",
+      "category": "Mundo",
+      "published_at": "2026-11-22T14:05:20+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "d6c3cdcd6d950758437b",
+      "title": "Centrica boss says he is 'hugely concerned' over impact of soaring energy bills",
+      "original_title": "Centrica boss says he is 'hugely concerned' over impact of soaring energy bills",
+      "summary": "Informação divulgada por BBC Business. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC Business",
+      "category": "Economia",
+      "published_at": "2026-11-22T13:50:21+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/c6jre7gpdw13o?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
     {
       "id": "766949de76c57ad7fda0",
       "title": "13h Último dia da Convenção do Chega encerram-se as votações",
@@ -15,14 +80,14 @@
       "editorial_status": "titulo_normalizado"
     },
     {
-      "id": "57aaf21e2888f8dfd52e",
-      "title": "COP31. Sessão de encerramento falha acordo sobre combustíveis fósseis",
-      "original_title": "COP31. Sessão de encerramento falha acordo sobre combustíveis fósseis",
+      "id": "f5a4a676a943c0fc7e3c",
+      "title": "COP31. A mais longa conferência do clima terminou sem um acordo",
+      "original_title": "COP31. A mais longa conferência do clima terminou sem um acordo",
       "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
       "source": "RTP Notícias",
       "category": "Mundo",
       "published_at": "2026-11-22T13:04:12+00:00",
-      "article_url": "https://www.rtp.pt/noticias/mundo/cop31-sessao-de-encerramento-falha-acordo-sobre-combustiveis-fosseis_n1780895",
+      "article_url": "https://www.rtp.pt/noticias/mundo/cop31-a-mais-longa-conferencia-do-clima-terminou-sem-um-acordo_n1780895",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
@@ -249,19 +314,6 @@
       "editorial_status": "titulo_normalizado"
     },
     {
-      "id": "f10c69aad836f5dfaed7",
-      "title": "Three killed and dozens missing after fire at Indonesian factory",
-      "original_title": "Three killed and dozens missing after fire at Indonesian factory",
-      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC News",
-      "category": "Mundo",
-      "published_at": "2026-11-22T06:05:00+00:00",
-      "article_url": "https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
       "id": "7ebe0bc4b10414fd991e",
       "title": "5h Aeroporto do Porto bate recorde de passageiros até final do ano",
       "original_title": "5h Aeroporto do Porto bate recorde de passageiros até final do ano",
@@ -418,45 +470,6 @@
       "editorial_status": "titulo_normalizado"
     },
     {
-      "id": "b08961f7c48e56a39ad6",
-      "title": "Convenção do Chega. Advogada de membros do grupo 1143 encabeça lista ao Conselho de Jurisdição",
-      "original_title": "Convenção do Chega. Advogada de membros do grupo 1143 encabeça lista ao Conselho de Jurisdição",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-22T00:00:41+00:00",
-      "article_url": "https://www.rtp.pt/noticias/politica/convencao-do-chega-advogada-de-membros-do-grupo-1143-encabeca-lista-ao-conselho-de-jurisdicao_n1780869",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "c111a83e8db2be6960f4",
-      "title": "23h As tendas pelo direito à habitação vão ficar no parlamento",
-      "original_title": "23h As tendas pelo direito à habitação vão ficar no parlamento",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-21T23:25:02+00:00",
-      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/23h-as-tendas-pelo-direito-a-habitacao-vao-ficar-no-parlamento_a1_1780868",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "b5bec78fcb1ae3849397",
-      "title": "Arsenal 'desperdiça' pontos ao empatar em Newcastle",
-      "original_title": "Arsenal 'desperdiça' pontos ao empatar em Newcastle",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-21T22:45:10+00:00",
-      "article_url": "https://www.rtp.pt/noticias/futebol-internacional/arsenal-desperdica-pontos-ao-empatar-em-newcastle_d1780867",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
       "id": "96f8fdc21e5f727a6717",
       "title": "Lock of former US President George Washington's hair sells for $4,000",
       "original_title": "Lock of former US President George Washington's hair sells for $4,000",
@@ -569,19 +582,6 @@
       "category": "Europa",
       "published_at": "2026-11-21T02:09:46+00:00",
       "article_url": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "6e02aa84b5b162888478",
-      "title": "Tech Now",
-      "original_title": "Tech Now",
-      "summary": "Informação divulgada por BBC Technology. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC Technology",
-      "category": "Tecnologia",
-      "published_at": "2026-11-21T01:00:00+00:00",
-      "article_url": "https://www.bbc.co.uk/iplayer/episode/m0034tjc?at_medium=RSS&at_campaign=rss",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
