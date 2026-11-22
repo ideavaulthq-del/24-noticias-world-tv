@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T05:57:39.526184+00:00",
+  "generated_at": "2026-11-22T07:07:53.653683+00:00",
   "articles": [
     {
       "id": "68e7eea2ecd744eab35d",
@@ -8,8 +8,47 @@
       "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
       "source": "BBC News",
       "category": "Mundo",
-      "published_at": "2026-11-22T05:26:10+00:00",
+      "published_at": "2026-11-22T06:54:06+00:00",
       "article_url": "https://www.bbc.co.uk/news/articles/cq7827z2841zo?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "4bcdad21b4430fc59a26",
+      "title": "6h Flamengo de Leonardo Jardim sagra-se campeão",
+      "original_title": "6h Flamengo de Leonardo Jardim sagra-se campeão",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-22T06:25:03+00:00",
+      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/6h-flamengo-de-leonardo-jardim-sagra-se-campeao_a1_1780880",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "1ac65b43ed736eb6c78e",
+      "title": "Dozens missing after fire at Indonesian factory",
+      "original_title": "Dozens missing after fire at Indonesian factory",
+      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC News",
+      "category": "Mundo",
+      "published_at": "2026-11-22T06:05:00+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "7ebe0bc4b10414fd991e",
+      "title": "5h Aeroporto do Porto bate recorde de passageiros até final do ano",
+      "original_title": "5h Aeroporto do Porto bate recorde de passageiros até final do ano",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-22T05:56:02+00:00",
+      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/5h-aeroporto-do-porto-bate-recorde-de-passageiros-ate-final-do-ano_a1_1780879",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
@@ -379,32 +418,6 @@
       "editorial_status": "titulo_normalizado"
     },
     {
-      "id": "8dcd557eaac40ba55414",
-      "title": "Tuvalu é um dos países que podem desaparecer devido ao aquecimento global",
-      "original_title": "Tuvalu é um dos países que podem desaparecer devido ao aquecimento global",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Mundo",
-      "published_at": "2026-11-21T21:26:47+00:00",
-      "article_url": "https://www.rtp.pt/noticias/mundo/tuvalu-e-um-dos-paises-que-podem-desaparecer-devido-ao-aquecimento-global_v1780845",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "c5936e232b5d0c0263c5",
-      "title": "OE2027. Montenegro acusa PS e Chega de irresponsabilidade",
-      "original_title": "OE2027. Montenegro acusa PS e Chega de irresponsabilidade",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Economia",
-      "published_at": "2026-11-21T21:24:47+00:00",
-      "article_url": "https://www.rtp.pt/noticias/economia/oe2027-montenegro-acusa-ps-e-chega-de-irresponsabilidade_v1780844",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
       "id": "7fb36c538e5615bdb273",
       "title": "Russia-bound ship attacked in Gulf of Finland",
       "original_title": "Russia-bound ship attacked in Gulf of Finland",
@@ -569,19 +582,6 @@
       "category": "Mundo",
       "published_at": "2026-11-21T00:01:39+00:00",
       "article_url": "https://www.bbc.co.uk/news/articles/cmjeqv89egylo?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "f57bc1602e960cfc6065",
-      "title": "US declassifies more UFO footage filmed in the Middle East",
-      "original_title": "US declassifies more UFO footage filmed in the Middle East",
-      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC News",
-      "category": "Mundo",
-      "published_at": "2026-11-20T23:15:20+00:00",
-      "article_url": "https://www.bbc.co.uk/news/videos/cqdr1x8mypnko?at_medium=RSS&at_campaign=rss",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
