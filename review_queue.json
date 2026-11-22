@@ -1,10 +1,49 @@
 {
-  "generated_at": "2026-11-22T07:07:53.653683+00:00",
+  "generated_at": "2026-11-22T08:27:57.151746+00:00",
   "articles": [
     {
-      "id": "68e7eea2ecd744eab35d",
-      "title": "New draft deal aims to avert collapse of talks at climate summit",
-      "original_title": "New draft deal aims to avert collapse of talks at climate summit",
+      "id": "c565599495a2d2412448",
+      "title": "MP criticises Guernsey and Jersey company ownership register plans",
+      "original_title": "MP criticises Guernsey and Jersey company ownership register plans",
+      "summary": "Informação divulgada por BBC Business. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC Business",
+      "category": "Economia",
+      "published_at": "2026-11-22T07:22:05+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/cqkgmy2nxy4lo?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "6ff4642d42f5504fa51d",
+      "title": "7h Verstappen vence Grande Prémio de Las Vegas de F1",
+      "original_title": "7h Verstappen vence Grande Prémio de Las Vegas de F1",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-22T07:16:02+00:00",
+      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/7h-verstappen-vence-grande-premio-de-las-vegas-de-f1_a1_1780881",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "29e3bf44885ff19f879a",
+      "title": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
+      "original_title": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
+      "summary": "Informação divulgada por BBC Business. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC Business",
+      "category": "Economia",
+      "published_at": "2026-11-22T07:12:41+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "f61ec543317b7c9a1332",
+      "title": "New draft deal aims to avert collapse of talks at COP31 climate summit",
+      "original_title": "New draft deal aims to avert collapse of talks at COP31 climate summit",
       "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
       "source": "BBC News",
       "category": "Mundo",
@@ -28,9 +67,9 @@
       "editorial_status": "titulo_normalizado"
     },
     {
-      "id": "1ac65b43ed736eb6c78e",
-      "title": "Dozens missing after fire at Indonesian factory",
-      "original_title": "Dozens missing after fire at Indonesian factory",
+      "id": "f10c69aad836f5dfaed7",
+      "title": "Three killed and dozens missing after fire at Indonesian factory",
+      "original_title": "Three killed and dozens missing after fire at Indonesian factory",
       "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
       "source": "BBC News",
       "category": "Mundo",
@@ -179,6 +218,19 @@
       "category": "Mundo",
       "published_at": "2026-11-22T00:09:58+00:00",
       "article_url": "https://www.bbc.co.uk/news/articles/cmq8lyv8lkjwo?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "fd10287403afa7d0976d",
+      "title": "Employers are being asked to give interview feedback - here's what applicants want",
+      "original_title": "Employers are being asked to give interview feedback - here's what applicants want",
+      "summary": "Informação divulgada por BBC Business. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC Business",
+      "category": "Economia",
+      "published_at": "2026-11-22T00:04:07+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/cm2d94le23xyo?at_medium=RSS&at_campaign=rss",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
@@ -405,19 +457,6 @@
       "editorial_status": "titulo_normalizado"
     },
     {
-      "id": "93cbf4257163c0d7ffb7",
-      "title": "Adido militar russo expulso na Dinamarca após tentativa de homicídio",
-      "original_title": "Adido militar russo expulso na Dinamarca após tentativa de homicídio",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Mundo",
-      "published_at": "2026-11-21T21:27:49+00:00",
-      "article_url": "https://www.rtp.pt/noticias/mundo/adido-militar-russo-expulso-na-dinamarca-apos-tentativa-de-homicidio_v1780846",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
       "id": "7fb36c538e5615bdb273",
       "title": "Russia-bound ship attacked in Gulf of Finland",
       "original_title": "Russia-bound ship attacked in Gulf of Finland",
@@ -543,45 +582,6 @@
       "category": "Mundo",
       "published_at": "2026-11-21T01:02:39+00:00",
       "article_url": "https://www.bbc.co.uk/news/articles/cqgm0zlkgrm2o?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "6e02aa84b5b162888478",
-      "title": "Tech Now",
-      "original_title": "Tech Now",
-      "summary": "Informação divulgada por BBC Technology. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC Technology",
-      "category": "Tecnologia",
-      "published_at": "2026-11-21T01:00:00+00:00",
-      "article_url": "https://www.bbc.co.uk/iplayer/episode/m0034tjc?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "47e9dbe7680481415e79",
-      "title": "Can AI really help spot Black Friday deals? We put it to the test",
-      "original_title": "Can AI really help spot Black Friday deals? We put it to the test",
-      "summary": "Informação divulgada por BBC Technology. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC Technology",
-      "category": "Tecnologia",
-      "published_at": "2026-11-21T00:06:11+00:00",
-      "article_url": "https://www.bbc.co.uk/news/articles/cw8dv4jmnle2o?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "d969d11f7ef5f463d050",
-      "title": "Mamdani announces plan to close New York's Rikers Island jail by 2032",
-      "original_title": "Mamdani announces plan to close New York's Rikers Island jail by 2032",
-      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC News",
-      "category": "Mundo",
-      "published_at": "2026-11-21T00:01:39+00:00",
-      "article_url": "https://www.bbc.co.uk/news/articles/cmjeqv89egylo?at_medium=RSS&at_campaign=rss",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
