@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23T17:52:43.368058+00:00",
+  "updated_at": "2026-11-23T18:41:56.675290+00:00",
   "categories": {
     "world": [
       {
@@ -7,12 +7,6 @@
         "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUGMyYy1YSkQ5LTNBbjk5VmFSLWNGR3ZvMmRScEk5N1J0OGEyWUhOckQ4Vld2S3VNZC0xMHZjeUpaaHg4T25zTDVDLThsNTJuQjhZZWRTWkVRUmNVR1NENEtQT2ZMZU9Da1dqNTJqRzBXTk1KalV3dFNSWFF3ZWZUZnJCZzFlYjVxcDFTRzFDXy1vOENDd3daRVZGLTIxb2UtUVFqNWhjX005V1hwaXpNWF9lSWp6UmV5UzhB0gG2AUFVX3lxTFBjQjZVTVRCdlJCQ01fU2NiN2c0Wnp1SHlGaURDazRQT2dneDU4X0c4ZUpXSDZVQWNrTjRwN3QzeS1NSC04U3l5LUd0dDR6eUt2QzFKTFVmU2pNRHJpMFI2ek1PWjE4Vnpwb2ZEN0RHVDR3Sm5CMzRLaFZUdzRjZk9Lakx0cGZ5MDN3emlCT1VVajRWMHoxWjlIdnQ3T0FPdmlWcVVWYlNuWlNxM0VXcWtERTlVZlhn?oc=5",
         "source": "Record",
         "date": "Mon, 23 Nov 2026 15:31:48 GMT"
-      },
-      {
-        "title": "Montiqueijo conquista três prémios no World Cheese Awards 2026 - Agroportal",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcUVmM29nQ3lqM094c211SFQzNWJVaUpXMVVGdExOaFZPeWtXclBmWjhtYTMxOEpxS2xDZlZFUWVJeUNCTXJFamtreEE5RWVsZFA2M2taNGFtOUkyVllYZW5xUkdWbmloSDNYLUVvWEFNRzVXOEhtZkl1di1EWElXVW1nUkpvVzJUSEtQRWpiekNfeDg?oc=5",
-        "source": "Agroportal",
-        "date": "Mon, 23 Nov 2026 10:18:00 GMT"
       },
       {
         "title": "World Champion UNHEARD: \"Another week like this would have taken 10 years off my life\" - www.motogp.com",
@@ -75,22 +69,28 @@
         "date": "Sun, 22 Nov 2026 16:33:31 GMT"
       },
       {
-        "title": "Japão recebe etapa de Street do World Skateboarding Tour - FPP",
-        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5QbktxZW91UDlJeGZYUVlsRXFaeWZoWTlmMFRQTVVnOGl4SWY0WnFvUWtEdERYb0dycVlVQjd0cTh0YmU0alB3T1lCNG1iRTBERkJuTG9IRzZ3RUdRYVFFSjF0YVowc2NoRk0yRHVDc2ZwMk9xZ28tWng2OUE?oc=5",
-        "source": "FPP",
-        "date": "Tue, 17 Nov 2026 17:02:26 GMT"
-      },
-      {
         "title": "World of Warcraft: pandemia virtual “Sangue Corrompido” torna-se caso de estudo real - Euronews",
         "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcC01Mk9UbTVhcVFORy1xTTZQTFJNRExEaFhxSHdIc2M1dUZLNmd1c1VybFVRRWtHSmNocFp5MkF3NDlGMXpTMUZqYl92TGppZi1TNEZzUWFZMkYxZzRjRWpsM1ozZEQ4QU1EVUZaUXNKcjRhel82aWF6QWtIX01oenkyUVBMNFB5TUlvSElDdk9QQ1lNN0plRHAxb2FOOVJZV0hJZm9UOG1fZVhEbTNaMWRNbzYwMEU?oc=5",
         "source": "Euronews",
         "date": "Wed, 18 Nov 2026 06:27:14 GMT"
       },
       {
+        "title": "Japão recebe etapa de Street do World Skateboarding Tour - FPP",
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5QbktxZW91UDlJeGZYUVlsRXFaeWZoWTlmMFRQTVVnOGl4SWY0WnFvUWtEdERYb0dycVlVQjd0cTh0YmU0alB3T1lCNG1iRTBERkJuTG9IRzZ3RUdRYVFFSjF0YVowc2NoRk0yRHVDc2ZwMk9xZ28tWng2OUE?oc=5",
+        "source": "FPP",
+        "date": "Tue, 17 Nov 2026 17:02:26 GMT"
+      },
+      {
         "title": "World Cheese Awards: há um queijo português no top mundial. O campeão é francês - Público",
         "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTkpVcTNtTkotLUt1OGZmUmF6Y1hrcHpuWGVsbTZhXy1YaWpManJMT21nZFlkNU5NVnlZZUM2MVVZTVJjSTMtV1lYc3I3MVpMZlRMUUc1dnpTVDRDdGxta1FicnNOQUh2V2ZjZ3VkQjd1b1NLbkNHVTU2bndoT2Y4NmNKMVNTVXdZX0lIcVRfS3lVd2E5OXpnTktNaWdZSmV5ZTRjc1BERlpiNk1MZzhDSl9MWFFkWEpWTkhqdDR1alM?oc=5",
         "source": "Público",
         "date": "Mon, 16 Nov 2026 14:31:58 GMT"
+      },
+      {
+        "title": "Disneyland Paris prepara um \"Natal mágico\" com novas experiências no World of Frozen - SAPO",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOQUZaaXpqbmszUHkxRkNZU0xpM2xJamRkbExqZTVfQjY1aE52WDdVZ05nQ09rVVBLYUpsZThVMHZpV3phT2JEckd2NjhhSE1xd0oxaFhob01ZTks3ekRER3FUQWNUXzZYX09neGFqTHQ4ZjJLaXo1VWh2QnRVSnluTVk4NFg4U3lvUU9Wd05EbVh1Tnd4UnlVZm1EUjUzTnBPRnNBZUpMTTFqWDl3V0gtbGg2Z3hmLXEtQllwZXRkcFI3NUk3cVo1UmRB?oc=5",
+        "source": "SAPO",
+        "date": "Mon, 23 Nov 2026 14:54:00 GMT"
       }
     ],
     "ukraine": [
@@ -188,7 +188,7 @@
     "portugal": [
       {
         "title": "Lego investe mil milhões de euros em Portugal. Fábrica de Estarreja será \"a mais avançada do grupo” e terá mil funcionários - Expresso",
-        "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNeUdQRTFmQVQ2UnU5TjdMX2gzYkFFQmpJc0hFUlZqWUcySXhMR19ob3pJTkxQbElpcGE4THVFdnk5aWZwenVUUjlvX3JkekZtdm5TYS1yMjFXTlpfS2swWDRqZWx2UFNjNGhEWkh4WXY2QW1SNXpRNElwNnprSTlLeFZ3NmFEbUczUm5qNkc2b1prUWV5SmtfSDdINWJrbjd3dVUydHR2VW1qUS01SUktMzdQMlhxRGs2SWRsNDgwaFpLWlJaaV9KOW41ZHdiM3gxVXlBYzhjanVlMUN1VFNjcnBmbzJ6SlRuMi1nX2dCTTJ3RHdYb19WLWozRHVqOHRja2tySV90UWxNRnc?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxQMm12aTdtMkJYZ190Q2x2cHE1OWZRdTd4ZXczZVlOdUkwdUc4eFVaZXhSQmxQSjAxOGNqOC1OUDFDN1NBekp4ZjRtQ0MxNWxCMlBoZ0EyT1dyVkJVN3VzUG84dHRQaGw1TEhWWGo1eWJDN0Y2bTNENWN4eEVqRllnZ3Q0azJpcVhOWXNIZHFZc0pfUlB1SG91d09Qa1RKaDR6d3BUXzhtVF9DOUwyXzlpejFEOFNlQTVyOGF2WXVUWFRjXzhZdXMtazA5OHBuTTdDOTEzcXl2bTFOM2h5RUdSU2hZekxQbUs3TmFwUmNPblBBb2JBOXFUUWRFSVJ0cmpWZGxKTlcwRF85cGFrb3luV1YxSy1vUk5xZEVlR2ktMERQakIwU2xYMVNaSnRfOGhuYmpFZzdocHltQTZCbzM5U0wwZ0ZWUDRjWVNEdTNkTGgtYUxfVWppc3pycHNlOE1kT2RFTGlBTjIzaFFoQXJGQXludw?oc=5",
         "source": "Expresso",
         "date": "Mon, 23 Nov 2026 11:51:30 GMT"
       },
@@ -199,34 +199,22 @@
         "date": "Mon, 23 Nov 2026 12:31:22 GMT"
       },
       {
-        "title": "Portugal recebe fábrica LEGO de €1 mil milhões e mais de 1 000 empregos - Euronews",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOR1ZlbU5YdTIxV2lGcVR5RThTYjNQbk5UVy1rNUFtaWdmWHRBRmdTMmFDVl9PelNjcHNyVnVJVGNacjROeV9mb0FvaEQ0Qnp0a2FUcTFkM3kybmxQVjBzX1J6TjVCQk1Ia2oyaHc2WTlTa1VQblBMelVzaHJoVXpoY0JSZUJGa21zdHBabTZEVDRaUWtvVTE0NmpzMnNRWlB0d3BuUXlCVEU?oc=5",
-        "source": "Euronews",
-        "date": "Mon, 23 Nov 2026 13:43:25 GMT"
+        "title": "Nova fábrica da LEGO em Portugal vai ter o tamanho de 120 campos de futebol - NiT New in Town",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOeXVNeE1wN1czTE5jMmZGZlFwYmJDZVpQeUcwbE5CMW4wRkxUWk5OMl93YkRYZTRsTFcxVjN5OVhVWk93SUFwc2RqNFJLbkw3a2RVZDhhZnA3SlI3b3QwN3VOVG53Zk9BVnlRYTMzaEdpdDZYOXFFUzVCakNFSUNlNmdMQ2daOXV4UVNMbGdpQkc1di11NE5uUlA4YmpyMlh1RlpvV2lCRmRKSkRqZE1TUjdnQ0htUDdG?oc=5",
+        "source": "NiT New in Town",
+        "date": "Mon, 23 Nov 2026 11:10:00 GMT"
       },
       {
-        "title": "Quem compra casa em Portugal e quanto está a pagar? - ECO",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQLWo1NWE2TkdWQTZDUlRibDhHb25OUlowYWpFelBxWEhCbUlVTmZsc2NlcEc4WWQ1T3g5amdDNy1UcTRwdThNMUE1NkpRNG5hM2hxbGtwdlBYX1dBXzFtZ2U3REN3NTRWbWFGQjJnS0xGU2pZR3lxUFIzNkljMDAzZHRHRVl6TG9YR3c?oc=5",
+        "title": "Proposta de Costa impõe corte de 400 milhões a Portugal no novo orçamento da União - ECO",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdE0xVnFiZjBWb0dYNndfbzN3bDFUZ0JscDNZcW8xQVI4cHBCTmd3RmNLRzd5N0s2ZzQ1emVDTUFzYjlfNlotSEx4UHl4c2xnMVBadkVidjl4S1BWVkFPS3pCa1QxQWtPZTRHd1FmQjdaQmJtQjlJemJ5R2hYYnhxMUdidDFkbVo3R1RtbnByb2dQNm1IZ0pfdDBXX1ZRRTAwQUxMTDFVa2dZUnRLejJ3RHgwbDk?oc=5",
         "source": "ECO",
-        "date": "Mon, 23 Nov 2026 16:53:16 GMT"
+        "date": "Sat, 21 Nov 2026 17:44:39 GMT"
       },
       {
-        "title": "AO MINUTO | CNN Portugal Summit: o arrendamento como aposta presente - CNN Portugal",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1kOWo0UW5ZblhZQ2xlSmd5X0FzYkRfQXljSFVNb04yaVFHR1Jia0ZxdGVpR2s3a0dCbnBPRWU2RFQ5VTBPSlFaV1oxSUItT1F2ZFhrLWpZeE9lc2szR05uWGhxTldIcmNoeG1yZg?oc=5",
-        "source": "CNN Portugal",
-        "date": "Mon, 23 Nov 2026 09:04:13 GMT"
-      },
-      {
-        "title": "Despejos: Portugal não sabe quantas famílias perdem a casa todos os anos - Idealista",
-        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNMi0zdHJFU3dRRDAxcUxPVGVraUdpVEM4WmdSSlFodWlJNjQ0OGZKYkJLb1ZIb0xIYzB3LS02YlctUVJMY19NUnljMnBXVHlaQm5OdnkzZjJZY1dzWmU5LUJEdG1TX1J6enRoalFGamVmMHFTVTNKeGNsbXhxclNQdzIzUUZGQnZWMnZXTjhsak9WTm1SX1h4YXc1RXozc0JZc0NnLU9DOURYclBGdE80Zm1vaHQ3VFVqMHpja0NaNjc1V2h5NXlfM0VKd0szdVh3X2EtU0Nqdw?oc=5",
-        "source": "Idealista",
-        "date": "Mon, 23 Nov 2026 14:32:55 GMT"
-      },
-      {
-        "title": "Gripe das aves volta a ser detetada em Portugal e há risco elevado de disseminação - CNN Portugal",
-        "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQVGRTMWIzZ3Vvb25BQ1NfTUFLZUc5bUo5OC1JWDdoeUFoYll4X25XVm9mWXpOcV8yVGFIeXZFQzktbXVrMWczajRHbHZZcFRvQ0ZEUmw2ZFZhcXNuNVVsUDBvd2R4UzlGRUs5Y3h2THM1TXNtQkFMZkwxTU8tUmlpRklxUlljcGwyZ3hqUVlJUVQyWThLMEN2R3BDNGtLZ3kybExqeDBLNFYzTVBRWTRXRmgwenNNbXpmWmtBdnY0d1NzOHlZYTF4ZThPMG8yWlloZE1tNHRLVnBxMXJqSUh3NXY4TFN4VkF5Mi1JZGlaX3FrYTlDRFcwVUlTNA?oc=5",
-        "source": "CNN Portugal",
-        "date": "Mon, 23 Nov 2026 15:24:10 GMT"
+        "title": "Emigrantes reformados que 'regressem' a Portugal vão ter super desconto no IRS - Expresso",
+        "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPelQ0TWZZMXZjWVYxcHRXYXpNTkVpQml4UGxiRUp4YnpmdEE3NEN6Szc2bzkzY2l4OTQxSnJTd0FkT09MWm0yU1I0V1dLV1pLdzdaNWIyRU82N29yblJKX1RxOHZXdzF6dlVlLXZUbVlXYVgtX3VyWmF3a1YzdXZKaWJyS0dicUdFWUcwaXVxVWk1X1hPNWI1Rmk3NF9VUWNLZG9wX2Y0RFVWWFN3SlhQSlhQOXYyb3gzbFFqbU5Ed0tEbEVnaGZLeE1MdVhvU3UzbFN1NzNzalN4TlNQeHFoOUMySnFrQ0VlaU9vLTdRbHkzUkU?oc=5",
+        "source": "Expresso",
+        "date": "Mon, 23 Nov 2026 17:59:08 GMT"
       },
       {
         "title": "De bartender a empresária, carioca faz a ponte para negócios entre Brasil e Portugal - Público",
@@ -235,10 +223,16 @@
         "date": "Mon, 23 Nov 2026 16:05:19 GMT"
       },
       {
-        "title": "Taça de Portugal: conheça todos os jogos dos oitavos de final - A Bola",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOVFUQXBmYzdUWVRQakdncHNYRGd0RGhPY2xxdm1XUkYta3lJSUNqNDJxNVQxVlVhYlVRLVR0bkl4eDFMU01zS1ZkSVJZN3c5MFFZSGE5WnpDN0g0ckxJeW5wWkZnNlp2Zy0weW9DZXJXUS11Skk0WC1Vb1ZCRTZGOElrM3lqUWtELWk0Vl9JendTS2tVeU41WnNHZmlONFl3WWktRFVUZjBtNWJLT0VV?oc=5",
-        "source": "A Bola",
-        "date": "Sun, 22 Nov 2026 22:39:00 GMT"
+        "title": "Bryan Adams viveu em Portugal dos 9 aos 12 anos. Nunca esqueceu a escola de Carnaxide - New in Oeiras",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOazNTOGtudFg1Q0tDbTM4YUhiNVlIcWpXWEFKQ2psT3VsYVg0cWNfOEMzLW1wMzlXdlpsY2NlemE4QmgyNVBZbWNrbTNvV1BVU1VwVS1iY1NLY0JhUWY0bHJqN0lBakRCaU9zNS14MXFtZFE2UDlRcTZmNGNyeVpZb2hQemdpd1JIR2pGTjVVODNTbXRzYU1GVmFSempWMnV5eWtmN3VEaldWQVpLLTRBVkVoSG4yUEJ4TXRJ?oc=5",
+        "source": "New in Oeiras",
+        "date": "Mon, 23 Nov 2026 17:13:00 GMT"
+      },
+      {
+        "title": "Benfica elimina detentor do título Torreense na quarta ronda da Taça de Portugal - RTP",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOVDRBYWtQdFg3cTdpNVFvcW51Q2o1MXU2OVlzNjdlMDhsd2VtNzNHUkNGR2tqV2pySHBIWVJmMDNZdDVmZ2ZrU3BJbGxPUml1ZHRoTlJaa2MtVVJvd0NoOEF1ZXVyNFFDcUVPb1RUYXlxQ2kwZVBrd1VHYllBeDRJakxlMGFkbmw4b21SX3NUNE9MdUxLMWIyR1BsNVp5bTJnUGdlRHBnVHJtVHVDZEtaT1lGSWhYdFFKcE5FTzlZUWJHbjBJblZrZ21uMGFYcWM?oc=5",
+        "source": "RTP",
+        "date": "Sun, 22 Nov 2026 22:45:05 GMT"
       },
       {
         "title": "Benfica vence Torreense e segue em frente na Taça de Portugal - SIC Notícias",
@@ -247,22 +241,28 @@
         "date": "Sun, 22 Nov 2026 22:42:16 GMT"
       },
       {
-        "title": "O Benfica descobriu algo novo na Taça de Portugal - Público",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQOXpDcXpyT2JoNVlGbWg4ZUpvV2RSZnVIX185M3JlM01pVG9BQnRyZkczcnl0eVRYUjljLTlQZ1BvNnYyR2R3VjN5N0ppUkRFby1uQVZtQVVpeC1sQ0RNbXhUckM5MGEwSUZQeHJ3cndrc200c3hPSkZIQ1FjY2kwWjJ5UUVmTGpOZkpKd1ZuRFlMQjlsNFNCckl3U1JnVnVUZS1YaE8tWXBOZDVs?oc=5",
-        "source": "Público",
-        "date": "Sun, 22 Nov 2026 22:40:10 GMT"
+        "title": "Taça de Portugal: tudo fechado, são estes os jogos dos oitavos de final - Maisfutebol",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQLXVEeTZiNC0ybFlhZ3l2alJ6RVh3cDFsWkZFcW9MdDR5NlRsX0c2ODlLRU5DSUwtWDFsUGtzT2txR01qY1puNEpROFpBZ1JtM19BVjlRRWp2TWlELTJpMVBkNFlCeHk5cFYyOHV6aTQ5SWNjY3c1akQ5VlE4eG5Va0xoN3JacEliMTVSTmJ0YmlQZ09IZWpBR1B1Xy1Nb01KWExiSGN5MHM0SmR4alpZcTdHYXdldGEwbnc?oc=5",
+        "source": "Maisfutebol",
+        "date": "Sun, 22 Nov 2026 22:43:14 GMT"
       },
       {
-        "title": "Quase metade das heranças vai para 10% dos herdeiros. Em Portugal, a maior parte do valor fica em poucas mãos - Expresso",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNN0xLaG55Q2hvVVVQY2JXNktBTTA4b3N2cDRCY1FacER3VDV6Z2t5M3d6UzI0YnN2ZnVJNm54UXNYZ0MwX2Z4TUNWQ2hqZ0I0Z3NYM3FVbEViVGg2RDNDTkFMOS1jVUpIVDJYNlVwc2pzcXUtZHNmMkxGVVpIQ0xUOWVzUngyMVhoQ3FlZm5qbElKUWlGM2tDa3RkeTV2UkRkTlE?oc=5",
-        "source": "Expresso",
-        "date": "Mon, 23 Nov 2026 10:12:32 GMT"
+        "title": "Surpreenda-se com alguns! Os jogadores mais bem pagos em Portugal fora dos três grandes - A Bola",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPQlNna09iVUppaDF5NjFLM3hWR2Rfb3ZSUnBDMDJjYTJ0XzRhOWZxTjdNLWxsM1dTdjhyaDMyeTJwS2tHREFLS3lwcUR2Q21FR3A2bm43UzVFaHNkdnhsYzhoUTlZcXh1a1VFM19WbzVRaUJvT1RSUzh1QnhwaGRnelNtQ3ZRUi0tWnhKekVSd01FeEtpbWhOUUotckpaVDVDWHYycGYzT3lmbkhQU1hhWlhEZENVa2JQRGw1dDhhQWJ0NnVGMlRRY1lhbG1jdWpXNEE?oc=5",
+        "source": "A Bola",
+        "date": "Sun, 22 Nov 2026 11:54:00 GMT"
       },
       {
-        "title": "Portugal sobe ao top 10 europeu do investimento tecnológico à boleia da Tekever - Euronews.com",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRXJNbWVNX3ZJYWlxR1VVY2xkZUI1aWVGZnIyNHhBc0tiZ2xLNTI4azd5Q2dab3AzVUtYbkoyNFVDTGx4YVRkY0dCQlJiN1E3ZF9LUVA3bEhsbE5OeDZyX1FXcmg4VkVuOVMwNjE0NzlNSlN2U003bnlaSERGQl9YUGhoVWhMS0NpVHFhU1BKM28zR1A2LTFfUjJwU2hMczFjd3hCUV9Mb1NRRTE3VzJmZ0RoeTg?oc=5",
-        "source": "Euronews.com",
-        "date": "Mon, 23 Nov 2026 07:08:21 GMT"
+        "title": "LIGA PORTUGAL: Tondela entra em campo com o “12.º Jogador” - SAPO",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVW1ZdmoxWmJ1em5QVjJTdHBadm5lY2FOdVpqSFNkZ0N4NlNaeUpiRjBwekJsdnVZU1VoUlRpcGNoRXJBeDRIRjFock9pTjNFRTFoeDk2SkVST29vVlJ1WjVOc2xBdHJ5SkNQSmw0VWpuaTBkbEhvX1hLeGtoSDd2OHd3RFc0T1YxalhGa05iWnF0UERnT1ZuakY2eWxmZ3V5cXcw?oc=5",
+        "source": "SAPO",
+        "date": "Mon, 23 Nov 2026 16:51:00 GMT"
+      },
+      {
+        "title": "Arena Liga Portugal recebe primeira edição da Confut Euro em março - Record",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVF9LS09uODg3U3pSdE9KNktvZ1RWMVUxOVRia01oU2JjS3NaWWY4bWFZNDhrSTZoTndSQnNYU3k1VVUzZmNXZllEbnI4SW9FcXhldk42MVhpZmNNYnZ0RzlaUExzMjNpZFFUVUlYeWpzZHJuSzYzNWtvdWZDZXhNY2hFNnYzOWZZMTVNYy1ZREpQdDE1V19JYlhzNEZKc3BqRlHSAaIBQVVfeXFMTVRfS0tPbjg4N1N6UnRPSjZLb2dUVjFVMTlUYmtNaFNiY0tzWllmOG1hWTQ4a0k2aE53UkJzWFN5NVVVM2ZjV2ZZRG5yOElvRXF4ZXZONjFYaWZjTWJ2dEc5WlBMczIzaWRRVFVJWHlqc2Rybks2MzVrb3VmQ2V4TWNoRTZ2MzlmWTE1TWMtWURKUHQxNVdfSWJYczRGSnNwakZR?oc=5",
+        "source": "Record",
+        "date": "Sun, 22 Nov 2026 15:47:50 GMT"
       },
       {
         "title": "Portugal deixou passar prazo das novas regras do crédito ao consumo - Jornal de Negócios",
@@ -271,10 +271,10 @@
         "date": "Mon, 23 Nov 2026 00:01:52 GMT"
       },
       {
-        "title": "Bruxelas investiga práticas comerciais da Coca-Cola em Portugal e mais sete países - Dinheiro Vivo",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNajZYWjlQUm5nS2JITjZWWXVsWkJXQnNDb0FhcDJPREphU3FuOXNKWDZtMEN0eU5jSXFmTjNPdFRLdDdKUnFCY0VNS0laVHAwdDMzMlV4Vmw4TmJJQXp4ZG53MWZ1N0NmSVQ2cW81ZC1WS3pfNmVjMWNOamtBX0swT3pxRGxjZFJPTmMxQlNHTVU5MzItVW83T2xiV3JzY3VhZkd3VnNfQjhHZzhKY0JpRlFTVnE2UQ?oc=5",
-        "source": "Dinheiro Vivo",
-        "date": "Mon, 23 Nov 2026 11:51:59 GMT"
+        "title": "Portugal sobe ao top 10 europeu do investimento tecnológico à boleia da Tekever - Euronews",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRXJNbWVNX3ZJYWlxR1VVY2xkZUI1aWVGZnIyNHhBc0tiZ2xLNTI4azd5Q2dab3AzVUtYbkoyNFVDTGx4YVRkY0dCQlJiN1E3ZF9LUVA3bEhsbE5OeDZyX1FXcmg4VkVuOVMwNjE0NzlNSlN2U003bnlaSERGQl9YUGhoVWhMS0NpVHFhU1BKM28zR1A2LTFfUjJwU2hMczFjd3hCUV9Mb1NRRTE3VzJmZ0RoeTg?oc=5",
+        "source": "Euronews",
+        "date": "Mon, 23 Nov 2026 07:08:21 GMT"
       }
     ],
     "economy": [
