@@ -1,6 +1,45 @@
 {
-  "generated_at": "2026-11-23T02:57:00.335047+00:00",
+  "generated_at": "2026-11-23T04:04:58.925440+00:00",
   "articles": [
+    {
+      "id": "a5eb8a0489935c9343ba",
+      "title": "3h ONU pede investigação aos ataques com drones ao largo da Líbia",
+      "original_title": "3h ONU pede investigação aos ataques com drones ao largo da Líbia",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-23T03:13:01+00:00",
+      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/3h-onu-pede-investigacao-aos-ataques-com-drones-ao-largo-da-libia_a1_1781002",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "86f471b305861c1e5391",
+      "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
+      "original_title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
+      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC News",
+      "category": "Mundo",
+      "published_at": "2026-11-23T02:59:35+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "060bd0704de7c5fd2b6f",
+      "title": "Boy, 7, pulled alive from rubble hours after Russian strike on Ukraine, rescuers say",
+      "original_title": "Boy, 7, pulled alive from rubble hours after Russian strike on Ukraine, rescuers say",
+      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC News",
+      "category": "Mundo",
+      "published_at": "2026-11-23T02:37:02+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/cqdr15l32d3go?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
     {
       "id": "6c2089a84188d3edb8b0",
       "title": "Democrats win largest House majority since 1992 after flipping North Carolina seat",
@@ -96,9 +135,9 @@
       "id": "7d8cd000f5aff96a5a51",
       "title": "San Francisco is enjoying an AI boom, but worries about a crash are growing",
       "original_title": "San Francisco is enjoying an AI boom, but worries about a crash are growing",
-      "summary": "Informação divulgada por BBC Business. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC Business",
-      "category": "Economia",
+      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC News",
+      "category": "Mundo",
       "published_at": "2026-11-23T00:08:00+00:00",
       "article_url": "https://www.bbc.co.uk/news/articles/cqe9k09j9jv4o?at_medium=RSS&at_campaign=rss",
       "image_url": "",
@@ -114,6 +153,19 @@
       "category": "Portugal",
       "published_at": "2026-11-22T22:52:38+00:00",
       "article_url": "https://www.rtp.pt/noticias/futebol-internacional/atletico-de-madrid-regressa-as-vitorias-e-guedes-volta-a-marcar-na-la-liga_d1780993",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "5b0b32729bed6c1fca2a",
+      "title": "Burnham to tell MPs 'landmark' EU deal could make next decade 'much better'",
+      "original_title": "Burnham to tell MPs 'landmark' EU deal could make next decade 'much better'",
+      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC News",
+      "category": "Mundo",
+      "published_at": "2026-11-22T22:49:10+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/cmde1dy82lepo?at_medium=RSS&at_campaign=rss",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
@@ -314,19 +366,6 @@
       "editorial_status": "titulo_normalizado"
     },
     {
-      "id": "86f471b305861c1e5391",
-      "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
-      "original_title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
-      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC News",
-      "category": "Mundo",
-      "published_at": "2026-11-22T20:28:09+00:00",
-      "article_url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
       "id": "e13506b2233c579d84f7",
       "title": "Manteigas com trabalhos de limpeza e reconstrução após mau tempo",
       "original_title": "Manteigas com trabalhos de limpeza e reconstrução após mau tempo",
@@ -444,19 +483,6 @@
       "editorial_status": "titulo_normalizado"
     },
     {
-      "id": "53edb6a24285a49715e4",
-      "title": "Objetos voadores que caíram na Polónia eram mísseis de cruzeiro de fabrico russo",
-      "original_title": "Objetos voadores que caíram na Polónia eram mísseis de cruzeiro de fabrico russo",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Mundo",
-      "published_at": "2026-11-22T18:46:08+00:00",
-      "article_url": "https://www.rtp.pt/noticias/mundo/objetos-voadores-que-cairam-na-polonia-eram-misseis-de-cruzeiro-de-fabrico-russo_n1780963",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
       "id": "f0dc64c88236e361f464",
       "title": "US Army to detonate tonnes of unstable explosives in Iowa despite court order",
       "original_title": "US Army to detonate tonnes of unstable explosives in Iowa despite court order",
@@ -556,32 +582,6 @@
       "category": "Mundo",
       "published_at": "2026-11-22T00:10:44+00:00",
       "article_url": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "fd10287403afa7d0976d",
-      "title": "Employers are being asked to give interview feedback - here's what applicants want",
-      "original_title": "Employers are being asked to give interview feedback - here's what applicants want",
-      "summary": "Informação divulgada por BBC Business. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC Business",
-      "category": "Economia",
-      "published_at": "2026-11-22T00:04:07+00:00",
-      "article_url": "https://www.bbc.co.uk/news/articles/cm2d94le23xyo?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "96f8fdc21e5f727a6717",
-      "title": "Lock of former US President George Washington's hair sells for $4,000",
-      "original_title": "Lock of former US President George Washington's hair sells for $4,000",
-      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC News",
-      "category": "Mundo",
-      "published_at": "2026-11-21T22:01:19+00:00",
-      "article_url": "https://www.bbc.co.uk/news/articles/cwe9k23dpz0do?at_medium=RSS&at_campaign=rss",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
