@@ -1,6 +1,84 @@
 {
-  "generated_at": "2026-11-23T19:36:34.316895+00:00",
+  "generated_at": "2026-11-23T20:26:41.227385+00:00",
   "articles": [
+    {
+      "id": "3c257af4d3abf1505014",
+      "title": "O Essencial RTP. Greve dos maquinistas da CP e nova fábrica da Lego em Portugal",
+      "original_title": "O Essencial RTP. Greve dos maquinistas da CP e nova fábrica da Lego em Portugal",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Mundo",
+      "published_at": "2026-11-23T20:25:43+00:00",
+      "article_url": "https://www.rtp.pt/noticias/mundo/o-essencial-rtp-greve-dos-maquinistas-da-cp-e-nova-fabrica-da-lego-em-portugal_n1781157",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "008147805cbc4786a944",
+      "title": "Sondagem revela corrida a três com vantagem para a AD",
+      "original_title": "Sondagem revela corrida a três com vantagem para a AD",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-23T20:19:47+00:00",
+      "article_url": "https://www.rtp.pt/noticias/politica/sondagem-revela-corrida-a-tres-com-vantagem-para-a-ad_v1781155",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "ef84c8aea36dd0dda036",
+      "title": "20h AD lidera, mas há empate técnico com PS e Chega, sondagem",
+      "original_title": "20h AD lidera, mas há empate técnico com PS e Chega, sondagem",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-23T20:19:03+00:00",
+      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/20h-ad-lidera-mas-ha-empate-tecnico-com-ps-e-chega-sondagem_a1_1781154",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "5767255be1c77c496607",
+      "title": "Sondagem da Católica. Maioria diz que medidas do Governo não resolvem crise da habitação",
+      "original_title": "Sondagem da Católica. Maioria diz que medidas do Governo não resolvem crise da habitação",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Economia",
+      "published_at": "2026-11-23T19:59:43+00:00",
+      "article_url": "https://www.rtp.pt/noticias/economia/sondagem-da-catolica-maioria-diz-que-medidas-do-governo-nao-resolvem-crise-da-habitacao_n1781143",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "bd71368c640c7b774b07",
+      "title": "Sondagem da Católica aponta para empate técnico entre os três maiores partidos",
+      "original_title": "Sondagem da Católica aponta para empate técnico entre os três maiores partidos",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-23T19:59:36+00:00",
+      "article_url": "https://www.rtp.pt/noticias/politica/sondagem-da-catolica-aponta-para-empate-tecnico-entre-os-tres-maiores-partidos_n1781126",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "7454b7f8490da1900ffb",
+      "title": "Circulação do metro em Gaia reabre após inspeção a mala abandonada",
+      "original_title": "Circulação do metro em Gaia reabre após inspeção a mala abandonada",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-23T19:55:07+00:00",
+      "article_url": "https://www.rtp.pt/noticias/pais/circulacao-do-metro-em-gaia-reabre-apos-inspecao-a-mala-abandonada_n1781151",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
     {
       "id": "bd864b63dd76442bac54",
       "title": "19h Passos Coelho aponta para crise política no Parlamento",
@@ -49,19 +127,6 @@
       "category": "Portugal",
       "published_at": "2026-11-23T18:44:03+00:00",
       "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/18h-greve-dos-maquinistas-da-cp-cancela-mais-de-100-comboios-no-primeiro-dia_a1_1781141",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "e9a1a0bdf67e6129ac17",
-      "title": "Metro cortado nos dois sentidos em Gaia devido a mala suspeita na estação D. João II",
-      "original_title": "Metro cortado nos dois sentidos em Gaia devido a mala suspeita na estação D. João II",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-23T18:38:54+00:00",
-      "article_url": "https://www.rtp.pt/noticias/pais/metro-cortado-nos-dois-sentidos-em-gaia-devido-a-mala-suspeita-na-estacao-d-joao-ii_n1781140",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
@@ -366,32 +431,6 @@
       "editorial_status": "titulo_normalizado"
     },
     {
-      "id": "51c9aae7ee465a8ff5cd",
-      "title": "Altimira diz que Paulo Fonseca trouxe “nova energia” ao balneário do Sporting",
-      "original_title": "Altimira diz que Paulo Fonseca trouxe “nova energia” ao balneário do Sporting",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-23T15:59:32+00:00",
-      "article_url": "https://www.rtp.pt/noticias/sporting/altimira-diz-que-paulo-fonseca-trouxe-nova-energia-ao-balneario-do-sporting_d1781118",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "bf72dff10541cf28492e",
-      "title": "Gripe das aves volta a ser detetada no país com risco elevado de disseminação",
-      "original_title": "Gripe das aves volta a ser detetada no país com risco elevado de disseminação",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Economia",
-      "published_at": "2026-11-23T15:57:42+00:00",
-      "article_url": "https://www.rtp.pt/noticias/economia/gripe-das-aves-volta-a-ser-detetada-no-pais-com-risco-elevado-de-disseminacao_n1781108",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
       "id": "6bfc7b4e064fc08746cb",
       "title": "The rise and fall and rise again of Jensen Huang",
       "original_title": "The rise and fall and rise again of Jensen Huang",
@@ -418,19 +457,6 @@
       "editorial_status": "titulo_normalizado"
     },
     {
-      "id": "48fd70453f7334250d3f",
-      "title": "15h Nvidia dispara 30% após regresso de Jensen Huang",
-      "original_title": "15h Nvidia dispara 30% após regresso de Jensen Huang",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-23T15:28:03+00:00",
-      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/15h-nvidia-dispara-30-apos-regresso-de-jensen-huang_a1_1781114",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
       "id": "44e4940b8b8dfb63b701",
       "title": "Prominent Zimbabwean preacher arrested on sexual assault allegations",
       "original_title": "Prominent Zimbabwean preacher arrested on sexual assault allegations",
@@ -452,32 +478,6 @@
       "category": "Mundo",
       "published_at": "2026-11-23T14:54:03+00:00",
       "article_url": "https://www.bbc.co.uk/news/articles/c5rmgkv2lk73o?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "162224bfd36a2ea50797",
-      "title": "Aumento da venda de vinho de Trás-os-Montes surpreende produtores e Ministério da Agricultura",
-      "original_title": "Aumento da venda de vinho de Trás-os-Montes surpreende produtores e Ministério da Agricultura",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Economia",
-      "published_at": "2026-11-23T14:47:48+00:00",
-      "article_url": "https://www.rtp.pt/noticias/economia/aumento-da-venda-de-vinho-de-tras-os-montes-surpreende-produtores-e-ministerio-da-agricultura_v1781112",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "b951559b507df70f5394",
-      "title": "Manifestantes pela habitação vão manter tendas junto ao Parlamento",
-      "original_title": "Manifestantes pela habitação vão manter tendas junto ao Parlamento",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-23T14:41:49+00:00",
-      "article_url": "https://www.rtp.pt/noticias/pais/manifestantes-pela-habitacao-vao-manter-tendas-junto-ao-parlamento_v1781109",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
