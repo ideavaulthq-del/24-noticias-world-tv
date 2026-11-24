@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-11-24T02:54:33.755641+00:00",
+  "generated_at": "2026-11-24T03:58:43.641196+00:00",
   "articles": [
+    {
+      "id": "ae3d9337e728795fa911",
+      "title": "3h Eleições em Espanha. Indecisos podem decidir vencedor",
+      "original_title": "3h Eleições em Espanha. Indecisos podem decidir vencedor",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-24T03:24:02+00:00",
+      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/3h-eleicoes-em-espanha-indecisos-podem-decidir-vencedor_a1_1781207",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "f7266e3e0f59a0db8ce8",
+      "title": "2h OE27. Deputados votaram mais de 2800 propostas de alteração",
+      "original_title": "2h OE27. Deputados votaram mais de 2800 propostas de alteração",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-24T03:24:01+00:00",
+      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/2h-oe27-deputados-votaram-mais-de-2800-propostas-de-alteracao_a1_1781206",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
     {
       "id": "5dfa276e47e7dc583cb3",
       "title": "01h AR já terminou a maratona de votações do Orçamento de Estado, na fase da especialidade",
@@ -387,32 +413,6 @@
       "category": "Cultura",
       "published_at": "2026-11-23T21:45:54+00:00",
       "article_url": "https://www.rtp.pt/noticias/cultura/dois-filmes-portugueses-e-uma-coproducao-luso-espanhola-entre-elegiveis-para-os-oscares-2027_n1781152",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "5e9334c676d90506e6c1",
-      "title": "21h Sondagem: AD aparece em primeiro lugar, mas surge em empate técnico com o PS e o Chega",
-      "original_title": "21h Sondagem: AD aparece em primeiro lugar, mas surge em empate técnico com o PS e o Chega",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-23T21:44:03+00:00",
-      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/21h-sondagem-ad-aparece-em-primeiro-lugar-mas-surge-em-empate-tecnico-com-o-ps-e-o-chega_a1_1781176",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "8d13d2cea8aafb23f892",
-      "title": "Isaltino Morais nega conhecimento dos contratos da autarquia com empresas da filha",
-      "original_title": "Isaltino Morais nega conhecimento dos contratos da autarquia com empresas da filha",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-23T21:41:47+00:00",
-      "article_url": "https://www.rtp.pt/noticias/politica/isaltino-morais-nega-conhecimento-dos-contratos-da-autarquia-com-empresas-da-filha_v1781174",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
