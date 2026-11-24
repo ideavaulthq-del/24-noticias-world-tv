@@ -1,6 +1,58 @@
 {
-  "generated_at": "2026-11-23T23:26:41.458808+00:00",
+  "generated_at": "2026-11-24T00:23:32.777835+00:00",
   "articles": [
+    {
+      "id": "0d5e663cdff4329f73d3",
+      "title": "I pay £250 a month for someone else to do my life admin - it's worth it",
+      "original_title": "I pay £250 a month for someone else to do my life admin - it's worth it",
+      "summary": "Informação divulgada por BBC Business. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC Business",
+      "category": "Economia",
+      "published_at": "2026-11-24T00:01:04+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/c6zjr3g13zkno?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "4123ada0755beb039841",
+      "title": "23h AR, prosseguem as votações do Orçamento do Estado na fase da especialidade",
+      "original_title": "23h AR, prosseguem as votações do Orçamento do Estado na fase da especialidade",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-23T23:33:02+00:00",
+      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/23h-ar-prosseguem-as-votacoes-do-orcamento-do-estado-na-fase-da-especialidade_a1_1781189",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "cadd26ab18f90d238452",
+      "title": "22h Sondagem: são justas as reivindicações dos manifestantes pela habitação",
+      "original_title": "22h Sondagem: são justas as reivindicações dos manifestantes pela habitação",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-23T23:29:01+00:00",
+      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/22h-sondagem-sao-justas-as-reivindicacoes-dos-manifestantes-pela-habitacao_a1_1781187",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "f0518c088be9c757bcb3",
+      "title": "23h Sondagem: são justas as reivindicações dos manifestantes pela habitação",
+      "original_title": "23h Sondagem: são justas as reivindicações dos manifestantes pela habitação",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-23T23:25:02+00:00",
+      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/23h-sondagem-sao-justas-as-reivindicacoes-dos-manifestantes-pela-habitacao_a1_1781186",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
     {
       "id": "3cc41a50e5030e8f6178",
       "title": "US to blacklist Asian AI firm Megaspeed after Nvidia scandal",
@@ -10,6 +62,19 @@
       "category": "Mundo",
       "published_at": "2026-11-23T23:16:08+00:00",
       "article_url": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "9f50426e52dafa8681b0",
+      "title": "Nvidia reinstates CEO Jensen Huang after affair with alleged spy as Trump says 'I made the deal'",
+      "original_title": "Nvidia reinstates CEO Jensen Huang after affair with alleged spy as Trump says 'I made the deal'",
+      "summary": "Informação divulgada por BBC Business. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC Business",
+      "category": "Economia",
+      "published_at": "2026-11-23T23:10:27+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
@@ -301,45 +366,6 @@
       "editorial_status": "titulo_normalizado"
     },
     {
-      "id": "4fab9c282be17c293e17",
-      "title": "Lisboa e Vale do Tejo com 14 casos de sarampo desde outubro diz DGS",
-      "original_title": "Lisboa e Vale do Tejo com 14 casos de sarampo desde outubro diz DGS",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-23T21:31:04+00:00",
-      "article_url": "https://www.rtp.pt/noticias/pais/lisboa-e-vale-do-tejo-com-14-casos-de-sarampo-desde-outubro-diz-dgs_n1781145",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "dffb72b75d4d715007de",
-      "title": "Projeto-piloto para evitar reincidência de homicídios em intimidade arranca em 2027",
-      "original_title": "Projeto-piloto para evitar reincidência de homicídios em intimidade arranca em 2027",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-23T21:30:47+00:00",
-      "article_url": "https://www.rtp.pt/noticias/pais/projeto-piloto-para-evitar-reincidencia-de-homicidios-em-intimidade-arranca-em-2027_v1781172",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "e4b918a196b3d79fa052",
-      "title": "Portugal assina declaração conjunta com 13 países instando Myanmar a cumprir sentença do TIJ",
-      "original_title": "Portugal assina declaração conjunta com 13 países instando Myanmar a cumprir sentença do TIJ",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Mundo",
-      "published_at": "2026-11-23T21:27:22+00:00",
-      "article_url": "https://www.rtp.pt/noticias/mundo/portugal-assina-declaracao-conjunta-com-13-paises-instando-myanmar-a-cumprir-sentenca-do-tij_n1781164",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
       "id": "839dafd30357a86ab0b6",
       "title": "Nvidia value climbs by almost $1tn and tech stocks rally after Jensen Huang returns",
       "original_title": "Nvidia value climbs by almost $1tn and tech stocks rally after Jensen Huang returns",
@@ -556,32 +582,6 @@
       "category": "Mundo",
       "published_at": "2026-11-23T13:34:02+00:00",
       "article_url": "https://www.bbc.co.uk/news/articles/cwdr155e2d05o?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "8e60b31b637f7dd10246",
-      "title": "'I want to destroy capitalism, not France': On the streets with the French ultra left",
-      "original_title": "'I want to destroy capitalism, not France': On the streets with the French ultra left",
-      "summary": "Informação divulgada por BBC Europe. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC Europe",
-      "category": "Europa",
-      "published_at": "2026-11-23T13:09:52+00:00",
-      "article_url": "https://www.bbc.co.uk/news/articles/cw074km48myeo?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "6c2089a84188d3edb8b0",
-      "title": "Democrats win largest House majority since 1992 after flipping North Carolina seat",
-      "original_title": "Democrats win largest House majority since 1992 after flipping North Carolina seat",
-      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC News",
-      "category": "Mundo",
-      "published_at": "2026-11-23T13:02:05+00:00",
-      "article_url": "https://www.bbc.co.uk/news/articles/c6vg29g7dlyno?at_medium=RSS&at_campaign=rss",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
