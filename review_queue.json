@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-11-24T00:23:32.777835+00:00",
+  "generated_at": "2026-11-24T01:52:41.409584+00:00",
   "articles": [
+    {
+      "id": "9f50426e52dafa8681b0",
+      "title": "Nvidia reinstates CEO Jensen Huang after affair with alleged spy as Trump says 'I made the deal'",
+      "original_title": "Nvidia reinstates CEO Jensen Huang after affair with alleged spy as Trump says 'I made the deal'",
+      "summary": "Informação divulgada por BBC Business. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC Business",
+      "category": "Economia",
+      "published_at": "2026-11-24T01:11:54+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "ab6e8790e3200b99a517",
+      "title": "00h Três sindicatos juntam-se para uma greve geral, no dia da votação final do OE",
+      "original_title": "00h Três sindicatos juntam-se para uma greve geral, no dia da votação final do OE",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-24T00:28:02+00:00",
+      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/00h-tres-sindicatos-juntam-se-para-uma-greve-geral-no-dia-da-votacao-final-do-oe_a1_1781196",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
     {
       "id": "0d5e663cdff4329f73d3",
       "title": "I pay £250 a month for someone else to do my life admin - it's worth it",
@@ -62,19 +88,6 @@
       "category": "Mundo",
       "published_at": "2026-11-23T23:16:08+00:00",
       "article_url": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "9f50426e52dafa8681b0",
-      "title": "Nvidia reinstates CEO Jensen Huang after affair with alleged spy as Trump says 'I made the deal'",
-      "original_title": "Nvidia reinstates CEO Jensen Huang after affair with alleged spy as Trump says 'I made the deal'",
-      "summary": "Informação divulgada por BBC Business. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC Business",
-      "category": "Economia",
-      "published_at": "2026-11-23T23:10:27+00:00",
-      "article_url": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
@@ -348,19 +361,6 @@
       "category": "Economia",
       "published_at": "2026-11-23T21:39:13+00:00",
       "article_url": "https://www.rtp.pt/noticias/economia/camara-do-porto-preve-orcamento-de-510-milhoes-de-euros-para-2027_n1781165",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "57211de52a1f8e568b03",
-      "title": "Diretores pedem menos burocracia nos casos de violência nas escolas",
-      "original_title": "Diretores pedem menos burocracia nos casos de violência nas escolas",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Portugal",
-      "published_at": "2026-11-23T21:37:48+00:00",
-      "article_url": "https://www.rtp.pt/noticias/pais/diretores-pedem-menos-burocracia-nos-casos-de-violencia-nas-escolas_v1781173",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
