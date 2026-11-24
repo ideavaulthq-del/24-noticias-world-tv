@@ -1,9 +1,373 @@
 {
-  "updated_at": "2026-11-24T13:18:58.965798+00:00",
+  "updated_at": "2026-11-24T14:32:03.515100+00:00",
   "categories": {
-    "world": [],
-    "ukraine": [],
-    "portugal": [],
-    "economy": []
+    "world": [
+      {
+        "title": "Holgado: \"My dream is to be a MotoGP World Champion\" - www.motogp.com",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNDR0eUVfS0sxNDREbkNZSm5UMVQ4Mm5WQjFITGFaMERKbjE5cnRRQUYtSnd4T3A0M0RncjBYQk5XOVZEUXNJcGN2cmdXak8xblNYMGNFclV6OS00VHBaUGUweThBX2lrYndkUWtsWmdPWWRPeFc5TTdacXFtUVVUbkFYNkZFX2RfMVEzbWNYeDJoNU1vcENEaUQwdTRtRnRRMzZv?oc=5",
+        "source": "www.motogp.com",
+        "date": "Tue, 24 Nov 2026 08:42:00 GMT"
+      },
+      {
+        "title": "Road to the World Cup: Os Linces já treinam no CDC de Matosinhos - Federação Portuguesa de Basquetebol",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQclluUjBYMmU4WFhKcFA2N3E0WUU5bWxJXzVMY3plQWJjUm9lbEFVTHlUVVotZ29XaE8wOUFjbkx5dGgyejM5Y0VkUlF0SDhJRW9FcmFjeHliZi03cHNGSlNXQ0t6UGYzSnpIc1ZnVHFzOGRONEpxQUl3MGFWX0lBejZmSVhXMWstNlFEbEJDLWwtUkJLSlE?oc=5",
+        "source": "Federação Portuguesa de Basquetebol",
+        "date": "Tue, 24 Nov 2026 00:20:22 GMT"
+      },
+      {
+        "title": "Montiqueijo conquista três prémios no World Cheese Awards 2026 - Grande Consumo",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcy1QdFNFNkdfbTFLMTRiU3VEMGVxMUlYTmNTeTEzV2pLazRCdGVGaGNnUHVPTUpZR1hXRWJ2ajNlNy1nM1BxU0pxNEU0aWphcm9XU0dUZmtuc0VwWmlXOWxlaC1sREhGWEl2N3JTZVI2MXF6Qkg2UWhyM2h2YlJvQTdrREl3MVh6eExELVh2RU9Nd0U?oc=5",
+        "source": "Grande Consumo",
+        "date": "Tue, 24 Nov 2026 09:09:47 GMT"
+      },
+      {
+        "title": "38.ª edição dos World Tourism Film Awards vai ser em Marrocos de 1 a 3 de dezembro - Portal TV Portuguesa",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcTNZa1JsVjJaQlNHbnMwaFB1aTZJaE9vRjhWNlluanEzbXBKdWJKekNWV0tQVmZJSFJQSG1jOEMzVmNLN2FkbzJuWnZwcV9fWnhiMktqdEJtZXVoSGtNQk91NzRlZEltOS1PSkxuVzhXSEZXbjZJNjQyaVoxZ3JYUjdtNUF1cWZxbHc5UnRzaDZpSWk0M0Jab0xFcnA4RXhuZ0JsbkRJd3pQNnBzMk5JQlNEbjFpVHFY?oc=5",
+        "source": "Portal TV Portuguesa",
+        "date": "Tue, 24 Nov 2026 14:13:47 GMT"
+      },
+      {
+        "title": "Ensaio de Raffaele Storti nomeado para melhor do ano pela World Rugby - Record",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUGMyYy1YSkQ5LTNBbjk5VmFSLWNGR3ZvMmRScEk5N1J0OGEyWUhOckQ4Vld2S3VNZC0xMHZjeUpaaHg4T25zTDVDLThsNTJuQjhZZWRTWkVRUmNVR1NENEtQT2ZMZU9Da1dqNTJqRzBXTk1KalV3dFNSWFF3ZWZUZnJCZzFlYjVxcDFTRzFDXy1vOENDd3daRVZGLTIxb2UtUVFqNWhjX005V1hwaXpNWF9lSWp6UmV5UzhB0gG2AUFVX3lxTFBjQjZVTVRCdlJCQ01fU2NiN2c0Wnp1SHlGaURDazRQT2dneDU4X0c4ZUpXSDZVQWNrTjRwN3QzeS1NSC04U3l5LUd0dDR6eUt2QzFKTFVmU2pNRHJpMFI2ek1PWjE4Vnpwb2ZEN0RHVDR3Sm5CMzRLaFZUdzRjZk9Lakx0cGZ5MDN3emlCT1VVajRWMHoxWjlIdnQ3T0FPdmlWcVVWYlNuWlNxM0VXcWtERTlVZlhn?oc=5",
+        "source": "Record",
+        "date": "Mon, 23 Nov 2026 15:31:48 GMT"
+      },
+      {
+        "title": "Quais são as soluções do inventor da World Wide Web para os dilemas das redes sociais e da internet - Valor Econômico",
+        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPRzlmRUJxYU1VS1FsZVJ3eHdpdEQxenc3UzNQVk5KMlhCclpOeHVfM2dHWVVsMGtobENUV1ZIVmc5WVRHaXUtTzA4cmkwaXFvbVBIcTZXWGd2NlF0LWFCZmZVZXlrMEZVT3ZaRkdybGRxOUEtcGkwUVJURkdhNTQzSHJRdGZRRk1sTVlNSWRTSldkQkpFeGhKZ1gzdFViZWFTQUJXWDlYMGFRR3JqRlZPQVh2ZlBsenVnV0VvaUtaQXpJcXRBVThKNHJoeFhsYUdvcnY3TFJtenlCSEZSSVhFQldfaDFVd2tS0gH3AUFVX3lxTE9LSWJtaGFwbXJZYURRS3ctMFVkRmo0VEJHYjRpRW5GTUZSS3Z6eXhVNlFRbHdDdy0tS05CN3A5TmtaSVBYeDRaWjVrTnMtSWxxOUd4WXpjbUE1cHN0SzNRNTdUQnVwZ0JGZHpJRDA4dE5JelBfN3lZVElJaWQzYjN6aExReWliRHBYcHhlOUlsWDh3RlAyM0lCZVEwRFBfWHEwY1pRSDBZakUwbmI1ZnBoUHpaSzZUWFRYYnREcXE2RWIxNFh4QVUyZ25ZdVAxSVFWbHJLUlM3Y1dKb2N0TmFRcy1Pa1E0amdnOU9yVWlkb2lrdHFYZEU?oc=5",
+        "source": "Valor Econômico",
+        "date": "Tue, 24 Nov 2026 08:02:00 GMT"
+      },
+      {
+        "title": "Harley-Davidson anuncia calendário alargado da Bagger World Cup 2027 - Motojornal",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNLWQ5V0YwSzhNaFNRblhKRklVWGVvdEVlenFlNW1JbWgwdE5DUmg0Q1RZTUdyRy1RS3UtamtST19JT055QXhOdi0weEhMQWR3SEZFNFloanJ6eVlmLTh2YlpkN1BGSUlKaGFQYVR4YXNTWjlnZ0dEVWh3RmNZdEwtOFJnX1B1YnVoZE1pZ2ZVVVY0NTZVX3c?oc=5",
+        "source": "Motojornal",
+        "date": "Mon, 23 Nov 2026 17:24:22 GMT"
+      },
+      {
+        "title": "A página especial da Final Mundial – Tóquio da Gran Turismo World Series 2026 já está disponível! O evento será transmitido em direto a partir do recinto entre 5 e 6 de dezembro! - gran-turismo.com",
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0wbERIZ3Zod2RMdmx6dHBGX1BOVWlHaEdva1pLTFFjZ3BXRVl6RXB2ejQ0ZFRzbkZPaW5fbUxDWVNoY21EWHNkZUZzVzhqcXRIZEZrR3lpbkxEUjdoTmVBUkdn?oc=5",
+        "source": "gran-turismo.com",
+        "date": "Fri, 20 Nov 2026 10:29:54 GMT"
+      },
+      {
+        "title": "Ajustes a World of Warcraft: Forever - 13 de novembro de 2026 - Blizzard News",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQLVB3TkVfdTYtZnA1RjlfTlgtRHhJWHIxSURLSmE3VnhNMnd2RmpuMFIzQWNFeTVxMldDdm9xcVF5ZEhiaTV4LWtuMm05NEV4dmY4aldCWDNxY3dwb3pUbXNGZUpuWHMyclc3UGRCVlZjYm5vbzRabmV5RkxOWUx1YjZnWmhxV3lXSnIwQ0M4a2ZXMjlvcHZ2a1k1a2Zfd2RSXzhHTG1WbG0zbUU?oc=5",
+        "source": "Blizzard News",
+        "date": "Tue, 24 Nov 2026 07:00:31 GMT"
+      },
+      {
+        "title": "Diogo Lourenço é campeão do mundo no World Rescue Challenge 2026 no Brasil - Diário de Coimbra",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSzBvS2h3aFVqWmxfS2JRV1ZpbjNxczhqNmJrWUI1VGVjZDVDN0prQ0VLTXZHNTM5ZXR2UjdNc05tbm84bUNVUEJoVFZwUndzRG1zbDJLeUthNnFnUHRtcjdBQVpiRkd2eXNPTW9hVHhHUXAtUUd6ZXp2dVNBQ0RRYThZclpqWGpQWTNqTnhpd2xoa2NNWHRTXy14VThYVUl2dmtQTklGai1BcnJPZmwybGJ5M3Zvdw?oc=5",
+        "source": "Diário de Coimbra",
+        "date": "Mon, 23 Nov 2026 19:35:00 GMT"
+      },
+      {
+        "title": "A primeira oferta de Black Friday da Nintendo para o Switch 2 traz o pacote com Mario Kart World de volta ao preço de lançamento de US$ 499,99 - Notebookcheck.info",
+        "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPU2xFeXBzcXV1Y2FldGJ6OEw5dmppWTMzdkY4T2owNjBZNnYybnZSYUIzWWRvaUVDUVhvajBIVVQ4RmJFTkdhLUxDNFZtcXBESDFJWkdORGpkdkczLUNRdnR2RXMxQWVmUnQyOTVxVEJ0ZmZSS29iYUVwMXM3aE8xd1Fqa21ZTDN4aVFrNUpGaHMwdmNwZ0JTX0xrZnJQck5zdy1hcFRjQ1dEY0k4dExmY2x3Rl9YZHBKaWdGNXJaMUZHeWNKVWJubkpNaE1KNzF3cEpyVnBUWm9HWWZDS0phS3dSUzhnb3FPNFgwem55VkZGeEJuYVB4NnF4ZDRlbWlPYk9kRFN6RmJzVDNoSHA2Nnpzd3FJZw?oc=5",
+        "source": "Notebookcheck.info",
+        "date": "Mon, 23 Nov 2026 23:30:00 GMT"
+      },
+      {
+        "title": "World Cheese Awards: há um queijo português no top mundial. O campeão é francês - Público",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTkpVcTNtTkotLUt1OGZmUmF6Y1hrcHpuWGVsbTZhXy1YaWpManJMT21nZFlkNU5NVnlZZUM2MVVZTVJjSTMtV1lYc3I3MVpMZlRMUUc1dnpTVDRDdGxta1FicnNOQUh2V2ZjZ3VkQjd1b1NLbkNHVTU2bndoT2Y4NmNKMVNTVXdZX0lIcVRfS3lVd2E5OXpnTktNaWdZSmV5ZTRjc1BERlpiNk1MZzhDSl9MWFFkWEpWTkhqdDR1alM?oc=5",
+        "source": "Público",
+        "date": "Mon, 16 Nov 2026 08:00:00 GMT"
+      },
+      {
+        "title": "Um dos melhores ensaios do ano no râguebi mundial é de Raffaele Storti - Tribuna Expresso",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNTmJ5bF9qZHMzRkJMMkp1UzVvb2NkZmpiTnB6T29Pd0hIX1ZGTUpkbHhNb3FzejdDMDlqQm1VLTAzbl84QUtfeXlBclFkTURySV9aNW5JNUlTQkdwU05zTXJjU0xwdm5HUXktS3NFdFAycmFabDdrdUtoLVNtdGZaZlJOZnlheUFGWUZQa2xkLWNueE9ybFdhSnRLLXhTLUJHNHdnUlIwM29YVFNNY2cyNE1QT3d0bl81ODJ5N2w4X3AtcTFq?oc=5",
+        "source": "Tribuna Expresso",
+        "date": "Mon, 23 Nov 2026 13:37:44 GMT"
+      },
+      {
+        "title": "Marc Marquéz conquita oitavo título MotoGP! Para o ano corre na DAZN! - DAZN",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOdUJwMVZJY3B0akpDLVNlYzU2V0VPQm1VNlFWY3ZWNDlpN2QxSEs4TkNYNER4OGJRS2ZZX3NNYy1kR3dHWVZZMFM5MW15dEdYX1NSSllXb3dDdjJ3ZWJrVU5tTlRFZmQwcXhSMlltdzE0ZV9JUEJfMFpINHhHbGVuQ0RWOE9Da0thX0QtalgxZkpmZENGaU5YNURNOVFTSHVKU05veGdQU1ZXeDlScXpJc1BPLWtFVGVUVkU4ZERjRV9iZ1REMXlqLXFYUnBvbVk?oc=5",
+        "source": "DAZN",
+        "date": "Sun, 22 Nov 2026 16:33:31 GMT"
+      },
+      {
+        "title": "Há um português entre os cinco nomeados para Ensaio do Ano da World Rugby - A Bola",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNU1LTTNkbXZSbm4yQW8tTDlnSkVhWC1JdXROVzN0Z1JCdm9YYld5b2NxQjVfRXptT2tiRnV4U216Zi1qV0JsLXJfc2QzMzhpS05nSU5ubzlDTGNucjRBbkVIaXBjRVZISVk4LWxzRnJLUHFuYS13RHhIcm1NRmxlRGRteEVSZ2xwT2VtME5nQmNOeXk4dGNUQXNNNFVkTzZqWGpVT2dIV2dHMVBtbUJObTdDLW9FNENXMU5Nb2RfZm0?oc=5",
+        "source": "A Bola",
+        "date": "Mon, 23 Nov 2026 12:31:00 GMT"
+      }
+    ],
+    "ukraine": [
+      {
+        "title": "Estónia responde a ameaça de “guerra aberta”: fechar fronteira pressiona Rússia a \"parar a agressão à Ucrânia” - Expresso",
+        "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOaVpTbW5xM3R6TDFVRDN4d2g3bnJsSGk4TUdBd1RUVUxMRmZKQVNweWdNTDhZMTcyNHlsMnBXS2szM2JYdjkzUF9IRzBjRVRJaFNUMFl0XzRtaUNvYzIxSVFKb2s4U19HYXk2eHE1QWZuSGhRLS05bFVQWnlhR2VUU0taUlJOalVEZTZKRm40SldRRi02MXhoenJMR3c4MFRYeWFveVdPLURpSGFPci1fRXNhb21qWEVJT1dEZEJaemQ2MDEyVllpUUZhaFBpakVtbnBJalkxRG5QMHFLZ01CWW44XzFlYjg?oc=5",
+        "source": "Expresso",
+        "date": "Tue, 24 Nov 2026 09:06:17 GMT"
+      },
+      {
+        "title": "GUERRA NA UCRÂNIA • AO MINUTO | Rússia ataca instalações de controlo de drones e terminais Starlink na região ucraniana de Sumy - CNN Portugal",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Ec292SXRSeDN1dV9MY3Bock9vRmNoRnJPbXVEMndpdUc5YXJPS0ZXQzhvcllJenctYWRoR1lzQ25XRThQdWpwTXl2cEFOUnYyUk9WVjgzT0hrWDcwaHYzMmNFN3BOZWkyX2toSw?oc=5",
+        "source": "CNN Portugal",
+        "date": "Tue, 24 Nov 2026 09:29:25 GMT"
+      },
+      {
+        "title": "Kiev reivindicou ataque contra dois navios russos ao largo da Líbia - Diário de Notícias",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQT0ZnaS1ib0NIVUYyUTZualZfZTlaRkEwZ0xyVVJIQ2JQc0tPZm9nWkQ3aW5qeXd0Qk1wUFkydUJlZjQ0QzhSRmVUWmJUa2g1RFVPa1NhMzdrQzQ0U1dUV3dGWnRPakwxcTFsbzVlSHF5aGptT1loc2d1cWdQSlJBdGlEWjcyY0p0bGNEYWZsSGM4eG1oOVJPRWN1MW5PZFU?oc=5",
+        "source": "Diário de Notícias",
+        "date": "Mon, 23 Nov 2026 11:21:15 GMT"
+      },
+      {
+        "title": "Pelo menos 14 pessoas desaparecidas após ataque russo contra edifício residencial na Ucrânia - RTP",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQYVF0a1JKLWYwM1pMQnBDZElLZWFGdmQtbUpaR0xnWXlKbEFDQXVEZk9ZSkRBR1A0MGdkeVdYMDBSdEFOMlVmakNnd3lyVlVWYm5BRFVKNTV2dVZadEItVG1NLTJYdEJVaGI2dXFsZlV5d0FvWS1Lb2NrQXJ1bFl4Vm1BYU5PQTB3UzlhdlljNXFaZW94d1BlRzJtVFdLbGJQYU8wRndnZXFFNWxIdTZHOVRzWGtLVmRFY2ptZFMwMmRGaER2dXR6dEZFTEVHaHYx?oc=5",
+        "source": "RTP",
+        "date": "Sun, 22 Nov 2026 11:00:42 GMT"
+      },
+      {
+        "title": "Ataque noturno da Rússia faz dois mortos e 52 feridos no sul da Ucrânia - como aconteceu - Observador",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYVJtbTdtT2IwVldlaXB1aGxLWC03MWVBMkx6bElvMmNTVkNFVGFyMTVkclRIdkFETHhXSVA5TkZBb01NYlo2RmxETlM5VnZjV3ZnZnZLR1JkdXl0NkZqM3VsX0QzS1pvOTV6TGlXeTkxT1ZRN01zNUQ0RnUteXN6NGNwc2tReE9YYk1LX05nWVgwS2tRSWRiRFl6cGpEZUNZNVJNXzRVRQ?oc=5",
+        "source": "Observador",
+        "date": "Sun, 22 Nov 2026 10:49:46 GMT"
+      },
+      {
+        "title": "Ataque com drones a depósitos de petróleo e refinaria na Rússia - dnoticias.pt",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNN0REMFFidVNxSnM3OXJkN3ZpQUtsRDZIdGVPOWVLRi13R3NQQ05rWU0xWWRvNGJwNmVsV1JBWXdpTXVBOXV6UlNpNEQySnpoeklObmFsZ05PSjZzR1pRRW1qcV9XdHIwN0dEQTFDRUZfRVdWTzdlUE5LblNjbkhMN0hrYVpWRVRJUjd3d3NuYUU4UjhjZEgzZGwxcGZhYTJ4cEhWdUpMV2NOWFk?oc=5",
+        "source": "dnoticias.pt",
+        "date": "Mon, 23 Nov 2026 07:46:00 GMT"
+      },
+      {
+        "title": "Zelensky troca Patriots por fim de ataques a gasóleo russo - Observador",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMUljRGJEYmk5SkJRZDdOd0RrYTFyY2ZyWWhFVnljcGNfVTM4SkdDRG0zSUZrVW83YVRUTk1XaGprZlNvUFNkY2R4d3V3aEZzdzJFVlIxcXJXVnJlT3FYdkdFNVBiM1VIaDh5R3I5cjJoV1NTVVE4Y3ZjVVctcUFlZTZXSENhR1ExMm9KcFpQWnVXSWo5aUdyS3Q3OWhyQ0txZUZuNUNuUlN6cHJhLVB1Q2puMk1mUQ?oc=5",
+        "source": "Observador",
+        "date": "Tue, 20 Oct 2026 07:00:00 GMT"
+      },
+      {
+        "title": "Portugal: EU security talks with Russia only after Ukraine peace - minister - LUSA",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNOHFqOWJrbV9yMXJCZEI5Z1pMZWdYQ0JpaGc0U1VrcWVtMnR4N0h2aERjeEVaSFp0bjVubVAzZElZd1ZzS0QyRF9QS1B4Wi1HRnhyeENHREJNMVQwTVRrR2VGQ1ZtV19nRnJlVi1WQnFUNFpTdm02aUdvZWNJT2hzV290Rl8wQkx0U2xOQ2NkSUgxZ2V1N21kREJkdlpQWU5td0xxSDZxa2JjOUFjSWNzbWtpZVJxb284cTBLanFwX2hjQ25jVjJUVw?oc=5",
+        "source": "LUSA",
+        "date": "Mon, 16 Nov 2026 14:49:00 GMT"
+      },
+      {
+        "title": "Rússia lançou \"ataque vil\" com mais de 110 mísseis contra a Ucrânia e tenta \"compensar impotência militar\" - Observador",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObDhUV29TSVF3ZHk4cVhhMWpYM2YtV3NhZmU3dTBEcGxGUmFhUkxESE9fM0Z1b3NpYW4xQ3JPN05zVXdtcGpNXzhsUHVWT3I4dXZTa3N6VHU0NjB2ZndHMmNna2trdDlyd09VZ2o4aWFXNHJXaHBnOTBhNVlPb3RQR3gxdGJMUGp3cUVTel90bkkwVlJKRVJDRUlLTTRNYzI4bEJlSXVjMXZJZXAtNV9KMzRHZlBRRGJqa0VZMEVB?oc=5",
+        "source": "Observador",
+        "date": "Fri, 20 Nov 2026 14:28:00 GMT"
+      },
+      {
+        "title": "Ucrânia corre contra o tempo para encontrar sobreviventes de ataque russo a prédio residencial - DW.com",
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQMVFFdWp0am55Yk9KU1hwTzFkclBGLVRtLWd0UWFxRkpWMFBGWWZaVUNEaTlUT2xURWtJZ2V6OGtMcWphcHF6RzNUUThRRDRpSVZYS2xsbEtQYm5lbFUyWk5WZ2hBekxKRkc1T1RBYXQ5YVFfcVRqeVRIcU5kRFZBNGxZV3djcFlITThwRDU0cFdjdEwxOXBpZmtmSTNpdWhXRndzTVdCZFJTWTgxeElqZm5VaF94bkp3dnVVbE9tdXlyR2NUTTQtdHF0UmtxMVVWd2dpNXVBTdIB1wFBVV95cUxPeGE5RllsVjlDcG1rMjA4T3ltR1g0ckMtaXhmQTVMOEVfUHJraVFRSjB2elN4eEVMZl96YXFiWEFZR3FOR3BQM1dyNHNMcnh5c1lYQ2syQ1RjZTBBbWhLTjl0bnhla0swVktzTFVGZDk1V3lBTWtFVjk0azVDQXgzN1J0aFlyWW5mYUZVUUhfbzRWQnhhcGl5MzlvaFRQcWQ0LTMtXzRIV1h1cUN2SGo4RVZKYTVKSnBGVE5lWDJNc3c1eDJjYlNNYmJKTV9tTWFWT2g4Wm04UQ?oc=5",
+        "source": "DW.com",
+        "date": "Mon, 23 Nov 2026 10:55:28 GMT"
+      },
+      {
+        "title": "Ataque ucraniano afunda navio de guerra russo em porto líbio - Agência Brasil",
+        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPc1RSdjJwZjZWZXJrdHMyWV9OMjhBc3JMS25YbjJLd0hzVGg4VkhwRnRPVnlDd2NPQVFBOFJvZllhODdWaDZFbTJVWU5Ud1J4WkpyZGhsdjNZdFhOZDFabVNDcnczTTVDZ0VoeEdEbFJ3MGR1cHRtZzlvLW1WS29XTmdsSERvaGp1enFxbVRmOFRTckZkRHJNSGJoOE1QR2dTSC1aYjRpSFV0a3JoM2liZ2NMTGp5OTY2ZnZ0RTdNc0dnX3FtUFh2bEQ4a1Y3ZjRWdzlLTzF6VGhMLUk?oc=5",
+        "source": "Agência Brasil",
+        "date": "Mon, 23 Nov 2026 21:50:00 GMT"
+      },
+      {
+        "title": "Ucrânia: Bruxelas quer proibir participação de atletas russos em competições europeias - Jornal Económico",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObDIxVXFaTFROWG51UlczRmdtNUpoWk1vMTVIcXZ0MUFNVDVhSnZwazkwMWx1cmxqNExiZ2pDNWs2Z2RQc19RQTduZ1VwOE8xUlJtaVBWWHMyZ1cyaHhmeG9GVklMaWE5MF9BZWplNUsxdGRyOUxJX3pKb0FTTTBJSW9ROWc0YXFtdXRxTkc0d2FmUEUwdm5HUnBkemxFTHBjeHhqSUVEZzQ4M1V4SDc3SGc3VjE0Mi0yVVpLOVZGSm5CVGFQUXc?oc=5",
+        "source": "Jornal Económico",
+        "date": "Mon, 23 Nov 2026 15:27:00 GMT"
+      },
+      {
+        "title": "A guerra entre a Ucrânia e a Rússia está a alastrar-se pela Europa e há duas razões pelas quais vai piorar - CNN Portugal",
+        "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxNMU1EZVBVVzVTRF9PUGJ3NUxHR3Bfb0xqOHZ3Qzlza3ZSeUlLTWJmVjBORWZ2bGdvY2tRbEp3c0g0SElnUHVBNW1aMTk3dWZkSjlyaUxZc2ZQSjRNVlVJWk84aEVuVXI3SEI0LXFwYlhueW9EM2xwTHA0WG4yeWtqU0RubVkzN0FQRHVQcDVFWEc0akFmclp4akV6SHJNd2k0dDdDOFJld1pHOGphMGNEMS1qTS1rLW5VRnhoS0c4U1ZOczZMaHZVNDJ1dEFpUmplN2ZsdE1mcHd5T3UxeVNscGsyOXhybnNNaDJLNjNoTzMtYnlCcmh0cnBZS0VjTHFBZXdZNWt6ejJzTnhNRVo2SWVXbHZwUVhfazNHM1Q1b1dHVmg2RTI5TjVURDJ6WDlfVlE?oc=5",
+        "source": "CNN Portugal",
+        "date": "Mon, 23 Nov 2026 20:56:33 GMT"
+      },
+      {
+        "title": "Um menino de sete anos e uma mulher de 79 foram resgatados com vida dos escombros de um prédio residencial em Dimer, na região de Kiev, na Ucrânia, após permanecerem soterrados por 22 horas. O resgate ocorreu após um ataque atribuído à Rússia, - Instagram",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5zckp4Vy15QjlEdHZXR1FKZmhKeFV5WW5WYllLMGt2WWVtWVNvbkVnZi1VZHQzRUpOUjlGa1J3UEE3aXV5WWlOa2tyVEFTTlJDdWZjaTJR?oc=5",
+        "source": "Instagram",
+        "date": "Mon, 23 Nov 2026 20:18:18 GMT"
+      },
+      {
+        "title": "Ucrânia reivindica ataques a navios russos na costa da Líbia - RFI",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQWVwWjFPRnQwWWxLSlo4WHRuVHQ4aWRKbzFPN0E0SVk1NGQ2N1JkaEM1Mk0tTGlka1Z4OVFWakhzTG1Cc3ZLMGR1UE1heHNUcXVRY2FaVUlscDlWaDZoeVVIQkxuZW92WWZvNGdRckhISFJSaHdlMTBjXzdKcUl1cFJ6OU1wQlRaQkpvWC1mTXFUYnNaVDBLaTlEeDI2alZJZ2lWemlmYzJmckk?oc=5",
+        "source": "RFI",
+        "date": "Mon, 23 Nov 2026 09:26:24 GMT"
+      }
+    ],
+    "portugal": [
+      {
+        "title": "Emigrantes pensionistas que regressem a Portugal vão passar a ter “bónus” fiscal - ECO",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQelo5QmNsUVV5RjJqWGVYZmNYbk42YkV6UjRoQXItdmpLclI5NDNXLWhDakUwRTFzaDF0ZDVSYzJzYS1OYXo1RXFqU2pHWUx2UUJfelRhWTQ4cXpRUHpoazdKNmFqNGE1YlB3OS1XMm9YRmtBdVJuVVA5aXdwbmZvYW5Sakp5RjhuVThWbXNwdzJfSDBWTzRxMHNtTTFCdGpSWUVNZEJOZmotcmEzSGZB?oc=5",
+        "source": "ECO",
+        "date": "Tue, 24 Nov 2026 06:43:35 GMT"
+      },
+      {
+        "title": "Lego investe mil milhões de euros em Portugal. Fábrica de Estarreja será \"a mais avançada do grupo” e terá mil funcionários - Expresso",
+        "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNeUdQRTFmQVQ2UnU5TjdMX2gzYkFFQmpJc0hFUlZqWUcySXhMR19ob3pJTkxQbElpcGE4THVFdnk5aWZwenVUUjlvX3JkekZtdm5TYS1yMjFXTlpfS2swWDRqZWx2UFNjNGhEWkh4WXY2QW1SNXpRNElwNnprSTlLeFZ3NmFEbUczUm5qNkc2b1prUWV5SmtfSDdINWJrbjd3dVUydHR2VW1qUS01SUktMzdQMlhxRGs2SWRsNDgwaFpLWlJaaV9KOW41ZHdiM3gxVXlBYzhjanVlMUN1VFNjcnBmbzJ6SlRuMi1nX2dCTTJ3RHdYb19WLWozRHVqOHRja2tySV90UWxNRnc?oc=5",
+        "source": "Expresso",
+        "date": "Mon, 23 Nov 2026 11:51:30 GMT"
+      },
+      {
+        "title": "Vinte vítimas de femicídio em Portugal este ano: em sete casos, a relação já tinha terminado - CNN Portugal",
+        "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNRTdyU0w3QVp3ZjEzZHhqUi1DTktueXg5aXoyM2MzdW1icHJ3d19mamFobEJHNi14cjI1VGlwX0pEVS1wNmJVRDJxZjdtRmNDN2FrQzFNaXNWTzlDNGpreDNlS0FrWU04VG5RRGw3bnJydWptS0lqMVREVHNpd1NERGtEUXNoTFJHcWlaS3Rsd18waUt2Q0sxa2RFcFkxNUExSWI4SF9xLXl5TVBrbUpqbndGZ1hLYlRCQ2hiY0l4ZXBXWnFtTGdTWWxDSXR5RUlSM2Y2Q2Y2NmFiMk5VNjQ0ck9WS3N5MnpJbndFLXFtLXhiOFJWYThsYTlrdk5hS3pvOUVwR1hRRnRxTnNaOUxQdg?oc=5",
+        "source": "CNN Portugal",
+        "date": "Tue, 24 Nov 2026 13:24:21 GMT"
+      },
+      {
+        "title": "Portugal registou 20 femicídios e 38 tentativas de femicídio até 15 de novembro - RTP",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQjRvNWdtTmhrVF9rUlR1Rk4wejg3OElQWDd3R1doNE5rWHZRaXRlMlhyRDdjeVZYVXFBRERGT2F3QzdKUlZLblFTb0dFaERVZmF0cXQyWjdibENwZG0zZnRfa0lJak9FQXZqbVJYd3FsQU4ybVZqZGJtMkpLUmt4RHA0Yk1IYS1fZFZTOGtQX1FBdVBRRmpmTjRMbDFmVEdOOFZ0dnYxWHBqU19HUjFmY1Y0VmRYc1U5NkFOV3hB?oc=5",
+        "source": "RTP",
+        "date": "Tue, 24 Nov 2026 13:32:18 GMT"
+      },
+      {
+        "title": "Este ano já foram assassinadas 30 mulheres em Portugal - Público",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZ2VuZDd2bEE0YmxDWHBJbmN4WjZjT1V0T0JKWXJseTF1eWlKZ05wYUpMbG1OMFp2RTBDbFBYZE9NUk9rQjItSDlpQS0yU216MzRmRWNEOGNJQnlBRXBrYU4zcXkwTjBOWF9ZT0stRDFDWnJoeFkySmtRRE1BXzE4TW9tZUkzQkRNeTJhZ0o1c1p4M0d2a3I5Y0VhNTFWYWFsc3NGeHJOZGsyY0NmdEZHUXpEREJ5ZXpUV2g2OQ?oc=5",
+        "source": "Público",
+        "date": "Tue, 24 Nov 2026 14:25:51 GMT"
+      },
+      {
+        "title": "Portugal com muita chuva em 2025/26 e o período mais quente em quase 100 anos - Público",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcHVDSURWNkxodDh1MXg4cG9FTjdoME1KWUR4RUxUQ2VkQlp4YzlSaEF1Y0NXXzhVVUtGaUN5ejhObmFzWS16UDlUX3RJWXc3M2FOUzRrUnlMdVpBUW9EMGoyMHlKOWUtRDdERU1LdG1GZDl6b2RGSzgyd1lIM3F2eF9mdTl1VXN1VFdyLWpTU2JhU0lDRG9oS1pUMFlTWDRXVW9CamlRcU1nUQ?oc=5",
+        "source": "Público",
+        "date": "Tue, 24 Nov 2026 13:27:50 GMT"
+      },
+      {
+        "title": "Quase metade das casas em Portugal não tem seguro contra riscos climáticos - Diário de Notícias",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUnZzRmk3U01xU2s0SGFkajRCQzVKTnR6SW84Rmo5NmxBR3VnZU83TnVuM3YxWF9JVHJjX3pEaEotNUdrV1huTHhQOUMyWjB2OVBWQm5BZWZRd1UzWVl1ejl5ZWxucU8yQkduejBjbnZsblY2QUpFZTR0VjBzT1RRN0lTcV9TWGRxd245RW9hdG5KY2N2cTZlY1pIb1l5d2tRQ2c?oc=5",
+        "source": "Diário de Notícias",
+        "date": "Tue, 24 Nov 2026 11:07:45 GMT"
+      },
+      {
+        "title": "Reflexão Máxima. Em 2026, Portugal escolheu os Descobrimentos para se representar no Miss Universo. O que é que isso diz sobre nós? - Máxima",
+        "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQVENtUGdTU2J4NnVjcGtMVG9JbmJnOGVkSE0wZjNNT0JtYUdfQm1tUWFWLWdQY1pwSTQxcTdJRzA5UWVFVno2b3ViUWtiVXZxeU8yZXU1dGcwWTROUUNqQl8xal93LV9BaUw2RGZ6ZWM5ejB1NVlBTV9rVWtUYmhaTjdESVV6ZC1jeDdEQXBfdldMUDI5aEc3SzdXdDFzZW9RdDRZNjhqdDFqSnBndThlUmdIUUVMeEhoLTZ2anlKSXVyQlZLeElGNHJFQWgybjBzNlp5TWVHUkRZM1VwdDg2Vjk4X0c1SnQ5eFI1RmlDTHFSNWk0MVHSAfABQVVfeXFMTjRlcXRHc0paYVZGbGh1UHlOQVJIZ3lKUGphMEVjMlRHbm5iUkp2SjhyZGZ4TzQ5T01kSHBtSnN4d1BUVU9MRVVyR211bkpuczBkZjBWWUxqM2VGSnhXbFZYSUoydHlxdVhTZTNFUTg1Q2t6Qlp4SzFkVFZRM1l5SWoydkEwZzRVNWwxX2tsNkF2Q09WNzVOVVZrNnRWNjRQVWF3M0JiNU9ST2FoWkk2cVI0cVdWb1M0bWJON2VYTy1ZaXNmX2FYYU9TU216TkpWU3Y4WFI4VWV1aGlJMlgyekxCcTlnTG5uY2ZDQkxUNjJB?oc=5",
+        "source": "Máxima",
+        "date": "Mon, 23 Nov 2026 21:30:00 GMT"
+      },
+      {
+        "title": "Comissão Europeia divulga a avaliação ao OE2027 e recomendações económicas a Portugal - SIC Notícias",
+        "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPNXNiRG51a0FQNzBiRDV4bEdqejhfUXRXNU14aDJ3Z3lGVlF0THNMMnEtYXJQU0hMUXdxMHJsSUhyRk1OUzQ3RFl5ZENINFR6U2pIREdGak11bUpZd0E1REdBZ3RUR014U0pOVk5NSl9NOEZGMXZQeGVtSGRyQWJMTGtlSk1ZWHkwdUpGcEV2LVpSZzU2ZUdqMVFVR09xZVdJZzVPeDg1cnpJSGJqRnBuUkloUnhBR1dCVTYzVEFRTjFmT1lhZ1Z5c3RFZkRrMkZIdzBpX3QtWDlYZGVBOGF5VVE2S19ETHN4Y0tiM2FRYw?oc=5",
+        "source": "SIC Notícias",
+        "date": "Tue, 24 Nov 2026 07:48:33 GMT"
+      },
+      {
+        "title": "Como vai o OE2027 mexer com as contas do défice? - CNN Portugal",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUGdNQ1BCMUxiaWhva1NhNTRhelBGXzNGc3NZQ0VDOU9YTk02NUloOVRnLVIwTllTdWl0Z1JkNkJkN0tMaHNGWDg0YUcyaldDd2d4a1dobEpnOVNjWHVlczFrXy1CZVVBS3BpV2h1ODYybFJCUkVtaVZVX25UaGNkdldpQTMzeUdZbGdlQmRnWjdNM3EwbDlpNUpYbXJGek9XalFMeF9YbFpRQQ?oc=5",
+        "source": "CNN Portugal",
+        "date": "Tue, 24 Nov 2026 11:24:17 GMT"
+      },
+      {
+        "title": "Portugal com corte de 400 milhões em proposta de António Costa - Jornal de Negócios",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcnBNVkhyZG9lWmRrUzNwWXVrVzVlckVzUFhwbnp6T2VDTFY0MkZNdnc4MTBJWjZKVVJkSHlXT054T3gyWXlIX3h4elJ5YWZvYXBSUkxiczVMQkU1QVhLNjBqQWgyemFyTFA4TUxwUzBRYlVVd1pubGhGQ2M5WDVaTkhLZTRPMlp4Q2N5ejFaLTBqRHViZkRlV2Y2OU45V3c5bUM4bGl3amtjeVhicWx1Y9IBqwFBVV95cUxOdFpuLU1OdXBRcWptVl8wVU53dnhMbFJFeE80bXFGdjdjdFZhVEozQ2FudzNNLTlETl80ekh6NGdaQXNhQVlwS3Etd0JJN0xGTC16ZlNrSmpxT0pfdG00S0NyZXE5aGU0dll4alNJUXhQZ1h6Vno2d3NXU0ZrbEcwck1kc0tSdkpOamxtSkI0LU5lZDR3bmViS2tWT1BtS3RzR3EwaTA0LUdFQTQ?oc=5",
+        "source": "Jornal de Negócios",
+        "date": "Sat, 21 Nov 2026 15:38:00 GMT"
+      },
+      {
+        "title": "Taça de Portugal: conheça todos os jogos dos oitavos de final - A Bola",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOVFUQXBmYzdUWVRQakdncHNYRGd0RGhPY2xxdm1XUkYta3lJSUNqNDJxNVQxVlVhYlVRLVR0bkl4eDFMU01zS1ZkSVJZN3c5MFFZSGE5WnpDN0g0ckxJeW5wWkZnNlp2Zy0weW9DZXJXUS11Skk0WC1Vb1ZCRTZGOElrM3lqUWtELWk0Vl9JendTS2tVeU41WnNHZmlONFl3WWktRFVUZjBtNWJLT0VV?oc=5",
+        "source": "A Bola",
+        "date": "Sun, 22 Nov 2026 22:39:00 GMT"
+      },
+      {
+        "title": "Benfica elimina detentor do título Torreense na quarta ronda da Taça de Portugal - RTP",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOVDRBYWtQdFg3cTdpNVFvcW51Q2o1MXU2OVlzNjdlMDhsd2VtNzNHUkNGR2tqV2pySHBIWVJmMDNZdDVmZ2ZrU3BJbGxPUml1ZHRoTlJaa2MtVVJvd0NoOEF1ZXVyNFFDcUVPb1RUYXlxQ2kwZVBrd1VHYllBeDRJakxlMGFkbmw4b21SX3NUNE9MdUxLMWIyR1BsNVp5bTJnUGdlRHBnVHJtVHVDZEtaT1lGSWhYdFFKcE5FTzlZUWJHbjBJblZrZ21uMGFYcWM?oc=5",
+        "source": "RTP",
+        "date": "Sun, 22 Nov 2026 22:45:05 GMT"
+      },
+      {
+        "title": "Gansos procuram primeiros pontos em casa após eliminação da Taça de Portugal - Record",
+        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPRmxiMFBxUHRiYlp0Y3d1TXd2a2NGRHAyRmV4amxhSlJQWjhnaE53eG11Y3NzaUN2YWhHS2lDR1IyMWxxc3pJNWF3SnI5WEtLbzFhYkdRRmd4bEU4S3BZTjl2TDVKajcyRmVoTnVjYndYM1JncVJpRWppQ09yeGRtU2NXWkY1QTNRQm9FRWYyV2h1RDFPbEZldGpFWW9wLWd1aVJ5TEQ4b0dVamNYaUdHNDBOSHlRTHpKampVZXQ0c1drUUpIM1ZXV0VqZWRMN0g4MlJlUVlwM2oyZTdiUzQ0aTBuMXpMNVla0gHjAUFVX3lxTE1jT255UUtmMkNuRlRWcTktbXBtZFFtZ2twWGpNUGFyYmZFSjNYVk9YeW5Xeng2TWR6WmZJX0VDaDZ2NXhORkRVYmlfWmhKOF9PYi1iWm9scTgzMzlNUEZOeXNYcEo1enBodGNFSWhCRF8ybGx1LTBBUDBkNnhQNjFCUnJZdHlzU3VZaHZQVFZyMTI2dFdsbGd1MkdhZ1dPLWpySnBpUlREcGtBaEZacnJoZzdWVWI5QVAzYmROZU5CVmFzWUxRTVJYcDhoMTh6WnZ6THl5RVliOUZ0YlczQnZna3pj?oc=5",
+        "source": "Record",
+        "date": "Tue, 24 Nov 2026 06:45:36 GMT"
+      },
+      {
+        "title": "Bruxelas investiga práticas comerciais da Coca-Cola em Portugal e em mais sete países - Observador",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbEFwMDNsYlhsMUpNZnN3ZFU3ZjU4RDIzWnVoNVl6b1NISmRWdXZmZUFfa2tnUGt0WTZzaFRNYVlfNVB5dnFBUERhb2VsdkMxTW1xRnltRW1KY2FIOHo3bmtsb2tJUVpoOTZfVlpDd1FnNFFBLUFoeWdlQWZXX2dEN21ZRk9ScmtVY1h2c191ZlF5SXVsRTQ4Y2FQMmRfY0V2V2hFeFU3TVJPX3V6WFRuMnZ4VU4xZjNoQ2N3?oc=5",
+        "source": "Observador",
+        "date": "Mon, 23 Nov 2026 12:15:00 GMT"
+      }
+    ],
+    "economy": [
+      {
+        "title": "G7 Leaders' Statement on global energy security and market stability - Council, European Union",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNT1JKZDh5cjB0czdjVWx3RVVCbVRGWmVnZy13alhuQlpYYTlEREM3LVNqRUxGNXFNekFpbzFVRUIwR3M5cnNiOWRQLWQ2QlBBQ1BUbzItd2hmbkFEc0YtcE1UVVBBcGU1VGFseHpIVkJGRTUxWE9LNlVtV05sNUJ6OVo4TlNXWGQ5aFF1aFNIY3JzTlNrMU9VTHQ2N09fTUZ2TEFfcFZ1dG1LakVNNURoUk5ld1JWd1pvZXpLOW42bVVHd0U1V3BDU0ZmYU8xeW9l?oc=5",
+        "source": "Council, European Union",
+        "date": "Fri, 02 Oct 2026 15:04:40 GMT"
+      },
+      {
+        "title": "GlobalData: crescimento global desacelera para 2,65% em 2026 antes de recuperação frágil em 2027 - Notícias e Estatísticas - IndexBox",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOU0V6bmtkaGZuWXI1bHAtUzlrakg0WjI1UUNhdjU5d0FsS3V2TDdTVW9xeFBuUlphRVNHYUNtOXNyREV4ZlRILW1XWVQ1ajdJZlprQXBxYVN6QWxGcFNVZnlaZFl4YjdrR2RLcG5FOHFwc1JmSTQ2NTg2Y3JmbC1ld1d3TXRhSU9mMmJHLVhBVEhZcFVzQ19HaF9hVEhvYTI5ZS1wZktpR3NaMHRMVUtmZGw4dTlTVG1QQ1UyX0JONA?oc=5",
+        "source": "IndexBox",
+        "date": "Tue, 17 Nov 2026 15:33:28 GMT"
+      },
+      {
+        "title": "S&P Global Completes Divestiture of Upstream Energy Software Portfolio to SLB - TradingView",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOdHNpUkF0RUd0Mnlob2xfcDM2LUN3WU1HUUpyZFFENDRQM2d5bzFHVVhyUGFUTEJnUkdDVm9xLTdxSjJ0ZFZzb1dXN1VaTXpFV3k3bkRhc2lmU1FKclRYTzB3VTQ1YVJKbmVFaVdaRzhWczVvYzI5MEJVOW96dmZQQ1VLeFVVbDhiVHZiSGxGcEtkQjBoOXA0SVJReDByVTZTSVJZaklKeGM1Vm8wcUI1X3ZDUllWRkwxSmxGRWhkSE1fZHB0Rkg2XzJzTkI5Vk5CaTVZ?oc=5",
+        "source": "TradingView",
+        "date": "Tue, 01 Sep 2026 07:00:00 GMT"
+      },
+      {
+        "title": "In Santa Marta, scientists show that overcoming oil is inevitable - InfoAmazonia",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPN3luaUJoYjdTejZjVnRhZ1VvS2VEeGRvRWpCbTUyXy03VVdWY1hsMkJMSHh4TmFsTWN3WS1panZmWXlTWVAwbktGOEtzclEtS19GNUs5TFhNWWlUQi1iSUlmb0NUSlB6S25wSExOSS1jdTl5eUZGdjU0VWFvOGN4TEZBUE4wWk5XbHVvMkd0NjY4Q2h1YzZWWEJZb3pUWW5URjRTRm5iZw?oc=5",
+        "source": "InfoAmazonia",
+        "date": "Mon, 27 Apr 2026 07:00:00 GMT"
+      },
+      {
+        "title": "Portugal sobe para o Top 10 mundial na transição energética - AICEP",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUXRLMnBWUFp5RnczWURtMWU4WDRBRzg2a0lVMXd5TEN1X0VUYm5sT3Jtc0pmRVoxckdmVTJCNkk0WERrTzFPdHBPbDlxcUlHOWRwX3NIV3lodUY0RXJpSEg3LWlhZDN0OVpPd0h1eGJsSzFPd1hNX3pCYldDODdBUFpwd2dtdnVlTXIzbWd4TDljMm82NFNoTGZkeUxobGxrRkFLX3RFNVpYY3JsTmc?oc=5",
+        "source": "AICEP",
+        "date": "Fri, 19 Sep 2025 07:00:00 GMT"
+      },
+      {
+        "title": "Qatar insists Strait of Hormuz will remain vital to global economy even as alternative routes emerge - The National",
+        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQN09GbFZPMFVVT2E3Nlk4SlVzeDVEaHk3OHFiX3NkVGVoZWdEUF9xMF9CeERhTk1RSDdhRS0yV0hTcTd1c0NaNm1kc2dUblZWd2p1MGs3WW8wdWh5bHcwWlFOODhORnBZZ0RwWExuY2RIeGxvbjNWSE5CZEozVFMtWVBIZ3IzYU53ak9CUWgwQXBKNmt3QXFiY20zdlR3djZWLTRCSFZjRDZkeXFPdkUzVU1ubnhVeGRpTW4tRzRqMVdTdXJGZGlYZWMzcW1maXVVd0pZRFk2Zkc1TjNhbi1WUUxzdThtREJHWmc?oc=5",
+        "source": "The National",
+        "date": "Mon, 07 Sep 2026 07:00:00 GMT"
+      },
+      {
+        "title": "Executive summary - Brazil 2025 - IEA - International Energy Agency",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9rNkpNaldBYUJSdE9TYUthVHY3Nkt4aHMwa0FQYTZBeUhHMkJPcGNSTkljci00YXVzeEpiSjB4X25Rdk1LTUxnSjhzVmFxUGdJOXRfYllxR25WY1M2aDZIbWNCX3gwYllN?oc=5",
+        "source": "IEA - International Energy Agency",
+        "date": "Sun, 07 Jun 2026 11:21:08 GMT"
+      },
+      {
+        "title": "Sustainable management crucial for blue economy development - aimnews.org",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNkNzVTAyV3JSbUQxcWZmZjFDZi1FdURwc3NFTk9OUUxBbHhyRHhKYUNNZU5NMU9TSFpxTVVDb1ZtQ1JYNGRFVkd2Q1VEZmg1cC1iclZhU05yZTJXc3Y2c1BQV0JQVnpyNUJrNXFxczJhTDV4X0h0bHdoT0haamFuTTR0OWJDOGdfeTZpdklyZjBfa2Y4b3c?oc=5",
+        "source": "aimnews.org",
+        "date": "Tue, 26 May 2026 07:00:00 GMT"
+      },
+      {
+        "title": "Explorando a oportunidade da economia circular para minerais críticos - Ellen MacArthur Foundation",
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8xNUM0TmY5SjhHN0MzSTY5dDc2QlNEWVdPSUphWW1SV2xsV09rQzl5d1hXblp0WWFZOUdkWG9KRldzenZuVF9ISEpLaDNUcmU2Qmk5eTJRMkRKQXRQa2lUa1NaTGJLbW03YlludHRtSDM5aUFoYWFvT1dGQnkxdw?oc=5",
+        "source": "Ellen MacArthur Foundation",
+        "date": "Mon, 23 Jun 2025 07:00:00 GMT"
+      },
+      {
+        "title": "Brazil can drive a green future for global industry - 09/11/2025 - Crux Alliance - Estúdio Folha",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdGIzdlBkS3k2U2JlTTFnSE8wQWwtYUtoeG0wWTJiN3RlbnloR3NWRjktdzE5YzBTVjU4YUJHT2tXbVJIdzVQZm5LRWNZdzJKZkF2WVU3LWdsWDJHVzBCWElvd0JsVVc4Si1GbnVxN2lUZnZxZDJham1NR2p6dVIzdWpQaDdnXzByMlJ3d0ktQW9WOFdRamZWOE5EYkVCbFZrYUNOcDR2aHdUeExmZG5NMkdUM0F6Vi1ONVdGcnNNaw?oc=5",
+        "source": "Estúdio Folha",
+        "date": "Sun, 09 Nov 2025 08:00:00 GMT"
+      },
+      {
+        "title": "Brazil economic outlook, February 2026 - Deloitte",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQaXRpMzd3czhDTjBEdk1qN1F5RUp5UDlYNHNSQmJCWm9oZ0lMOXZLVVhONFNTNzNpQ3BqZGM0WVVJWVVkdTlMQjdibVRUMUxJWlJ3N3lWU1ZRQVZObHVSdEhaSnBmUWJHanhBbVJPSnZiZ09WVGI2Z1hqZGhCYXJEaWtOQmV4ckJIT19BcmI2RnBnZGZWbTB3?oc=5",
+        "source": "Deloitte",
+        "date": "Fri, 13 Feb 2026 08:00:00 GMT"
+      },
+      {
+        "title": "Global Economic Prospects - January 2025 [EN/AR/RU/ZH] - ReliefWeb",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdkpkT09nNGpuRDR5TVl1cmZENVI5TVd0NC1aVWtKSHFtVmQ4aDBmVXZSUnU3Ti1kM3FhZmo5eVNkYzhrbUVNWTEwUzZYc01ld191T0FkSkExQ1ZGS25lX0ZwQlJYQ09HeFczY0hUQkJWUjYzMWF3UzhjUWtkaUNDUDhIMGM1T2RMeVE?oc=5",
+        "source": "ReliefWeb",
+        "date": "Thu, 16 Jan 2025 08:00:00 GMT"
+      },
+      {
+        "title": "Energy crucial for economic transformation – Chapo - aimnews.org",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPX0x0VU9YeVh4akNqQjlBTEgxMjJ0bGlRbWoyRGt0QWJnMjVDZ1BVcVdQQ1Z1ako3WDRmZG83SDJqZlBEQUM3UmdtOTA4SjVzOTBmQ2NydTZmQ3phdVdFYVJNRVRhd21CSW1QZEEtWVhJNXo4ZC1GS29sQWg5V0psZ0lIczduRHM?oc=5",
+        "source": "aimnews.org",
+        "date": "Thu, 23 Jul 2026 07:00:00 GMT"
+      },
+      {
+        "title": "WETEX 2026 atrai 60 instituições e empresas patrocinadoras dos Emirados Árabes Unidos e do exterior - Business Wire",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ienU0d3htcEtxTWxHQTBFMjR2MFhOeVBaOU11LVlyb2VkSy10MWtIOV9oTl9yWjNLNURybmgzVWQ2Y0tMTnBrZGFnZEdHOWFWekVNWG8yWW56eHpkcnBZakxUUS1HaUE?oc=5",
+        "source": "Business Wire",
+        "date": "Tue, 20 Oct 2026 07:00:00 GMT"
+      },
+      {
+        "title": "Guedes: Market economy and democracy make Brazil a reliable country - Agência Brasil",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbEs4UnJRWXQ1Slktekx1WXVfWm9NelJnVE9ya3h4ODhhWUsyTXNqY1I3aWlfOG9weXNtelRLNEw3V0UxdnY5MnE4VmVqQk96NWxEX3g4RDlXcU9lU0lMNnlFV3h2MzJnZzRUMm1XRXJ5M2hEd0pXVTBmc0xIOWVpZ1BMWmtLUUhnd2RtVEltSTN5VjVSeFdPTVFGdmdaNEpjcWs2YXItUi1kUnlsUmNVdzc5czA5YVVDWEZGMUZjZmVVa0U?oc=5",
+        "source": "Agência Brasil",
+        "date": "Thu, 19 May 2022 07:00:00 GMT"
+      }
+    ]
   }
 }
