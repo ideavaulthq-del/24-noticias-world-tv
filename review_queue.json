@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-11-24T03:58:43.641196+00:00",
+  "generated_at": "2026-11-24T05:06:41.533400+00:00",
   "articles": [
+    {
+      "id": "171a560eaf9b26313892",
+      "title": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
+      "original_title": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
+      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC News",
+      "category": "Mundo",
+      "published_at": "2026-11-24T04:36:31+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "817656ccbd1e2408de0e",
+      "title": "4h Greve total dos Maquinistas da CP hoje e amanhã com serviços mínimos",
+      "original_title": "4h Greve total dos Maquinistas da CP hoje e amanhã com serviços mínimos",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-24T04:19:01+00:00",
+      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/4h-greve-total-dos-maquinistas-da-cp-hoje-e-amanha-com-servicos-minimos_a1_1781211",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
     {
       "id": "ae3d9337e728795fa911",
       "title": "3h Eleições em Espanha. Indecisos podem decidir vencedor",
@@ -28,6 +54,19 @@
       "editorial_status": "titulo_normalizado"
     },
     {
+      "id": "dfd11dfdea1a312d7340",
+      "title": "Nato chief vows defence against space threat after Russian nuclear satellite reports",
+      "original_title": "Nato chief vows defence against space threat after Russian nuclear satellite reports",
+      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC News",
+      "category": "Mundo",
+      "published_at": "2026-11-24T02:15:59+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
       "id": "5dfa276e47e7dc583cb3",
       "title": "01h AR já terminou a maratona de votações do Orçamento de Estado, na fase da especialidade",
       "original_title": "01h AR já terminou a maratona de votações do Orçamento de Estado, na fase da especialidade",
@@ -49,19 +88,6 @@
       "category": "Mundo",
       "published_at": "2026-11-24T01:21:41+00:00",
       "article_url": "https://www.bbc.co.uk/news/videos/ckedq2edqegzo?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "9f50426e52dafa8681b0",
-      "title": "Nvidia reinstates CEO Jensen Huang after affair with alleged spy as Trump says 'I made the deal'",
-      "original_title": "Nvidia reinstates CEO Jensen Huang after affair with alleged spy as Trump says 'I made the deal'",
-      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC News",
-      "category": "Mundo",
-      "published_at": "2026-11-24T01:11:54+00:00",
-      "article_url": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
@@ -405,19 +431,6 @@
       "editorial_status": "titulo_normalizado"
     },
     {
-      "id": "19def11b3f3ba6f2daec",
-      "title": "Dois filmes portugueses e uma coprodução luso-espanhola entre elegíveis para os Óscares 2027",
-      "original_title": "Dois filmes portugueses e uma coprodução luso-espanhola entre elegíveis para os Óscares 2027",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Cultura",
-      "published_at": "2026-11-23T21:45:54+00:00",
-      "article_url": "https://www.rtp.pt/noticias/cultura/dois-filmes-portugueses-e-uma-coproducao-luso-espanhola-entre-elegiveis-para-os-oscares-2027_n1781152",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
       "id": "b13a1a85ad1e29e3bf12",
       "title": "Gisèle Pelicot 'humiliated' after nude photos sent to media to promote book",
       "original_title": "Gisèle Pelicot 'humiliated' after nude photos sent to media to promote book",
@@ -569,19 +582,6 @@
       "category": "Economia",
       "published_at": "2026-11-23T16:12:35+00:00",
       "article_url": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "6bfc7b4e064fc08746cb",
-      "title": "The rise and fall and rise again of Jensen Huang",
-      "original_title": "The rise and fall and rise again of Jensen Huang",
-      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC News",
-      "category": "Mundo",
-      "published_at": "2026-11-23T15:49:52+00:00",
-      "article_url": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
