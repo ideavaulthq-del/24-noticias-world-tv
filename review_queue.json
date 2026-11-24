@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-11-24T05:06:41.533400+00:00",
+  "generated_at": "2026-11-24T06:04:17.749647+00:00",
   "articles": [
+    {
+      "id": "2d7382439bb044f844d8",
+      "title": "India's 'cockroach' party leader says he was stopped from flying to UK",
+      "original_title": "India's 'cockroach' party leader says he was stopped from flying to UK",
+      "summary": "Informação divulgada por BBC News. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "BBC News",
+      "category": "Mundo",
+      "published_at": "2026-11-24T05:33:07+00:00",
+      "article_url": "https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo?at_medium=RSS&at_campaign=rss",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
+    {
+      "id": "a7e2f58dacb1b03e8f16",
+      "title": "5h Votação final global do Orçamento do Estado para 2027 logo à tarde no Parlamento",
+      "original_title": "5h Votação final global do Orçamento do Estado para 2027 logo à tarde no Parlamento",
+      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
+      "source": "RTP Notícias",
+      "category": "Portugal",
+      "published_at": "2026-11-24T05:30:02+00:00",
+      "article_url": "https://www.rtp.pt/noticias/noticiario-antena1/5h-votacao-final-global-do-orcamento-do-estado-para-2027-logo-a-tarde-no-parlamento_a1_1781216",
+      "image_url": "",
+      "verification_status": "fonte_unica",
+      "editorial_status": "titulo_normalizado"
+    },
     {
       "id": "171a560eaf9b26313892",
       "title": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
@@ -418,19 +444,6 @@
       "editorial_status": "titulo_normalizado"
     },
     {
-      "id": "ab02da7e4b31c4d33354",
-      "title": "\"A Bola Negra\" conquista prémio de realização no Festival de Cannes",
-      "original_title": "\"A Bola Negra\" conquista prémio de realização no Festival de Cannes",
-      "summary": "Informação divulgada por RTP Notícias. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "RTP Notícias",
-      "category": "Cultura",
-      "published_at": "2026-11-23T21:50:47+00:00",
-      "article_url": "https://www.rtp.pt/noticias/cultura/a-bola-negra-conquista-premio-de-realizacao-no-festival-de-cannes_v1781177",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
       "id": "b13a1a85ad1e29e3bf12",
       "title": "Gisèle Pelicot 'humiliated' after nude photos sent to media to promote book",
       "original_title": "Gisèle Pelicot 'humiliated' after nude photos sent to media to promote book",
@@ -569,19 +582,6 @@
       "category": "Mundo",
       "published_at": "2026-11-23T17:07:25+00:00",
       "article_url": "https://www.bbc.co.uk/news/articles/c8r4gzzxvxl3o?at_medium=RSS&at_campaign=rss",
-      "image_url": "",
-      "verification_status": "fonte_unica",
-      "editorial_status": "titulo_normalizado"
-    },
-    {
-      "id": "dab2cbfc7d345dc3fe8d",
-      "title": "How important are Nvidia and Jensen Huang to the US economy?",
-      "original_title": "How important are Nvidia and Jensen Huang to the US economy?",
-      "summary": "Informação divulgada por BBC Business. Consulte a publicação original para conhecer os detalhes e o contexto.",
-      "source": "BBC Business",
-      "category": "Economia",
-      "published_at": "2026-11-23T16:12:35+00:00",
-      "article_url": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss",
       "image_url": "",
       "verification_status": "fonte_unica",
       "editorial_status": "titulo_normalizado"
